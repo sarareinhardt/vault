@@ -20,20 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "97474df04d720034",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e4286903ed826e00",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +80,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "c45b2b04ef9062b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              }
+            }
+          },
+          {
             "id": "7d5546e37661804c",
             "type": "leaf",
             "state": {
@@ -134,24 +130,23 @@
             }
           },
           {
-            "id": "c45b2b04ef9062b4",
+            "id": "c1f5a5a074c9c973",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              }
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
