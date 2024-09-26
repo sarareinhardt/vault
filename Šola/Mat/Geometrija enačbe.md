@@ -6,11 +6,17 @@
 	   $$b^2 = a^2 + c^2 - 2ac * \cos \beta$$
 	   $$c^2 = a^2 + b^2 - 2ab * \cos \alpha$$
 ###### <font color="#c00000">Ploščine</font>
-$$S\frac {a \times V_a}{2}$$
-$$S\frac {b \times V_b}{2}$$
-$$S\frac {c \times V_c}{2}$$
+$$S=\frac {a \times V_a}{2}$$
+$$S=\frac {b \times V_b}{2}$$
+$$S=\frac {c \times V_c}{2}$$
+---
+$$S = \frac{a \times b \times \sin \gamma}{2}$$
+
+$$S = \frac{b \times c \times \sin \alpha}{2}$$
+$$S = \frac{a \times c \times \sin \beta}{2}$$
 ###### <font color="#c00000">Heronova formula</font>
 $$\sqrt{s \times (s-a)\times (s-b)\times (s-c)}$$
+$$s=\frac {a+b+c}{2}$$
 
 
 
