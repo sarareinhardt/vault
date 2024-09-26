@@ -14,10 +14,13 @@ $$S = \frac{a \times b \times \sin \gamma}{2}$$
 
 $$S = \frac{b \times c \times \sin \alpha}{2}$$
 $$S = \frac{a \times c \times \sin \beta}{2}$$
-###### <font color="#c00000">Heronova formula</font>
+---
+$$S= \frac {a \times b \times c}{4R}$$ $$S = s \times r$$
+
+<font color="#245bdb">Heronova formula</font>
 $$\sqrt{s \times (s-a)\times (s-b)\times (s-c)}$$
 $$s=\frac {a+b+c}{2}$$
 
+##### <font color="#c00000">Paralelogrami:</font>
+$$S = a \times V_a = b \times V_b = c \times V_c$$
 
-
-$$\$$
