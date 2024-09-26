@@ -9,7 +9,8 @@
 $$S\frac {a \times V_a}{2}$$
 $$S\frac {b \times V_b}{2}$$
 $$S\frac {c \times V_c}{2}$$
-
+###### <font color="#c00000">Heronova formula</font>
+$$\sqrt{s \times (s-a)\times (s-b)\times (s-c)}$$
 
 
 
