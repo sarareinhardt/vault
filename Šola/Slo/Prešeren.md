@@ -1,4 +1,6 @@
-##### <font color="#c00000">Sonetje nesreče</font>
+#### <font color="#c00000">Sonetje nesreče</font>
+###### <font color="#c00000">II..</font>
+
 ###### <font color="#c00000">IV.</font>
 - 3:1
 - vdanost v usodo; poraženost in nato se vdaš v usodo $\rightarrow$ vse bolj pesimistično
@@ -56,8 +58,16 @@
 *naprej me sreča gladi, ali tepi,*
 *me tnalo našla boš neobčutljívo.*
 
-###### *<font color="#c00000">Teme Prešernove poezije</font>
+#### *<font color="#c00000">Teme Prešernove poezije</font>
 - bivanjske
 - domovinske
 - poetološke
 - ljubezenske
+
+#### *<font color="#c00000">Sonetni venec</font>
+
+
+2. upa da bo s svojo poezijo zrahljal železna čustva
+3. Najprej govori kako je njegova ljubezen idealna nato spozna da je enostranska
+4. Govori o svoji zaljubljenosti in kako zaradi tega trpi $\rightarrow$ izvemo da je ljubezen žalostna tega ne mora nobenemu pokazati
+5. nesrečna ljubezen, ki jo izraža skozi svojo poezijo, pomanjkanje
