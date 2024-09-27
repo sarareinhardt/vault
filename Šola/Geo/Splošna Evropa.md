@@ -17,3 +17,6 @@
 - regije; teritorialno zaokroženi manjši deli države
 - razvoj regij; bile naj bi dinamične politične in gospod. enote v novi Evropi, boljše poznavanje resničnih problemov prebivalcev regij
 - povezovanje; evroregije, npr. Alpe-Jadran, ustanovljena l.1978; povezuje 17 članic (SLO, Hrvaško, regije iz Avstrije, Italije, Madžarske, Nemčije in Švice (promet, energetika, kmetijstvo, gozdarstvo, turizem, varstvo okolja, kultura…)
+- Nordijske; Islandija, Švedska, Danska, Norveška, Finska; pribaltiške; Litva, Latvija, Estonija; poselitev na J,
+- Nordijske; visoka razvitost, najvišji standard, manjše socialne razlike, pomen zdravstva in ekologije, vstop v EU (razen Norveške in Islandije), prevladuje izvoz
+- Pribaltiške; znotraj SZ gospodarsko najrazvitejše, v okviru S Evrope pa najmanj
