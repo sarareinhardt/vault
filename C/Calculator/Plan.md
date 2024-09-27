@@ -6,3 +6,5 @@
 - izračunaš dejansko stvar
 - outputtas na terminal
 - loopas nazaj na korak 1
+goto
+long jump
