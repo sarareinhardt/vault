@@ -65,7 +65,7 @@
 - ljubezenske
 
 #### *<font color="#c00000">Sonetni venec</font>
-1. 
+1. govori o zgradbi venca in da je namenjen juliji in o slo jeziku
 2. upa da bo s svojo poezijo zrahljal železna srca in pri ljudeh (kranjčanih) povzročil spoznanje in da cenijo iskreno ljubezen in zvestobo
 3. Najprej govori kako je njegova ljubezen idealna nato spozna da je enostranska
 4. Govori o svoji zaljubljenosti in kako zaradi tega trpi $\rightarrow$ izvemo da je ljubezen žalostna tega ne mora nobenemu pokazati
