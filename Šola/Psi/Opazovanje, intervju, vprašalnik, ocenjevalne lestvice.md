@@ -10,4 +10,16 @@
 	- Prednosti: Uporabna za opazovanje na zunaj opaznih značilnosti (drža telesa, mimika...), da jo lahko uporabimo takrat ko si z introspekcijo ne moramo pomagati (npr. pri malih otrocih, množicah, živalih...), je bolj objektivna saj lahko opazuje več ljudi hkrati. In preverljiva (osebo lahko večkrat opazujemo)
 	- Slabosti: za natančne rezultate je potrebna natančna vnaprejšnja priprava (načrt opazovanja, izuriti opazovalce...), opazovanci zaradi prisotnosti opazovalcev velikokrat spremenijo vedenje
 - Opis: 
-	- Ekstraspekcija je proces, pri katerem posameznik usmerja svojo pozornost in zaznavanje navzven, proti zunanjim dražljajem in okolici, namesto na svoje notranje misli ali občutke. Gre za opazovanje in analizo zunanjega sveta ter odzivanje nanj.
+	- V psihologiji je ekstraspekcija postopek opazovanja in raziskovanja zunanjega vedenja ljudi, dogodkov ali okolice. V nasprotju z introspekcijo, kjer se osredotočamo na notranje izkušnje (misli, občutke), ekstraspekcija vključuje objektivno preučevanje vedenja in reakcij, ki jih lahko zunanji opazovalci opazijo. 
+	- 
+######Intervju
+- Namen: diagnostično opazovanje in diagnostični razgovor. To sta načina pridobivanja osebnih oz. težje opaznih osebnih podatkov. Razgovor je sestavni del psihološke terapije. To je reševanje težav spraševalca. Deli se na standardni in nestandardni:
+- Standardni 
+- prednosti: enaka vprašanja, enak vrstni red: predvidljiv, hitrejše pridobivanje informacij in lažja primerjava podatkov
+- Slabosti bolj skopi odgovori
+- Nestandardiziran 
+	- prednosti: prilagojena vprašanja vrstni red ni pomemben, je podoben razgovoru in je sodoben. Primer : intervju za službo
+	- Pomanjkljivosti: presežni odgovori za nadalno analizo
+Vprašalnik
+- Namen: ugotovimo posameznikovo stališče nagnjenje, stališča, prepričanja, interese, poznavanje določenega področja, osebne lastnosti
+- Opis: 3 tipi: Odprti kjer posameznik odgovarja na vprašanja v celih stavkih, zaprti kjer odgovarjamo z da, ne ali možnosti a b c... in kombinirano: ena vprašanja so odprta druga pa izbirni tip.
