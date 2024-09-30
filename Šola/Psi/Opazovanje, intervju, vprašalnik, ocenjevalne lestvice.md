@@ -23,3 +23,9 @@
 Vprašalnik
 - Namen: ugotovimo posameznikovo stališče nagnjenje, stališča, prepričanja, interese, poznavanje določenega področja, osebne lastnosti
 - Opis: 3 tipi: Odprti kjer posameznik odgovarja na vprašanja v celih stavkih, zaprti kjer odgovarjamo z da, ne ali možnosti a b c... in kombinirano: ena vprašanja so odprta druga pa izbirni tip.
+- Zaprti tip:
+	- Prednosti: hitreje za analizirati in lažje primerjamo podatke.
+	- Slabosti: manj poglobljeni podatki, posameznik se lahko mad možnostmi ne najde.
+- Odprti tip:
+	- Prednosti: Ne omejujemo anketirancev, dajemo možnost za bolj poglobljene odgovore.
+	- Slabosti: Preveč subjektiven.
