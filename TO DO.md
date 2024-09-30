@@ -8,3 +8,4 @@
 - [ ] tamara klici pramene
 - [ ] charge slusalke, comp
 - [ ] katarina fotke
+- [ ] PSI zapiski
