@@ -14,3 +14,4 @@
 - Kmetje so tvorili <font color="#c00000">črno</font> vojsko, ki je bila zelo slabo oborožena, da se nebi kmetje z orožjem obrnili proti oblasti
 	- kmetje so okoli cerkve sezidali obzidje, včasih tudi obrambne stolpe kar je tvorilo proti turške tabore (zgradili so jih 350)
 	-  signalizazija napadov: turški zvonovi, kresovi. V Bosni so organizirali vohunsko mrežo
+- Vojna krajina- pas ozemlja, kjer so 92 gradov spremenili v utrdbe kamor so postavili vojsko, zemljo pa podelili ljudem, ki so iz balkana od turkov peljali proti severu v zameno, da so jih branili. Branili so jih dobro, saj se je šlo za njihovo zemljo.
