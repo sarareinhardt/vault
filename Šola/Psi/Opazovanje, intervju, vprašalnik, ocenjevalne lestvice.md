@@ -39,3 +39,5 @@ Ocenjevalne lestvice
 Anketa
 - Uporaba: zbiranje podatkov mnenja večjega števila ljudi (tržne analize, javno mnenje o politiki...)
 - Opis: Ustno ali pisno, vsebuje veliko količino anketirancev, ker rabi biti reprezentativen vzorec, mora biti anonimna. Pove javno mnenje, ne pa posameznikovo.
+- Presnosti: zajame velik vzorec ljudi, lahka in nizkocenovna izvedba, iz nje izvemo javno mnenje
+- Pomanjkljivosti: lahko ne razumeš vprašanja, lahko imaš slab vzorec ljudi, vpliv izdelovalca anket (vprašanje nakazuje na nek odgovor), prenasičenost ljudi z anketami, neiskreni odgovori.
