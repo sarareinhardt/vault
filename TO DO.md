@@ -7,3 +7,4 @@
 - [ ] klici tajnistvo
 - [ ] tamara klici pramene
 - [ ] charge slusalke, comp
+- [ ] katarina fotke
