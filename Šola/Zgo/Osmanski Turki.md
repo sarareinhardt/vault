@@ -9,7 +9,7 @@
 - Upadali so na hitro in se hitro umaknili - Taktika izčrpavanja & demoralizacije 
 	- nasprotnika so najprej onemogočili & jih nato zavzeli
 	- najbolj so nastradali kmetje $\rightarrow$ posledica so največji kmečki upori pri nas
-- 1463 - Turki osvojijo Bosno, kar je pomenilo, da so tam postavili mejo & se tam ustalili $\rightarrow$ širitev muslimanske vere, ker, če so bili muslimani niso rabili plačevati <font color="#c00000">harač</font>; davek na muslimansko glavo.
+- 1463 - Turki osvojijo Bosno, kar je pomenilo, da so tam postavili mejo & se tam ustalili $\rightarrow$ širitev muslimanske vere, ker, če so bili muslimani niso rabili plačevati <font color="#c00000">harač</font>; davek na krščansko glavo.
 	- Ker so se ustalili v bosni so lahko dlje časa napadali v okolici.
 - Kmetje so tvorili <font color="#c00000">črno vojsko</font>, ki je bila zelo slabo oborožena, da se nebi kmetje z orožjem obrnili proti oblasti
 	- kmetje so okoli cerkve sezidali obzidje, včasih tudi obrambne stolpe kar je tvorilo proti turške tabore (takih so zgradili 350)
