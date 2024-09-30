@@ -6,3 +6,8 @@
 	- 1389 bitka na Kosovem polju združili so se balkanski veliki fevdalci, Turki so imeli (uspešno) taktiko da so fevdalce različnih balkanskih držav sprli med sabo. Matija Kurvin na vojsko zamudi in zato zgubijo vojsko, vendar so uspeli ubiti turškega sultana Murata. To je zato kljub izgubi (ker se je sultanov sin še naprej boril) srbski nacionalni praznik.
 	- 1402 pride do bitke med turki in 3. novo silo, ki so bili mongoli. Ulovili so novega turškega sultana in ga ujeli v kletko in raskazovali po celi Aziji kot poraženca
 	- 1408 - turki prvič vpadejo v naš (slo) prostor
+- Upadali so na hitro in se hitro umaknili - Taktika izčrpavanja & demoralizacije 
+	- nasprotnika so najprej onemogočili & jih nato zavzeli
+	- najbolj so nastradali kmetje $\rightarrow$ posledica so največji kmečki upori pri nas
+- 1463 - Turki osvojijo bosno, kar je pomenilo, da so tam postavili mejo & se tam ustalili $\rightarrow$širitev muslimanske vere, ker, če so bili muslimani niso rabili plačevati <font color="#c00000">harač</font>; davek na muslimansko glavo.
+	- Ker so se ustalili v bosni so lahko dlje časa napadali v okolici.
