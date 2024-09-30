@@ -1,0 +1,8 @@
+- pasjeglavci, stekli psi, krvoločneži $\rightarrow$ izrazi, ki so se jih prijeli zaradi njihovih dejanj
+- **<font color="#c00000">Devširma</font>** $\rightarrow$ krvni davek $\rightarrow$ sistematično zbiranje nemuslimanskih otrok v Osmanskem cesarstvu in njihovo prisilno spreobračanje v islam  $\rightarrow$ končni cilj pridobivanje vojske suženjskih vojakov – janičarjev in razred sultanu zvestih državnih uradnikov.
+- turško cesarstvo v letih 1300 - 1571: Seldžuki - turki iz Azije tisti ki so prvi prišli in začeli zavzematu ozemlje
+	- Osman v 14. stol počasi priključuje iz Jeruzalema maloazijske Turke.
+	- 1453 jim uspe osvojiti še bizanc (tako pozno zaradi trojnega obzidja, grški ogenj...)- propar bizantinskega cezarstva in s tem propad original Rimljanov.
+	- 1389 bitka na Kosovem polju združili so se balkanski veliki fevdalci, Turki so imeli (uspešno) taktiko da so fevdalce različnih balkanskih držav sprli med sabo. Matija Kurvin na vojsko zamudi in zato zgubijo vojsko, vendar so uspeli ubiti turškega sultana Murata. To je zato kljub izgubi (ker se je sultanov sin še naprej boril) srbski nacionalni praznik.
+	- 1402 pride do bitke med turki in 3. novo silo, ki so bili mongoli. Ulovili so novega turškega sultana in ga ujeli v kletko in raskazovali po celi Aziji kot poraženca
+	- 1408 - turki prvič vpadejo v naš (slo) prostor
