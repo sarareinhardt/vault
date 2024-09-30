@@ -12,7 +12,7 @@
 - Opis: 
 	- V psihologiji je ekstraspekcija postopek opazovanja in raziskovanja zunanjega vedenja ljudi, dogodkov ali okolice. V nasprotju z introspekcijo, kjer se osredotočamo na notranje izkušnje (misli, občutke), ekstraspekcija vključuje objektivno preučevanje vedenja in reakcij, ki jih lahko zunanji opazovalci opazijo. 
 	- 
-######Intervju
+###### Intervju
 - Namen: diagnostično opazovanje in diagnostični razgovor. To sta načina pridobivanja osebnih oz. težje opaznih osebnih podatkov. Razgovor je sestavni del psihološke terapije. To je reševanje težav spraševalca. Deli se na standardni in nestandardni:
 - Standardni 
 - prednosti: enaka vprašanja, enak vrstni red: predvidljiv, hitrejše pridobivanje informacij in lažja primerjava podatkov
@@ -29,3 +29,13 @@ Vprašalnik
 - Odprti tip:
 	- Prednosti: Ne omejujemo anketirancev, dajemo možnost za bolj poglobljene odgovore.
 	- Slabosti: Preveč subjektiven.
+Ocenjevalne lestvice
+- Uporaba: za ugotavljanje stopnje izraženosti proučevanih podatkov (v šoli ocene od 1 do 5)
+- Opis: z njimi razporejamo proučevane pojave v kategorije ali pa jih razvrščamo po stopnjah.
+- 3 vrste: Številčne ali numerične, grafične (črta, ki ponazarja vse spremenljivke), opisne (se strinjam se zelo strinjam se delno strinjam...)
+- Prednosti: vse so zelo časovno ekonomične, lahka statistična obdelava, razumljivost (nimaš odgovora, ki bi ga lahko prav ali naribe interpretiral)
+- Človeška subjektivnost rezultate lahko tisti, ki je bil opazovanec pri raziskavi narobe interpretira
+
+Anketa
+- Uporaba: zbiranje podatkov mnenja večjega števila ljudi (tržne analize, javno mnenje o politiki...)
+- Opis: Ustno ali pisno, vsebuje veliko količino anketirancev, ker rabi biti reprezentativen vzorec, mora biti anonimna. Pove javno mnenje, ne pa posameznikovo.
