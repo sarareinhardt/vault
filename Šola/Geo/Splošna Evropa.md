@@ -20,3 +20,7 @@
 - Nordijske; Islandija, Švedska, Danska, Norveška, Finska; pribaltiške; Litva, Latvija, Estonija; poselitev na J,
 - Nordijske; visoka razvitost, najvišji standard, manjše socialne razlike, pomen zdravstva in ekologije, vstop v EU (razen Norveške in Islandije), prevladuje izvoz
 - Pribaltiške; znotraj SZ gospodarsko najrazvitejše, v okviru S Evrope pa najmanj
+#### <font color="#c00000">Severna Evropa</font>
+- Nordijske; Islandija, Švedska, Danska, Norveška, Finska; pribaltiške; Litva, Latvija, Estonija; poselitev na J,
+- Nordijske; visoka razvitost, najvišji standard, manjše socialne razlike, pomen zdravstva in ekologije, vstop v EU (razen Norveške in Islandije), prevladuje izvoz
+- Pribaltiške; znotraj SZ gospodarsko najrazvitejše, v okviru S Evrope pa najmanj
