@@ -1,6 +1,11 @@
-- [ ] klici petro/ ravnatelco
+
 - [ ] mat
 - [ ] mat+
 - [ ] mat+ predstavitev
 - [ ] inf predstavitev (c memory model/memory in general?)
-- [ ] 404 predstavitev (DO PETKA)
+- [x] 404 predstavitev (DO PETKA)
+- [ ] klici tajnistvo
+- [ ] tamara klici pramene
+- [ ] charge slusalke, comp
+- [ ] katarina fotke
+- [ ] PSI zapiski

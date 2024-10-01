@@ -3,15 +3,15 @@
 - turško cesarstvo v letih 1300 - 1571: <font color="#c00000">Seldžuki</font> - turki iz Azije tisti ki so prvi prišli in začeli zavzematu ozemlje
 	- Osman v 14. stol počasi priključuje iz Jeruzalema maloazijske Turke.
 	- 1453 jim uspe osvojiti še Bizanc (tako pozno zaradi trojnega obzidja, grški ogenj...)- propar bizantinskega cesarstva in s tem propad original Rimljanov.
-	- 1389 bitka na Kosovem polju združili so se balkanski veliki fevdalci, Turki so imeli (uspešno) taktiko da so fevdalce različnih balkanskih držav sprli med sabo. Matija Kurvin na vojsko zamudi in zato zgubijo vojsko, vendar so uspeli ubiti turškega sultana Murata. To je zato kljub izgubi (ker se je sultanov sin še naprej boril) srbski nacionalni praznik.
+	- 1389 bitka na Kosovem polju združili so se balkanski veliki fevdalci, Turki so imeli (uspešno) taktiko da so fevdalce različnih balkanskih držav sprli med sabo. Matija Kurvin na vojsko zamudi in zato zgubijo vojno, vendar so uspeli ubiti turškega sultana Murata. To je zato kljub izgubi (ker se je sultanov sin še naprej boril) srbski nacionalni praznik (a win is a win).
 	- 1402 pride do bitke med Turki in 3. novo silo, ki so bili Mongoli. Ulovili so novega turškega sultana in ga ujeli v kletko in razkazovali po celi Aziji kot poraženca
 	- 1408 - Turki prvič vpadejo v naš (slo) prostor
 - Upadali so na hitro in se hitro umaknili - Taktika izčrpavanja & demoralizacije 
 	- nasprotnika so najprej onemogočili & jih nato zavzeli
 	- najbolj so nastradali kmetje $\rightarrow$ posledica so največji kmečki upori pri nas
-- 1463 - Turki osvojijo Bosno, kar je pomenilo, da so tam postavili mejo & se tam ustalili $\rightarrow$širitev muslimanske vere, ker, če so bili muslimani niso rabili plačevati <font color="#c00000">harač</font>; davek na muslimansko glavo.
+- 1463 - Turki osvojijo Bosno, kar je pomenilo, da so tam postavili mejo & se tam ustalili $\rightarrow$ širitev muslimanske vere, ker, če so bili muslimani niso rabili plačevati <font color="#c00000">harač</font>; davek na krščansko glavo.
 	- Ker so se ustalili v bosni so lahko dlje časa napadali v okolici.
-- Kmetje so tvorili <font color="#c00000">črno</font> vojsko, ki je bila zelo slabo oborožena, da se nebi kmetje z orožjem obrnili proti oblasti
-	- kmetje so okoli cerkve sezidali obzidje, včasih tudi obrambne stolpe kar je tvorilo proti turške tabore (zgradili so jih 350)
+- Kmetje so tvorili <font color="#c00000">črno vojsko</font>, ki je bila zelo slabo oborožena, da se nebi kmetje z orožjem obrnili proti oblasti
+	- kmetje so okoli cerkve sezidali obzidje, včasih tudi obrambne stolpe kar je tvorilo proti turške tabore (takih so zgradili 350)
 	-  signalizazija napadov: turški zvonovi, kresovi. V Bosni so organizirali vohunsko mrežo
-- Vojna krajina- pas ozemlja, kjer so 92 gradov spremenili v utrdbe kamor so postavili vojsko, zemljo pa podelili ljudem, ki so iz balkana od turkov peljali proti severu v zameno, da so jih branili. Branili so jih dobro, saj se je šlo za njihovo zemljo.
+- <font color="#c00000">Vojna krajina</font> - pas ozemlja, kjer so 92 gradov spremenili v utrdbe kamor so postavili vojsko, zemljo pa podelili ljudem, ki so iz balkana od turkov bežali proti severu v zameno, da so branili tiste avstrijce, ki so jim dali zemljo. Branili so jih dobro, saj se je šlo za njihovo zemljo.
