@@ -24,3 +24,11 @@
 - Nordijske; Islandija, Švedska, Danska, Norveška, Finska; pribaltiške; Litva, Latvija, Estonija; poselitev na J,
 - Nordijske; visoka razvitost, najvišji standard, manjše socialne razlike, pomen zdravstva in ekologije, vstop v EU (razen Norveške in Islandije), prevladuje izvoz
 - Pribaltiške; znotraj SZ gospodarsko najrazvitejše, v okviru S Evrope pa najmanj
+#### <font color="#c00000">Relief</font>
+- površje; stare kamnine, tektonsko in ledeniško delovanje
+- Skandinavski polotok; Z del; Skandinavsko gorstvo, težko prehodno, le nad 2000m; proti V se zniža v predkambrijski Baltski ščit, ki se nadaljuje pod Botnijskim zalivom na Finskem
+- pleistocen; celinska poledenitev, do 3000m debel led obrusi površje, grbinaste oblike (otočki, 150.000 ob Norveški obali)
+-  umiku ledu; osrednji del Skandinavije se dvigne (v 100 letih za 100cm), fjordi (z morjem zalite ledeniške doline), fjelli (planota nad fjordi)
+- platojski ledeniki; na višjih uravnavah, izpod njih vodnati potoki (za HE)
+- ledeniška jezera; za morenskimi nasipi (Finska, J Švedske)
+- morski in rečni nanosi; Danska, rodovitna prst
