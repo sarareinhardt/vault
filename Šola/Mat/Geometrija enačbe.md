@@ -56,6 +56,12 @@ $$S = \frac{e \times f}{2}$$
 $$S = \frac{e \times f \times \sin \varphi}{2}$$
 ---
 #### <font color="#c00000">Krog:</font>
+$$S = \pi \times r^2$$$$o = 2\times\pi \times r $$
+$$\underbrace{l = \frac{\pi \times r \times\alpha}{360\degree}}_\text{lok}$$
+###### <font color="#c00000">Krožni izsek:</font>
+$$S = \frac{\pi \times r^2 \times\alpha}{360\degree}$$
+$$o = 2 \times r + l $$
+###### <font color="#c00000">Krožni odsek:</font>
 
 
 
