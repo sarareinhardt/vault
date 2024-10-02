@@ -75,7 +75,7 @@ ___
 #### <font color="#c00000">Piramida:</font>
 $$P = S_0 + pl$$
 $$V = \frac{S_0 \times v}{3}$$
-___
+
 ###### <font color="#c00000">Tetraeder:</font>
 $$P = a^2\sqrt{3}$$
 $$V = \frac{a^3\times\sqrt {2}}{12}$$
