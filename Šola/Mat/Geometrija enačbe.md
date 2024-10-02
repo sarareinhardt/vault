@@ -71,6 +71,12 @@ ___
 #### <font color="#c00000">Valj:</font>
 $$V = \pi \times r^2 \times v$$
 $$P = 2\times\pi\times r^2 + \underbrace{2\times\pi\times r \times v }_\text{pl} $$
+___
+#### <font color="#c00000">Piramida:</font>
+$$P = a^2\sqrt{3}$$
+$$V = \frac{a^3\times\sqrt {2}}{12}$$
+$$v = \frac{a \times \sqrt{6}}{3}$$
+
 
 
 
