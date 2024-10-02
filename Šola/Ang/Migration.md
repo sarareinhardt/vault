@@ -1,0 +1,9 @@
+- Immigration $\rightarrow$ the process of coming to permanently live in a foreign country
+	- immigrants
+- Emigration $\rightarrow$ the process of leaving your own country to settle somewhere else
+	- emigrants
+- Why do people go to live abroad?
+	- economical financial
+	- political
+	- personal
+	- professional reasons
