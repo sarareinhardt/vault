@@ -62,10 +62,15 @@ $$\underbrace{l = \frac{\pi \times r \times\alpha}{360\degree}}_\text{lok}$$
 $$S = \frac{\pi \times r^2 \times\alpha}{360\degree}$$
 $$o = 2 \times r + l $$
 ###### <font color="#c00000">Krožni odsek:</font>
-
-
-
-
+$$S = \frac{\pi \times r^2 \times\alpha}{360\degree} - \frac{r^2 \times \sin \alpha}{2}$$
+___
+#### <font color="#c00000">Prizma:</font>
+$$P = 2 \times S_0 + pl$$
+$$V = S_0 \times v$$
+___
+#### <font color="#c00000">Valj:</font>
+$$V = \pi \times r^2 \times v$$
+$$P = 2\times\pi\times r^2 + \underbrace{2\times\pi\times r \times v }_\text{pl} $$
 
 
 
