@@ -9,12 +9,14 @@
 $$S=\frac {a \times V_a}{2}$$
 $$S=\frac {b \times V_b}{2}$$
 $$S=\frac {c \times V_c}{2}$$
----
+
+
 $$S = \frac{a \times b \times \sin \gamma}{2}$$
 
 $$S = \frac{b \times c \times \sin \alpha}{2}$$
 $$S = \frac{a \times c \times \sin \beta}{2}$$
----
+
+
 $$S= \frac {a \times b \times c}{4R}$$ $$S = s \times r$$
 ###### <font color="#c00000">Enakostranični trikotniki:</font>
 $$S = \frac {a^2 \times \sqrt{3}}{4}$$
@@ -28,16 +30,38 @@ $$\sqrt{s \times (s-a)\times (s-b)\times (s-c)}$$
 $$s=\frac {a+b+c}{2}$$
 
 
+---
 ##### <font color="#c00000">Paralelogrami:</font>
+
 $$S = a \times V_a = b \times V_b = c \times V_c$$
 $$S = a \times b  \times \sin\alpha$$
 $$S = a \times b  \times \sin\beta$$
+---
 ##### <font color="#c00000">Trapezi:</font>
+
 $$S = \frac{a + c}{2} \times v$$
+---
 ##### <font color="#c00000">Rombi:</font>
+
 $$S = \frac{e \times f}{2}$$
 $$S = a \times v_a$$
 $$S = a^2 \times \sin\alpha$$
+---
+##### <font color="#c00000">Deltoidi:</font>
+
+$$S = \frac{e \times f}{2}$$
+---
+##### <font color="#c00000">Štirikotniki:</font>
+
+$$S = \frac{e \times f \times \sin \varphi}{2}$$
+---
+#### <font color="#c00000">Krog:</font>
+
+
+
+
+
+
 
 
 
