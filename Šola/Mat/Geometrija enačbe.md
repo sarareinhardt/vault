@@ -73,9 +73,17 @@ $$V = \pi \times r^2 \times v$$
 $$P = 2\times\pi\times r^2 + \underbrace{2\times\pi\times r \times v }_\text{pl} $$
 ___
 #### <font color="#c00000">Piramida:</font>
+$$P = S_0 + pl$$
+$$V = \frac{S_0 \times v}{3}$$
+___
+###### <font color="#c00000">Tetraeder:</font>
 $$P = a^2\sqrt{3}$$
 $$V = \frac{a^3\times\sqrt {2}}{12}$$
 $$v = \frac{a \times \sqrt{6}}{3}$$
+###### <font color="#c00000">Oktaeder:</font>
+$$P = 2\times a^2 \times \sqrt{3}$$
+$$v = \frac{a \times \sqrt{2}}{2}$$
+$$V = \frac{a^3\times\sqrt{2}}{3}$$
 
 
 
