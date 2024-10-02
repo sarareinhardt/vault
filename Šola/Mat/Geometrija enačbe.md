@@ -18,6 +18,10 @@ $$S = \frac{a \times c \times \sin \beta}{2}$$
 $$S= \frac {a \times b \times c}{4R}$$ $$S = s \times r$$
 ###### <font color="#c00000">Enakostranični trikotniki:</font>
 $$S = \frac {a^2 \times \sqrt{3}}{4}$$
+$$v_a = \frac {a \times \sqrt{3}}{2}$$
+$$R = \frac {a \times \sqrt{3}}{3}$$
+$$r = \frac {a \times \sqrt{3}}{6}$$
+
 
 <font color="#245bdb">Heronova formula</font>
 $$\sqrt{s \times (s-a)\times (s-b)\times (s-c)}$$
