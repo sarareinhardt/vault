@@ -1,6 +1,6 @@
-- Immigration $\rightarrow$ the process of coming to permanently live in a foreign country
+- <font color="#c00000">Immigration</font> $\rightarrow$ the process of coming to permanently live in a foreign country
 	- immigrants
-- Emigration $\rightarrow$ the process of leaving your own country to settle somewhere else
+- <font color="#c00000">Emigration</font> $\rightarrow$ the process of leaving your own country to settle somewhere else
 	- emigrants
 - Why do people go to live abroad?
 	- economical financial
