@@ -16,7 +16,7 @@
 	-  signalizazija napadov: turški zvonovi, kresovi. V Bosni so organizirali vohunsko mrežo
 - <font color="#c00000">Vojna krajina</font> - pas ozemlja, kjer so 92 gradov spremenili v utrdbe kamor so postavili vojsko, zemljo pa podelili ljudem, ki so iz balkana od turkov bežali proti severu v zameno, da so branili tiste Avstrijce, ki so jim dali zemljo. Branili so jih dobro, saj se je šlo za njihovo zemljo.
 **<font color="#c00000">Vzroki za uspešnost osvajanj</font>**
-- Strogi centralizem - sultan
+- Strogi centralizem - sultan $\rightarrow$ osvajanje uspešno, hitro
 - Janičarska vojska
 - Priložnostna vojska - akindžije
 - Dobra taktika - hitri roparski vpadi (izčrpavanje)
@@ -27,3 +27,5 @@
 	- RAJA (navadni kmetje)
 		- ČIFTČIJA (muslimani)
 		- BAŠTINAR (kristjani da nebi plačevali harača so šli v <font color="#c00000">čiftčijo</font>)
+- <font color="#c00000">Fana</font> turška sablja (prožna ostra ukrivljena)
+- Otroci prvih 4 žena pridejo v poštev kot sultanovi naslednjiki
