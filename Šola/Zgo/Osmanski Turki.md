@@ -14,4 +14,24 @@
 - Kmetje so tvorili <font color="#c00000">črno vojsko</font>, ki je bila zelo slabo oborožena, da se nebi kmetje z orožjem obrnili proti oblasti
 	- kmetje so okoli cerkve sezidali obzidje, včasih tudi obrambne stolpe kar je tvorilo proti turške tabore (takih so zgradili 350)
 	-  signalizazija napadov: turški zvonovi, kresovi. V Bosni so organizirali vohunsko mrežo
-- <font color="#c00000">Vojna krajina</font> - pas ozemlja, kjer so 92 gradov spremenili v utrdbe kamor so postavili vojsko, zemljo pa podelili ljudem, ki so iz balkana od turkov bežali proti severu v zameno, da so branili tiste avstrijce, ki so jim dali zemljo. Branili so jih dobro, saj se je šlo za njihovo zemljo.
+- <font color="#c00000">Vojna krajina</font> - pas ozemlja, kjer so 92 gradov spremenili v utrdbe kamor so postavili vojsko, zemljo pa podelili ljudem, ki so iz Balkana od Turkov bežali proti severu v zameno, da so branili tiste Avstrijce, ki so jim dali zemljo. Branili so jih dobro, saj se je šlo za njihovo zemljo.
+**<font color="#c00000">Vzroki za uspešnost osvajanj</font>**
+- Strogi centralizem - sultan $\rightarrow$ osvajanje uspešno, hitro
+- Janičarska vojska
+- Priložnostna vojska - <font color="#c00000">akindžije</font>
+- Dobra taktika - hitri roparski vpadi (izčrpavanje)
+- Dobra oborožitev - topovi, konjenica, <font color="#c00000">fana</font>
+- Izkoriščajo spore med nasprotniki
+- Sveta vojna
+- ASKERI $\rightarrow$ SPAHIJA
+	- RAJA (navadni kmetje)
+		- ČIFTČIJA (muslimani)
+		- BAŠTINAR (kristjani da nebi plačevali harača so šli v <font color="#c00000">čiftčijo</font>)
+- <font color="#c00000">Fana</font> turška sablja (prožna ostra ukrivljena)
+- Otroci prvih 4 žena pridejo v poštev kot sultanovi nasledniki
+- <font color="#c00000">Čilim</font><font color="#c00000">: </font>
+- <font color="#c00000">Ćuprija</font><font color="#c00000">:</font> most
+- <font color="#c00000">Čaršija</font><font color="#c00000">:</font> glavna trgovska ulica
+- <font color="#c00000">Mahale:</font> stanovanjske soseske in četrti
+- <font color="#c00000">Čaršija:</font>
+- <font color="#c00000">Vakuf:</font> pravilo, da lahko ko umreš svoje premoženje podariš skupnosti. Iz tega denarja so gradili sirotišnice, bolnišnice...
