@@ -39,3 +39,21 @@
 - Having the consent of EU institutions
 - Having the consent of the other members (no vetos)
 - Having the consent of your own people
+The Copenhagen criteria
+- The terms and conditions for the countries wishing to join the EU
+	- Democratic government
+	- Rule of the law
+	- Functioning market economy
+	- Respect and protection of minorities
+	- Agree to the aims of EU
+3 stages of application
+- Potential candidate
+- Candidate
+- Acceding candidate (you have agreed everything)
+	- Acceding countries ATM
+		- none
+	- Candidate:
+		- Turkey, Ukraine, Monte Negro, Albania, Serbia, Bosnia & Herzegovina, Georgia, Montenegro, Moldova, North Macedonia
+	- Potential candidate:
+		- Kosovo
+
