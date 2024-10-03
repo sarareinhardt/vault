@@ -14,4 +14,16 @@
 - Kmetje so tvorili <font color="#c00000">črno vojsko</font>, ki je bila zelo slabo oborožena, da se nebi kmetje z orožjem obrnili proti oblasti
 	- kmetje so okoli cerkve sezidali obzidje, včasih tudi obrambne stolpe kar je tvorilo proti turške tabore (takih so zgradili 350)
 	-  signalizazija napadov: turški zvonovi, kresovi. V Bosni so organizirali vohunsko mrežo
-- <font color="#c00000">Vojna krajina</font> - pas ozemlja, kjer so 92 gradov spremenili v utrdbe kamor so postavili vojsko, zemljo pa podelili ljudem, ki so iz balkana od turkov bežali proti severu v zameno, da so branili tiste avstrijce, ki so jim dali zemljo. Branili so jih dobro, saj se je šlo za njihovo zemljo.
+- <font color="#c00000">Vojna krajina</font> - pas ozemlja, kjer so 92 gradov spremenili v utrdbe kamor so postavili vojsko, zemljo pa podelili ljudem, ki so iz balkana od turkov bežali proti severu v zameno, da so branili tiste Avstrijce, ki so jim dali zemljo. Branili so jih dobro, saj se je šlo za njihovo zemljo.
+**<font color="#c00000">Vzroki za uspešnost osvajanj</font>**
+- Strogi centralizem - sultan
+- Janičarska vojska
+- Priložnostna vojska - akindžije
+- Dobra taktika - hitri roparski vpadi (izčrpavanje)
+- Dobra oborožitev - topovi, konjenica, <font color="#c00000">fana</font>
+- Izkoriščajo spore med nasprotniki
+- Sveta vojna
+- ASKERI $\rightarrow$ SPAHIJA
+	- RAJA (navadni kmetje)
+		- ČIFTČIJA (muslimani)
+		- BAŠTINAR (kristjani da nebi plačevali harača so šli v <font color="#c00000">čiftčijo</font>)
