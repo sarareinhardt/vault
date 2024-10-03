@@ -56,4 +56,10 @@ The Copenhagen criteria
 		- Turkey, Ukraine, Monte Negro, Albania, Serbia, Bosnia & Herzegovina, Georgia, Montenegro, Moldova, North Macedonia
 	- Potential candidate:
 		- Kosovo
+- There is no legal limit to the number of nations allowed in the EU
+- However practical limits must be taken into consideration (e.g. Representation in the European Parlament)
+- Consider:
+	- Switzerland (they have no interest in being a member as they are rich)
+	- Norway (their people voted no)
+	- Scotland
 
