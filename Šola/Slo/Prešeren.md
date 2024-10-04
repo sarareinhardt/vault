@@ -68,6 +68,10 @@
 1. govori o zgradbi venca in da je namenjen juliji in o slo jeziku
 Poet tvoj nov Slovencam venec vije,  <br>'z petnájst sonetov ti takó ga spleta,  <br>de "magistrale", pesem trikrat péta,  <br>vseh drugih skupej veže harmonije.<br><br>Iz njega 'zvira, vanjga se spet zlije  <br>po vrsti pesem vsacega soneta;  <br>prihodnja v prednje koncu je začeta;  <br>enak je pevec vencu poezije:<br><br>vse misli 'zvirajo 'z ljubezni ene,  <br>in kjer ponoči v spanji so zastale,  <br>zbudé se, ko spet zarja noč prežene.<br><br>Ti si življenja moj'ga magistrale,  <br>glasil se 'z njega, ko ne bo več mene,  <br>ran mojih bo spomin in tvoje hvale.
 
+Teme:
+- poezije
+- ljubezen
+
 3. upa da bo s svojo poezijo zrahljal železna srca in pri ljudeh (Kranjčanih) povzročil spoznanje in da cenijo iskreno ljubezen in zvestobo
 4. Najprej govori kako je njegova ljubezen idealna nato spozna da je enostranska
 5. Govori o svoji zaljubljenosti in kako zaradi tega trpi $\rightarrow$ izvemo da je ljubezen žalostna tega ne mora nobenemu pokazati
