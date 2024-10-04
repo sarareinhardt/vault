@@ -105,4 +105,10 @@ Teme:
 - up $\rightarrow$ strah
 
 4. Govori o svoji zaljubljenosti in kako zaradi tega trpi $\rightarrow$ izvemo da je ljubezen žalostna tega ne mora nobenemu pokazati
+   
+Mokrócvetéče rožce poezije  <br>očitajo tó, kar se v prsih skriva.  <br>Srce mi je postalo vrt in njiva,  <br>kjer seje zdéj ljubezen elegije.<br><br>Njih sonce tí si. V oknu domačije,  <br>ne da te najti, luč ti ljubezniva!  <br>v gledišu, na sprehodih sreča kriva,  <br>ne v krajih, kjer plesavk vrsta se vije.<br><br>Kolikokratov me po mesti žene  <br>zagledat tebe želja; ne odkrije  <br>se men' obraz lepote zaželene.<br><br>V samoti iz oči mi solza lije,  <br>zatorej pesmi tebi v čast zložene  <br>iz krajov niso, ki v njih sonce sije.
+
 5. nesrečna ljubezen, ki jo izraža skozi svojo poezijo, pomanjkanje
+6. 
+
+||Cel čas so blagih sapic pogrešvále,  <br>od tebe, drage deklice prevzetne,  <br>prinesle niso božicam prijetne,  <br>ki bi bila jih oživela, hvale.<br><br>Bile so v strahu, de boš tí, de zale  <br>Slovenke nemško govorít' umetne,  <br>jih bote, ker s Parnasa so očetne  <br>dežele, morebiti zaničvále.<br><br>Kaméne naše zapušene božce,  <br>samice so pozabljene žalvále,  <br>le tujke so častile Kranjcov množce.<br><br>Cvetlice naše poezije stale  <br>do zdéj so vrh snežnikov redke rožce,  <br>obdajale so utrjene jih skale.|
