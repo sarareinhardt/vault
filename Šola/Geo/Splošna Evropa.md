@@ -40,5 +40,12 @@
 - <font color="#c00000">zmerno hladno;</font> V od Skandinavskega gorstva, večina Švedske in Finske; celinsko, dolge, mrzle zime
 - <font color="#c00000">tundrsko; </font>skrajni S
 - <font color="#c00000">kontinent. vlažno;</font> J Švedska, Finska, Pribaltske
-
+![[d0050b189815b537ed19c62e02f9276f.jpeg|350]] 
+severni jeleni:))
 #### <font color="#c00000">Rastlinstvo</font>
+- tundra; S in gore; Laponci, črede sev. jelenov
+- iglasti ali borealni gozd; večina Finske in Švedske; smreke, bori, macesni (največ gozda)
+- mešan gozd; izkrčen; J Švedske in Finske
+- listnat gozd; J Švedske in Danske, Pribaltiške države (izkrčen, zdaj njive – ječmen, oves, krompir, na J sadno drevje)
+- gozdna meja; J (nekaj 100m n.v.), S (ob morju)
+#### <font color="#c00000">Eergetski viri</font>
