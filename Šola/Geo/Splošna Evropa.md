@@ -28,7 +28,15 @@
 - površje; stare kamnine, tektonsko in ledeniško delovanje
 - Skandinavski polotok; Z del; Skandinavsko gorstvo, težko prehodno, le nad 2000m; proti V se zniža v predkambrijski Baltski ščit, ki se nadaljuje pod Botnijskim zalivom na Finskem
 - pleistocen; celinska poledenitev, do 3000m debel led obrusi površje, grbinaste oblike (otočki, 150.000 ob Norveški obali)
--  umiku ledu; osrednji del Skandinavije se dvigne (v 100 letih za 100cm), fjordi (z morjem zalite ledeniške doline), fjelli (planota nad fjordi)
+-  po umiku ledu; osrednji del Skandinavije se dvigne (v 100 letih za 100cm), fjordi (z morjem zalite ledeniške doline), fjelli (planota nad fjordi)
 - platojski ledeniki; na višjih uravnavah, izpod njih vodnati potoki (za HE)
 - ledeniška jezera; za morenskimi nasipi (Finska, J Švedske)
 - morski in rečni nanosi; Danska, rodovitna prst
+
+#### <font color="#c00000">Podnebje</font>
+- vpliv S-atlantskega toka; T se hitreje znižujejo od Z-V kot od J-S, obliva Z obalo Norveške
+- oceansko; Danska, obalni del Norveške (poselitev do Nordkappa, ker ne zamrzne)
+- gorsko; Skand. gorstvo; privetrje obilo padavin
+- zmerno hladno; V od njega, večina Švedske in Finske; celinsko, dolge, mrzle zime
+- tundrsko; skrajni S
+- kontinent. vlažno; J Švedska, Finska, Pribaltske
