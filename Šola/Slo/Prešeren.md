@@ -72,7 +72,37 @@ Teme:
 - poezije
 - ljubezen
 
-3. upa da bo s svojo poezijo zrahljal železna srca in pri ljudeh (Kranjčanih) povzročil spoznanje in da cenijo iskreno ljubezen in zvestobo
-4. Najprej govori kako je njegova ljubezen idealna nato spozna da je enostranska
-5. Govori o svoji zaljubljenosti in kako zaradi tega trpi $\rightarrow$ izvemo da je ljubezen žalostna tega ne mora nobenemu pokazati
-6. nesrečna ljubezen, ki jo izraža skozi svojo poezijo, pomanjkanje
+2. upa da bo s svojo poezijo zrahljal železna srca in pri ljudeh (Kranjčanih) povzročil spoznanje in da cenijo iskreno ljubezen in zvestobo
+   
+   Ran mojih bo spomin in tvoje hvale  
+glasil Slovencam se prihodnje čase,  
+ko mi na zgodnjem grobu mah porase,  
+v njem zdanje bodo bolečine spale.
+
+Prevzetne, kakor ti dekleta zale,  
+ko bodo slišale teh pesem gláse;  
+srca železne djale preč opase,  
+zvestó ljubezen bodo bolj spoštvále.
+
+Vremena bodo Kranjcam se zjasnile,  
+jim milši zvezde, kakor zdéj sijale,  
+jim pesmi bolj sloveče se glasile;
+
+vender té bodo morebit ostale  
+med njimi, ker njih poezije mile  
+iz sŕca svoje so kali pognale.
+
+- 2 : 2
+Teme
+- ljubezen do Julije in domovine
+
+3. Najprej govori kako je njegova ljubezen idealna nato spozna da je enostranska
+   
+Iz sŕca svoje so kali pognale,  <br>ki bolečin molčati delj ne more;  <br>enak sem pevcu, ki je Leonore  <br>pel Estijanke imenitne hvale.<br><br>Des' od ljubezni usta so molčale,  <br>ki mu mračila je mladosti zore,  <br>ki v upu nič imela ni podpore,  <br>skrivéj so pesmi jo razodevále.<br><br>Željá se ogenj v meni ne poleže,  <br>des' upa tvoj pogled v srce ne vlije,  <br>strah razžalíti te mi jezik veže.<br><br>Bridkost, k' od nje srce več ne počije,  <br>odkrivajo njegove skrivne teže  <br>mokrócvetéče rožce poezije.
+
+Teme:
+- ljubezen $\rightarrow$ poetična tema 
+- up $\rightarrow$ strah
+
+4. Govori o svoji zaljubljenosti in kako zaradi tega trpi $\rightarrow$ izvemo da je ljubezen žalostna tega ne mora nobenemu pokazati
+5. nesrečna ljubezen, ki jo izraža skozi svojo poezijo, pomanjkanje
