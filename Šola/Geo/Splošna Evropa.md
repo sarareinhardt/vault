@@ -7,36 +7,38 @@
 
 ![[890187663.jpg |350]]
 #### <font color="#c00000">Skupna kmetijska politika v starih članicah EU</font>
-- V 60-ih; kmetje dobijo subvencije, nakup in prodaja po zajamčenih cenah, a sledi kopičenje presežkov govedine in žita
-- proračun EU; prevzame breme za kritje razlike in stroškov za skladiščenje, 80% denarne pomoči dobi le 20% najuspešnejših kmetov, manjši propadajo
-- kmetijska reforma l.1992; omejitev proizvodnje presežkov (obd. površine, živina)
-- v 90-ih; EU zmanjša delež proračuna za kmetijstvo, padejo odkupne cene pridelkov, tako odpravijo presežke, kmete preusmerijo v
-- ekološko pridelavo hrane; visoka kakovost
-- dodatna kmet. reforma l. 2003; kmetje še prejemajo denarno pomoč, a pridelujejo tisto, po čemer je največje povpraševanje; upoštevanje standardov varstva okolja, varna hrana
+- <font color="#c00000">V 60-ih;</font> kmetje dobijo subvencije, nakup in prodaja po zajamčenih cenah, a sledi kopičenje presežkov govedine in žita
+- <font color="#c00000">proračun EU;</font> prevzame breme za kritje razlike in stroškov za skladiščenje, 80% denarne pomoči dobi le 20% najuspešnejših kmetov, manjši propadajo
+- <font color="#c00000">kmetijska reforma l.1992;</font> omejitev proizvodnje presežkov (obd. površine, živina)
+- <font color="#c00000">v 90-ih;</font> EU zmanjša delež proračuna za kmetijstvo, padejo odkupne cene pridelkov, tako odpravijo presežke, kmete preusmerijo v
+- <font color="#c00000">ekološko pridelavo hrane;</font> visoka kakovost
+- <font color="#c00000">dodatna kmet. reforma l. 2003;</font> kmetje še prejemajo denarno pomoč, a pridelujejo tisto, po čemer je največje povpraševanje; upoštevanje standardov varstva okolja, varna hrana
 #### <font color="#c00000">Evropa regij</font>
-- regije; teritorialno zaokroženi manjši deli države
-- razvoj regij; bile naj bi dinamične politične in gospod. enote v novi Evropi, boljše poznavanje resničnih problemov prebivalcev regij
-- povezovanje; evroregije, npr. Alpe-Jadran, ustanovljena l.1978; povezuje 17 članic (SLO, Hrvaško, regije iz Avstrije, Italije, Madžarske, Nemčije in Švice (promet, energetika, kmetijstvo, gozdarstvo, turizem, varstvo okolja, kultura…)
-- Nordijske; Islandija, Švedska, Danska, Norveška, Finska; pribaltiške; Litva, Latvija, Estonija; poselitev na J,
-- Nordijske; visoka razvitost, najvišji standard, manjše socialne razlike, pomen zdravstva in ekologije, vstop v EU (razen Norveške in Islandije), prevladuje izvoz
-- Pribaltiške; znotraj SZ gospodarsko najrazvitejše, v okviru S Evrope pa najmanj
+- <font color="#c00000">regije;</font> teritorialno zaokroženi manjši deli države
+- <font color="#c00000">razvoj regij;</font> bile naj bi dinamične politične in gospod. enote v novi Evropi, boljše poznavanje resničnih problemov prebivalcev regij
+- <font color="#c00000">povezovanje;</font> evroregije, npr. Alpe-Jadran, ustanovljena l.1978; povezuje 17 članic (SLO, Hrvaško, regije iz Avstrije, Italije, Madžarske, Nemčije in Švice (promet, energetika, kmetijstvo, gozdarstvo, turizem, varstvo okolja, kultura…)
+- <font color="#c00000">Nordijske; </font>Islandija, Švedska, Danska, Norveška, Finska; pribaltiške; Litva, Latvija, Estonija; poselitev na J,
+- <font color="#c00000">Nordijske;</font> visoka razvitost, najvišji standard, manjše socialne razlike, pomen zdravstva in ekologije, vstop v EU (razen Norveške in Islandije), prevladuje izvoz
+- <font color="#c00000">Pribaltiške;</font> znotraj SZ gospodarsko najrazvitejše, v okviru S Evrope pa najmanj
 #### <font color="#c00000">Severna Evropa</font>
-- Nordijske; Islandija, Švedska, Danska, Norveška, Finska; pribaltiške; Litva, Latvija, Estonija; poselitev na J,
-- Nordijske; visoka razvitost, najvišji standard, manjše socialne razlike, pomen zdravstva in ekologije, vstop v EU (razen Norveške in Islandije), prevladuje izvoz
-- Pribaltiške; znotraj SZ gospodarsko najrazvitejše, v okviru S Evrope pa najmanj
+- <font color="#c00000">Nordijske;</font> Islandija, Švedska, Danska, Norveška, Finska; pribaltiške; Litva, Latvija, Estonija; poselitev na J,
+- <font color="#c00000">Nordijske; </font>visoka razvitost, najvišji standard, manjše socialne razlike, pomen zdravstva in ekologije, vstop v EU (razen Norveške in Islandije), prevladuje izvoz
+- <font color="#c00000">Pribaltiške; </font>znotraj SZ gospodarsko najrazvitejše, v okviru S Evrope pa najmanj
 #### <font color="#c00000">Relief</font>
-- površje; stare kamnine, tektonsko in ledeniško delovanje
-- Skandinavski polotok; Z del; Skandinavsko gorstvo, težko prehodno, le nad 2000m; proti V se zniža v predkambrijski Baltski ščit, ki se nadaljuje pod Botnijskim zalivom na Finskem
-- pleistocen; celinska poledenitev, do 3000m debel led obrusi površje, grbinaste oblike (otočki, 150.000 ob Norveški obali)
--  po umiku ledu; osrednji del Skandinavije se dvigne (v 100 letih za 100cm), fjordi (z morjem zalite ledeniške doline), fjelli (planota nad fjordi)
-- platojski ledeniki; na višjih uravnavah, izpod njih vodnati potoki (za HE)
-- ledeniška jezera; za morenskimi nasipi (Finska, J Švedske)
-- morski in rečni nanosi; Danska, rodovitna prst
+- <font color="#c00000">površje; </font>stare kamnine, tektonsko in ledeniško delovanje
+- <font color="#c00000">Skandinavski polotok;</font> Z del; Skandinavsko gorstvo, težko prehodno, le nad 2000m; proti V se zniža v predkambrijski Baltski ščit, ki se nadaljuje pod Botnijskim zalivom na Finskem
+- <font color="#c00000">pleistocen;</font> celinska poledenitev, do 3000m debel led obrusi površje, grbinaste oblike (otočki, 150.000 ob Norveški obali)
+- <font color="#c00000"> po umiku ledu;</font> osrednji del Skandinavije se dvigne (v 100 letih za 100cm), fjordi (z morjem zalite ledeniške doline), fjelli (planota nad fjordi)
+- <font color="#c00000">platojski ledeniki</font>; na višjih uravnavah, izpod njih vodnati potoki (za HE)
+- <font color="#c00000">ledeniška jezera; </font>za morenskimi nasipi (Finska, J Švedske)
+- <font color="#c00000">morski in rečni nanosi;</font> Danska, rodovitna prst
 
 #### <font color="#c00000">Podnebje</font>
-- vpliv S-atlantskega toka; T se hitreje znižujejo od Z-V kot od J-S, obliva Z obalo Norveške
-- oceansko; Danska, obalni del Norveške (poselitev do Nordkappa, ker ne zamrzne)
-- gorsko; Skand. gorstvo; privetrje obilo padavin
-- zmerno hladno; V od njega, večina Švedske in Finske; celinsko, dolge, mrzle zime
-- tundrsko; skrajni S
-- kontinent. vlažno; J Švedska, Finska, Pribaltske
+- <font color="#c00000">vpliv S-atlantskega toka;</font> T se hitreje znižujejo od Z-V kot od J-S, obliva Z obalo Norveške
+- <font color="#c00000">oceansko;</font> Danska, obalni del Norveške (poselitev do Nordkappa, ker ne zamrzne)
+- <font color="#c00000">gorsko;</font> Skand. gorstvo; privetrje obilo padavin
+- <font color="#c00000">zmerno hladno;</font> V od Skandinavskega gorstva, večina Švedske in Finske; celinsko, dolge, mrzle zime
+- <font color="#c00000">tundrsko; </font>skrajni S
+- <font color="#c00000">kontinent. vlažno;</font> J Švedska, Finska, Pribaltske
+
+#### <font color="#c00000">Rastlinstvo</font>
