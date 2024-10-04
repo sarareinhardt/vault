@@ -7,3 +7,14 @@
 	- political
 	- personal
 	- professional reasons
+- to flee
+- a refugee - (a person who is forced to leave their home usually without anything or just the basics and usually gets the status of a refugee and gets help)
+- refuge - a safe place
+- they seek political asylum (documents...)
+- facing discrimination
+- ethnic minority
+- deportation
+- prejudice (against smt/sth) - predsodek
+- prejudiced
+- culture shock
+- integration
