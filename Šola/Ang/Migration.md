@@ -18,3 +18,11 @@
 - prejudiced
 - culture shock
 - integration
+Disadvantages
+-  the language barrier
+- loneliness 
+- the culture and customs are strange
+- you miss simple things like food...
+- missing your family
+- bureaucratic problems (visas, work permits, insurance and pension schemes)
+- they always feel like foreigners (like they don't belong)
