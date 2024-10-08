@@ -1,0 +1,2 @@
+Kako UV žarki vplivajo na kožo
+UV žarki lahko povzročajo opekline, staranje kože in povečujejo tveganje za kožnega raka. UVA žarki prodirajo globoko in povzročajo staranje kože, UVB pa so glavni povzročitelji sončnih opeklin. Obe vrsti lahko poškodujeta DNA celic in povečujeta tveganje za nastanek raka.
