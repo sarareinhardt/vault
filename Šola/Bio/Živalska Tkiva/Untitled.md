@@ -29,4 +29,6 @@
 - **Toplotna regulacija**: Mišice pri svojem delu proizvajajo toploto, kar pomaga vzdrževati telesno temperaturo.
 
 Vsaka vrsta mišičnega tkiva je prilagojena specifičnim potrebam in funkcijam v telesu, kar omogoča učinkovito delovanje tako na ravni celotnega telesa kot na ravni posameznih organov.
+
+![[Pasted image 20241008195242.png]]
 ![[Pasted image 20241008193854.png|300]]
