@@ -1,0 +1,1 @@
+Vrste vezivnih tkiv: vedno imaš celice in medceličnino razlikujejo se po celicah, ter količini in vrsti medceličnine
