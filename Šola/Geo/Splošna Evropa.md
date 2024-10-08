@@ -49,3 +49,6 @@ severni jeleni:))
 - listnat gozd; J Švedske in Danske, Pribaltiške države (izkrčen, zdaj njive – ječmen, oves, krompir, na J sadno drevje)
 - gozdna meja; J (nekaj 100m n.v.), S (ob morju)
 #### <font color="#c00000">Eergetski viri</font>
+
+
+do islandija
