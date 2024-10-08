@@ -7,3 +7,7 @@
 | [[Mišično tkivo]]                              | Nitaste ali vretenaste<br>celice razporejene bolj<br>ali manj vzporedno | Gibanje telesa, premikanje telesnih delov, premikanje telesnih tekočin                                                     | Skeletne mišice, gladke mišice, srčna mišica                                         |
 | [[Živčno tkivo]]                               | živčne celice ali nevroni in nevroglija celice                          | Sprejemanje dražljajev iz okolja (zunanjega in notranjega), njihova predelava, razlaganje in izvrševanje ustreznega odziva | možgani, hrbtenjača, obrobno živčevje, čutila, itd.                                  |
 ![[Pasted image 20241007124304.png]]
+[[Živčno tkivo]]
+[[Krovno tkivo]]
+[[Mišično tkivo]]
+[[Vezivno tkivo]]

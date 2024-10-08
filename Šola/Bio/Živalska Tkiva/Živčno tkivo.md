@@ -26,3 +26,4 @@
 - **Nadzor telesnih funkcij**: Omogoča avtomatsko regulacijo številnih telesnih funkcij, kot so dihanje, srčni utrip in prebava.
 
 Živčno tkivo je ključno za koordinacijo delovanja telesa, saj omogoča hitro odzivanje na spremembe v okolju in vzdrževanje notranjega ravnovesja (homeostaze).
+
