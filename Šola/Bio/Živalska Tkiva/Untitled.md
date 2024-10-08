@@ -1,7 +1,7 @@
 
 **Mišično tkivo** je specializirano tkivo, sestavljeno iz celic, ki se lahko krčijo in sproščajo, kar omogoča gibanje in izvajanje različnih funkcij v telesu. Njegova glavna značilnost je sposobnost _kontrakcije_ (krčenja), zaradi česar je ključnega pomena za gibanje telesa, premikanje notranjih organov in črpanje krvi. Obstajajo tri vrste mišičnega tkiva:
 
-### 1. **Prečnoprogasto**
+### 1. **Prečnoprogasto tkivo**
 
 - **Opis**: Sestavljeno je iz dolgih, valjastih in večjedrnih celic (_mišičnih vlaken_), ki imajo prečno progast videz zaradi urejenega razporeda beljakovin, ki omogočajo krčenje (_aktin_ in _miozin_).
 - **Funkcija**: Omogoča prostovoljno gibanje telesa, kot so hoja, tek, dviganje predmetov.
