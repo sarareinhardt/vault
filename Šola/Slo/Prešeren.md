@@ -1,3 +1,5 @@
+
+
 #### <font color="#c00000">Sonetje nesreče</font>
 ###### <font color="#c00000">II..</font>
 
@@ -112,3 +114,13 @@ Mokrócvetéče rožce poezije  <br>očitajo tó, kar se v prsih skriva.  <br>Sr
 6. 
 
 ||Cel čas so blagih sapic pogrešvále,  <br>od tebe, drage deklice prevzetne,  <br>prinesle niso božicam prijetne,  <br>ki bi bila jih oživela, hvale.<br><br>Bile so v strahu, de boš tí, de zale  <br>Slovenke nemško govorít' umetne,  <br>jih bote, ker s Parnasa so očetne  <br>dežele, morebiti zaničvále.<br><br>Kaméne naše zapušene božce,  <br>samice so pozabljene žalvále,  <br>le tujke so častile Kranjcov množce.<br><br>Cvetlice naše poezije stale  <br>do zdéj so vrh snežnikov redke rožce,  <br>obdajale so utrjene jih skale.|
+
+
+
+
+
+
+
+TEST:
+- obdobja?? z letnicami, lastnosti obdobja, našteti pesmi
+- vplivi drugih?
