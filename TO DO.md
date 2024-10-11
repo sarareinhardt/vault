@@ -1,7 +1,7 @@
 
 - [x] mat
 - [x] mat+
-- [ ] mat+ predstavitev
+- [x] mat+ predstavitev
 - [ ] inf predstavitev (c memory model/memory in general?)
 - [x] 404 predstavitev (DO PETKA)
 - [x] klici tajnistvo
@@ -12,3 +12,5 @@
 - [ ] knjiga podaljšaj
 - [ ] ZGO
 - [ ] CPP
+- [ ] FIZ
+- [ ] MAT+ trikotnik

@@ -33,4 +33,12 @@ Advantages
 - a wider variety of products
 - popular culture is closer to people, you can find what suits you
 - countries have become politically connected - opening of their borders
-- 
+- the international economy- free trade agreements and outsourcing
+	- = when corporations based in the West move factories and jobs to less economically developed countries
+- new jobs and skills for the locals
+- a larger market
+- international law
+Disadvantages:
+- works in the interest of rich countries and this is done at the expense of developing ones
+- profits are sent to more economically developed countries where the multinational is based
+- multinational companies can also drive local companies out of business
