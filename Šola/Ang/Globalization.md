@@ -16,14 +16,14 @@
 		- air travel
 - free trade policy developments
 	- information age -  technological developments
-Effects?
+**Effects?**
 on the:
 - culture
 - society
 - politics
 - economy
 - environment
-Advantages
+**Advantages**
 - the internet
 - international travel
 - tourism - as an industry it's important in almost every single country in the world
@@ -38,7 +38,21 @@ Advantages
 - new jobs and skills for the locals
 - a larger market
 - international law
-Disadvantages:
+**Disadvantages:**
 - works in the interest of rich countries and this is done at the expense of developing ones
 - profits are sent to more economically developed countries where the multinational is based
 - multinational companies can also drive local companies out of business
+- human, animal and plant diseases can spread more quickly and so can financial crises
+- outsourcing has caused wealthy countries to loose too many jobs
+- blaming free trade for unfair working conditions
+- economic downturns in one country are repeated in other countries
+- western culture will destroy local culture around the world
+- the loss of individuality
+- environmental problems
+**How has globalization affected your life?**
+- the food you eat
+- the music you listen to
+- the clothes and accessories you buy
+- TV programs and movies you watch
+- home furnishings
+
