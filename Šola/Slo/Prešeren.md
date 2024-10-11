@@ -123,4 +123,9 @@ Mokrócvetéče rožce poezije  <br>očitajo tó, kar se v prsih skriva.  <br>Sr
 
 TEST:
 - obdobja?? z letnicami, lastnosti obdobja, našteti pesmi
-- vplivi drugih?
+- vplivi drugih? (pesniki, ne pesniki ig kako so vplivali nanj?)
+- letnice Prešernovih pesmi
+- samo SLO romantika
+- glavne teme poezij (poetološka ljubezenska bivanjska pa še neki), kje so najbolj prisotne
+	- npr bivanjska najbolj v soneti nesreče
+- lastnost pesniških oblik - 
