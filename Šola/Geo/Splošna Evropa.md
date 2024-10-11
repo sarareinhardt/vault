@@ -49,6 +49,20 @@ severni jeleni:))
 - listnat gozd; J Švedske in Danske, Pribaltiške države (izkrčen, zdaj njive – ječmen, oves, krompir, na J sadno drevje)
 - gozdna meja; J (nekaj 100m n.v.), S (ob morju)
 #### <font color="#c00000">Eergetski viri</font>
-
-
-do islandija
+- HE; Norveška (zlasti J), Švedska (osrednja), Islandija; daljše reke, večja moč
+- nafta in zem. plin; Norveška, Danska
+- jedrske elektrarne; Švedska (4 JE dajejo ½ elektrike), v 70-ih letih
+- Pribaltiške države; energetsko revne; Litva odvisna od JE, Estonija pridobiva elektriko v TE iz zalog oljnih skrilavcev
+#### <font color="#c00000">Alternativni energetski viri</font>
+- vetrne elektrarne; Danska (Z vetrovi), jih izvaža, še nafta in zem.plin (v S morju)
+- elektrarna, ki izkorišča moč valov; Bergen
+- geotermalna voda; Islandija, greje nad 1/3 ljudi
+#### <font color="#c00000">Onesnaževanje</font>
+- kisli dež; ogroža vodo, gozd, prst, zdravje; emisije žveplovih in dušikovih oksidov prinašajo vetrovi iz Z, Sr. In V Evrope
+- območja; najhuje na JZ  in J Norveške, Švedske in Finske (zlasti konec 70-ih)
+- jezera; 1/8 švedskih jezer je bila tako zakisana, da organizmi umrejo, l.1995 ogroženih že 30% norveških jezer; silikatne kamnine ne nevtralizirajo kislin kot apnenec, apnili jezera, a skromni učinki, propadanje gozdov
+#### <font color="#c00000">Islandija</font>
+- površje; gorata notranjost, 1/8 površja pokrita z ledeniki, leži na Sr. Atl. hrbtu, po sredini otoka se razmikata S-ameriška in Ecrazijska plošča, otok se vsako leto razširi za par cm – potresu, vulkanski izbruhi
+- geotermalna voda; >700 izvirov; ogrevanje stanovanj, rastlinjakov, za proizvodnjo elektrike, javna kopališča, gretje ulic
+- podnebje; zaradi S-atl. toka ima milo oceansko podnebje, SZ je hladnejši kot JV, tam tudi večkrat sneži, T nadpovprečne zaradi toplih JZ vetrov iz tropskih območij, ki spremljajo Zaliv. tok; pogosti viharji v milih, vlažnih zimah; hladna poletja (11 st), vse leto veliko dežja
+- poselitev; redko poseljena, največ ljudi na območju Reykjavika (Dimnati zaliv); 290.000 ljudi na Islandiji; pomemben ribolov
