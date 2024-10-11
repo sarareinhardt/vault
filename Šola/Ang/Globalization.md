@@ -30,3 +30,7 @@ Advantages
 - brings foreign currency to a countries economy
 - exposure to new ideas about a trade, taste culture, clothing styles, food, etc
 - products becoming cheaper
+- a wider variety of products
+- popular culture is closer to people, you can find what suits you
+- countries have become politically connected - opening of their borders
+- 
