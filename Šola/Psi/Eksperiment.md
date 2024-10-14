@@ -27,4 +27,42 @@ Z eksperimentom ugotavljamo vzročno-posledične odnose
 4. Nadzor dejavnikov, ki vplivajo na pojav je enostavnejši
 **Pomankljivosti**
 1. Ker osebe vedo, da so opazovane lahko spremenijo svoje vedenje
-2. Vseh pojavov ne moramo namerno povzročati in spreminjati, ker se pojavijo spontano
+2. Vseh pojavov ne moramo namerno povzročati in spreminjati, ker se pojavijo spontano (npr. ljubezenska čustva)
+3. Nekaterih pojavov zaradi etično moralnih razlogov ne smemo povzročiti (npr. povzročanje bolečine, ločevanje dvojčkov...)
+4. Zato, ker pojav izoliramo se lahko spremeni zato ugotovitev ne moramo prenesti v vsakdanje življenje (pri poskusu situacija ni enaka kot v resničnem življenju - rezultat poskusa ni realističen)
+**Psihološka etična načela** 
+Pravila, ki določajo kakšen je ustrezen odnos do udeležencev v raziskavah
+- sodelovanje je vedno prostovoljno
+- udeleženci morajo biti seznanjeni z namenom raziskave
+- med raziskavo ne smejo doživljati hujših stresov
+- da kadarkoli med raziskavo prenehajo sodelovanje
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Krst pri Savici
+- posvečen Čopu
+- povzetek vseh 4ih tem
+- Črtomir: Epski junak (aristokraričen, pogumen, neustrašen, bojevit)
+Uvod:
+-  kitica: tercina, verz: jambski enajsterec, stopica: enajsterec
+Krst:
+oktave:
