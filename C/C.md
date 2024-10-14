@@ -1,1 +1,1 @@
-[[Plan]]
+[[Plan calculator]]

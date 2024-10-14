@@ -41,3 +41,8 @@ Anketa
 - Opis: Ustno ali pisno, vsebuje veliko količino anketirancev, ker rabi biti reprezentativen vzorec, mora biti anonimna. Pove javno mnenje, ne pa posameznikovo.
 - Presnosti: zajame velik vzorec ljudi, lahka in nizkocenovna izvedba, iz nje izvemo javno mnenje
 - Pomanjkljivosti: lahko ne razumeš vprašanja, lahko imaš slab vzorec ljudi, vpliv izdelovalca anket (vprašanje nakazuje na nek odgovor), prenasičenost ljudi z anketami, neiskreni odgovori.
+
+Normiranje - določanje nekega vzorca - standardni odklon in aritmetična sredina na predhodnih vzorcih
+Testi inteligence, ustvarjalnosti:
+inteligenca: standardizirani
+ustvarjalnost: Fluentnost, fleksibilnost

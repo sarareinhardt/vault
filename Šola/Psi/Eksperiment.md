@@ -1,0 +1,4 @@
+- Eksperimentator - ta, ki načrtuje eksperimentator
+- Preučevanci - tisti, ki sodelujejo v eksperimentih
+- n.v. neodvisna variabla ali spremenljivka - tista s katero manipulira/upravlja eksperimentator
+- o.v.  odvisna variabla je odvisna od neodvisne

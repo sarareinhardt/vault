@@ -13,4 +13,5 @@
 - [ ] ZGO
 - [ ] CPP
 - [ ] FIZ
-- [ ] MAT+ trikotnik
+- [x] MAT+ trikotnik
+- [ ] Psi zrihtaj zvezek

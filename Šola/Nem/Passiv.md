@@ -40,3 +40,39 @@ Es wird der mutter telefoniert
 - Sie helft immer ihre Freund.
 	- Ihren Freunden wird immer von ihr geholfen
 - Ich Räume mein zimmer auf
+
+
+- Wir werden um ein Glas Wasser gebeten
+- Apfel wird wir In die Schule gebracht
+- Bombons werden ihrem freunden gegeben
+- Eine Postkarte wird Ihr immer geschreiben
+- Ich werde in die schule gesuchen
+
+**Präteritum**
+Der lehrer fragte der Schuler
+
+| ich       | wurde   |
+| --------- | ------- |
+| du        | wurdest |
+| er/sie/es | wurde   |
+| wir       | wurden  |
+| ihr       | wurdet  |
+| sie/sie   | wurden  |
+Die mutter kochte abends immer Spaghetti
+Spaghetti wurden abends immer gekocht.
+
+Die Gruppe diskutierte uber Politik
+Es wurde uber Politik diskutiert
+
+**Perfekt**
+Der Lehrer hat den Schuler gefragt
+preteklih v perfektu je vedno z glagolom sein tudi če je glagol premikanja
+Der Schuler ist gefragt <font color="#c00000">worden</font> (worden izjema)
+
+Die Kinder laufen um die Schule
+Es werden um die Schule gelaufen
+Die kinder liefen um  die Schule
+Die Kinder sind um die Schule gelaufen
+kajjjjjjjj?????????? (pou usega je narobe)
+DL passiv
+;-;
