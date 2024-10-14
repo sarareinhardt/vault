@@ -25,3 +25,4 @@
 
 
 Slovo od mladosti 1430
+oksimoron: up goljufivi, temna zarja
