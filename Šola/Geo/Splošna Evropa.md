@@ -65,4 +65,16 @@ severni jeleni:))
 - <font color="#c00000">površje</font>; gorata notranjost, 1/8 površja pokrita z ledeniki, leži na Sr. Atl. hrbtu, po sredini otoka se razmikata S-ameriška in Ecrazijska plošča, otok se vsako leto razširi za par cm – potresu, vulkanski izbruhi
 - <font color="#c00000">geotermalna</font> <font color="#c00000">voda</font>; >700 izvirov; ogrevanje stanovanj, rastlinjakov, za proizvodnjo elektrike, javna kopališča, gretje ulic
 - podnebje; zaradi S-atl. toka ima milo oceansko podnebje, SZ je hladnejši kot JV, tam tudi večkrat sneži, T nadpovprečne zaradi toplih JZ vetrov iz tropskih območij, ki spremljajo Zaliv. tok; pogosti viharji v milih, vlažnih zimah; hladna poletja (11 st), vse leto veliko dežja
-- <font color="#c00000">poselitev</font>; redko poseljena, največ ljudi na območju Reykjavika (Dimnati zaliv); 290.000 ljudi na Islandiji; pomemben ribolov
+- <font color="#c00000">poselitev</font>; redko poseljena, največ ljudi na območju Reykjavika (Dimnati zaliv); 290.000 ljudi na Islandiji; pomemben ribolov 
+(številke treba vedet samo na približno)
+- Turistične zanimivosti: slapovi, gejzirji nek Blue lagoon?
+#### <font color="#c00000">Norveška</font>
+- Oslo
+- površje; v dolžini 1800km se vleče preko S tečaja, razčlenjena obala (fjordi, grbinasti otočki); Skandinavsko gorstvo, najširša na J; Lofoti – ribiško otočje, Nordkapp, Spitzbergi na S (premogovniki)
+	- Nordkapp, Spitzbergi
+ ![[images.jpg]]
+ ![[Untitled.jpg]]
+	
+- podnebje; Z del – zmerno podnebje zaradi S-atlantskega toka; V del – hladnejše zime, toplejša poletja, manj padavin
+- poselitev; skoraj 5 milij; večina ljudi okoli Osla, investirajo tudi na S, ker želijo ohraniti poselitev; v Sr. in S Norveški – naseljen le obalni pas
+- gospodarstvo; konec 19.st. so se izseljevali v ZDA, danes priseljevanje; konec 60-ih so odkrili nafto v S morju (1/4), na začetku 70-ih črpanje

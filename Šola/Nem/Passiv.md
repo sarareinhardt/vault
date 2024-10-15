@@ -76,3 +76,30 @@ Die Kinder sind um die Schule gelaufen
 kajjjjjjjj?????????? (pou usega je narobe)
 DL passiv
 ;-;
+
+**Hausaufgabe**
+- Mein Zimmer wird aufgeräumt.
+- Die Rechnung wurde bezahlt.
+- Eine Monatskarte wurde gekauft.
+- Der Autofahrer wurde angehalten.
+- Wo werden Autos produziert?
+- Ist die Mathematikaufgabe schon gelöst worden?
+- Ein Roman wird gelesen.
+- Hier werden Zeitungen verkauft.
+- Mein Auto wurde repariert.
+- Die Fenster werden jeden Morgen geputzt.
+- Ein Geschenk wurde gestern gefunden.
+- Informative Videos werden oft angesehen.
+- Das Telefon wird beantwortet.
+- Wer wurde geschrieben?
+- Uns wurde sehr wenig bezahlt.
+- Hier kann getanzt werden.
+- Ihm wird immer geholfen.
+- Heute wird viel über Politik gesprochen.
+- Der Brief muss abgeschickt werden.
+- An die Folgen wird nie gedacht.
+- In diesem Raum darf nicht geraucht werden.
+- Sonntags wird nicht gearbeitet.
+- In diesem Bett wird gut geschlafen.
+- Mir wurde ein Buch geschenkt.
+- Vom Zweiten Weltkrieg wurde erzählt.
