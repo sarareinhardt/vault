@@ -111,3 +111,5 @@ DL 15. 10. passiv
 - Das Kind wurde gewaschen.
 - Ein Roman ist gelesen worden.
 - Die Klassenarbeiten wurden kontrolliert.
+- Die Reise wird geplant
+- 
