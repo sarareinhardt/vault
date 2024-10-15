@@ -62,7 +62,7 @@ severni jeleni:))
 - območja; najhuje na JZ  in J Norveške, Švedske in Finske (zlasti konec 70-ih)
 - jezera; 1/8 švedskih jezer je bila tako zakisana, da organizmi umrejo, l.1995 ogroženih že 30% norveških jezer; silikatne kamnine ne nevtralizirajo kislin kot apnenec, apnili jezera, a skromni učinki, propadanje gozdov
 #### <font color="#c00000">Islandija</font>
-- površje; gorata notranjost, 1/8 površja pokrita z ledeniki, leži na Sr. Atl. hrbtu, po sredini otoka se razmikata S-ameriška in Ecrazijska plošča, otok se vsako leto razširi za par cm – potresu, vulkanski izbruhi
-- geotermalna voda; >700 izvirov; ogrevanje stanovanj, rastlinjakov, za proizvodnjo elektrike, javna kopališča, gretje ulic
+- <font color="#c00000">površje</font>; gorata notranjost, 1/8 površja pokrita z ledeniki, leži na Sr. Atl. hrbtu, po sredini otoka se razmikata S-ameriška in Ecrazijska plošča, otok se vsako leto razširi za par cm – potresu, vulkanski izbruhi
+- <font color="#c00000">geotermalna</font> <font color="#c00000">voda</font>; >700 izvirov; ogrevanje stanovanj, rastlinjakov, za proizvodnjo elektrike, javna kopališča, gretje ulic
 - podnebje; zaradi S-atl. toka ima milo oceansko podnebje, SZ je hladnejši kot JV, tam tudi večkrat sneži, T nadpovprečne zaradi toplih JZ vetrov iz tropskih območij, ki spremljajo Zaliv. tok; pogosti viharji v milih, vlažnih zimah; hladna poletja (11 st), vse leto veliko dežja
-- poselitev; redko poseljena, največ ljudi na območju Reykjavika (Dimnati zaliv); 290.000 ljudi na Islandiji; pomemben ribolov
+- <font color="#c00000">poselitev</font>; redko poseljena, največ ljudi na območju Reykjavika (Dimnati zaliv); 290.000 ljudi na Islandiji; pomemben ribolov
