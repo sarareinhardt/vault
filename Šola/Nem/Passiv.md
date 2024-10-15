@@ -81,7 +81,7 @@ DL passiv
 - Mein Zimmer wird aufgeräumt.
 - Die Rechnung wurde bezahlt.
 - Eine Monatskarte wurde gekauft.
-- Der Autofahrer wurde angehalten.
+- Der Autofahrer ist angehalten worden.
 - Wo werden Autos produziert?
 - Ist die Mathematikaufgabe schon gelöst worden?
 - Ein Roman wird gelesen.
@@ -92,9 +92,8 @@ DL passiv
 - Informative Videos werden oft angesehen.
 - Das Telefon wird beantwortet.
 - Wer wurde geschrieben?
-- Uns wurde sehr wenig bezahlt.
-- Hier kann getanzt werden.
-- Ihm wird immer geholfen.
+- Wir sind sehr wenig bezahlt.
+- Es wird immer ihrem geholfen.
 - Heute wird viel über Politik gesprochen.
 - Der Brief muss abgeschickt werden.
 - An die Folgen wird nie gedacht.
@@ -102,4 +101,13 @@ DL passiv
 - Sonntags wird nicht gearbeitet.
 - In diesem Bett wird gut geschlafen.
 - Mir wurde ein Buch geschenkt.
-- Vom Zweiten Weltkrieg wurde erzählt.
+- Es wurde Vom Zweiten Weltkrieg wurde erzählt.
+^ni 100% prav...
+DL 15. 10. passiv
+- Ein Aufsatz wird geschrieben.
+- Die Hausaufgabe wurde am Nachmittag gemacht.
+- Die Suppe wird gekocht.
+- Die Tomatensuppe ist gegessen worden.
+- Das Kind wurde gewaschen.
+- Ein Roman ist gelesen worden.
+- Die Klassenarbeiten wurden kontrolliert.
