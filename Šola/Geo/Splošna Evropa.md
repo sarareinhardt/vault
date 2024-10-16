@@ -85,3 +85,5 @@ Lofoti - znamenitost
 
 ![[licensed-image.jpg|350]] Bergen
 ![[Untitled 1.jpg|350]] Stavanger
+![[Untitled 2.jpg|350]] nek znan cliff
+- <font color="#c00000">ribištvo</font>; zlasti S, celoleten profesionalen in ind. ribolov, načrtovanje ulova; zmanjša se ulov slanikov, poveča ulov drugih rib; zaradi prelova l. 2001 v Reykjaviku deklaracija o bodočem izkoriščanju morskega ekosistema
