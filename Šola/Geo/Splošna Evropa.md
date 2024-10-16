@@ -70,11 +70,18 @@ severni jeleni:))
 - Turistične zanimivosti: slapovi, gejzirji nek Blue lagoon?
 #### <font color="#c00000">Norveška</font>
 - Oslo
-- površje; v dolžini 1800km se vleče preko S tečaja, razčlenjena obala (fjordi, grbinasti otočki); Skandinavsko gorstvo, najširša na J; Lofoti – ribiško otočje, Nordkapp, Spitzbergi na S (premogovniki)
-	- Nordkapp, Spitzbergi
- ![[images.jpg]]
- ![[Untitled.jpg]]
+- <font color="#c00000">površje</font>; v dolžini 1800km se vleče preko S tečaja, razčlenjena obala (fjordi, grbinasti otočki); Skandinavsko gorstvo, najširša na J; Lofoti – ribiško otočje, Nordkapp, Spitzbergi na S (premogovniki)
+	- Nordkapp, Svalbard
+ ![[norway-svalbard-longyearbyen_tommy-dahl-markussen-sysselmannen_2048x.webp|400]] Svalbard
+ ![[Untitled.jpg]] Nordkapp
 	
-- podnebje; Z del – zmerno podnebje zaradi S-atlantskega toka; V del – hladnejše zime, toplejša poletja, manj padavin
-- poselitev; skoraj 5 milij; večina ljudi okoli Osla, investirajo tudi na S, ker želijo ohraniti poselitev; v Sr. in S Norveški – naseljen le obalni pas
-- gospodarstvo; konec 19.st. so se izseljevali v ZDA, danes priseljevanje; konec 60-ih so odkrili nafto v S morju (1/4), na začetku 70-ih črpanje
+- <font color="#c00000">podnebje</font>; Z del – zmerno podnebje zaradi S-atlantskega toka; V del – hladnejše zime, toplejša poletja, manj padavin
+- <font color="#c00000">poselitev</font>; skoraj 5 milijonov; večina ljudi okoli Osla, investirajo tudi na S, ker želijo ohraniti poselitev; v Sr. in S Norveški – naseljen le obalni pas
+- <font color="#c00000">gospodarstvo</font>; konec 19.st. so se izseljevali v ZDA, danes priseljevanje; konec 60-ih so odkrili nafto v S morju (1/4 nafte v S morju), na začetku 70-ih črpanje
+![[Untitled.jpg]] fjordi
+Lofoti - znamenitost
+- <font color="#c00000">nafta</font>; največja izvoznica v Evropi; lastništvo nafte in zem. plina v S morju; VB, Norveška, Danska, Nizozemska; z dohodki podpirajo kmetijstvo, ribištvo, industrijo (dvig standarda)
+- <font color="#c00000">Bergen in Stavanger</font>; središči naftnega gospod.
+
+![[licensed-image.jpg|350]] Bergen
+![[Untitled 1.jpg|350]] Stavanger
