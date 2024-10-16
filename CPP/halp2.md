@@ -1,0 +1,4 @@
+- 80 160 240
+- okrogli na 0m
+- obvestila - 0m ali ustrezno stran(petrol)
+- naselje - 50

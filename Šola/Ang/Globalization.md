@@ -55,4 +55,22 @@ on the:
 - the clothes and accessories you buy
 - TV programs and movies you watch
 - home furnishings
-
+**Traveling and transport**
+- A traveller = visits a place in order to learn and experience the culture and environment of the places visited
+- a tourist = visits a place to be relaxed, entertained
+- explorer - someone who tries to find new places that no one knows about
+- all inclusive
+- to "get off the beaten track" - to go places where people don't usually go
+- travelling on a shoestring = to travel cheap 
+Why did people go exploring 100s of yrs ago?
+- to find new countries
+- to make money
+- to open up new markets
+- to spread their religion
+Why do young people go travelling?
+- to see interesting places
+- to meet people
+- to learn languages
+- to have ew and interesting experiences
+- to find things out about themselves
+- voyage - a trip where you cross the sea

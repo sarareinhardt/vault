@@ -1,4 +1,4 @@
-![[Pasted image 20241012115144.png|600]]
+![[Pasted image 20241015171935.png]]![[Pasted image 20241012115144.png|600]]
 ![[Pasted image 20241012115250.png|300]] znak za železnico z več tiri NEZAVAROVAN
 
 ![[Pasted image 20241012115358.png]]¸¸¸¸¸¸![[Pasted image 20241012115414.png]]
@@ -13,3 +13,4 @@
 ![[Pasted image 20241012163943.png]]![[Pasted image 20241012163952.png]]![[Pasted image 20241012164002.png
 ![[Pasted image 20241013144551.png]]
 240m, 160m, 80m 
+![[Pasted image 20241015213158.png]]![[Pasted image 20241015220832.png]]
