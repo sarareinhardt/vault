@@ -74,3 +74,10 @@ Why do young people go travelling?
 - to have ew and interesting experiences
 - to find things out about themselves
 - voyage - a trip where you cross the sea
+Car parts?
+- hood/bonnet
+- trunk/boot
+- pedals
+	- accelerator
+	- brake
+	- clutch

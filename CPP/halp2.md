@@ -2,3 +2,4 @@
 - okrogli na 0m
 - obvestila - 0m ali ustrezno stran(petrol)
 - naselje - 50
+- opozorila: 150 - 250
