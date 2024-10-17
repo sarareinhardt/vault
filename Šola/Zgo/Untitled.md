@@ -7,3 +7,5 @@ Prelom med srednjeveško (starocerkveno) in moderno miselnostjo
 		- Pravica do življenja
 		- Pravica do osebne svobode
 		- Pravica do lastnine
+	- Kasneje so se razvile še druge pravice (ne v razsvetljenstvu) pravica do dela, pravica do šolanja, govora, tiska, pitne vode, vere, pravica do združevanje (shodi, protesti, demonstracije)
+	- Tem pravicam danes rečemo temeljne človekove pravice, ki se z vedno bolj kompleksnim načinom življenja povečujejo
