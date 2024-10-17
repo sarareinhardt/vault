@@ -112,4 +112,40 @@ DL 15. 10. passiv
 - Ein Roman ist gelesen worden.
 - Die Klassenarbeiten wurden kontrolliert.
 - Die Reise wird geplant
-- 
+___
+- Ein Aufsatz wird geschrieben.
+- Die Hausaufgabe wurde am Nachmittag gemacht.
+- Die Suppe wird gekocht.
+- Die Tomatensuppe wurde gegessen.
+- Das Kind wurde gewaschen.
+- Ein Roman wurde gelesen.
+- Die Klassenarbeiten wurden kontrolliert.
+- Eine Reise wird geplant.
+- Fragen werden gestellt.
+- Das Formular wurde falsch ausgefüllt.
+- Die Grammatik wurde wiederholt.
+- Die Blumen wurden uns gebracht.
+- Viel Bier wird in Bayern getrunken.
+- Moderne Maschinen wurden exportiert.
+- Die Theaterkarten wurden schon bestellt.
+- Das Essen wird den Gästen gebracht.
+- Es wird hier viel geraucht.
+- Das Feld wird bearbeitet.
+- Die Lieder werden aufmerksam gehört.
+- Frische Äpfel wurden am Wochenende gekauft.
+- Der Kranke wurde operiert.
+- Die Wände wurden neu tapeziert.
+- Tee wird gern getrunken.
+- Das Auto wurde von einer Lawine verschüttet.
+- Die goldene Uhr wurde gestohlen.
+- Ein Unfall wurde gestern gesehen.
+- Kastanien wurden gestern gesammelt.
+- Ein Mantel wurde mir angeboten.
+- Die Hausaufgabe wird nicht gemacht.
+- Das neue Mädchen wurde ins Kino eingeladen.
+- Wurdest du von deiner Tante besucht?
+- Mein Auto wird repariert.
+- Interessante Geschichten werden uns erzählt.
+- Wird der Mutter geholfen?
+- Die Dokumente wurden gefunden.
+- Ein Schneemann wurde im Winter gebaut.
