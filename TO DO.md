@@ -9,9 +9,9 @@
 - [x] charge slusalke, comp
 - [x] katarina fotke
 - [x] PSI zapiski
-- [ ] knjiga podaljšaj
+- [x] knjiga podaljšaj
 - [ ] ZGO
-- [ ] CPP
-- [ ] FIZ
+- [x] CPP
+- [x] FIZ
 - [x] MAT+ trikotnik
 - [ ] Psi zrihtaj zvezek
