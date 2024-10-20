@@ -1,2 +1,4 @@
-[[Opazovanje, intervju, vprašalnik, ocenjevalne lestvice]]
-[[Eksperiment]]
+- [[Uvod v psihologijo]]
+- [[Psihološki testi]]
+- [[Opazovanje, intervju, vprašalnik, ocenjevalne lestvice]]
+- [[Eksperiment]]

@@ -57,12 +57,3 @@ Pravila, ki določajo kakšen je ustrezen odnos do udeležencev v raziskavah
 
 
 
-
-Krst pri Savici
-- posvečen Čopu
-- povzetek vseh 4ih tem
-- Črtomir: Epski junak (aristokraričen, pogumen, neustrašen, bojevit)
-Uvod:
--  kitica: tercina, verz: jambski enajsterec, stopica: enajsterec
-Krst:
-oktave:
