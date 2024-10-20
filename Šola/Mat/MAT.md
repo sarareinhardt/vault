@@ -1,2 +1,3 @@
-[[Latex pogosta sinteksa]]
+[[Latex pogosta sintaksa]]
 [[Geometrija enačbe]]
+[[Pascalov izrek]]

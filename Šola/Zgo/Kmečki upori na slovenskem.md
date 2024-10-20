@@ -7,7 +7,7 @@ tags:
 - na Koroškem, središče v Beljaku
 - Kmetje so v uporu izvolili vodstvo kmečke zveze in sicer vplivno koroško kmečko družino Simetinger, postavljali so svoja sodišča ter zahtevali vpliv nad Cerkvijo, ki naj bi ga pridobili z izvolitvijo župnikov
 - kmetje se povežejo v #bund - kmečka zveza semizdi
-- trajalo je 4.5 mesecov in sodelovalo je samo 600 ljudi
+- trajalo je 4.5 mesecev in sodelovalo je samo 600 ljudi
 - Uporniki so za nekaj mesecev prevzeli oblast in sami pobirali dajatve, pri tem pa so dobili podporo rudarjev, obrtnikov in mestnih prebivalcev. 
 - Ko se je cesarska vojska pripravljala na spopad z njimi, je prišlo do turškega vdora na Koroško, kar je preusmerilo pozornost. 
 - Turki so 25. junija 1478 premagali Simetingersko vojsko in nato tri tedne plenili po pokrajini, posebej prizadeli območja, kjer je bila kmečka zveza najmočnejša. Po porazu je kmečka vojska razpadla, cesarska vojska pa je ujela vodje upora in jih predala sodiščem.
