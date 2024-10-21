@@ -5,3 +5,4 @@ Motivi:
 Tema:
 Št. verzov:
 - 2, 3, 4, 3, 2
+jambski ritem
