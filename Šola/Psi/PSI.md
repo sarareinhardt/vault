@@ -2,3 +2,4 @@
 - [[Psihološki testi]]
 - [[Opazovanje, intervju, vprašalnik, ocenjevalne lestvice]]
 - [[Eksperiment]]
+- [[Motivacija]]
