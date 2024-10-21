@@ -16,3 +16,5 @@
 - [x] MAT+ trikotnik
 - [ ] Psi zrihtaj zvezek
 - [ ] lekarna: gel za obraz scetja, cera ve
+- [ ] PSI
+- [ ] FIZ
