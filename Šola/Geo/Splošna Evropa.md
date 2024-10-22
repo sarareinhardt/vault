@@ -94,4 +94,4 @@ Lofoti - znamenitost
 	- <font color="#c00000">Svealand;</font> široka ravnina z jezeri, zmernejše podnebje, gospodarska središča (Stockholm)
 	- <font color="#c00000">G</font><font color="#c00000">otland; </font>J, Goteborg – Volvo; na skrajnem J je Skania – kmetijska pokrajina![[5r0aznrsw4a61.webp|350]]]![[licensed-image.jpg|350]]
 - podnebje; S in Z; vpliv mrzlega sibirskega zraka, hladno; S Baltik je pozimi zaledenel; J – topli vetrovi, mile zime, hladna poletja
-- gospodarstvo; večstoletna železarska in jeklarska tradicija, v Kiruni – ogromno nahajališče Fe rude; v 2.1/2 20.st. – kriza zaradi konkurence iz Avstralije in Kanade, sledi preusmeritev v izviz dražjih specialnih jekel; roboti, medic. oprema, Volvo, Saab, Ericsson
+- gospodarstvo; večstoletna železarska in jeklarska tradicija, v Kiruni – ogromno nahajališče Fe rude; v 2.$\frac{1}{2}$ 20.st. – kriza zaradi konkurence iz Avstralije in Kanade, sledi preusmeritev v izviz dražjih specialnih jekel; roboti, medic. oprema, Volvo, Saab, Ericsson
