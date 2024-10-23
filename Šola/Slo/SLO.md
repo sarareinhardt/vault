@@ -3,3 +3,4 @@
 [[Prešernova pesniška obdobja]]
 [[Srečko Kosovel]]
 [[Pevcu]]
+[[Realizem]]
