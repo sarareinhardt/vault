@@ -83,7 +83,7 @@ Lofoti - znamenitost
 - <font color="#c00000">nafta</font>; največja izvoznica v Evropi; lastništvo nafte in zem. plina v S morju; VB, Norveška, Danska, Nizozemska; z dohodki podpirajo kmetijstvo, ribištvo, industrijo (dvig standarda)
 - <font color="#c00000">Bergen in Stavanger</font>; središči naftnega gospod.
 
-![[licensed-image.jpg|350]] Bergen
+![[licensed-image 1.jpg|350]] Bergen
 ![[Untitled 1.jpg|350]] Stavanger
 ![[Untitled 2.jpg|350]] nek znan cliff
 - <font color="#c00000">ribištvo</font>; zlasti S, celoleten profesionalen in ind. ribolov, načrtovanje ulova; zmanjša se ulov slanikov, poveča ulov drugih rib; zaradi prelova l. 2001 v Reykjaviku deklaracija o bodočem izkoriščanju morskega ekosistema
@@ -92,7 +92,7 @@ Lofoti - znamenitost
 - <font color="#c00000">površje;</font> največja nordijska država; skoraj 9 milij., na Z gorata, na V in J valovita; 3 deli:
 	- <font color="#c00000">Norrland;</font> največji, gorat, gozdovi, malo ljudi, Kiruna – železova ruda
 	- <font color="#c00000">Svealand;</font> široka ravnina z jezeri, zmernejše podnebje, gospodarska središča (Stockholm)
-	- <font color="#c00000">G</font><font color="#c00000">otland; </font>J, Goteborg – Volvo; na skrajnem J je Skania – kmetijska pokrajina![[5r0aznrsw4a61.webp|350]]]![[licensed-image.jpg|350]]Stockholm
+	- <font color="#c00000">G</font><font color="#c00000">otland; </font>J, Goteborg – Volvo; na skrajnem J je Skania – kmetijska pokrajina![[5r0aznrsw4a61.webp|350]]]![[licensed-image 1.jpg|350]]Stockholm
 - podnebje; S in Z; vpliv mrzlega sibirskega zraka, hladno; S Baltik je pozimi zaledenel; J – topli vetrovi, mile zime, hladna poletja
 - gospodarstvo; večstoletna železarska in jeklarska tradicija, v Kiruni – ogromno nahajališče Fe rude; v 2.$\frac{1}{2}$ 20.st. – kriza zaradi konkurence iz Avstralije in Kanade
 - Sledi preusmeritev v izvoz dražjih specialnih jekel; roboti, medic. oprema (Švedske firme: Volvo, Saab, Ericsson, Ikea)
