@@ -33,4 +33,6 @@ V FRA nastane zbirka vseh terminov - enciklopedija
 - Denis Diderot
 - Jean d'Alembert
 Morali s skrivati svoje ideje (ker cerkvi niso bile všeč)
-- začnejo nastajati **Prostozidarske lože** ali **Framasoni** 
+- začnejo nastajati **Prostozidarske lože** ali **Framasoni** (secret societies)
+	- imajo svoje znake s katerimi se prepoznajo
+Jean Jacques Rousseau
