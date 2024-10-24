@@ -26,3 +26,11 @@ kulturno in duhovno gibanje konec 17. st vrh 18. st, vpliv na znanost, umetnost 
 - kritika fevdalne družbe; kritika stanovske družbe - da so ljudje razporejeni na bolj ali manj pomembne položaje glede na to v kateri družini se rodi
 - kritika cerkve; hočejo povedati, da cerkev ni nezmotljiva in da jo lahko dvomimo
 - kritika vraževerja, nestrpnosti in omejenosti
+Nastajali so saloni: krožki naprednega meščanstva
+- imeli so vitrine z "znanstvenimi" stvarmi npr. kosti...
+- Postalo je moderno **biti učen**
+V FRA nastane zbirka vseh terminov - enciklopedija
+- Denis Diderot
+- Jean d'Alembert
+Morali s skrivati svoje ideje (ker cerkvi niso bile všeč)
+- začnejo nastajati **Prostozidarske lože** ali **Framasoni** 
