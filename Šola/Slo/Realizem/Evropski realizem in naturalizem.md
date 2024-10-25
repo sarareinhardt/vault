@@ -16,5 +16,8 @@
 	- Einstein, Heisenberg, Schrodinger
 	- filozofija: v 19st. so različni filozofi analizirali svet in v ta namen naredili različne filozofske šole
 		- dialektični materializem (Marx) 
-			- dialektični: ker izpostavljajo neka nasprotja 
+			- dialektika: ker izpostavljajo neka nasprotja - način mišljenja
 			- materializem: ker govorijo o stvarnem/materialnem svetu
+		- utilitarizem
+			- Jeremy Bentham je utemeljitelj te šole
+		- empirizem
