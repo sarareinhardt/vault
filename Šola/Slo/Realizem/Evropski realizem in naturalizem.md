@@ -6,4 +6,5 @@
 	- iz tega izhaja *kapitalizem*
 - razvoj tehnike $\rightarrow$ razvoj naprav za hitrejšo proizvodnjo $\rightarrow$ dobimo *industrijo* (začne se industrijska revolucija)
 	- Ljudje, ki delajo v tovarnah so proletarci
-	- 
+- Prvi kritiki realizma
+	- Carl Marx, Engels
