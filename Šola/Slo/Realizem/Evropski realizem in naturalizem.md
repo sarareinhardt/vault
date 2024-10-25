@@ -8,3 +8,4 @@
 	- Ljudje, ki delajo v tovarnah so proletarci
 - Prvi kritiki realizma
 	- Carl Marx, Engels
+	- "Proletarci združite se" ni bilo, da bi se združili proti kapitalizmu, ampak proti izkoriščanju za namen bogatenja posameznikov
