@@ -3,3 +3,5 @@
 - l. 1830 se zgodi Julijska revolucija v Parizu, kasneje Marčna revolucija, zgodijo se zaradi naraščajoče mase nezadovoljnih ljudi - izvor nezadovoljno meščanstvo 
 - v tem obdobju se viša tudi življenjski standard (s tem mortaliteta, nataliteta... $\rightarrow$ veliko sprememb)
 - Meščanstvo $\rightarrow$ postane vse močnejše, ker so nosilci kapitala
+	- iz tega izhaja *kapitalizem*
+- 
