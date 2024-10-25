@@ -14,3 +14,7 @@
 - znanost - humanistične, naravoslovne, družboslovne, sociološke.......
 	- Darwin: evolucija - skrajno nasprotno z religijskimi idejami da nas je naredil Bog
 	- Einstein, Heisenberg, Schrodinger
+	- filozofija: v 19st. so različni filozofi analizirali svet in v ta namen naredili različne filozofske šole
+		- dialektični materializem (Marx) 
+			- dialektični: ker izpostavljajo neka nasprotja 
+			- materializem: ker govorijo o stvarnem/materialnem svetu
