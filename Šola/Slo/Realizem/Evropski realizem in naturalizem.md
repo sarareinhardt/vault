@@ -1,0 +1,5 @@
+- Evropski realizem (1830-1880)
+- Evropski naturalizem (po 1880)
+- l. 1830 se zgodi Julijska revolucija v Parizu, kasneje Marčna revolucija, zgodijo se zaradi naraščajoče mase nezadovoljnih ljudi - izvor nezadovoljno meščanstvo 
+- v tem obdobju se viša tudi življenjski standard (s tem mortaliteta, nataliteta... $\rightarrow$ veliko sprememb)
+- Meščanstvo $\rightarrow$ postane vse močnejše, ker so nosilci kapitala

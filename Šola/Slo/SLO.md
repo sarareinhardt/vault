@@ -4,3 +4,4 @@
 [[Srečko Kosovel]]
 [[Pevcu]]
 [[Realizem]]
+[[Evropski realizem in naturalizem]]
