@@ -9,3 +9,8 @@
 - Prvi kritiki realizma
 	- Carl Marx, Engels
 	- "Proletarci združite se" ni bilo, da bi se združili proti kapitalizmu, ampak proti izkoriščanju za namen bogatenja posameznikov
+- Osnovna ideja Marxa: Dokler ne prideš do 'idealnega sveta', kjer vlada komunizem moraš imeti socializem kot vmesno fazo 
+- Oktoberska revolucija - Lenin
+- znanost - humanistične, naravoslovne, družboslovne, sociološke.......
+	- Darwin: evolucija - skrajno nasprotno z religijskimi idejami da nas je naredil Bog
+	- Einstein, Heisenberg, Schrodinger
