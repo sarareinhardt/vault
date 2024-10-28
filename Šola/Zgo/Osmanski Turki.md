@@ -37,6 +37,5 @@ tags:
 - <font color="#c00000">Čilim</font><font color="#c00000">: </font>
 - <font color="#c00000">Ćuprija</font><font color="#c00000">:</font> most
 - <font color="#c00000">Čaršija</font><font color="#c00000">:</font> glavna trgovska ulica
-- <font color="#c00000">Mahale:</font> stanovanjske soseske in četrti
-- <font color="#c00000">Čaršija:</font>
+- <font color="#c00000">Mahale:</font> stanovanjske soseske in 
 - <font color="#c00000">Vakuf:</font> pravilo, da lahko ko umreš svoje premoženje podariš skupnosti. Iz tega denarja so gradili sirotišnice, bolnišnice...
