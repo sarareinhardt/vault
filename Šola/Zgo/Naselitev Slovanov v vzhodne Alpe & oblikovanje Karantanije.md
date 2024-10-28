@@ -9,4 +9,7 @@ Alpski Slovani se povežejo v 3 države:
 	- V. Slovani: Rusi, Belorusi, Ukrajinci
 	- J. Slovani: Srbi, Hrvati, Slovenci
 	- Z. Slovani: Poljaki, Slovaki, Čehi, Slovenci
-- 
+**Random intermission?**
+###### <font color="#c00000">Koliščarji</font>
+- vrhunec 2800 pr. n. št. (takrat se v Egiptu gradi piramide)
+- prvi obrtniki in kmetovalci na našem ozemlju
