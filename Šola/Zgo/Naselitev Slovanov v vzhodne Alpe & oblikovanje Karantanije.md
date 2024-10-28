@@ -13,3 +13,7 @@ Alpski Slovani se povežejo v 3 države:
 ###### <font color="#c00000">Koliščarji</font>
 - vrhunec 2800 pr. n. št. (takrat se v Egiptu gradi piramide)
 - prvi obrtniki in kmetovalci na našem ozemlju
+- Za njimi so 
+	- Kelti (na S - Valižani, Irci, Švica, Avstrija, Francija) in 
+	- Iliri (na J, cel Balkan je ilirski) 
+		- Kelti na našem prostoru so bili #noričani bili so spretni v obdelovanju kovin - Rimljani so imeli z njimi pogoste trgovske stike, na s 
