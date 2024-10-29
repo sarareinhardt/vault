@@ -23,6 +23,9 @@ Alpski Slovani se povežejo v 3 države:
 	- Iliri (na J, cel Balkan je ilirski) 
 		- Kelti na našem prostoru so bili #noričani bili so spretni v obdelovanju kovin - Rimljani so imeli z njimi pogoste trgovske stike $\rightarrow$ pogosto so hodili čez naše ozemlje. Na S. apeninskega polotoka so nato postavili #akvileja-aka-oglej - ključ, da so prodrli v naše etnične prostore - mejo hoččejo prestaviti bolj proti V. Imeli so gospodarske obrambene in ozemeljske interese na našem ozemlju zgradijo **cestno omrežje** ob cesti pa vojaške tabore in iz njih mesta (Emona, Poetovio, Celeia... Poetovio je bil prestolnica province panonije.
 		- Rimljani imajo 2 poti do Slovanov?? Vzrok: nudijo jantar, med, sužnje
-		- Rimlja ni so ustanovili 3 province na našem ozemlju: **Norik, Panonija Regio 10/Venetia**
+		- Rimlja ni so ustanovili 3 province na našem ozemlju: **Norik, Panonija Regio 10/Venetia** (na Z)
 	- Nato gredo čez naŝe ozemlje **Germani** $\rightarrow$ 3. st. propad cest
 	- v 6. stol po selitvi Germanov se na naše ozemlje naselijo slovani
+     $\rightarrow$ takrat alpski slovani zasedejo $70.000 km^2$ prostora - naše ozemlje, Avstrija, Trst do balatona + Da S do Dunajskega gozda 
+     - prostor je bil takrat zel ozaraščen z gozdom, imel malo obdelovalnih površin.
+     - 2 seltiverni središči : ****
