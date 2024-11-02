@@ -42,3 +42,4 @@ Alpski Slovani se povežejo v 3 države:
 		2. po l. 585 iz **Balkana** 2. val J Slovanov (po 580 se odselijo Langobardi & Slovani pridejo za njimi)
 		- Obe kulturi se pri tem zmešata - mi smo potomci obeh
 - Slovani se povežejo z #Obri/Avari - azijsko konjeniško ljudstvo Slovani se z njimi povežejo v (plemensko?) zvezo, ki jo Avari prekinejo, ko se tja naselijo
+- Slovani s sužnji ravnajo lepo (staroselci, kristjani) - edina institucija, ki se je ohrani
