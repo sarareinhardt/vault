@@ -21,11 +21,18 @@ Alpski Slovani se povežejo v 3 države:
 - Za njimi so 
 	- Kelti (na S - Valižani, Irci, Švica, Avstrija, Francija) in 
 	- Iliri (na J, cel Balkan je ilirski) 
-		- Kelti na našem prostoru so bili #noričani bili so spretni v obdelovanju kovin - Rimljani so imeli z njimi pogoste trgovske stike $\rightarrow$ pogosto so hodili čez naše ozemlje. Na S. apeninskega polotoka so nato postavili #akvileja-aka-oglej - ključ, da so prodrli v naše etnične prostore - mejo hoččejo prestaviti bolj proti V. Imeli so gospodarske obrambene in ozemeljske interese na našem ozemlju zgradijo **cestno omrežje** ob cesti pa vojaške tabore in iz njih mesta (Emona, Poetovio, Celeia... Poetovio je bil prestolnica province panonije.
+		- Kelti na našem prostoru so bili #noričani bili so spretni v obdelovanju kovin - Rimljani so imeli z njimi pogoste trgovske stike $\rightarrow$ pogosto so hodili čez naše ozemlje. Na S. apeninskega polotoka so nato postavili #akvileja-aka-oglej - ključ, da so prodrli v naše etnične prostore - mejo hočejo prestaviti bolj proti V. Imeli so gospodarske obrambene in ozemeljske interese na našem ozemlju zgradijo **cestno omrežje** ob cesti pa vojaške tabore in iz njih mesta (Emona, Poetovio, Celeia... Poetovio je bil prestolnica province Panonije.
 		- Rimljani imajo 2 poti do Slovanov?? Vzrok: nudijo jantar, med, sužnje
-		- Rimlja ni so ustanovili 3 province na našem ozemlju: **Norik, Panonija Regio 10/Venetia** (na Z)
-	- Nato gredo čez naŝe ozemlje **Germani** $\rightarrow$ 3. st. propad cest
-	- v 6. stol po selitvi Germanov se na naše ozemlje naselijo slovani
-     $\rightarrow$ takrat alpski slovani zasedejo $70.000 km^2$ prostora - naše ozemlje, Avstrija, Trst do balatona + Da S do Dunajskega gozda 
-     - prostor je bil takrat zel ozaraščen z gozdom, imel malo obdelovalnih površin.
-     - 2 seltiverni središči : ****
+		- Rimljani so ustanovili 3 province na našem ozemlju: **Norik, Panonija Regio 10/Venetia** (na Z)
+	- Nato gredo čez naše ozemlje **Germani** $\rightarrow$ 3. st. propad rimske infrastrukture (ceste...)
+	- v 6. stol po selitvi Germanov se na naše ozemlje naselijo Slovani
+     $\rightarrow$ takrat alpski Slovani zasedejo $70.000 km^2$ prostora - naše ozemlje, Avstrija, Trst do Balatona + Da S do Dunajskega gozda 
+     - prostor je bil takrat zelo zaraščen z gozdom, imel malo obdelovalnih površin.
+     - 2 naselitveni jedri:
+	     1. **Okolica Kranja
+	     2. **Današnje gosposvetsko polje** (obdelovalne površine)
+	-  oblikujeta se 2 slovanski državi
+		- **Karantanija** (Z. Slovani, Celovec)
+		- **Karniola** (J. Slovani, Kranj)
+	- 2 naselitvena vala:
+		1. po 
