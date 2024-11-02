@@ -3,6 +3,7 @@ tags:
   - Krnski-grad
   - Knez
   - Kosez
+  - prvaki
 ---
 
 - središče nad **Gosposvetskim poljem**, kjer je stal #Krnski-grad
@@ -14,4 +15,16 @@ tags:
 - $\rightarrow$ demokratično, ker kneza izbere ljudstvo
 ##### <font color="#c00000">Slovanska družba:</font>
 - Vse ljudstvo je svobodno, malo sužnjev $\rightarrow$ tisti ki so so kot člani družine; enake pravice, udobje $\rightarrow$ kasneje jih osvobodijo in grejo lahko kamorkoli. Majhen deček = hlapec
-- 
+- karantanija je samostojna 100 let (820 izgubi samostojnost)
+- Sloji:
+	- vrhnji: knezi in #prvaki (= vojaško plemstvo)
+	- umesni: kosezi - živijo nepodrejeno z voditelji na drugih lokacijah v kosezah
+	- spodnji: svobodnjaki, sužnji (svobodni) $\rightarrow$ tlačani
+- #vojvodski-stol/prestol - tam kjer po osvojitviji Karantanije Germani ustoličijo svoje vladarje - simbol izgube karantanske samostojnosti in Frankovske nadoblasti
+- #Valuk = prvi karantanski knez
+- na Z: Langobardi
+- SZ Germani/Bavarci
+- SV Slovani (Čehi)
+- V Obri (Karel veliki jih potisnil v panonsko nižino)
+- J Hrvati
+- 743 se knez **Borut
