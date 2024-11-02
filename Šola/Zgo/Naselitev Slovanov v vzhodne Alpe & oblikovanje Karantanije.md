@@ -1,6 +1,8 @@
 ---
 tags:
   - akvileja
+  - 2-naselitvena-vala
+  - akvileja-aka-oglej
 ---
 
 Alpski Slovani se povežejo v 3 države: 
@@ -19,8 +21,8 @@ Alpski Slovani se povežejo v 3 države:
 - vrhunec 2800 pr. n. št. (takrat se v Egiptu gradi piramide)
 - prvi obrtniki in kmetovalci na našem ozemlju
 - Za njimi so 
-	- Kelti (na S - Valižani, Irci, Švica, Avstrija, Francija) in 
-	- Iliri (na J, cel Balkan je ilirski) 
+	- <font color="#c00000">Kelti</font> (na S - Valižani, Irci, Švica, Avstrija, Francija) in 
+	- <font color="#c00000">Iliri</font> (na J, cel Balkan je ilirski) 
 		- Kelti na našem prostoru so bili #noričani bili so spretni v obdelovanju kovin - Rimljani so imeli z njimi pogoste trgovske stike $\rightarrow$ pogosto so hodili čez naše ozemlje. Na S. apeninskega polotoka so nato postavili #akvileja-aka-oglej - ključ, da so prodrli v naše etnične prostore - mejo hočejo prestaviti bolj proti V. Imeli so gospodarske obrambene in ozemeljske interese na našem ozemlju zgradijo **cestno omrežje** ob cesti pa vojaške tabore in iz njih mesta (Emona, Poetovio, Celeia... Poetovio je bil prestolnica province Panonije.
 		- Rimljani imajo 2 poti do Slovanov?? Vzrok: nudijo jantar, med, sužnje
 		- Rimljani so ustanovili 3 province na našem ozemlju: **Norik, Panonija Regio 10/Venetia** (na Z)
@@ -28,11 +30,14 @@ Alpski Slovani se povežejo v 3 države:
 	- v 6. stol po selitvi Germanov se na naše ozemlje naselijo Slovani
      $\rightarrow$ takrat alpski Slovani zasedejo $70.000 km^2$ prostora - naše ozemlje, Avstrija, Trst do Balatona + Da S do Dunajskega gozda 
      - prostor je bil takrat zelo zaraščen z gozdom, imel malo obdelovalnih površin.
-     - 2 naselitveni jedri:
+     -<font color="#c00000"> 2 naselitveni jedri:</font>
 	     1. **Okolica Kranja
 	     2. **Današnje gosposvetsko polje** (obdelovalne površine)
-	-  oblikujeta se 2 slovanski državi
+	- <font color="#c00000"> oblikujeta se 2 slovanski državi</font>
 		- **Karantanija** (Z. Slovani, Celovec)
 		- **Karniola** (J. Slovani, Kranj)
-	- 2 naselitvena vala:
-		1. po 
+	- #2-naselitvena-vala
+		1. po l. 550 skozi **Moravska vrata** 1. val Z Slovanov$\rightarrow$ s tem izpodrinejo Langobarde , ki grejo proti S
+		2. po l. 585 iz **Balkana** 2. val J Slovanov (po 580 se odselijo Langobardi & Slovani pridejo za njimi)
+		- Obe kulturi se pri tem zmešata - mi smo potomci obeh
+- Slovani se povežejo z bri/avari
