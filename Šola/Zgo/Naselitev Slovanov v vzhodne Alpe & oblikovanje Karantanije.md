@@ -4,6 +4,8 @@ tags:
   - 2-naselitvena-vala
   - akvileja-aka-oglej
   - Obri/Avari
+  - samova-plemenska-zveza
+  - Vinedorum
 ---
 
 Alpski Slovani se povežejo v 3 države: 
@@ -46,5 +48,6 @@ Alpski Slovani se povežejo v 3 države:
 	- prva slovanska politična tvorba
 	- **Samo - kralj, frankovski trgovec**
 	- l. 658 z njegovo smrtjo zveza razpade
-	- Po razpadu zveze si večino Slovanov podredijo Avari - samostojnost ohranijo samo Slovani ob Alpah - 
-- Slovani s sužnji ravnajo lepo (staroselci, kristjani) - edina institucija, ki se je ohranila je bila cerkev, bežijo k morju Alpe Slovani prevzamejo rimsko kmetijsko tehnologijo (omogoči ustalitev)
+	- Po razpadu zveze si večino Slovanov podredijo Avari - samostojnost ohranijo samo Slovani ob Alpah - marka #Vinedorum - iz nje nastane Karantanija in pod njo Karniola
+	- #Valuk - knez, ki vodi alpske Slovane
+- Slovani s sužnji ravnajo lepo (staroselci, kristjani) - edina institucija, ki se je ohranila je bila cerkev, bežijo k morju Alpe Slovani prevzamejo rimsko kmetijsko tehnologijo (omogoči ustalitev) 

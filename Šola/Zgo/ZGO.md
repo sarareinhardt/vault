@@ -2,3 +2,4 @@
 - [[Osmanski Turki]]
 - [[Kmečki upori na slovenskem]]
 - [[Razsvetljenstvo]] 
+- [[Karantanija]]
