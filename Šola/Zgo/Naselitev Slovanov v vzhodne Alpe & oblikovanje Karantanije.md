@@ -42,4 +42,5 @@ Alpski Slovani se povežejo v 3 države:
 		2. po l. 585 iz **Balkana** 2. val J Slovanov (po 580 se odselijo Langobardi & Slovani pridejo za njimi)
 		- Obe kulturi se pri tem zmešata - mi smo potomci obeh
 - Slovani se povežejo z #Obri/Avari - azijsko konjeniško ljudstvo Slovani se z njimi povežejo v (plemensko?) zvezo, ki jo Avari prekinejo, ko se tja naselijo
-- Slovani s sužnji ravnajo lepo (staroselci, kristjani) - edina institucija, ki se je ohranila je bila cerkev, bežijo k morjuv Alpe Slovani prevzamejo rimsko kmetijsko tehnologijo
+- Ker so se Avari obrnili proti njim nastane #samova-plemenska-zveza (trgovec samo ugotovi da so Avari problem in slovanska plemena poveže v zvezo, ki je trajala 30 let, bila je tudi za obrambo proti **frankovskim napadom**) - zgodnji primer slovanske politične organizacije
+- Slovani s sužnji ravnajo lepo (staroselci, kristjani) - edina institucija, ki se je ohranila je bila cerkev, bežijo k morju Alpe Slovani prevzamejo rimsko kmetijsko tehnologijo (omogoči ustalitev)
