@@ -44,4 +44,7 @@ Alpski Slovani se povežejo v 3 države:
 - Slovani se povežejo z #Obri/Avari - azijsko konjeniško ljudstvo Slovani se z njimi povežejo v (plemensko?) zvezo, ki jo Avari prekinejo, ko se tja naselijo
 - Ker so se Avari obrnili proti njim nastane #samova-plemenska-zveza (trgovec samo ugotovi da so Avari problem in slovanski klani povežejo v plemena ta pa v plemensko zvezo, ki je trajala 30 let, bila je tudi za obrambo proti **frankovskim napadom**) $\rightarrow$ združitev zahodnih Slovanov
 	- prva slovanska politična tvorba
+	- **Samo - kralj, frankovski trgovec**
+	- l. 658 z njegovo smrtjo zveza razpade
+	- Po razpadu zveze si večino Slovanov podredijo Avari - samostojnost ohranijo samo Slovani ob Alpah - 
 - Slovani s sužnji ravnajo lepo (staroselci, kristjani) - edina institucija, ki se je ohranila je bila cerkev, bežijo k morju Alpe Slovani prevzamejo rimsko kmetijsko tehnologijo (omogoči ustalitev)
