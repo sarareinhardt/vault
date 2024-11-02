@@ -3,6 +3,7 @@ tags:
   - akvileja
   - 2-naselitvena-vala
   - akvileja-aka-oglej
+  - Obri/Avari
 ---
 
 Alpski Slovani se povežejo v 3 države: 
@@ -40,4 +41,4 @@ Alpski Slovani se povežejo v 3 države:
 		1. po l. 550 skozi **Moravska vrata** 1. val Z Slovanov$\rightarrow$ s tem izpodrinejo Langobarde , ki grejo proti S
 		2. po l. 585 iz **Balkana** 2. val J Slovanov (po 580 se odselijo Langobardi & Slovani pridejo za njimi)
 		- Obe kulturi se pri tem zmešata - mi smo potomci obeh
-- Slovani se povežejo z bri/avari
+- Slovani se povežejo z #Obri/Avari - azijsko konjeniško ljudstvo Slovani se z njimi povežejo v (plemensko?) zvezo, ki jo Avari prekinejo, ko se tja naselijo
