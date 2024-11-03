@@ -42,5 +42,6 @@ tags:
 po smrti K. Velikega pridejo šibki vladarji - država propade
 **Furlanski** mejni grof hoče da se Karantanci in karniolci odcepijo, te se uprejo, zgubijo. Sledi
 - Fevdalizacija - njihov prosor si razdelijo germanski fevdalci
-- Kolonizacija $\rightarrow$ s fevdalizacijo (po)
+- Kolonizacija $\rightarrow$ s fevdalizacijo (pošljejo tja kmete)
 - Germanizacija
+- Pokristjanjevanje
