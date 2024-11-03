@@ -46,3 +46,9 @@ po smrti K. Velikega pridejo šibki vladarji - država propade
 - Germanizacija
 - Pokristjanjevanje
 - dokončno izgubijo samostojnost
+
+Po izgubi samostojnosti ozemlje karantanije, karniole, spodnje panonije dobi 
+**Arnulf Koroški/hudobni**
+- ima V. FRA in ustvari **Karantansko kraljestvo
+karantanske plemiče vzame za vojake 
+karant. kmete poniža v tlačane
