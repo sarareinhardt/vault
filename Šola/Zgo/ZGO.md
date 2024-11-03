@@ -2,6 +2,6 @@
 - [[Karantanija]]
 - [[Celjski grofje]]
 - [[Habsburžani (v SLO prostoru)]]
-- [[Osmanski Turki]]
+- [[Turki (Osmansko cesarstvo)]]
 - [[Kmečki upori na slovenskem]]
 - [[Razsvetljenstvo]] 

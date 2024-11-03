@@ -4,6 +4,7 @@ tags:
 ---
 
 - pasjeglavci, stekli psi, krvoločneži $\rightarrow$ izrazi, ki so se jih prijeli zaradi njihovih dejanj
+- v 15. in 16. stol povzročijo grozodejstva na SLO prostoru
 - **<font color="#c00000">Devširma</font>** $\rightarrow$ krvni davek $\rightarrow$ sistematično zbiranje nemuslimanskih otrok v Osmanskem cesarstvu in njihovo prisilno spreobračanje v islam  $\rightarrow$ končni cilj pridobivanje vojske suženjskih vojakov – #janičarjev in razred sultanu zvestih državnih uradnikov.
 - turško cesarstvo v letih 1300 - 1571: <font color="#c00000">Seldžuki</font> - turki iz Azije tisti ki so prvi prišli in začeli zavzematu ozemlje
 	- Osman v 14. stol počasi priključuje iz Jeruzalema maloazijske Turke.
