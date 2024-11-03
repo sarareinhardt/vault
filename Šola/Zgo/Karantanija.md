@@ -74,4 +74,4 @@ Kako povezati ozemlje/premagati druge fevdalce:
 - z orožjem; s kupovanjem
 - pogodba (dedna) če izumrejo dobiš inn kontra
 - pridobitev enotnega prava od cesarja
-Ko imaš povezano o
+Ko imaš povezano ozemlje dobiš moč in možnost za status **DEŽELNEGA KNEZA**
