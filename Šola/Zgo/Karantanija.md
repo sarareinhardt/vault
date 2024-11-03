@@ -50,5 +50,7 @@ po smrti K. Velikega pridejo šibki vladarji - država propade
 Po izgubi samostojnosti ozemlje karantanije, karniole, spodnje panonije dobi 
 **Arnulf Koroški/hudobni**
 - ima V. FRA in ustvari **Karantansko kraljestvo
-karantanske plemiče vzame za vojake 
+karantanske plemiče vzame za vojake** -> fevdalci
 karant. kmete poniža v tlačane
+843 frankovska država s **Strassburško** prisego razbade na J, V in S frankovsko državo
+RNC = V. Frankovska država
