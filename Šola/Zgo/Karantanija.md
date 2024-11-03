@@ -75,3 +75,4 @@ Kako povezati ozemlje/premagati druge fevdalce:
 - pogodba (dedna) če izumrejo dobiš inn kontra
 - pridobitev enotnega prava od cesarja
 Ko imaš povezano ozemlje dobiš moč in možnost za status **DEŽELNEGA KNEZA**
+#deželni-knez = fevdalec, ki se povzpe nad vse druge & jih premaga, potrjuje ga tudi sam cesar
