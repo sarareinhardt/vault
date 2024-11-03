@@ -45,3 +45,4 @@ po smrti K. Velikega pridejo šibki vladarji - država propade
 - Kolonizacija $\rightarrow$ s fevdalizacijo (pošljejo tja kmete)
 - Germanizacija
 - Pokristjanjevanje
+- dokončno izgubijo samostojnost
