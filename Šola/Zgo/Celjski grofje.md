@@ -7,5 +7,7 @@ Habsburški je v obdobju interregnuma (1843) nastavljen kot 'lutka' za vladarja 
 	- s tem dobijo moč in začnejo načrtno oblikovanje dinastije
 	- **Herman 2.** najpomembnejši - širil posest na balkan: poroke z hrvaticami, bosankami
 	- Ob poskusu zasedanja ogrskega prestola naredijo atentat na zadnjega celjskega grofa s čimer se konča njihova dinastija
-	- Hči Hermana 2. Barbara se poroči s cesarjem Zigismundom Luksemburškim & postavila celjane na vrh Evr. fevdalcev
-	- 
+	- Hči Hermana 2. Barbara se poroči s cesarjem Zigismundom Luksemburškim & postavila celjane na vrh Evr. fevdalcev poročil se je ker mu je Herman rešl življenje
+	- Friderik 2. (Hermanov sin) je bil namenjen za pridobivanje zemlje. Poročil hrvaško plemkinjo -> ni je maral -> umrla v neznanih okoliščinah -> želel poročiti drugo nižjo plemkinjo -> oče preganjal, ujel, zaprl v stolp
+		- ta nižja plemkinja je bila veronika deseniška, ki jo (Herman?) obtoži čarovništva
+	- oblast prevzame Friderikov sin Ulrik, ki si sploh ne želi postati cesar, a ga habsburžani vseeno ubijejo
