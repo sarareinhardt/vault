@@ -14,7 +14,7 @@
 - [x] CPP
 - [x] FIZ
 - [x] MAT+ trikotnik
-- [x] Psi zrihtaj zvezek
-- [x] lekarna: gel za obraz scetja, cera ve
+- [ ] Psi zrihtaj zvezek
+- [ ] lekarna: gel za obraz scetja, cera ve
 - [ ] PSI
 - [ ] FIZ
