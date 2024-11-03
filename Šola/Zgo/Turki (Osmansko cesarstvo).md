@@ -7,7 +7,8 @@ tags:
 - v 15. in 16. stol povzročijo grozodejstva na SLO prostoru
 - **<font color="#c00000">Devširma</font>** $\rightarrow$ krvni davek $\rightarrow$ sistematično zbiranje nemuslimanskih otrok v Osmanskem cesarstvu in njihovo prisilno spreobračanje v islam  $\rightarrow$ končni cilj pridobivanje vojske suženjskih vojakov – #janičarjev in razred sultanu zvestih državnih uradnikov.
 - Martin Krpan - predstavlja obrambo naših prostorov proti turkom
-- turško cesarstvo v letih 1300 - 1571: <font color="#c00000">Seldžuki</font> - turki iz Azije tisti ki so prvi prišli in začeli zavzematu ozemlje
+- turki - nomadi iz Azije; v 8. st se selijo proti z, v 11. st proti Iranu, Iraku ( #Seldžuški-Turki)
+- osmanski turki so del velike skupine Seldžuških Turkov1
 	- Osman v 14. stol počasi priključuje iz Jeruzalema maloazijske Turke.
 	- 1453 jim uspe osvojiti še Bizanc (tako pozno zaradi trojnega obzidja, grški ogenj...)- propar bizantinskega cesarstva in s tem propad original Rimljanov.
 	- 1389 bitka na Kosovem polju združili so se balkanski veliki fevdalci, Turki so imeli (uspešno) taktiko da so fevdalce različnih balkanskih držav sprli med sabo. Matija Kurvin na vojsko zamudi in zato zgubijo vojno, vendar so uspeli ubiti turškega sultana Murata. To je zato kljub izgubi (ker se je sultanov sin še naprej boril) srbski nacionalni praznik (a win is a win).
