@@ -67,3 +67,11 @@ Nastale v 10. stol, šele v 15. se uveljavijo
 - Ozemlje razdeli na #grofije in ustanovi #mejne-grofije/vojne-krajine
 	- Grofje ki jih vodijo so mejni grofje
 - Vojvodina koroška ali neuradno Velika Karantanija zasega ozemlje vseh alpskih slovanov in spodnje panonije je pomemben zaradi obrambne funkcije
+Pogoj da postaneš mejni grof je da združiš skupino fevdalcev, ki se ti podredijo - povežeš razdrobljeno ozemljež
+imaš posvetne in cerkvene fevdalce
+Kako povezati ozemlje/premagati druge fevdalce:
+- poroke - kupiš ozemlje daš hči
+- z orožjem; s kupovanjem
+- pogodba (dedna) če izumrejo dobiš inn kontra
+- pridobitev enotnega prava od cesarja
+Ko imaš povezano o
