@@ -27,4 +27,7 @@ tags:
 - SV Slovani (Čehi)
 - V Obri (Karel veliki jih potisnil v panonsko nižino)
 - J Hrvati
-- 743 se knez **Borut
+- 743 se knez **Borut** zaradi **Obrov** obrne za vojaško pomoč k **Bavarcem**, ki so v zameno hoteli imeti karantanijo v nadoblasti (njihovi obredi, notranja politika je še vedno samostojna le Bavarci so morali odobriti kneza)
+- #Tasilo = bavarski voditelj ko so pomagali Karantancem
+	- On vzame Borutovega sina **Gorazda**, nato še **Hotimirja** za garancijo, da bo Karantanija še vedno pod Bavarci
+- Po Borutovi smrti ga nadomesti Gorazd, ki je s Hotimirjem naredil načrt, da se bo Karantanija pokristjanila $\rightarrow$ pokliče **Virgila**, #Modest ta pa pošlje škofa Modesta 
