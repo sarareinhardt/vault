@@ -2,7 +2,7 @@
 tags:
   - bund
 ---
-
+BAUERN.BUND - kmečka zveza
 #### <font color="#c00000">1478 Koroški kmečki upor</font>
 - na Koroškem, središče v Beljaku
 - Kmetje so v uporu izvolili vodstvo kmečke zveze in sicer vplivno koroško kmečko družino Simetinger, postavljali so svoja sodišča ter zahtevali vpliv nad Cerkvijo, ki naj bi ga pridobili z izvolitvijo župnikov
