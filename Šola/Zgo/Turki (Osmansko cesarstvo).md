@@ -23,7 +23,8 @@ tags:
 				1. bitka pri **SISKU**
 				2. bitka na morju pri **LEPANTU**
 				To sta bili odločilni bitki - zmagajo križarske sile
-taktika habsburškega vladanja:
+Trge povišajo v status mesta $\rightarrow$ lahko si zgradijo obzidje
+#Tabor okrog cerkve sezidano obzidje, obrambni stolp
 - Kmetje so tvorili <font color="#c00000">črno vojsko</font>, ki je bila zelo slabo oborožena, da se nebi kmetje z orožjem obrnili proti oblasti
 	- kmetje so okoli cerkve sezidali obzidje, včasih tudi obrambne stolpe kar je tvorilo proti turške tabore (takih so zgradili 350)
 	-  signalizazija napadov: turški zvonovi, kresovi. V Bosni so organizirali vohunsko mrežo
