@@ -31,3 +31,16 @@ tags:
 - #Tasilo = bavarski voditelj ko so pomagali Karantancem
 	- On vzame Borutovega sina **Gorazda**, nato še **Hotimirja** za garancijo, da bo Karantanija še vedno pod Bavarci
 - Po Borutovi smrti ga nadomesti Gorazd, ki je s Hotimirjem naredil načrt, da se bo Karantanija pokristjanila $\rightarrow$ pokliče **Virgila**, #Modest ta pa pošlje škofa Modesta 
+
+
+
+
+
+
+
+
+po smrti K. Velikega pridejo šibki vladarji - država propade
+**Furlanski** mejni grof hoče da se Karantanci in karniolci odcepijo, te se uprejo, zgubijo. Sledi
+- Fevdalizacija - njihov prosor si razdelijo germanski fevdalci
+- Kolonizacija $\rightarrow$ s fevdalizacijo (po)
+- Germanizacija
