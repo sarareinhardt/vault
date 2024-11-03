@@ -64,4 +64,6 @@ Nastale v 10. stol, šele v 15. se uveljavijo
 - Nastanejo kot posledica osamosvojitve fevdalcev (pogoj imaš potomce da oblast predaš v naslednji rod) npr. Celjski grofi
 899 na RNC prostor vdrejo Obri, njihov vdor l. 955 ustavi Oton 1. v  #Bitki-na-leškem-polju
 - V 50 letih od udora do bitke oton želi utrditi oblast in vdor trajno preprečiti.
-- Ozemlje razdeli na #grofije in ustanovi #mejne-grofije/vojne-krajine 
+- Ozemlje razdeli na #grofije in ustanovi #mejne-grofije/vojne-krajine
+	- Grofje ki jih vodijo so mejni grofje
+- Vojvodina koroška ali neuradno Velika Karantanija zasega ozemlje vseh alpskih slovanov in spodnje panonije je pomemben zaradi obrambne funkcije
