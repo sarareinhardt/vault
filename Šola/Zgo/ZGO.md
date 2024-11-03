@@ -1,6 +1,6 @@
 - [[Naselitev Slovanov v vzhodne Alpe & oblikovanje Karantanije]]
 - [[Karantanija]]
-- [[Celjski grofi]]
+- [[Celjski grofje]]
 - [[Osmanski Turki]]
 - [[Kmečki upori na slovenskem]]
 - [[Razsvetljenstvo]] 
