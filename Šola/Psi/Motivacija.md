@@ -15,3 +15,7 @@ Potreba $\rightarrow$ Javljanje potrebe (skozi občutke) $\rightarrow$ Zavedanje
 #Motiv = doživeta potreba (čutimo nelagodje), usmerjena h cilju, od katerega pričakujemo da bomo z njegovo zadovoljitvijo zadovoljili tudi potrebo
 #Motivacijski-cilj = predmeti in situacije za katere pričakujemo, da bodo zadovoljili našo potrebo
 #Želja= predstava o cilju, ki nam prinese zadovoljstvo
+
+| Fiziološke potrebe                                                                                   | Psihosocialne potrebe                               |
+| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| - so prirojene<br>- so univerzalne<br>Delimo jih na:<br>- potreba po ohranitvi človekovega življenja | - so povezane s človekovim življenjem v skupini<br> |
