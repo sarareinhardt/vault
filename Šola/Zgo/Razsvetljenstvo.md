@@ -43,4 +43,6 @@ Intenzivna pohlepnost se začne v dobi kovin, ker tista skupina, ki je imela kov
 
 Charles de Montesquieu
 Delo: v duhu zakonov - ukvarja se z vprašanjem kakšna oblika državne ureditve je idealna za širšo populacijo
-- takrat je bila v FRA še vedno absolutna monarhija, kjer so bili vladarji prepričani, da lahko delajo karkoli, ker jim je 'bog dal oblast' nalagajo ljudem davke, da lahko prirejajo zabave na dvoru, ljubimke..... Značilno za ludvika
+Pravi, da ni pomembno za kakšno obliko družbe gre pomembno je samo da so veje oblasti v državi ločene in neodvisne (sodna, izvršilna, zakonodajna veja oblasti), kajti, če ima ena oseba vsaj 2 veji oblasti dobimo diktaturo (ne more ena sama oseba odločati o vsemu)
+Kdaj si lahko izvršilna veja oblasti prilasti več kot ima v osnovi? V času vojne - stanje izrednih razmer: vlada z odloki sprejema odločitve
+- takrat je bila v FRA še vedno absolutna monarhija, kjer so bili vladarji prepričani, da lahko delajo karkoli, ker jim je 'bog dal oblast' nalagajo ljudem davke, da lahko prirejajo zabave na dvoru, ljubimke..... Značilno za Ludvika XV. Sledi Ludvik XVI (poročen z Marijo Antoineto - najmlajša hči Marije Terezije)
