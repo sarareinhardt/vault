@@ -4,3 +4,8 @@
 - **Širitev realizma**: Začel se je v Franciji, nato se razširil v Nemčijo, Anglijo, Rusijo in druge dežele. Ključni avtorji: Balzac, Dickens, Gogolj, Tolstoj.
 - **Objektivni realizem**: Po letu 1850 so pisatelji težili k nepristranskemu prikazu stvarnosti (Flaubert, Thackeray).
 - **Psihološki realizem**: Dostojevski je raziskoval človeško psiho in eksistencialna vprašanja.
+Osredotoča se na to da realistično predstaviš človeka, a da to narediš s kritičnim pristopom
+- vpliv družbenih okoliščin na posameznika (npr otrok ki je odrasel v revščini v tistem času nima pametnih možnosti, da bi obogatel kasneje v življenju)
+- zanimajo jih vsakdanje osebe
+- kritičnost: čim bolj objektivno kritični (čeprav je kritičnost ponavadi subjektivna)
+- psihologija: odnosi med ljudmi - 

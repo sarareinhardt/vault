@@ -18,15 +18,10 @@
 **Sloji**:
 
 - _Vrhnji_: knezi in #prvaki (vojaško plemstvo).
-    
 - _Vmesni_: #kosezi – živijo nepodrejeno z voditelji na drugih lokacijah v kosezah.
-    
 - _Spodnji_: svobodnjaki, sužnji (svobodni), ki kasneje postanejo _tlačani_.
-    
 - **#Vojvodski-stol/prestol** – tam, kjer po osvojitvi #Karantanije Germani ustoličijo svoje vladarje, kar simbolizira izgubo karantanske samostojnosti in Frankovsko nadoblast.
-    
 - **#Valuk** – prvi karantanski #knez.
-    
 
 **Sosedje**:
 - Na zahodu: #Langobardi.
@@ -50,13 +45,9 @@ Po smrti Karla Velikega pridejo šibki vladarji, in država propade. **#Furlansk
 ---
 
 Po izgubi samostojnosti ozemlje #Karantanije, #Karniole in spodnje #Panonije dobi **#Arnulf Koroški/hudobni**.
-
 - Vzpostavi #Karantansko-kraljestvo, vzame karantanske plemiče za vojake (fevdalci), kmete pa poniža v tlačane.
-
 Leta 843 se **frankovska država** z **#Strassburško prisego** razdeli na južno, vzhodno in severno Frankovsko državo.
-
 **#RNC** (vzhodna Frankovska država):
-
 - Na našem ozemlju se prostor razdeli na 4 glavne #dežele (države znotraj #RNC):
     - #Koroška – Celovec.
     - #Kranjska – Ljubljana.
@@ -64,23 +55,13 @@ Leta 843 se **frankovska država** z **#Strassburško prisego** razdeli na južn
     - #Goriška.
 
 Te #dežele nastanejo v 10. stoletju, uveljavijo pa se šele v 15. stoletju, kot posledica osamosvojitve fevdalcev (pogoj: imeti potomce za prenos oblasti v naslednji rod, npr. #Celjski-grofi).
-
----
-
 Leta 899 na prostor #RNC vdrejo #Obri, njihov vdor leta 955 ustavi **#Oton I.** v #Bitki-na-leškem-polju.
-
 - V 50 letih od vdora do bitke #Oton utrdi oblast in trajno prepreči vdor.
 - Ozemlje razdeli na #grofije in ustanovi #mejne-grofije/#vojne-krajine, ki jih vodijo mejni grofje.
-
 **#Vojvodina-Koroška** ali neuradno #Velika-Karantanija obsega ozemlje vseh alpskih Slovanov in spodnje #Panonije. Ima pomembno obrambno funkcijo. Pogoj za postati mejni grof je združitev fevdalcev, ki se podredijo, s tem povežeš razdrobljeno ozemlje in imaš posvetne in cerkvene fevdalce.
-
 **Poti za povezovanje ozemlja/premagovanje fevdalcev**:
-
 - Poroke (kupovanje ozemlja, daš hči).
 - Z orožjem in kupovanjem.
 - Dedne pogodbe – če izumrejo, dobiš ozemlje.
 - Pridobitev enotnega prava od cesarja.
-
----
-
 Ko povežeš ozemlje, dobiš moč in možnost za status **#deželnega-kneza** – fevdalca, ki se povzpne nad vse druge in jih premaga, potrjuje ga tudi cesar.
