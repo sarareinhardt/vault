@@ -35,14 +35,24 @@ V FRA nastane zbirka vseh terminov - enciklopedija
 Morali s skrivati svoje ideje (ker cerkvi niso bile všeč)
 - začnejo nastajati **Prostozidarske lože** ali **Framasoni** (secret societies)
 	- imajo svoje znake s katerimi se prepoznajo
-Jean Jacques Rousseau
+#### <font color="#c00000">Jean Jacques Rousseau</font>
 Delo: družbena pogodba - govori kako smo vsi ljudje ob rojstvu dobri, ampak na neki točki razvoja postanemo slabi, pohlepni... Za vzrok tega določi osebno lastnino.
 Voditelj 'podpiše' družbeno pogodbo (se zaveže da se ljudje ne bodo , lahko jo tudi razklenemo -> voditelja odstavimo in družba je spet v *naravnem stanju* -> ne rabimo slepo slediti vladarju, lahko ga odstavimo -> utemeljuje revolucijo
 Intenzivna pohlepnost se začne v dobi kovin, ker tista skupina, ki je imela kovine (za orožje...) je bila v prednosti -> hoteli so jih imeti čim več (to je tudi ta točka na katero se sklicuje Rousseau)
 
 
-Charles de Montesquieu
+#### <font color="#c00000">Charles de Montesquieu</font>
 Delo: v duhu zakonov - ukvarja se z vprašanjem kakšna oblika državne ureditve je idealna za širšo populacijo
 Pravi, da ni pomembno za kakšno obliko družbe gre pomembno je samo da so veje oblasti v državi ločene in neodvisne (sodna, izvršilna, zakonodajna veja oblasti), kajti, če ima ena oseba vsaj 2 veji oblasti dobimo diktaturo (ne more ena sama oseba odločati o vsemu)
 Kdaj si lahko izvršilna veja oblasti prilasti več kot ima v osnovi? V času vojne - stanje izrednih razmer: vlada z odloki sprejema odločitve
 - takrat je bila v FRA še vedno absolutna monarhija, kjer so bili vladarji prepričani, da lahko delajo karkoli, ker jim je 'bog dal oblast' nalagajo ljudem davke, da lahko prirejajo zabave na dvoru, ljubimke..... Značilno za Ludvika XV. Sledi Ludvik XVI (poročen z Marijo Antoineto - najmlajša hči Marije Terezije)
+
+##### <font color="#c00000">Francois Aroulet Voltaire</font>
+Delo: Kandid ali Optimizem
+Dosegel da je kralj Friederik 2. začel uvajati razsvetljenske ideje v svoji državi - ni si upal realizirati v celotni državi je pa na svoji rodbinski posesti - jih je sprejel
+- kritičen do fevdalne družbe, absolutne monarhije
+- Zahteva uvedbo naravnega prava (osebna svoboda, življenje, lastnina)
+- Osvoboditev kmetov iz osebne odvisnosti (odprava podložništva)
+- zahteva odpravo privilegijev plemstva in duhovščine
+- Reforme naj izvaja vladar iz vrha (razsvetljeni absolutisti)
+- Zahteva ločitev cerkve in države
