@@ -8,4 +8,16 @@ Osredotoča se na to da realistično predstaviš človeka, a da to narediš s kr
 - vpliv družbenih okoliščin na posameznika (npr otrok ki je odrasel v revščini v tistem času nima pametnih možnosti, da bi obogatel kasneje v življenju)
 - zanimajo jih vsakdanje osebe
 - kritičnost: čim bolj objektivno kritični (čeprav je kritičnost ponavadi subjektivna)
-- psihologija: odnosi med ljudmi - 
+- psihologija: odnosi med ljudmi, posamezni družbeni razredi (odnos med zakoncema, proletarcem in plemičem...)
+- boj posameznika s svetom v katerem živi; če se rodiš v nekih okoliščinah (npr. revščini) se revščine verjetno ne bo rešil tudi kasneje v življenje - ne bo imel priložnosti za to. Tudi vpliv okoliščin (npr da imaš starše alkoholike) na osebnost
+Realizem se najbolj razvije v FRA ANG RUS
+Francozi:
+- Flaubert
+- Honoré de Balzac
+- Stendhal
+Angleži
+- Charles Dickens
+- William Thackeray
+Rusi:
+Nikolaj Vasiljevič
+Leon Nikolajev Tolstoj
