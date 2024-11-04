@@ -1,4 +1,0 @@
-- https://youtu.be/yye7rSsiV6k?si=gr41Xfitfb6U_-JG
-- [Roadmap](https://cdn.codewithmosh.com/image/upload/v1721773293/guides/mobile-roadmap-v2.pdf)
-- coding general: https://youtu.be/66tfvFeALBQ?si=63ZdglfoD-z59hb7
-	- https://youtu.be/9s29LKfEFjQ?si=pkNYYUEQe0__BhBt
