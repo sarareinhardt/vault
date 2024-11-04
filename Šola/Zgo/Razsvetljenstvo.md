@@ -56,3 +56,7 @@ Dosegel da je kralj Friederik 2. začel uvajati razsvetljenske ideje v svoji dr�
 - zahteva odpravo privilegijev plemstva in duhovščine
 - Reforme naj izvaja vladar iz vrha (razsvetljeni absolutisti)
 - Zahteva ločitev cerkve in države
+
+Napredek naravoslovnih stroj
+Denis Papin - naredil osnovo za parni stroj
+James Watt je potem uporabil ta mehanizem in patentiral parni stroj
