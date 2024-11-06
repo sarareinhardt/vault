@@ -31,6 +31,13 @@ Realizem se najbolj razvije v FRA ANG RUS
 - Jules in Edmond Goncurt
 - Emile Zola 
 	- Naredil tip romana, ki ga je sam poimenoval #eksperimentalni-roman znanstvena metoda
-	- govori o življenju ljudi iz prej omenjenih življenskih krogov (revščina, prostitucija, alkoholizem...)
+	- govori o življenju ljudi iz prej omenjenih življenjskih krogov (revščina, prostitucija, alkoholizem...)
 	- njegov cilj je da govori hladno in neprizadetno
-	- glavne teme: alkoholizem, prostitucija, predmestja
+- pogoste naturalistične teme: teme: alkoholizem, prostitucija, predmestja
+- Naturalisti ustvarijo teorijo: #teorija-treh-determinant ki opisuje potek življenja glede na 3 'determinante':
+	- dednost
+	- okolje
+	- zgodovinski trenutek
+- Javnost se je zgražala nad naturalističnimi deli, saj so bili navajeni, da govorijo o velikih vplivnih ljudeh to pa je govorilo o predmestju, bedi...
+- njihove raziskave so bile zapisane v obliki romanov (ciklusi)
+- drama: (Henrik Ibsen, Gerhardt Hauptmann)
