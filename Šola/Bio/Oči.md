@@ -12,4 +12,6 @@ To kjer se prenašalne živčne celice združijo imamo točko kjer ne vidimo (ta
 ![[Pasted image 20241106120725.png|400]]
 ![[Pasted image 20241106120819.png]] 
 ^Svetlo, temno te črte so nitke lečno obešalo krog okoli je ciliarnik
-ko gledamo v temi rabimo energijo, ker se te nitke (mišice) zategnejo (semizdi)
+ko gledamo v temi rabimo energijo, ker se te nitke (mišice) zategnejo in rabijo energijo da ostanejo skrčene
+
+#Astigmatizem = čudno oblikovana mrežnica - valovita; nekje se slika izostri pred, nekje za mrežnico.
