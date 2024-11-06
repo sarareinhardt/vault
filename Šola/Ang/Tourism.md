@@ -17,5 +17,5 @@ Does tourism cause any problems? $\rightarrow$ Pollution, noise, too many people
 - important projects for local communities may be sidelined
 - pollution and disruption to wildlife habitats
 - natural landscape and cultural heritage may be damaged
-- tourists may not go outside of their complexes; western vs local values; tourist voyeurism (what????)
+- tourists may not go outside of their complexes; western vs local values; tourist voyeurism (tf????)
 - if the aim of activities is to entertain and not to educate it can belittle the local people (ampak Gerden se s tem ne strinja?)
