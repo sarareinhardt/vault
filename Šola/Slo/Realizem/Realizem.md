@@ -41,3 +41,7 @@ Realizem se najbolj razvije v FRA ANG RUS
 - Javnost se je zgražala nad naturalističnimi deli, saj so bili navajeni, da govorijo o velikih vplivnih ljudeh to pa je govorilo o predmestju, bedi...
 - njihove raziskave so bile zapisane v obliki romanov (ciklusi)
 - drama: (Henrik Ibsen, Gerhardt Hauptmann)
+
+Gustav Flaubert
+Zakonski vsakdanjik 
+Besedilo opisuje vsakodnevno življenje gospe Bovary in Charlesa ter njuno zakonsko življenje, ki je zaznamovano z rutino in nezadovoljstvom. Emma Bovary si želi romantičnega in razburljivega življenja, ki ga primerja s svojimi sanjami o ljubezni in prestižu. Kljub Charlesovi ljubezni do nje Emma postopoma postaja bolj nezadovoljna in nemirna, saj se zaveda razlik med realnostjo in svojimi pričakovanji. Opisane so tudi njene aktivnosti, kot igranje klavirja in opazovanje noči, ter Charlesova rutina po koncu dela. Poleg tega je omenjeno tudi, kako se Emma distancira od Charlesa in kako je njuno zakonsko razmerje obremenjeno z njenim nezadovoljstvom in iskanjem sreče zunaj doma.
