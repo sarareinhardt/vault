@@ -73,3 +73,7 @@ Pravi, da vsa druga dela (izdelava, prodaja...) predmetu povečajo vrednost (ima
 -  Agrarna reforma; začeli so delati hleve - hlevska živinoreja, gnojiti, senike. Živino so lahko obdržali ker so zaradi senikov imeli hrano za njih tudi čez zimo. Ker so jih ponoči nagnali živino v hlev se je tam zbral gnoj na enem mestu $\rightarrow$ vse to povzroči več dobička ker so začeli sami gnojiti zemljo niso rabili imeti več 3 letnega kolobarjenje $\rightarrow$ zemlja uporabljena 100% časa
 - Gospodarska svoboda; načelo konkurence; učasih so omejevali ljudem obrt, kaj lahko dela... Marija terezija je to ukinila in se je lahko vsak sam odločil kaj bo delal, koliko in za kakšno ceno $\rightarrow$ dela se konkurenca $\rightarrow$ delajo boljše/več/cenejše, ker vedo, da drugače ne bodo prodali izdelkov
 - Marija Terezija je poskrbela za babiško šolo (babice pri porodu)
+##### <font color="#c00000">Ženska na prestolu</font>
+Njen oče ji je poskušal zagotoviti prestol s **Pragmatično sankcijo** kjer je pisalo da ga bo nasledila njegova hči - ženska in da vse avstrijske dežele ostanejo skupaj. Ko je umrl pozabijo na to in Friderik 2. veliki poskusi vzeti Mariji Tereziji prestol vojsko - vojna traja 7 let, Terezija zmaga
+- ob tem ko je postala vladarica je ugotovila da je njena vojska slaba, slabo izurjena, nemotivirana s katero je rekla, da se ne more boriti za nasledstvo, zato naredi**vojaško reformo**
+- #Vojaška-reforma: Najprej je naredila lepe pisane uniforme - motivacija
