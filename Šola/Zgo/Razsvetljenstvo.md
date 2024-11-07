@@ -61,13 +61,13 @@ Napredek naravoslovnih stroj
 Denis Papin - naredil osnovo za parni stroj
 James Watt je potem uporabil ta mehanizem in patentiral parni stroj
 
-##### Razsvetljeni absolutisti
+##### <font color="#c00000">Razsvetljeni absolutisti</font>
 Razsvetljenske ideje so prevzeli nekateri vladarji. Zato da so se obdržali na oblasti so morali potešiti svoje državljane, hkrati pa so vedeli, da jih zadovoljiš, ko imajo dober življenjski standard, zato pa so rabili dovolj denarja, da jim lahko to omogočijo. Cilj absolutizma je tu uspešno gospodarstvo $\rightarrow$ lahko pobiraš več davkov $\rightarrow$ denar v državni blagajni $\rightarrow$ grajenje cest...
 - Prusija - Friderik 2. Veliki
 - Rusija Katarina 2. Velika
 - Avstrija Marija Terezija, Jožef 2.
 Kaj lahko zagotovi uspešno gospodarstvo? Marija Terezija je poklicala na dvor strokovnjake in so probleme dejansko rešili
-##### Fiziokratizem aka fiziokratska gospodarska teorija
+##### <font color="#c00000">Fiziokratizem aka fiziokratska gospodarska teorija</font>
 gospodarska teorija, ki popolnoma obrne absolutistično gosp teorijo (Merkantilizem: več izvažaš kot uvažaš, uporabljaš lastne vire (čim več kolonij, ker za uvažanje iz svojega ne plačaš carine, **manufakture**)
 Pravi, da vsa druga dela (izdelava, prodaja...) predmetu povečajo vrednost (imaš blago in iz njega narediš obleko) iz nič/iz zemlje je sposobna samo narava ustvariti neko novo vrednost. Zato da lahko iz zemlje dobimo to začetno vrednost potrebujemo obdelavo in tisti, ki to obdeluje je veliko vreden - kmet. Marija Terezija je posvetila veliko časa kmetijstvu & položaju kmeta (zemljiški gospodje začnejo ceniti kmete). Ne samo da so bili bolj razbremenjeni (ne sme beti več kot 30% obdavčen), a se mu je tudi status v družbi izboljšal. Zato, da je kmet umno gospodaril je uvedla obvezno šolanje. Zato, da bi imel motivacijo ga je odvezala od zemlje $\rightarrow$ jih osvobodila. Kar naenkrat zato dobi prosto delovno silo ker so lahko šli v mesto, kjer je država naredila manufakturne proizvodnje in so lahko še tam delali. Tudi zemlja se ni več rabila razdeliti med vse sinove ki bi imeli zelo malo zemlje, ampak so nekateri lahko šli delati v mesto.
-. Agrarna reforma 
+-  Agrarna reforma; začeli so delati hleve - hlevska živinoreja, gnojiti, senike. Živino so lahko obdržali ker so zaradi senikov imeli hrano za njih tudi čez zimo. Ker so jih ponoči nagnali živino v hlev se je tam zbral gnoj na enem mestu $\rightarrow$ vse to povzroči več dobička ker so začeli sami gnojiti zemljo niso rabili imeti več 3 letnega kolobarjenje $\rightarrow$ zemlja uporabljena 100% časa
