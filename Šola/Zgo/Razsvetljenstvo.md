@@ -60,3 +60,10 @@ Dosegel da je kralj Friederik 2. začel uvajati razsvetljenske ideje v svoji dr�
 Napredek naravoslovnih stroj
 Denis Papin - naredil osnovo za parni stroj
 James Watt je potem uporabil ta mehanizem in patentiral parni stroj
+
+##### Razsvetljeni absolutisti
+Razsvetljenske ideje so prevzeli nekateri vladarji. Zato da so se obdržali na oblasti so morali potešiti svoje državljane, hkrati pa so vedeli, da jih zadovoljiš, ko imajo dober življenjski standard, zato pa so rabili dovolj denarja, da jim lahko to omogočijo. Cilj absolutizma je tu uspešno gospodarstvo $\rightarrow$ lahko pobiraš več davkov $\rightarrow$ denar v državni blagajni $\rightarrow$ grajenje cest...
+- Prusija - Friderik 2. Veliki
+- Rusija Katarina 2. Velika
+- Avstrija Marija Terezija, Jožef 2.
+Kaj lahko zagotovi uspešno gospodarstvo? Marija Terezija je poklicala na dvor strokovnjake in so probleme dejansko rešili
