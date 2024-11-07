@@ -22,6 +22,9 @@ Does tourism cause any problems? $\rightarrow$ Pollution, noise, too many people
 ##### Eco tourism
 - sends people to relatively untouched parts of the world
 - sensitive to the impact of nature caused my humans
-Pros: consideration for environment
+Pros: 
+consideration for environment
 Source of income for locals
 tourists 
+Cons:
+Environmentalists claim some parts of the world should be left untouched
