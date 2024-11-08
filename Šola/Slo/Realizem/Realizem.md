@@ -50,3 +50,4 @@ Besedilo opisuje vsakodnevno življenje gospe Bovary in Charlesa ter njuno zakon
 - bodimo povečevalna zrcala (bodimo objektivni in ne pretiravajmo - kontrastno romantiki kjer je bilo vse izjemno)
 - 1856 - Gospa Bovarey - prevarala je svojega moža, kar je bilo šokantno. Ker je napisal to knjigo so proti Flaubertu sprožili sodni proces, ker so hoteli vedeti kdo je ona. Rešil se je s tem, da je rekel, da je to on.Gospa na koncu spije strup. Njegova knjiga je bila prepovedana.
 	- Tolstoj je napisal podobni roman. Tudi pri njemu ženska naredi samomor - tragično konča
+- Personalni pripovedovalec - tretjeosebni, vendar večinoma iz stališča 1 osebe.
