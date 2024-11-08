@@ -42,6 +42,11 @@ Realizem se najbolj razvije v FRA ANG RUS
 - njihove raziskave so bile zapisane v obliki romanov (ciklusi)
 - drama: (Henrik Ibsen, Gerhardt Hauptmann)
 
-Gustav Flaubert
+##### <font color="#c00000">Gustav Flaubert</font>
 Zakonski vsakdanjik 
 Besedilo opisuje vsakodnevno življenje gospe Bovary in Charlesa ter njuno zakonsko življenje, ki je zaznamovano z rutino in nezadovoljstvom. Emma Bovary si želi romantičnega in razburljivega življenja, ki ga primerja s svojimi sanjami o ljubezni in prestižu. Kljub Charlesovi ljubezni do nje Emma postopoma postaja bolj nezadovoljna in nemirna, saj se zaveda razlik med realnostjo in svojimi pričakovanji. Opisane so tudi njene aktivnosti, kot igranje klavirja in opazovanje noči, ter Charlesova rutina po koncu dela. Poleg tega je omenjeno tudi, kako se Emma distancira od Charlesa in kako je njuno zakonsko razmerje obremenjeno z njenim nezadovoljstvom in iskanjem sreče zunaj doma.
+
+- brezosebnost = moč - čudovita kemija - kako gledaš na svet, ustvarjalni proces
+- bodimo povečevalna zrcala (bodimo objektivni in ne pretiravajmo - kontrastno romantiki kjer je bilo vse izjemno)
+- 1856 - Gospa Bovarey - prevarala je svojega moža, kar je bilo šokantno. Ker je napisal to knjigo so proti Flaubertu sprožili sodni proces, ker so hoteli vedeti kdo je ona. Rešil se je s tem, da je rekel, da je to on.Gospa na koncu spije strup
+	- Tolstoj je napisal podobni roman
