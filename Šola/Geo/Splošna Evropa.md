@@ -98,3 +98,12 @@ Lofoti - znamenitost
 - Sledi preusmeritev v izvoz dražjih specialnih jekel; roboti, medic. oprema (Švedske firme: Volvo, Saab, Ericsson, Ikea)
 - Vlaganje v; raziskovanje na področju medicine, biotehnike, varstva okolja; svetovni izvoznik tehnološkega znanja in izkušenj (know how - da se ne prodaja samo stvari, ampak tudi znanje, izkušnje)
 ![[Ullspiran_Flyg_MG_2312.jpg.myffhJPVMXudd7VhwCUA.eaKFdkTQaC-jpg.webp|350]]Kiruna
+##### <font color="#c00000">Finska</font>
+- površje; rahlo valovito s 185.000 jezeri
+- podnebje; nad S tečajnikom subpol.; celinsko
+- poselitev; 5 milij., ljudje in gospod. na J (tudi kmetijstvo), sicer redka poselitev; Finci so delali na Švedskem. Švedska manjšina živi ob J in Z obalah; konec 20.st. gospod. vzpon
+- gozdarstvo; ¾ Finske gozd (1. v Evropi), kvaliteten les, načrtno gospodarjenje
+-  Les: izvoz v Veliko Britanijo in Nizozemsko v 18. stoletju – poraba se zelo poveča.
+- V drugi polovici 20. stoletja se gozdarstvo mehanizira, izvozijo 80% proizvodov, največ papirja (3. mesto na svetu po izvozu lesnih izdelkov).
+- Obrati: ob obalah in jezerih na jugu.
+- V tujini že 50 finskih tovarn papirja in kartona (v Nemčiji).
