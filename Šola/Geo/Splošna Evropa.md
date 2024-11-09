@@ -1,3 +1,29 @@
+- Meja z Azijo: gorovje in reka Ural, Kaspijsko jezero, Maniško podolje, Azovsko in Črno morje, Bospor, Dardanele.
+- 701 milijon ljudi, >10 milijonov km²; globalizacija.
+- Površje: zahod je razčlenjen (sredogorja, polotoki, otoki), vzhod enoličen.
+- Pomembna so Gibraltarska in Dovrska vrata.
+#### <font color="#c00000">Tipi obal v Evropi</font>
+- Klifi: najlepši na Britanskem otočju, v Franciji in na Portugalskem.
+- Fjordi: Norveška, Islandija, Škotska.
+- Riasi: jugozahod Irske, severozahod Španije.
+- Dalmatinski tip: Dalmacija.
+- Estuarijski ali lijakasti: ob Temzi, Labi.
+- Lagunski: v plitvinah (kose); južna obala Baltika.
+- Deltasti: delta Donave, Rhone.
+#### <font color="#c00000">GEOLOŠKI NASTANEK IN RAZVOJ EVROPE</font>
+- Najstarejši del: Baltski ščit (predkambrij), Ruska plošča (prekrito s sedimenti); granit.
+- Paleoevropa: stara kaledonska gorstva; Skandinavsko gorovje in večina Britanskega otočja.
+- Mezoevropa: hercinska gorstva – grudasta (Srednja in Zahodna Evropa, npr. Ardeni, Vogezi, Centralni masiv, Nemško in Češko sredogorje).
+- Neoevropa: alpidska orogeneza (Kantabrijsko gorovje, Pireneji, Alpe, Apenini, Dinarsko gorovje, Karpati).
+- Kotline: sredi mladih gorstev; Panonska, Padska, prekrite s sedimenti.
+- Vulkanizem: Islandija, Italija (Stromboli...).
+- Poledenitev: celinska na severu, gorska v mladih gorstvih na jugu.
+- Vzhodni del Evrope: Vzhodnoevropsko nižavje, enoličen relief.
+- Rude: kovinske na Baltskem ščitu, v starih sredogorjih – črni premog (od Velike Britanije do Urala).
+- Evropska populacijska os: ob 50. vzporedniku.
+- Rjavi premog in lignit: v terciarnih sedimentih.
+- Nafta in zemeljski plin: plitva morja; Severno morje.
+#### <font color="#c00000">Podnebje in rastlinstvo</font>
 #### <font color="#c00000">Združevanje v okviru EU</font>   
 - <font color="#c00000">potek procesa združevanja</font><font color="#c00000">;</font> l.1951  6 držav (Belgija, NL, Lux, Z Nemčija, Francija in Italija) ustanovijo Evropsko skupnost za premog in jeklo; nato ustanovijo EGS; skupni trg, ukinitev medsebojnih carin, skupna trg. in kmetijska politika, pridružitev ostalih Z evr. držav (prost pretok oseb, storitev, blaga, kapitala)
 - <font color="#c00000">Maastrichtska pogodba</font><font color="#c00000">;</font> l.1992; medvladno sodelovanje na področju obrambe, pravosodja, notranjih zadev – pravna vzpostavitev EU
