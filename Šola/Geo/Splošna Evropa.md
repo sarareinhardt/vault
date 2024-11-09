@@ -52,7 +52,22 @@
 - - Viri onesnaževanja: industrija, rudarstvo, kmetijstvo, promet, naselja, turizem (zlasti v Vzhodni Evropi).
 - Onesnaževanje vodovja: odplake, kemične snovi, razlitja nafte (Severno in Baltsko morje – plitvi). Stanje Rena se izboljšuje.
 - Onesnaževanje zraka: po letu 1990 se zmanjša zaradi zaprtja neustreznih industrijskih obratov in zmanjšanja emisij SO₂ (črni trikotnik).
-####
+- Viri onesnaževanja: industrija, rudarstvo, kmetijstvo, promet, naselja, turizem (zlasti v Vzhodni Evropi).
+- Onesnaževanje vodovja: odplake, kemične snovi, razlitja nafte (Severno in Baltsko morje – plitvi). Stanje Rena se izboljšuje.
+- Onesnaževanje zraka: po letu 1990 se zmanjša zaradi zaprtja neustreznih industrijskih obratov in zmanjšanja emisij SO₂ (črni trikotnik).
+#### <font color="#c00000">Prebivalstvo</font>
+- Avtonomistično gibanje: nekatere manjšine imajo vse pravice, večje tudi politično avtonomijo (npr. Katalonci v Španiji); nekatere države hočejo manjšine asimilirati (Vzhodna Evropa); nekatere manjšine so asimilirane, a ohranjajo močno narodnostno zavest (npr. Baski). Kjer ni šolstva v svojem jeziku, se jezik in kultura izgubljata.
+- Separatistično gibanje: želja po odcepitvi.
+- Nasilno reševanje: Severna Irska, Jugoslavija, Sovjetska zveza.
+- Verska sestava:
+    - **Krščanstvo**: najbolj razširjena vera – kristjani: katoličani, pravoslavci, protestanti (npr. Francija, Italija...).
+    - **Islam**: evropski del Turčije, turški del Cipra, Albanija, Kosovo, Bosna in Hercegovina; prisotni so tudi na zahodu Evrope (priseljenci iz arabskih držav in Turčije – okoli 15 milijonov).
+    - **Hinduizem, budizem**: priseljenci iz Azije.
+#### <font color="#c00000">Selitve prebivalstva</font>
+- **Politični vzroki**: po koncu 2. svetovne vojne migracije proti zahodu, zunaj sovjetskega vpliva; migracije iz Vzhodne Nemčije v Zahodno (Berlinski zid).
+- **Ekonomski vzroki**:
+  - Prvi val (1950–1970): moška nekvalificirana delovna sila iz južne Evrope, Turčije, Maroka (predvsem v gradbeništvu); v Združeno kraljestvo priseljenci iz Indije, v Francijo iz Zahodne Afrike in Magreba. Največ se jih seli v Nemčijo.
+  - Po naftni krizi leta 1973 se gospodarska rast upočasni in zaostri nadzor nad priseljevanjem.
 #### <font color="#c00000">Združevanje v okviru EU</font>   
 - <font color="#c00000">potek procesa združevanja</font><font color="#c00000">;</font> l.1951  6 držav (Belgija, NL, Lux, Z Nemčija, Francija in Italija) ustanovijo Evropsko skupnost za premog in jeklo; nato ustanovijo EGS; skupni trg, ukinitev medsebojnih carin, skupna trg. in kmetijska politika, pridružitev ostalih Z evr. držav (prost pretok oseb, storitev, blaga, kapitala)
 - <font color="#c00000">Maastrichtska pogodba</font><font color="#c00000">;</font> l.1992; medvladno sodelovanje na področju obrambe, pravosodja, notranjih zadev – pravna vzpostavitev EU
