@@ -66,8 +66,31 @@
 #### <font color="#c00000">Selitve prebivalstva</font>
 - **Politični vzroki**: po koncu 2. svetovne vojne migracije proti zahodu, zunaj sovjetskega vpliva; migracije iz Vzhodne Nemčije v Zahodno (Berlinski zid).
 - **Ekonomski vzroki**:
-  - Prvi val (1950–1970): moška nekvalificirana delovna sila iz južne Evrope, Turčije, Maroka (predvsem v gradbeništvu); v Združeno kraljestvo priseljenci iz Indije, v Francijo iz Zahodne Afrike in Magreba. Največ se jih seli v Nemčijo.
-  - Po naftni krizi leta 1973 se gospodarska rast upočasni in zaostri nadzor nad priseljevanjem.
+- Prvi val (1950–1970): moška nekvalificirana delovna sila iz južne Evrope, Turčije, Maroka (predvsem v gradbeništvu); v Združeno kraljestvo priseljenci iz Indije, v Francijo iz Zahodne Afrike in Magreba. Največ se jih seli v Nemčijo.
+- Po naftni krizi leta 1973 se gospodarska rast upočasni in zaostri nadzor nad priseljevanjem.
+- **2. val** (do sredine 80-ih): priselitev žensk in otrok priseljencev.
+- **3. val** (druga polovica 80-ih, še traja): množičen val, vključuje azilante, begunce, ilegalne priseljence, visoko kvalificirane delavce in premožne upokojence.
+
+- **Azilanti**: politično preganjani ali begunci; sprejmejo jih Švica, Nemčija, Švedska (iz Jugoslavije).
+- **Ilegalni migranti**: po letu 1985 Schengenski sporazum vzpostavi strožjo migracijsko politiko, Schengenska meja postane zunanja meja EU.
+- **Visoko kvalificirani migranti**: priseljujejo se v prestolnice, finančna, poslovna središča ter središča EU.
+- **Premožni upokojenci**: selijo se na toplejši sredozemski jug.
+#### <font color="#c00000">Razporeditev prebivalstva</font>
+- **Vplivi na razporeditev**: lega v zmerno toplem pasu, vpliv Atlantika, zgodovina.
+  
+- **Zgostitve**:
+  - Evropska populacijska os ob 50. vzporedniku.
+  - Padska in Panonska nižina, obale Južne Evrope (litoralizacija).
+  - To so centralna območja, medtem ko periferna območja zaostajajo.
+
+- **Modra banana**: pas od JV Anglije preko Beneluksa, zahodne Nemčije, Švice do južne Italije (oblika modre barve Evrope); visoka gostota, gospodarska moč.
+  - Gosto prometno omrežje, velike investicije multinacionalk.
+  - Tu se nahajajo mesta, kot so London, Bruselj, Amsterdam, Frankfurt, Milano – zahodnoevropski megalopolis.
+  - Industrija visoke tehnologije, informacijske dejavnosti, storitve (trgovina, bančništvo), visoki dohodki.
+
+- **Sončni pas**: obalni pas od Barcelone preko Marseilla do severne Italije (Milano); dvig gospodarske razviteosti, univerzitetna in raziskovalna središča, boljše prometne povezave z osrednjo Evropo.
+
+- **Robna območja**: oddaljena območja v Zahodni, Južni in Severni Evropi ter po vsej Jugovzhodni in Vzhodni Evropi.
 #### <font color="#c00000">Združevanje v okviru EU</font>   
 - <font color="#c00000">potek procesa združevanja</font><font color="#c00000">;</font> l.1951  6 držav (Belgija, NL, Lux, Z Nemčija, Francija in Italija) ustanovijo Evropsko skupnost za premog in jeklo; nato ustanovijo EGS; skupni trg, ukinitev medsebojnih carin, skupna trg. in kmetijska politika, pridružitev ostalih Z evr. držav (prost pretok oseb, storitev, blaga, kapitala)
 - <font color="#c00000">Maastrichtska pogodba</font><font color="#c00000">;</font> l.1992; medvladno sodelovanje na področju obrambe, pravosodja, notranjih zadev – pravna vzpostavitev EU
