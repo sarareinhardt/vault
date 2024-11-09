@@ -24,6 +24,29 @@
 - Rjavi premog in lignit: v terciarnih sedimentih.
 - Nafta in zemeljski plin: plitva morja; Severno morje.
 #### <font color="#c00000">Podnebje in rastlinstvo</font>
+- Vremenotvorna središča:
+  - Islandski minimum: vpliva celo leto, prinaša dež.
+  - Azorski maksimum: poleti, jasno in toplo vreme.
+  - Sibirski maksimum: mrzlo, jasno vreme.
+  - Sredozemski minimum: toplo vreme z dežjem.
+- Geografska širina: 35°–70° severne širine.
+- Severnoatlantski tok: obliva zahodno in severno Evropo.
+- Razporeditev kopnega in morja: morje na zahodu in jugu Evrope.
+- Celinskost: od zahoda proti vzhodu narašča temperaturna amplituda.
+- Subpolarni pas: tundrsko podnebje in rastje; skrajni sever Skandinavije in evropski del Rusije.
+- Gorsko podnebje in rastje: prisotno v vseh toplotnih pasovih.
+#### <font color="#c00000">Vodovje</font>
+- Reke na vzhodu: najdaljše reke, saj je celina najširša; vključujejo Volgo, Ural, Dneper, Dnester. Izjema je Donava.
+- Reke v Srednji Evropi: Laba, Odra, Visla, Vezera.
+- Reke na zahodu: Temza, Ren, Loara, Rona.
+- Reke na jugu: Ebro, Tajo, Pad, Tibera, Vardar.
+- Najpomembnejša reka: Ren – evropska plovna pot; leta 1992 so s prekopom Ren-Maina-Donava povezali Severno morje s Črnim morjem (3500 km, Ren sam meri 1300 km; med Bambergom in Kelhaimom).
+- Rečno-kanalska plovba: najrazvitejša v nižinah Zahodne in Srednje Evrope.
+- Hidroelektrarne (HE): Avstrija, Švica, Norveška, Švedska in Islandija.
+- Jezera: največ jih je na severu (ledeniška), npr. Ladoško v Rusiji, Inari na Finskem; v Alpah – Ženevsko, Bodensko; drugod so tektonska.
+- Pomen: turizem in rekreacija.
+#### <font color="#c00000">Onesnaževanje</font>
+
 #### <font color="#c00000">Združevanje v okviru EU</font>   
 - <font color="#c00000">potek procesa združevanja</font><font color="#c00000">;</font> l.1951  6 držav (Belgija, NL, Lux, Z Nemčija, Francija in Italija) ustanovijo Evropsko skupnost za premog in jeklo; nato ustanovijo EGS; skupni trg, ukinitev medsebojnih carin, skupna trg. in kmetijska politika, pridružitev ostalih Z evr. držav (prost pretok oseb, storitev, blaga, kapitala)
 - <font color="#c00000">Maastrichtska pogodba</font><font color="#c00000">;</font> l.1992; medvladno sodelovanje na področju obrambe, pravosodja, notranjih zadev – pravna vzpostavitev EU
