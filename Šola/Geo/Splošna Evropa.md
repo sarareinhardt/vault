@@ -88,6 +88,12 @@
 - **Sončni pas**: obalni pas od Barcelone preko Marseilla do severne Italije (Milano); dvig gospodarske razviteosti, univerzitetna in raziskovalna središča, boljše prometne povezave z osrednjo Evropo.
 - **Robna območja**: oddaljena območja v Z, J in S Evropi ter po vsej 
 	JV in V Evropi.
+#### <font color="#c00000">Promet</font>
+- **Najgostejše prometno omrežje**: na območju modre banane.
+- **Najgostejše omrežje avtocest**: Beneluks, Nemčija, Francija; tudi Italija, Španija.
+- **Po razpadu blokovske delitve**: glavne smeri prevoza so postale Z-V, saj Zahodna Evropa izvaža svoje proizvode v Vzhodno Evropo, zato so potrebne hitre ceste (npr. Španija-Ukrajina).
+- **Železniški promet**: hitri vlaki do 300 km/h (Francozi).
+- **Evropredor pod Rokavskim prelivom**: odprt leta 1993.
 #### <font color="#c00000">Združevanje v okviru EU</font>   
 - <font color="#c00000">potek procesa združevanja</font><font color="#c00000">;</font> l.1951  6 držav (Belgija, NL, Lux, Z Nemčija, Francija in Italija) ustanovijo Evropsko skupnost za premog in jeklo; nato ustanovijo EGS; skupni trg, ukinitev medsebojnih carin, skupna trg. in kmetijska politika, pridružitev ostalih Z evr. držav (prost pretok oseb, storitev, blaga, kapitala)
 - <font color="#c00000">Maastrichtska pogodba</font><font color="#c00000">;</font> l.1992; medvladno sodelovanje na področju obrambe, pravosodja, notranjih zadev – pravna vzpostavitev EU
