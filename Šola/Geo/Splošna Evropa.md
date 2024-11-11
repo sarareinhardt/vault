@@ -46,13 +46,7 @@
 - Jezera: največ jih je na severu (ledeniška), npr. Ladoško v Rusiji, Inari na Finskem; v Alpah – Ženevsko, Bodensko; drugod so tektonska.
 - Pomen: turizem in rekreacija.
 #### <font color="#c00000">Onesnaževanje</font>
-- Viri onesnaževanja: industrija, rudarstvo, kmetijstvo, promet, naselja, turizem (zlasti v Vzhodni Evropi).
-- Onesnaževanje vodovja: odplake, kemične snovi, razlitja nafte (Severno in Baltsko morje – plitvi). Stanje Rena se izboljšuje.
-- Onesnaževanje zraka: po letu 1990 se zmanjša zaradi zaprtja neustreznih industrijskih obratov in zmanjšanja emisij SO₂ (črni trikotnik).
--  Viri onesnaževanja: industrija, rudarstvo, kmetijstvo, promet, naselja, turizem (zlasti v Vzhodni Evropi).
-- Onesnaževanje vodovja: odplake, kemične snovi, razlitja nafte (Severno in Baltsko morje – plitvi). Stanje Rena se izboljšuje.
-- Onesnaževanje zraka: po letu 1990 se zmanjša zaradi zaprtja neustreznih industrijskih obratov in zmanjšanja emisij SO₂ (črni trikotnik).
-- Viri onesnaževanja: industrija, rudarstvo, kmetijstvo, promet, naselja, turizem (zlasti v Vzhodni Evropi).
+- Viri onesnaževanja: industrija, rudarstvo, kmetijstvo, promet, naselja, turizem (zlasti v Desni Evropi).
 - Onesnaževanje vodovja: odplake, kemične snovi, razlitja nafte (Severno in Baltsko morje – plitvi). Stanje Rena se izboljšuje.
 - Onesnaževanje zraka: po letu 1990 se zmanjša zaradi zaprtja neustreznih industrijskih obratov in zmanjšanja emisij SO₂ (črni trikotnik).
 #### <font color="#c00000">Prebivalstvo</font>
