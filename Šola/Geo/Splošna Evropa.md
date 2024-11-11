@@ -154,7 +154,7 @@ severni jeleni:))
 #### <font color="#c00000">Islandija</font>
 - <font color="#c00000">površje</font>; gorata notranjost, 1/8 površja pokrita z ledeniki, leži na Sr. Atl. hrbtu, po sredini otoka se razmikata S-ameriška in Ecrazijska plošča, otok se vsako leto razširi za par cm – potresu, vulkanski izbruhi
 - <font color="#c00000">geotermalna</font> <font color="#c00000">voda</font>; >700 izvirov; ogrevanje stanovanj, rastlinjakov, za proizvodnjo elektrike, javna kopališča, gretje ulic
-- podnebje; zaradi S-atl. toka ima milo oceansko podnebje, SZ je hladnejši kot JV, tam tudi večkrat sneži, T nadpovprečne zaradi toplih JZ vetrov iz tropskih območij, ki spremljajo Zaliv. tok; pogosti viharji v milih, vlažnih zimah; hladna poletja (11 st), vse leto veliko dežja
+- <font color="#c00000">podnebje</font>; zaradi S-atl. toka ima milo oceansko podnebje, SZ je hladnejši kot JV, tam tudi večkrat sneži, T nadpovprečne zaradi toplih JZ vetrov iz tropskih območij, ki spremljajo Zaliv. tok; pogosti viharji v milih, vlažnih zimah; hladna poletja (11 st), vse leto veliko dežja
 - <font color="#c00000">poselitev</font>; redko poseljena, največ ljudi na območju Reykjavika (Dimnati zaliv); 290.000 ljudi na Islandiji; pomemben ribolov 
 (številke treba vedet samo na približno)
 - Turistične zanimivosti: slapovi, gejzirji nek Blue lagoon?
