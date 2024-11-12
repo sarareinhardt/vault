@@ -2,7 +2,6 @@
 tags:
   - akvileja
 ---
-
 Alpski Slovani se povežejo v 3 države: 
 1. Karantanijo (središče Celovec), 
 2. Karniolo (središče Kranj)
@@ -31,4 +30,3 @@ Alpski Slovani se povežejo v 3 države:
      - 2 seltiverni središči : 
      - **v okolici Kranja**
      - **današnje Gosposvetsko polje** - veliko obdelovalnih površin, ob enem vinskem mestu
-     - 
