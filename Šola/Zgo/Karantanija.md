@@ -1,67 +1,78 @@
-**Tags**: #Krnski-grad, #Knez, #Kosez, #prvaki
-
+---
+tags:
+  - Krnski-grad
+  - Knez
+  - Kosez
+  - prvaki
 ---
 
-- **Središče nad Gosposvetskim poljem**, kjer je stal #Krnski-grad.
-- Iz rimskih mest so tisti, ki so tam živeli, vzemali kamne (blizu tam je mesto _Virunum_).
-    - **Knežji kamen** – del rimskega stebra, ki naj bi stal pred #Krnski-grad. Vedno ko umre #Knez (vladar), se tam ustoliči novega. Izberejo ga **bojevniki, svobodnjaki**.
-    - V 8. stoletju #knez nadomesti njegov sin, ki je še vedno ustoličen na kamnu.
-    - #Ustoličevanje – podobno kot kronanje, se izvaja do leta 1414.
-- Na #knežji-kamen se usede #Kosez (sloj med svobodnjaki in plemstvom), nato pride bodoči #knez na konju v kmečkih oblačilih, pije vodo iz klobuka in da #Kosezu kobilo in vola.
-- To je označeno kot demokratično, ker #kneza izbere ljudstvo.
+- središče nad **Gosposvetskim poljem**, kjer je stal #Krnski-grad
+- iz rimskih mest so tisti, ki so tam živeli vzemali kamne (blizu tam mesto **Virunum**)
+	- **Knežji kamen** - del rimskega stebra, ki naj bi stal pred Krnskim gradom. Vedno ko umre #Knez (= vladar) se tam ustoliči novega - izberejo ga **bojevniki, svobodnjaki**
+	- v 8. st. kneza nadomesti njegov sin, ki pa je še vedno ustoličen na kamnu
+	- #Ustoličevanje - podobno kot kronanje se izvaja do 1414
+- na knežji kamen se usede #Kosez (sloj med svobodnjaki in plemstvom), nato pride bodoči knez na konju v kmečkih oblačilih in pije vodo iz klobuka in da kosezu kobilo in vola
+- $\rightarrow$ demokratično, ker kneza izbere ljudstvo
+##### <font color="#c00000">Slovanska družba:</font>
+- Vse ljudstvo je svobodno, malo sužnjev $\rightarrow$ tisti ki so so kot člani družine; enake pravice, udobje $\rightarrow$ kasneje jih osvobodijo in grejo lahko kamorkoli. Majhen deček = hlapec
+- karantanija je samostojna 100 let (820 izgubi samostojnost)
+- Sloji:
+	- vrhnji: knezi in #prvaki (= vojaško plemstvo)
+	- umesni: kosezi - živijo nepodrejeno z voditelji na drugih lokacijah v kosezah
+	- spodnji: svobodnjaki, sužnji (svobodni) $\rightarrow$ tlačani
+- #vojvodski-stol/prestol - tam kjer po osvojitviji Karantanije Germani ustoličijo svoje vladarje - simbol izgube karantanske samostojnosti in Frankovske nadoblasti
+- #Valuk = prvi karantanski knez
+- na Z: Langobardi
+- SZ Germani/Bavarci
+- SV Slovani (Čehi)
+- V Obri (Karel veliki jih potisnil v panonsko nižino)
+- J Hrvati
+- 743 se knez **Borut** zaradi **Obrov** obrne za vojaško pomoč k **Bavarcem**, ki so v zameno hoteli imeti karantanijo v nadoblasti (njihovi obredi, notranja politika je še vedno samostojna le Bavarci so morali odobriti kneza)
+- #Tasilo = bavarski voditelj ko so pomagali Karantancem
+	- On vzame Borutovega sina **Gorazda**, nato še **Hotimirja** za garancijo, da bo Karantanija še vedno pod Bavarci
+- Po Borutovi smrti ga nadomesti Gorazd, ki je s Hotimirjem naredil načrt, da se bo Karantanija pokristjanila $\rightarrow$ pokliče **Virgila**, #Modest ta pa pošlje škofa Modesta 
 
-##### Slovanska družba:
 
-- Vse ljudstvo je svobodno, malo sužnjev; ti so kot člani družine, imajo enake pravice in udobje ter jih kasneje osvobodijo, tako da lahko gredo kamorkoli. Majhen deček je _hlapec_.
-- **#Karantanija** je samostojna 100 let (do leta 820, ko izgubi samostojnost).
 
-**Sloji**:
 
-- _Vrhnji_: knezi in #prvaki (vojaško plemstvo).
-- _Vmesni_: #kosezi – živijo nepodrejeno z voditelji na drugih lokacijah v kosezah.
-- _Spodnji_: svobodnjaki, sužnji (svobodni), ki kasneje postanejo _tlačani_.
-- **#Vojvodski-stol/prestol** – tam, kjer po osvojitvi #Karantanije Germani ustoličijo svoje vladarje, kar simbolizira izgubo karantanske samostojnosti in Frankovsko nadoblast.
-- **#Valuk** – prvi karantanski #knez.
 
-**Sosedje**:
-- Na zahodu: #Langobardi.
-- Severozahodno: #Germani/#Bavarci.
-- Severovzhodno: #Slovani (Čehi).
-- Vzhodno: #Obri (Karel Veliki jih potisne v panonsko nižino).
-- Jug: #Hrvati.
-- Leta 743 se #knez **Borut** zaradi #Obrov obrne po vojaško pomoč k #Bavarcem, ki v zameno zahtevajo nadoblast nad #Karantanijo. Njihovi obredi in notranja politika so ostali samostojni, le #Bavarci so morali odobriti #kneza.
-- **#Tasilo** – bavarski voditelj, ki pomaga #Karantancem.
-    - Vzame Borutovega sina **Gorazda** in nato še **Hotimirja** kot garancijo za podložnost #Karantanije.
-- Po Borutovi smrti ga nadomesti Gorazd, ki s Hotimirjem pripravi načrt za pokristjanjevanje #Karantanije, pri čemer pokliče **Virgila** in #Modesta, ki pošlje škofa #Modesta
 
-Po smrti Karla Velikega pridejo šibki vladarji, in država propade. **#Furlanski mejni grof** želi odcepiti #Karantance in #Karniolce, ti se uprejo, vendar izgubijo. Sledi:
 
-- **Fevdalizacija** – germanski fevdalci si razdelijo prostor.
-- **Kolonizacija** – z naseljevanjem kmetov.
-- **Germanizacija**.
-- **Pokristjanjevanje**.
-- Dokončna izguba samostojnosti.
 
----
+po smrti K. Velikega pridejo šibki vladarji - država propade
+**Furlanski** mejni grof hoče da se Karantanci in karniolci odcepijo, te se uprejo, zgubijo. Sledi
+- Fevdalizacija - njihov prosor si razdelijo germanski fevdalci
+- Kolonizacija $\rightarrow$ s fevdalizacijo (pošljejo tja kmete)
+- Germanizacija
+- Pokristjanjevanje
+- dokončno izgubijo samostojnost
 
-Po izgubi samostojnosti ozemlje #Karantanije, #Karniole in spodnje #Panonije dobi **#Arnulf Koroški/hudobni**.
-- Vzpostavi #Karantansko-kraljestvo, vzame karantanske plemiče za vojake (fevdalci), kmete pa poniža v tlačane.
-Leta 843 se **frankovska država** z **#Strassburško prisego** razdeli na južno, vzhodno in severno Frankovsko državo.
-**#RNC** (vzhodna Frankovska država):
-- Na našem ozemlju se prostor razdeli na 4 glavne #dežele (države znotraj #RNC):
-    - #Koroška – Celovec.
-    - #Kranjska – Ljubljana.
-    - #Štajerska – Gradec.
-    - #Goriška.
+Po izgubi samostojnosti ozemlje karantanije, karniole, spodnje panonije dobi 
+**Arnulf Koroški/hudobni**
+- ima V. FRA in ustvari **Karantansko kraljestvo
+karantanske plemiče vzame za vojake** -> fevdalci
+karant. kmete poniža v tlačane
+843 frankovska država s **Strassburško** prisego razbade na J, V in S frankovsko državo
 
-Te #dežele nastanejo v 10. stoletju, uveljavijo pa se šele v 15. stoletju, kot posledica osamosvojitve fevdalcev (pogoj: imeti potomce za prenos oblasti v naslednji rod, npr. #Celjski-grofi).
-Leta 899 na prostor #RNC vdrejo #Obri, njihov vdor leta 955 ustavi **#Oton I.** v #Bitki-na-leškem-polju.
-- V 50 letih od vdora do bitke #Oton utrdi oblast in trajno prepreči vdor.
-- Ozemlje razdeli na #grofije in ustanovi #mejne-grofije/#vojne-krajine, ki jih vodijo mejni grofje.
-**#Vojvodina-Koroška** ali neuradno #Velika-Karantanija obsega ozemlje vseh alpskih Slovanov in spodnje #Panonije. Ima pomembno obrambno funkcijo. Pogoj za postati mejni grof je združitev fevdalcev, ki se podredijo, s tem povežeš razdrobljeno ozemlje in imaš posvetne in cerkvene fevdalce.
-**Poti za povezovanje ozemlja/premagovanje fevdalcev**:
-- Poroke (kupovanje ozemlja, daš hči).
-- Z orožjem in kupovanjem.
-- Dedne pogodbe – če izumrejo, dobiš ozemlje.
-- Pridobitev enotnega prava od cesarja.
-Ko povežeš ozemlje, dobiš moč in možnost za status **#deželnega-kneza** – fevdalca, ki se povzpne nad vse druge in jih premaga, potrjuje ga tudi cesar.
+RNC = V. Frankovska država
+na našem ozemlju se prostor razdeli v 4 glavne #dežele (= država znotraj RNC)
+- Koroška Celovec
+- Kranjska Ljubljana
+- Štajerska Gradec
+- Goriška
+Nastale v 10. stol, šele v 15. se uveljavijo
+- Nastanejo kot posledica osamosvojitve fevdalcev (pogoj imaš potomce da oblast predaš v naslednji rod) npr. Celjski grofi
+899 na RNC prostor vdrejo Obri, njihov vdor l. 955 ustavi Oton 1. v  #Bitki-na-leškem-polju
+- V 50 letih od udora do bitke oton želi utrditi oblast in vdor trajno preprečiti.
+- Ozemlje razdeli na #grofije in ustanovi #mejne-grofije/vojne-krajine
+	- Grofje ki jih vodijo so mejni grofje
+- Vojvodina koroška ali neuradno Velika Karantanija zasega ozemlje vseh alpskih slovanov in spodnje panonije je pomemben zaradi obrambne funkcije
+Pogoj da postaneš mejni grof je da združiš skupino fevdalcev, ki se ti podredijo - povežeš razdrobljeno ozemljež
+imaš posvetne in cerkvene fevdalce
+Kako povezati ozemlje/premagati druge fevdalce:
+- poroke - kupiš ozemlje daš hči
+- z orožjem; s kupovanjem
+- pogodba (dedna) če izumrejo dobiš inn kontra
+- pridobitev enotnega prava od cesarja
+Ko imaš povezano ozemlje dobiš moč in možnost za status **DEŽELNEGA KNEZA**
+#deželni-knez = fevdalec, ki se povzpe nad vse druge & jih premaga, potrjuje ga tudi sam cesar
