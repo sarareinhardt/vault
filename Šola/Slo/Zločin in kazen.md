@@ -19,3 +19,7 @@ Očitali so mu, da je bil izrazito nihilističen
 nihilizem - nihil = nič to je filozofski način razmišljanja, ki pravi, da na svetu kjer veljajo neke etične in moralne norme (npr. dobrota) ni več teh vrednot oz. celo boga. S tem pridemo do relativnosti vse morale.
 - Friederich Niezche - v svojih filozofskih spisih govori kako obstajajo neki posamezniki, ki imajo pravico postaviti lastno moralo - übermensch (to idejo izrabijo nacisti)
 Zločinu in kazni očitajo ta nihilizem.
+Dostojevskemu je religija veliko pomenila
+
+Quotes:
+'Jaz nisem ubil starke, ubil sem sebe.'
