@@ -13,4 +13,6 @@ Eseji:
 - zapiski iz podtalja
 - idiot (tam je opisal epilepsijo - govori o nekemu knezu, ki je bil epileptik)
 - besi
-- bratje Karamazovi  - zgodba kako eden od bratov ubije očeta - ni dokončal ker je 
+- bratje Karamazovi  - zgodba kako eden od bratov ubije očeta - ni dokončal ker je umrl
+zelo je imel težave z zaključkom zločina in kazni (kako narediti smisel v zgodbi o očetu, ki ubije starko)
+Očitali so mu, da je bil izrazito nihilističen
