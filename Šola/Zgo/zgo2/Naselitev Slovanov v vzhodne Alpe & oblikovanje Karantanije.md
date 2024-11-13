@@ -28,7 +28,7 @@ v 6. stol po selitvi Germanov se na naše ozemlje naselijo Sslovani → → takr
 prostor je bil takrat zelo zaraščen z gozdom, imel malo obdelovalnih površin. - 2 naselitveni jedri:
 **Okolica Kranja
 Današnje gosposvetsko polje (obdelovalne površine)
-.
+
 oblikujeta se 2 slovanski državi
 Karantanija (Z. Slovani, Celovec)
 Karniola (J. Slovani, Kranj)
