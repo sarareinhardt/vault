@@ -1,0 +1,41 @@
+---
+tags:
+  - janičarjev
+---
+
+- pasjeglavci, stekli psi, krvoločneži $\rightarrow$ izrazi, ki so se jih prijeli zaradi njihovih dejanj
+- **<font color="#c00000">Devširma</font>** $\rightarrow$ krvni davek $\rightarrow$ sistematično zbiranje nemuslimanskih otrok v Osmanskem cesarstvu in njihovo prisilno spreobračanje v islam  $\rightarrow$ končni cilj pridobivanje vojske suženjskih vojakov – #janičarjev in razred sultanu zvestih državnih uradnikov.
+- turško cesarstvo v letih 1300 - 1571: <font color="#c00000">Seldžuki</font> - turki iz Azije tisti ki so prvi prišli in začeli zavzematu ozemlje
+	- Osman v 14. stol počasi priključuje iz Jeruzalema maloazijske Turke.
+	- 1453 jim uspe osvojiti še Bizanc (tako pozno zaradi trojnega obzidja, grški ogenj...)- propar bizantinskega cesarstva in s tem propad original Rimljanov.
+	- 1389 bitka na Kosovem polju združili so se balkanski veliki fevdalci, Turki so imeli (uspešno) taktiko da so fevdalce različnih balkanskih držav sprli med sabo. Matija Kurvin na vojsko zamudi in zato zgubijo vojno, vendar so uspeli ubiti turškega sultana Murata. To je zato kljub izgubi (ker se je sultanov sin še naprej boril) srbski nacionalni praznik (a win is a win).
+	- 1402 pride do bitke med Turki in 3. novo silo, ki so bili Mongoli. Ulovili so novega turškega sultana in ga ujeli v kletko in razkazovali po celi Aziji kot poraženca
+	- 1408 - Turki prvič vpadejo v naš (slo) prostor
+- Upadali so na hitro in se hitro umaknili - Taktika izčrpavanja & demoralizacije 
+	- nasprotnika so najprej onemogočili & jih nato zavzeli
+	- najbolj so nastradali kmetje $\rightarrow$ posledica so največji kmečki upori pri nas
+- 1463 - Turki osvojijo Bosno, kar je pomenilo, da so tam postavili mejo & se tam ustalili $\rightarrow$ širitev muslimanske vere, ker, če so bili muslimani niso rabili plačevati <font color="#c00000">harač</font>; davek na krščansko glavo.
+	- Ker so se ustalili v bosni so lahko dlje časa napadali v okolici.
+- Kmetje so tvorili <font color="#c00000">črno vojsko</font>, ki je bila zelo slabo oborožena, da se nebi kmetje z orožjem obrnili proti oblasti
+	- kmetje so okoli cerkve sezidali obzidje, včasih tudi obrambne stolpe kar je tvorilo proti turške tabore (takih so zgradili 350)
+	-  signalizazija napadov: turški zvonovi, kresovi. V Bosni so organizirali vohunsko mrežo
+- <font color="#c00000">Vojna krajina</font> - pas ozemlja, kjer so 92 gradov spremenili v utrdbe kamor so postavili vojsko, zemljo pa podelili ljudem, ki so iz Balkana od Turkov bežali proti severu v zameno, da so branili tiste Avstrijce, ki so jim dali zemljo. Branili so jih dobro, saj se je šlo za njihovo zemljo.
+**<font color="#c00000">Vzroki za uspešnost osvajanj</font>**
+- Strogi centralizem - sultan $\rightarrow$ osvajanje uspešno, hitro
+- Janičarska vojska
+- Priložnostna vojska - <font color="#c00000">akindžije</font>
+- Dobra taktika - hitri roparski vpadi (izčrpavanje)
+- Dobra oborožitev - topovi, konjenica, <font color="#c00000">fana</font>
+- Izkoriščajo spore med nasprotniki
+- Sveta vojna
+- ASKERI $\rightarrow$ SPAHIJA
+	- RAJA (navadni kmetje)
+		- ČIFTČIJA (muslimani)
+		- BAŠTINAR (kristjani da nebi plačevali harača so šli v <font color="#c00000">čiftčijo</font>)
+- <font color="#c00000">Fana</font> turška sablja (prožna ostra ukrivljena)
+- Otroci prvih 4 žena pridejo v poštev kot sultanovi nasledniki
+- <font color="#c00000">Čilim</font><font color="#c00000">: </font>
+- <font color="#c00000">Ćuprija</font><font color="#c00000">:</font> most
+- <font color="#c00000">Čaršija</font><font color="#c00000">:</font> glavna trgovska ulica
+- <font color="#c00000">Mahale:</font> stanovanjske soseske in 
+- <font color="#c00000">Vakuf:</font> pravilo, da lahko ko umreš svoje premoženje podariš skupnosti. Iz tega denarja so gradili sirotišnice, bolnišnice...
