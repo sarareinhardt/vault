@@ -1,4 +1,10 @@
 - [[Osmanski Turki]]
 - [[Kmečki upori na slovenskem]]
 - [[Naselitev Slovanov v vzhodne Alpe & oblikovanje Karantanije]]
+- [[Karantanija]]
+- [[Celjski grofje]]
+- [[Habsburžani (v SLO prostoru)]]
+- [[Turki (Osmansko cesarstvo)]]
+- [[Kmečki upori na slovenskem]]
 - [[Razsvetljenstvo]]
+- 
