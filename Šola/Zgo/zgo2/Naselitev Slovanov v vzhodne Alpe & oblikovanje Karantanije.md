@@ -25,7 +25,7 @@ RimljaniRimlja ni so ustanovili 3 province na našem ozemlju: Norik(večinoma Av
 Nato gredo čez naše ozemlje Germani → 3. st. propad rimske infrastrukture (ceste...)
 Nato gredo čez naŝe ozemlje Germani → 3. st. propad cest
 v 6. stol po selitvi Germanov se na naše ozemlje naselijo Sslovani → → takrat alpski Sslovani zasedejo 70.000 k m 2 70.000 k m 2 prostora - naše ozemlje, Avstrija, Trst do Bbalatona + doDa S do Dunajskega gozda
-prostor je bil takrat zelozel ozaraščen z gozdom, imel malo obdelovalnih površin. - 2 naselitveni jedri:
+prostor je bil takrat zelo zaraščen z gozdom, imel malo obdelovalnih površin. - 2 naselitveni jedri:
 **Okolica Kranja
 Današnje gosposvetsko polje (obdelovalne površine)
 .
