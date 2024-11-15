@@ -21,8 +21,25 @@ nihilizem - nihil = nič to je filozofski način razmišljanja, ki pravi, da na 
 Zločinu in kazni očitajo ta nihilizem.
 Dostojevskemu je religija veliko pomenila
 
+#### <font color="#c00000">Fjodor Mihajlovič Dostojevski</font>
+**Avtor:** Fjodor Mihajlovič Dostojevski  
+**Teme:** Psihološki realizem, moralna dilema, krivda, odrešitev, ljubezen, trpljenje.
+**Glavne točke:**
+1. **Osrednja problematika:** Dostojevski raziskuje človeško notranje življenje, zlasti občutke krivde in moralne dileme. Njegovi junaki se pogosto upirajo veri in razumu ter razvijejo svoje norme v svetu brez Boga, kjer imajo občutek, da je "vse dovoljeno".
+2. **Glavni lik - Raskolnikov:**
+    - Študent, ki razvije teorijo o močnih ljudeh, ki naj bi imeli dovoljenje za prekršitev moralnih norm, saj so nad navadnimi ljudmi.
+    - Izvede umor oderuške starke, da bi preizkusil svojo teorijo. Ob tem po nesreči ubije še njeno sestro Lizaveto.
+    - Po umoru občuti močno krivdo in nemir, kar ga vodi v moralno in psihično stisko.
+3. **Sonja - ljubezenski in moralni vpliv:**
+    - Raskolnikov sreča Sonjo, prostitutko, ki ga s svojo ljubeznijo in razumevanjem prepriča, da prizna svoj zločin.
+    - Sonja ga podpira in spremlja tudi v njegovih težkih trenutkih v Sibiriji, kjer prestaja kazen prisilnega dela.
+4. **Zaključek:** Raskolnikov se skozi trpljenje in ljubezen duhovno preoblikuje in najde odrešitev.
 
-
+**Pomembne teme in simboli:**
+- **Moralne dileme in odgovornost:** Ali imajo "močni ljudje" pravico kršiti moralne norme?
+- **Krivda in pokora:** Raskolnikovovo kesanje in kazen kažeta na potrebo po odgovornosti za svoja dejanja.
+- **Ljubezen kot odrešitev:** Sonja predstavlja moč ljubezni, ki pomaga Raskolnikovu prebroditi krizo in se soočiti s svojo krivdo.
+**Prvi odlomek:** Raskolnikov tava po mestu, razpet med odločitvijo, ali naj umori starko ali ne. Pristane v parku, kjer zaspi in se zbudi iz težkih, morečih sanj.
 
 
 
@@ -30,3 +47,4 @@ Quotes:
 'Jaz nisem ubil starke, ubil sem sebe.'
 
 
+Raskolnik je študent prava - že nekaj mesecev ne študira. Živi pri neki gospej v zelo majhni sobici v sant peterburgu
