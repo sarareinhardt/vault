@@ -21,5 +21,12 @@ nihilizem - nihil = nič to je filozofski način razmišljanja, ki pravi, da na 
 Zločinu in kazni očitajo ta nihilizem.
 Dostojevskemu je religija veliko pomenila
 
+
+
+
+
+
 Quotes:
 'Jaz nisem ubil starke, ubil sem sebe.'
+
+
