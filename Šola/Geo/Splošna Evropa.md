@@ -197,3 +197,14 @@ Lofoti - znamenitost
 - V drugi polovici 20. stoletja se gozdarstvo mehanizira, izvozijo 80% proizvodov, največ papirja (3. mesto na svetu po izvozu lesnih izdelkov).
 - Obrati: ob obalah in jezerih na jugu.
 - V tujini že 50 finskih tovarn papirja in kartona (v Nemčiji).
+##### <font color="#c00000">Danska</font>
+- površje; največji del površja; polotok Jutlandija, V del; otoki, največji Sjaelland (največ ljudi, gospod., gl. mesto), ravnina, pripadajo jim še Ferski otoki in Grenlandija, zaradi prehodnosti – tranzitna funkcija
+- podnebje; oceansko
+- kmetijstvo; 1/5 izvoza, izredno razvito, izvažajo svinjino, mesne konzerve, jajca, mlečne izdelke
+- glavni uvoznici; VB in Nemčija
+- vzroki uspešnosti kmetijstva; >kot 100-letna tradicija šolanja kmetov, uvajanje boljših pasem živine, uporaba biotehnologije, stroga kontrola kakovosti pridelkov
+- 3 faze; do l. 1870 govedoreja, žita, zaradi konkurence iz ZDA preusmeritev v svinjino, mlečno govedorejo in perutninarstvo
+- po letu 1870; zaradi konkurence iz ZDA preusmeritev v svinjino, mlečno govedorejo in perutninarstvo
+- po l. 1960; specializirane farme
+- danes; zaradi skupne kmetijske politike EU morajo spet povečati pridelavo žit in omejiti mlečno živinorejo (manj masla 9/10 krme za živino od EU predelajo
+- 
