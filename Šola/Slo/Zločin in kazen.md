@@ -64,8 +64,8 @@ Raskolnikov je študent prava - že nekaj mesecev ne študira. Živi pri neki go
 	- resnični razlog zakaj je hotel moriti: zato ker ga obseda ideja tega kar je prebral v časopisu; da obstajata 2 vrsti ljudi => nadljudje, k imajo pravico ubiti... (zgled tu mu je Napoleon) in drugi. Hoče preveriti a je on ta nadčlvek - ugotvi da ni. Sicer nima slabe vesti glede Aleone Ivanove, obžaluje pa njegovo sestro, ki je bila koleteralna škoda. Zares začne obžalovati oba umora šele po 2 letih v Sibiriji - prek nekih evangelijev - vloga krščanstva. S svojimi dejanji uničuje življenja drugim - uniči življenje svoji materi kar čuti kot hudo breme.
 	- v 2. poglavju ko gleda Ivano Aleono se počuti nesigurno, ta občutek hoče utopiti -> gre v pivnico -> sreča marmeladova - pravi da se počuti krivega, ker se mora njegova hči prostituirati za preživetje
 - Katarina Ivanova ima tuberkulozo
-- Katarina poročena z Marmeladovim 
-- Sonja je hči mar
+- Katarina poročena z Marmeladovim 2. žena
+- Sonja je hči marmeladova iz njegovega prvega zakona
 - božjast = epilepsija
 - Pojmi s simbolno vrednostjo
 	- spanje - neka odrešitev od dogajanja
@@ -73,3 +73,7 @@ Raskolnikov je študent prava - že nekaj mesecev ne študira. Živi pri neki go
 		- v 3. poglavju se zbudi iz snu razdražen, spet rumena - primerja svojo sobo s krsto
 - raskolniku so vsi v hiši zelo naklonjeni - npr. kuharica poskrbi da ima sploh hrano - ima tudi neko romantično zanimanje
 - raskolnikov se je najprej poročil s hčerko od gospodinje - ona umre raskolniku je sicer žal, a ne iskaže posebne žalosti
+- Pulherija - raskolnikova mama ime je latinsko za lepa - moralno lepa, je dobra oseba, v ljudeh vidi dobro, izpostavlja samo dobro (npr. dunjin snubec je očitno, da ji ni ušeč, a o njem izpostavlja samo dobre stvari)
+	- raskolnik prekine stike z njo in ona skorajda zblazni od bolečine - hoče se žrtvovati za raskolnika (tako kotse on za druge) pošlje mu ogromno denarja, ki ga raskolnik noče
+- Dunja - raskolnikova sestra
+- Materino pismo:
