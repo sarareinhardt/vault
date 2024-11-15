@@ -73,7 +73,10 @@ Raskolnikov je študent prava - že nekaj mesecev ne študira. Živi pri neki go
 		- v 3. poglavju se zbudi iz snu razdražen, spet rumena - primerja svojo sobo s krsto
 - raskolniku so vsi v hiši zelo naklonjeni - npr. kuharica poskrbi da ima sploh hrano - ima tudi neko romantično zanimanje
 - raskolnikov se je najprej poročil s hčerko od gospodinje - ona umre raskolniku je sicer žal, a ne iskaže posebne žalosti
-- Pulherija - raskolnikova mama ime je latinsko za lepa - moralno lepa, je dobra oseba, v ljudeh vidi dobro, izpostavlja samo dobro (npr. dunjin snubec je očitno, da ji ni ušeč, a o njem izpostavlja samo dobre stvari)
+- Pulherija - raskolnikova mama ime je latinsko za lepa - moralno lepa, je dobra oseba, v ljudeh vidi dobro, izpostavlja samo dobro (npr. dunjin snubec je očitno, da ji ni ušeč, a o njem izpostavlja samo dobre stvari) 
+	- ona se ves čas počuti majhno, nima občutka lastne vrednosti
 	- raskolnik prekine stike z njo in ona skorajda zblazni od bolečine - hoče se žrtvovati za raskolnika (tako kotse on za druge) pošlje mu ogromno denarja, ki ga raskolnik noče
-- Dunja - raskolnikova sestra
+- Dunja - raskolnikova sestra; tudi ona se žrtvuje s tem da se poroči z Lužinom - rasolnik hoče preprečiti to poroko 
+	- Svidrigajlov tudi hoče preprečiti poroko
+- veliko ljudi v zgodbi se žrtvuje, ker iščejo svojo lastno vrednost (na napačen način...)
 - Materino pismo:
