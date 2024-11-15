@@ -22,6 +22,7 @@ Zločinu in kazni očitajo ta nihilizem.
 Dostojevskemu je religija veliko pomenila
 
 #### <font color="#c00000">Fjodor Mihajlovič Dostojevski</font>
+Katerina Ivanovnova - 
 **Avtor:** Fjodor Mihajlovič Dostojevski  
 **Teme:** Psihološki realizem, moralna dilema, krivda, odrešitev, ljubezen, trpljenje.
 **Glavne točke:**
@@ -50,7 +51,9 @@ rumena barva = barva zla
 Raskolnikov:
 - žrtev (hoče se žrtvovati za človeštvo)
 - naključje:
-	- 
+	- da sliši pogovor 2 študentov v pivnici kako ivana aleona služi od revnih študentov
+	- da se znajde aleonina sestra Elizabeta takrat na sceni
+	- da sliši da bo aleona sama ob 7ih zvečer
 
 Raskolnikov je študent prava - že nekaj mesecev ne študira. Živi pri neki gospe v zelo majhni sobici v Sant Peterburgu, ki ji je že nekaj časa dolžen najemnino
 - že na začetku knjige je vroče zatohlo... Psihološko stanje Raskolnika : dražljiv, napet, pogovarja se sam s sabo, reven je počuti se 'ogabno' -> psihološko stanje korespondira z imenom
@@ -59,4 +62,4 @@ Raskolnikov je študent prava - že nekaj mesecev ne študira. Živi pri neki go
 	- prvič se raskolniku porodi ideja da bi jo oropal je ko sliši njen pogovor z ? sliši da je bogata in da bi lahko veliko dobil s tem
 	- on pravi, da bi ta denar zapravil na družini, študiju, revnih... - hoče početi dobra dejanja - delno s tem gasi svojo slabo vest ampak tudi ima to misel da imamo neko pest bogatih, ki služijo na revnih
 	- resnični razlog zakaj je hotel moriti: zato ker ga obseda ideja tega kar je prebral v časopisu; da obstajata 2 vrsti ljudi => nadljudje, k imajo pravico ubiti... (zgled tu mu je Napoleon) in drugi. Hoče preveriti a je on ta nadčlvek - ugotvi da ni. Sicer nima slabe vesti glede Aleone Ivanove, obžaluje pa njegovo sestro, ki je bila koleteralna škoda. Zares začne obžalovati oba umora šele po 2 letih v Sibiriji - prek nekih evangelijev - vloga krščanstva. S svojimi dejanji uničuje življenja drugim - uniči življenje svoji materi kar čuti kot hudo breme.
-	- v 2. poglavju ko gleda Ivano Aleono se počuti nesigurno, ta občutek hoče utopiti -> gre v pivnico -> sreča marmeladovo
+	- v 2. poglavju ko gleda Ivano Aleono se počuti nesigurno, ta občutek hoče utopiti -> gre v pivnico -> sreča marmeladova - pravi da se počuti krivega, ker se mora njegova hči prostituirati za preživetje
