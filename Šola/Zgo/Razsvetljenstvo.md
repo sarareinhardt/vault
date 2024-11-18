@@ -83,7 +83,13 @@ Njen oče ji je poskušal zagotoviti prestol s **Pragmatično sankcijo** kjer je
 	- sedijo še koruzo, buče, fižol, peso, repe - te rastline dajejo večjo kalorično vrednost kot žita
 - Sajenje sadnih dreves - sadje lahko posušiš in imaš čez zimo
 - Čebelarstvo - Anton Janša je bil Slovenec, svetovalec na Dunaju, kjer je učil in predaval o čebelarstvu - tradicionalna koroška jed iz sušenega sadje - dumplings basically
-- Gartlci
+- Gartlci = vrtički, ki so jih kmetje postavil okrog svoje hiše (Marija Terezija je to spodbujala) torej to je ločeno od polja ko so ga obdelovali in tam so sadili različne rastline - s tem se je njihova prehrana izboljšala
 - Hlevska živinoreja
 - Načrtno gnojenje
-- 
+- Kmetijski svetovalci
+- Vzorčne kmetije ^ tist krompir od prej
+- Hmeljarstvo (Piwkooooo)
+##### <font color="#c00000">Kmetijska reforma</font>
+- Zaščita kmeta - kmet je bil osvobojen (prideloval, prodajal.....) Terezija je spodbujala da čim več dela, da bi si sam izboljšal kvaliteto življenja in še ni ga dodatno zaradi tega obdavčila ampak mu pustila 70% pridelkov - kmetje so si tudi sami potem financirali sadovnjake, druge panoge...
+- **Nevoljniški patent** - to da je kmeta odvezala od zemlje
+- **Robotniški patent** omejila, da za tlako delajo samo 2-3 dni na teden, ostale dni pa zase. Če je zemljiški gospod silil, da bi delali več so se lahko šli pritožiti na 
