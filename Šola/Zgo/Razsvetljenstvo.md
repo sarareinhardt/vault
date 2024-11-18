@@ -92,4 +92,18 @@ Njen oče ji je poskušal zagotoviti prestol s **Pragmatično sankcijo** kjer je
 ##### <font color="#c00000">Kmetijska reforma</font>
 - Zaščita kmeta - kmet je bil osvobojen (prideloval, prodajal.....) Terezija je spodbujala da čim več dela, da bi si sam izboljšal kvaliteto življenja in še ni ga dodatno zaradi tega obdavčila ampak mu pustila 70% pridelkov - kmetje so si tudi sami potem financirali sadovnjake, druge panoge...
 - **Nevoljniški patent** - to da je kmeta odvezala od zemlje
-- **Robotniški patent** omejila, da za tlako delajo samo 2-3 dni na teden, ostale dni pa zase. Če je zemljiški gospod silil, da bi delali več so se lahko šli pritožiti na 
+- **Robotniški patent** omejila, da za tlako delajo samo 2-3 dni na teden, ostale dni pa zase. Če je zemljiški gospod silil, da bi delali več so se lahko šli pritožiti na Sodišča, ki jih je ustanovila M.T.
+- največ 30% obremenjenost kmeta
+- popis zemljišč - KATASTER
+- popis lastnikov zemljišč - ZEMLJ: KNJIGA
+- Obdavčitev plemstva in cerkve
+- Odkup zemlje v dedni zakup
+##### <font color="#c00000">Šolska reforma</font>
+- Državno šolstvo
+- Splošna šolska naredba 1774
+- Šola obveznost od 6. do 12 leta
+- Oba spola
+- **Trivialke**, glavne šole, **normalke
+- Učni jezik NEM
+- SLO učbeniki, razglasi
+- SLO učitelji
