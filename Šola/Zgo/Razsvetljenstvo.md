@@ -105,7 +105,10 @@ Njen oče ji je poskušal zagotoviti prestol s **Pragmatično sankcijo** kjer je
 - Oba spola
 - **Trivialke**, 
 - glavne šole (hauptschule) - še malo družboslovja in naravoslovja, za mestne otroke,
-- **normalke** otroci iz prestolnic pokrajin - šola z zahtevnejšim program
+- **normalke** otroci iz prestolnic pokrajin - šola z zahtevnejšim programom
 - Učni jezik NEM
 - SLO učbeniki, razglasi
 - SLO učitelji
+- Nedeljske šole/šola za obnavljanje - po maši v vaški gostilni so naredili ponavljanje/popoldanski pouk - večinoma odrasli hodijo za obnavljanje znanja.
+##### Cerkvena Reforma
+- Hotela sta narediti revnejšo cerkev, celo ukinila sta veliko samostanov, ni 'nič ne delajo' samo tiste samostane, ki so skrbeli za reveže sta ohranila iz stavb pa sta naredila manufakture - šparajo.
