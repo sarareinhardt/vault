@@ -100,10 +100,12 @@ Njen oče ji je poskušal zagotoviti prestol s **Pragmatično sankcijo** kjer je
 - Odkup zemlje v dedni zakup
 ##### <font color="#c00000">Šolska reforma</font>
 - Državno šolstvo
-- Splošna šolska naredba 1774
+- Splošna šolska naredba 1774 - obvezno šolanje od 6. do 12. leta - računanje, branje, pisanje, verouk - če si bil priden si za nagrado dobil sliko Marije Terezije ali Joževa II. 
 - Šola obveznost od 6. do 12 leta
 - Oba spola
-- **Trivialke**, glavne šole, **normalke
+- **Trivialke**, 
+- glavne šole (hauptschule) - še malo družboslovja in naravoslovja, za mestne otroke,
+- **normalke** otroci iz prestolnic pokrajin - šola z zahtevnejšim program
 - Učni jezik NEM
 - SLO učbeniki, razglasi
 - SLO učitelji
