@@ -77,3 +77,13 @@ Pravi, da vsa druga dela (izdelava, prodaja...) predmetu povečajo vrednost (ima
 Njen oče ji je poskušal zagotoviti prestol s **Pragmatično sankcijo** kjer je pisalo da ga bo nasledila njegova hči - ženska in da vse avstrijske dežele ostanejo skupaj. Ko je umrl pozabijo na to in Friderik 2. veliki poskusi vzeti Mariji Tereziji prestol vojsko - vojna traja 7 let, Terezija zmaga
 - ob tem ko je postala vladarica je ugotovila da je njena vojska slaba, slabo izurjena, nemotivirana s katero je rekla, da se ne more boriti za nasledstvo, zato naredi**vojaško reformo**
 - #Vojaška-reforma: Najprej je naredila lepe pisane uniforme - motivacija
+##### <font color="#c00000">Gospodarska reforma</font> 
+(Še vedno Terezija)
+- Uvajanje krompirja - krompir je v 15. st. prišel v Evropo, ampak ga niso veliko gojili.  Zato so ustanovili posebne vzorčne kmetije, kjer so sadili krompir in naučili kmete kako saditi krompir. Ko so kmetom dali semena so zraven poslali še nekega strokovnjaka na katerega so se lahko kmetje obrnili z vprašanji - **Kmetijska pospeševalna služba**
+	- sedijo še koruzo, buče, fižol, peso, repe - te rastline dajejo večjo kalorično vrednost kot žita
+- Sajenje sadnih dreves - sadje lahko posušiš in imaš čez zimo
+- Čebelarstvo - Anton Janša je bil Slovenec, svetovalec na Dunaju, kjer je učil in predaval o čebelarstvu - tradicionalna koroška jed iz sušenega sadje - dumplings basically
+- Gartlci
+- Hlevska živinoreja
+- Načrtno gnojenje
+- 
