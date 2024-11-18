@@ -1,5 +1,6 @@
 - Meja z Azijo: gorovje in reka Ural, Kaspijsko jezero, Maniško podolje, Azovsko in Črno morje, Bospor, Dardanele.
-- 701 milijon ljudi, >10 milijonov km²; globalizacija.
+- 701 milijon ljudi, >10 milijonov km²; 
+- globalizacija: povezovanje držav na politični, ekonomski in kulturni ravni
 - Površje: zahod je razčlenjen (sredogorja, polotoki, otoki), vzhod enoličen.
 - Pomembna so Gibraltarska in Dovrska vrata.
 #### <font color="#c00000">Tipi obal v Evropi</font>
