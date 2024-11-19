@@ -141,9 +141,11 @@
 	- najbolj razvita od njih je Estonija
 #### <font color="#c00000">Relief</font>
 - <font color="#c00000">površje; </font>stare kamnine, tektonsko in ledeniško delovanje
-- <font color="#c00000">Skandinavski polotok;</font> Z del; Skandinavsko gorstvo, težko prehodno, le nad 2000m; proti V se zniža v predkambrijski Baltski ščit, ki se nadaljuje pod Botnijskim zalivom na Finskem
+- <font color="#c00000">Skandinavski polotok;</font> 
+	- Z del polotoka je Skandinavsko gorstvo, težko prehodno, le nad 2000m; 
+	- proti V se zniža v predkambrijskem Baltskem ščitu, ki se nadaljuje pod Botnijskim zalivom na Finskem
 - <font color="#c00000">pleistocen;</font> celinska poledenitev, do 3000m debel led obrusi površje, grbinaste oblike (otočki, 150.000 ob Norveški obali)
-- <font color="#c00000"> po umiku ledu;</font> osrednji del Skandinavije se dvigne (v 100 letih za 100cm), fjordi (z morjem zalite ledeniške doline), fjelli (planota nad fjordi)
+- <font color="#c00000"> po umiku ledu;</font> osrednji del Skandinavije se dvigne (v 100 letih za 100cm), nastanek fjordov (z morjem zalite ledeniške doline), fjelli (planota nad fjordi)
 - <font color="#c00000">platojski ledeniki</font>; na višjih uravnavah, izpod njih vodnati potoki (za HE)
 - <font color="#c00000">ledeniška jezera; </font>za morenskimi nasipi (Finska, J Švedske)
 - <font color="#c00000">morski in rečni nanosi;</font> Danska, rodovitna prst
@@ -152,11 +154,12 @@
 - <font color="#c00000">vpliv S-atlantskega toka;</font> T se hitreje znižujejo od Z-V kot od J-S, obliva Z obalo Norveške
 - <font color="#c00000">oceansko;</font> Danska, obalni del Norveške (poselitev do Nordkappa, ker ne zamrzne)
 - <font color="#c00000">gorsko;</font> Skand. gorstvo; privetrje obilo padavin
-- <font color="#c00000">zmerno hladno;</font> V od Skandinavskega gorstva, večina Švedske in Finske; celinsko, dolge, mrzle zime
-- <font color="#c00000">tundrsko; </font>skrajni S
+- <font color="#c00000">zmerno hladno;</font> V od Skandinavskega gorstva, večina Švedske in Finske; celinsko/kontinentalno vlažno, dolge, mrzle zime
+- <font color="#c00000">tundrsko; </font>skrajni S (mahovi, lišaji)
 - <font color="#c00000">kontinent. vlažno;</font> J Švedska, Finska, Pribaltske
 ![[d0050b189815b537ed19c62e02f9276f.jpeg|350]] 
 severni jeleni:))
+- Laponska; najsevernejši del skandinavskega polotoka
 #### <font color="#c00000">Rastlinstvo</font>
 - tundra; S in gore; Laponci, črede sev. jelenov
 - iglasti ali borealni gozd; večina Finske in Švedske; smreke, bori, macesni (največ gozda)
