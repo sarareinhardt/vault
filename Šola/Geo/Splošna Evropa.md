@@ -208,4 +208,14 @@ Lofoti - znamenitost
 - po letu 1870; zaradi konkurence iz ZDA preusmeritev v svinjino, mlečno govedorejo in perutninarstvo
 - po l. 1960; specializirane farme
 - danes; zaradi skupne kmetijske politike EU morajo spet povečati pridelavo žit in omejiti mlečno živinorejo (manj masla 9/10 krme za živino od EU predelajo
-- 
+
+Lofoti - ribiško otočje
+Nordkapp
+prepoznaj Norland pa Sveland Gotland zgleda ne
+katedrala z zeleno kupolo - Helsinki
+
+##### <font color="#c00000">Pribaltske države</font>
+- <font color="#c00000">splošne značilnosti;</font> gostota poselitve upada od J – S, povečuje pa se gozdnatost; Litvanci in Latvijci – baltska, Estonci – ugrofinska jezikovna skupina; 
+	- Litva – katoličani, Latvija in Estonija – protestanti; rečne ravnine, valovit svet do 300m, jezerca; 
+	- najbolj razvita je Estonija 
+- <font color="#c00000">preteklost;</font> v 18.st. so del ruskega carstva, ob koncu 1.sv.v. vse tri razglasijo samostojnost, l.1920 jim jo prizna SZ, l.1940 jih spet nasilno priključijo.
