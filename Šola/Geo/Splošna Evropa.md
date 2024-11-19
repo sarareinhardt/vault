@@ -62,7 +62,10 @@
 - Viri onesnaževanja: industrija (pomanjkanje financ, ekološke zavesti, manj razviti), rudarstvo, kmetijstvo, promet, naselja, turizem (zlasti v Desni Evropi).
 - Onesnaževanje vodovja: odplake, kemične snovi, razlitja nafte (Severno in Baltsko morje – plitvi). Stanje Rena se izboljšuje, ker ga čistijo.
 - Onesnaževanje zraka: po letu 1990 se zmanjša zaradi zaprtja neustreznih industrijskih obratov in zmanjšanja emisij SO₂ 
-	- #ČRN_TRIKOTNIK = tromeja med Češko Poljsko in Nemčijo - velike emisije $CO_2$ in $SO_2$ - program črnega trikotnika - uvajanje čistilnih naprav, izrabljanje fosilnih 
+	- #ČRN_TRIKOTNIK = tromeja med Češko Poljsko in Nemčijo - velike emisije $CO_2$ in $SO_2$ - program črnega trikotnika - uvajanje čistilnih naprav, izrabljanje fosilnih goriv z manjšo vsebnostjo žvepla
+- Kisli dež - emisije $SO_2$ , dušikovih oksidov iz prometa , kmetijstvo $\rightarrow$ zrak $\rightarrow$ vežejo na vodo v kisline
+	- posledice: umiranje zlasti iglastih gozdov (poljska 9/10 dreves - oni imajo večino magmatskih in metamorfnih kamnin, ki ne nevtralizirajo kislin), kipi, fasade 
+	- kamnine kot so apnenec nevtralizirajo kisline
 #### <font color="#c00000">Prebivalstvo</font>
 - Avtonomistično gibanje: nekatere manjšine imajo vse pravice, večje tudi politično avtonomijo (npr. Katalonci v Španiji); nekatere države hočejo manjšine asimilirati (Vzhodna Evropa); nekatere manjšine so asimilirane, a ohranjajo močno narodnostno zavest (npr. Baski). Kjer ni šolstva v svojem jeziku, se jezik in kultura izgubljata.
 - Separatistično gibanje: želja po odcepitvi.
@@ -125,9 +128,17 @@
 - <font color="#c00000">Nordijske;</font> visoka razvitost, najvišji standard, manjše socialne razlike, pomen zdravstva in ekologije, vstop v EU (razen Norveške in Islandije), prevladuje izvoz
 - <font color="#c00000">Pribaltiške;</font> znotraj SZ gospodarsko najrazvitejše, v okviru S Evrope pa najmanj
 #### <font color="#c00000">Severna Evropa</font>
-- <font color="#c00000">Nordijske;</font> Islandija, Švedska, Danska, Norveška, Finska; pribaltiške; Litva, Latvija, Estonija; poselitev na J,
-- <font color="#c00000">Nordijske; </font>visoka razvitost, najvišji standard, manjše socialne razlike, pomen zdravstva in ekologije, vstop v EU (razen Norveške in Islandije), prevladuje izvoz
+- <font color="#c00000">Nordijske;</font> Islandija, Švedska, Danska, Norveška, Finska; 
+- <font color="#c00000">pribaltiške</font>; Litva, Latvija, Estonija; poselitev na J,
+- <font color="#c00000">Nordijske; </font>
+	- visoka razvitost, 
+	- najvišji standard, 
+	- manjše socialne razlike, 
+	- pomen zdravstva in ekologije, 
+	- vstop v EU (razen Norveške in Islandije), 
+	- prevladuje izvoz
 - <font color="#c00000">Pribaltiške; </font>znotraj SZ gospodarsko najrazvitejše, v okviru S Evrope pa najmanj
+	- najbolj razvita od njih je Estonija
 #### <font color="#c00000">Relief</font>
 - <font color="#c00000">površje; </font>stare kamnine, tektonsko in ledeniško delovanje
 - <font color="#c00000">Skandinavski polotok;</font> Z del; Skandinavsko gorstvo, težko prehodno, le nad 2000m; proti V se zniža v predkambrijski Baltski ščit, ki se nadaljuje pod Botnijskim zalivom na Finskem
