@@ -215,6 +215,7 @@ prepoznaj Norland pa Sveland Gotland zgleda ne
 katedrala z zeleno kupolo - Helsinki
 
 ##### <font color="#c00000">Pribaltske države</font>
+Estonija Latvija Litva
 - <font color="#c00000">splošne značilnosti;</font> gostota poselitve upada od J – S, povečuje pa se gozdnatost; Litvanci in Latvijci – baltska, Estonci – ugrofinska jezikovna skupina; 
 	- Litva – katoličani, Latvija in Estonija – protestanti; rečne ravnine, valovit svet do 300m, jezerca; 
 	- najbolj razvita je Estonija 
