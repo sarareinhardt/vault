@@ -3,3 +3,4 @@
 - [[Opazovanje, intervju, vprašalnik, ocenjevalne lestvice]]
 - [[Eksperiment]]
 - [[Motivacija]]
+- [[Vrednote]]
