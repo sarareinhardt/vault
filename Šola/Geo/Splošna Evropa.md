@@ -12,8 +12,8 @@
 - Lagunski: v plitvinah (kose); južna obala Baltika.
 - Deltasti: delta Donave, Rhone.
 #### <font color="#c00000">GEOLOŠKI NASTANEK IN RAZVOJ EVROPE</font>
-- Najstarejši del: Baltski ščit (predkambrij), Ruska plošča (prekrito s sedimenti); granit.
-- Paleoevropa: stara kaledonska gorstva; Skandinavsko gorovje in večina Britanskega otočja.
+- Najstarejši del: Baltski ščit (predkambrij), Ruska plošča (prekrito s sedimenti - nanešeni z ledeniki, rekami); osnovna površinska zgradba iz granita.
+- Paleoevropa: stara kaledonska gorstva; Skandinavsko gorovje in večina Britanskega otočja, škotsko višavje.
 - Mezoevropa: hercinska gorstva – grudasta (Srednja in Zahodna Evropa, npr. Ardeni, Vogezi, Centralni masiv, Nemško in Češko sredogorje).
 - Neoevropa: alpidska orogeneza (Kantabrijsko gorovje, Pireneji, Alpe, Apenini, Dinarsko gorovje, Karpati).
 - Kotline: sredi mladih gorstev; Panonska, Padska, prekrite s sedimenti.
