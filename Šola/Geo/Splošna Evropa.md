@@ -16,9 +16,9 @@
 - Paleoevropa: stara kaledonska gorstva; Skandinavsko gorovje in večina Britanskega otočja, škotsko višavje.
 - Mezoevropa: hercinska gorstva – grudasta (Srednja in Zahodna Evropa, npr. Ardeni, Vogezi, Centralni masiv, Nemško in Češko sredogorje).
 - Neoevropa: alpidska orogeneza (Kantabrijsko gorovje, Pireneji, Alpe, Apenini, Dinarsko gorovje, Karpati).
-- Kotline: sredi mladih gorstev; Panonska, Padska, prekrite s sedimenti.
-- Vulkanizem: Islandija, Italija (Stromboli...).
-- Poledenitev: celinska na severu, gorska v mladih gorstvih na jugu.
+	- Kotline: sredi mladih gorstev; Panonska, Padska, prekrite s sedimenti.
+	- Vulkanizem: Islandija, Italija (Stromboli...).
+	- Poledenitev: celinska na severu, gorska v mladih gorstvih na jugu.
 - Vzhodni del Evrope: Vzhodnoevropsko nižavje, enoličen relief.
 - Rude: kovinske na Baltskem ščitu, v starih sredogorjih – črni premog (od Velike Britanije do Urala).
 - Evropska populacijska os: ob 50. vzporedniku.
@@ -31,8 +31,9 @@
   - Sibirski maksimum: mrzlo, jasno vreme.
   - Sredozemski minimum: toplo vreme z dežjem.
 - Geografska širina: 35°–70° severne širine.
-- Severnoatlantski tok: obliva zahodno in severno Evropo.
-- Razporeditev kopnega in morja: morje na zahodu in jugu Evrope.
+- Severnoatlantski tok: je topel prinaša hladno vreme, obliva zahodno in severno Evropo.
+- Razporeditev kopnega in morja: vpliva predvsem na podnebje na na zahodu in jugu Evrope (T in padavine).
+- Relief: z n.m.v. pada T, 
 - Celinskost: od zahoda proti vzhodu narašča temperaturna amplituda.
 - Subpolarni pas: tundrsko podnebje in rastje; skrajni sever Skandinavije in evropski del Rusije.
 - Gorsko podnebje in rastje: prisotno v vseh toplotnih pasovih.
