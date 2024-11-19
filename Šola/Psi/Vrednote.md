@@ -7,3 +7,5 @@
 	- pomenijo ponotranjene motive
 	- delujejo trajno, dolgoročno in intenzivno
 - Zavzemajo najvišje mesto v hierarhiji človekovih motivacijskih ciljev
+![[Pasted image 20241119113253.png|400]]
+Skupine vrednot: estetske, kulturne, spoznavne samoaktualizacijske in religiozne vrednote
