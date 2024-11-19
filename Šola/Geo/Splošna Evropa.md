@@ -33,10 +33,13 @@
 - Geografska širina: 35°–70° severne širine.
 - Severnoatlantski tok: je topel prinaša hladno vreme, obliva zahodno in severno Evropo.
 - Razporeditev kopnega in morja: vpliva predvsem na podnebje na na zahodu in jugu Evrope (T in padavine).
-- Relief: z n.m.v. pada T, 
+- Relief: z n.m.v. pada T, gore ustavijo ciklone, predstavljajo 'podnebno mejo'
+- rastje; naravno rastje je zamenjalo kulturno rastje (evropa zelo poseljena; potreba po veliko hrane $\rightarrow$ krčenje gzdov, ravni travniki so zdaj obdelovalne površine)
 - Celinskost: od zahoda proti vzhodu narašča temperaturna amplituda.
 - Subpolarni pas: tundrsko podnebje in rastje; skrajni sever Skandinavije in evropski del Rusije.
 - Gorsko podnebje in rastje: prisotno v vseh toplotnih pasovih.
+- prst - marsikje #antropogena-prst = pod vplivom človeka $\rightarrow$ onesnaževanje pri obdelavi
+	- pogozdovanje za preprečitev erozije $\rightarrow$ dobro? naravna gnojila
 #### <font color="#c00000">Vodovje</font>
 - Reke na vzhodu: najdaljše reke, saj je celina najširša; vključujejo Volgo, Ural, Dneper, Dnester. Izjema je Donava.
 - Reke v Srednji Evropi: Laba, Odra, Visla, Vezera.
@@ -47,6 +50,8 @@
 - Hidroelektrarne (HE): Avstrija, Švica, Norveška, Švedska in Islandija.
 - Jezera: največ jih je na severu (ledeniška), npr. Ladoško v Rusiji, Inari na Finskem; v Alpah – Ženevsko, Bodensko; drugod so tektonska.
 - Pomen: turizem in rekreacija.
+#### <font color="#c00000">Podnebni tipi in rastje</font>
+
 #### <font color="#c00000">Onesnaževanje</font>
 - Viri onesnaževanja: industrija, rudarstvo, kmetijstvo, promet, naselja, turizem (zlasti v Desni Evropi).
 - Onesnaževanje vodovja: odplake, kemične snovi, razlitja nafte (Severno in Baltsko morje – plitvi). Stanje Rena se izboljšuje.
