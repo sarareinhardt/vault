@@ -49,7 +49,7 @@
 - Rečno-kanalska plovba: najrazvitejša v nižinah Zahodne in Srednje Evrope.
 - Hidroelektrarne (HE): Avstrija, Švica, Norveška, Švedska in Islandija.
 - Jezera: največ jih je na severu (ledeniška), npr. Ladoško v Rusiji, Inari na Finskem; v Alpah – Ženevsko, Bodensko; drugod so tektonska.
-- Pomen: turizem in rekreacija.
+- Pomen: turizem, rekreacija, ribolov, vir pitne vode2.
 #### <font color="#c00000">Podnebni tipi in rastje</font>
 - subtropski pas; le sredozemsko podnebje; mediteranski gozd, makija, kserofiti (= sušoljubni)
 - zmerno topli pas;
@@ -59,9 +59,10 @@
 - Subpolarni pas; skrajni S Skandinavije in evropski del Rusije; tundrsko podnebje in rastje
 - Gorsko podnebje in rastje; Povsod; T se z višino niža, skale $\rightarrow$ neporaščeno ali slabo poraščeno (majhni grmički...)
 #### <font color="#c00000">Onesnaževanje</font>
-- Viri onesnaževanja: industrija, rudarstvo, kmetijstvo, promet, naselja, turizem (zlasti v Desni Evropi).
-- Onesnaževanje vodovja: odplake, kemične snovi, razlitja nafte (Severno in Baltsko morje – plitvi). Stanje Rena se izboljšuje.
-- Onesnaževanje zraka: po letu 1990 se zmanjša zaradi zaprtja neustreznih industrijskih obratov in zmanjšanja emisij SO₂ (črni trikotnik).
+- Viri onesnaževanja: industrija (pomanjkanje financ, ekološke zavesti, manj razviti), rudarstvo, kmetijstvo, promet, naselja, turizem (zlasti v Desni Evropi).
+- Onesnaževanje vodovja: odplake, kemične snovi, razlitja nafte (Severno in Baltsko morje – plitvi). Stanje Rena se izboljšuje, ker ga čistijo.
+- Onesnaževanje zraka: po letu 1990 se zmanjša zaradi zaprtja neustreznih industrijskih obratov in zmanjšanja emisij SO₂ 
+	- #ČRN_TRIKOTNIK = tromeja med Češko Poljsko in Nemčijo - velike emisije $CO_2$ in $SO_2$ - program črnega trikotnika - uvajanje čistilnih naprav, izrabljanje fosilnih 
 #### <font color="#c00000">Prebivalstvo</font>
 - Avtonomistično gibanje: nekatere manjšine imajo vse pravice, večje tudi politično avtonomijo (npr. Katalonci v Španiji); nekatere države hočejo manjšine asimilirati (Vzhodna Evropa); nekatere manjšine so asimilirane, a ohranjajo močno narodnostno zavest (npr. Baski). Kjer ni šolstva v svojem jeziku, se jezik in kultura izgubljata.
 - Separatistično gibanje: želja po odcepitvi.
