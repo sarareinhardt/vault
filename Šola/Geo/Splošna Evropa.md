@@ -51,7 +51,13 @@
 - Jezera: največ jih je na severu (ledeniška), npr. Ladoško v Rusiji, Inari na Finskem; v Alpah – Ženevsko, Bodensko; drugod so tektonska.
 - Pomen: turizem in rekreacija.
 #### <font color="#c00000">Podnebni tipi in rastje</font>
-
+- subtropski pas; le sredozemsko podnebje; mediteranski gozd, makija, kserofiti (= sušoljubni)
+- zmerno topli pas;
+	- oceansko; listnat gozd $\rightarrow$ Z Evropa $\rightarrow$ listnat gozd
+	- kontinentalno vlažno; Sr. in večina V Evrope; listnat in mešan gozd, večje T amplitude, manj padavin, poleti višek proti V
+	- zmerno hladno; Skandinavija, S Rusije; manj padavin, če je julija manj kot 10$\degree$C raste še tajga, drugače tundra 
+- Subpolarni pas; skrajni S Skandinavije in evropski del Rusije; tundrsko podnebje in rastje
+- Gorsko podnebje in rastje; Povsod; T se z višino niža, skale $\rightarrow$ neporaščeno ali slabo poraščeno (majhni grmički...)
 #### <font color="#c00000">Onesnaževanje</font>
 - Viri onesnaževanja: industrija, rudarstvo, kmetijstvo, promet, naselja, turizem (zlasti v Desni Evropi).
 - Onesnaževanje vodovja: odplake, kemične snovi, razlitja nafte (Severno in Baltsko morje – plitvi). Stanje Rena se izboljšuje.
