@@ -91,3 +91,4 @@ Tisti, ki niso nadljudje - so navadni (kar Raskolnikov ni hotel biti):
 - ubogljivi
 - verni
 - redoljubni
+"Novo življenje"
