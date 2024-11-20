@@ -80,3 +80,14 @@ Raskolnikov je študent prava - že nekaj mesecev ne študira. Živi pri neki go
 	- Svidrigajlov tudi hoče preprečiti poroko
 - veliko ljudi v zgodbi se žrtvuje, ker iščejo svojo lastno vrednost (na napačen način...)
 - Svodrigajlov je edini, ki naredi samomor raskolnikov pa samo razmišlja o njem
+##### Lastnosti nadljudi po Raskolnikovm:
+- imajo višji cilj (dobrega)
+	- da ga dosežejo si lahko vzamejo pravico v svoje roke - lahko tudi ubijajo
+- po njegovem so odrešilni za človeštvo
+- Napoleon je njegov vzor
+Tisti, ki niso nadljudje - so navadni (kar Raskolnikov ni hotel biti):
+- so "uši"
+- "material"?
+- ubogljivi
+- verni
+- redoljubni
