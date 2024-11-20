@@ -79,4 +79,4 @@ Raskolnikov je študent prava - že nekaj mesecev ne študira. Živi pri neki go
 - Dunja - raskolnikova sestra; tudi ona se žrtvuje s tem da se poroči z Lužinom - rasolnik hoče preprečiti to poroko 
 	- Svidrigajlov tudi hoče preprečiti poroko
 - veliko ljudi v zgodbi se žrtvuje, ker iščejo svojo lastno vrednost (na napačen način...)
-- Svodrigajlov je edini, ki naredi samomor raskolnik pa samo razmišlja o njem
+- Svodrigajlov je edini, ki naredi samomor raskolnikov pa samo razmišlja o njem
