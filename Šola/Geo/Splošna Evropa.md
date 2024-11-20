@@ -164,17 +164,17 @@ severni jeleni:))
 - tundra; S in gore; Laponci, črede sev. jelenov
 - iglasti ali borealni gozd; večina Finske in Švedske; smreke, bori, macesni (največ gozda)
 - mešan gozd; izkrčen; J Švedske in Finske
-- listnat gozd; J Švedske in Danske, Pribaltiške države (izkrčen, zdaj njive – ječmen, oves, krompir, na J sadno drevje)
+- listnat gozd; J Švedske in Danske, Pribaltiške države (izkrčen, zdaj njive – pridelava: ječmen, oves, krompir, na J sadno drevje)
 - gozdna meja; J (nekaj 100m n.v.), S (ob morju)
 #### <font color="#c00000">Eergetski viri</font>
 - HE; Norveška (zlasti J), Švedska (osrednja), Islandija; daljše reke, večja moč
 - nafta in zem. plin; Norveška, Danska
-- jedrske elektrarne; Švedska (4 JE dajejo ½ elektrike), v 70-ih letih
-- Pribaltiške države; energetsko revne; Litva odvisna od JE, Estonija pridobiva elektriko v TE iz zalog oljnih skrilavcev
+- jedrske elektrarne; Švedska (8 JE dajejo 34% elektrike), 47% e - hidroelektrarne
+- Pribaltiške države; energetsko revne; Litva odvisna od JE (76%), Estonija pridobiva elektriko v TE iz zalog oljnih skrilavcev $\rightarrow$ energetsko neodvisna.
 #### <font color="#c00000">Alternativni energetski viri</font>
-- vetrne elektrarne; Danska (Z vetrovi), jih izvaža, še nafta in zem.plin (v S morju)
+- vetrne elektrarne; Danska (Z vetrovi), izvaža vetrnice
 - elektrarna, ki izkorišča moč valov; Bergen
-- geotermalna voda; Islandija, greje nad 1/3 ljudi
+- geotermalna voda; Islandija, greje nad 1/3 ljudi - tudi turistično privlačno (Modra laguna)
 #### <font color="#c00000">Onesnaževanje</font>
 - kisli dež; ogroža vodo, gozd, prst, zdravje; emisije žveplovih in dušikovih oksidov prinašajo vetrovi iz Z, Sr. In V Evrope
 - območja; najhuje na JZ  in J Norveške, Švedske in Finske (zlasti konec 70-ih)
