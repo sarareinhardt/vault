@@ -119,3 +119,4 @@ Njen oče ji je poskušal zagotoviti prestol s **Pragmatično sankcijo** kjer je
 - semonija - kupovanje pozicij (plačaš neko količino denarja in lahko postaneš škof...)
 - <3
 - M.T. ustanovila duhovniški sklad iz katerega so duhovnikom dajali plače -> iz njega naredi javnega vslužbenca ne pa nekega od boga posvečenega delavca - zato mu lahko naloži dodatne stvari: pisanje matičnih, krstnih, poročnih, mrliških knjig
+- MT je dovolila vse vere, kar je pomenilo gosp razcvet - judje so prinesli denar, možnost, priložnost za delo
