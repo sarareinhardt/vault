@@ -114,4 +114,8 @@ Njen oče ji je poskušal zagotoviti prestol s **Pragmatično sankcijo** kjer je
 - Hotela sta narediti revnejšo cerkev, celo ukinila sta veliko samostanov, ni 'nič ne delajo' samo tiste samostane, ki so skrbeli za reveže sta ohranila iz stavb pa sta naredila manufakture - šparajo.
 - pokopavali so jih v žakljih, ker so šparali z lesom
 - **Tolerančni patent** - verska toleranca
-- 
+- Ukinitev jezuitskega reda - jezuiti so se infiltrirali v življenje drugih in predvsem problematično so prevzeli kontrolo nad šolskim sistemom in katoliško vzgajali otroke
+- nepotizem = dajanje prednosti družinskim članom za postavljanje na neke pozicije
+- semonija - kupovanje pozicij (plačaš neko količino denarja in lahko postaneš škof...)
+- <3
+- M.T. ustanovila duhovniški sklad iz katerega so duhovnikom dajali plače -> iz njega naredi javnega vslužbenca ne pa nekega od boga posvečenega delavca - zato mu lahko naloži dodatne stvari: pisanje matičnih, krs
