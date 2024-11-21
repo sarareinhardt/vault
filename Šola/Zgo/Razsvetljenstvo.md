@@ -118,4 +118,4 @@ Njen oče ji je poskušal zagotoviti prestol s **Pragmatično sankcijo** kjer je
 - nepotizem = dajanje prednosti družinskim članom za postavljanje na neke pozicije
 - semonija - kupovanje pozicij (plačaš neko količino denarja in lahko postaneš škof...)
 - <3
-- M.T. ustanovila duhovniški sklad iz katerega so duhovnikom dajali plače -> iz njega naredi javnega vslužbenca ne pa nekega od boga posvečenega delavca - zato mu lahko naloži dodatne stvari: pisanje matičnih, krs
+- M.T. ustanovila duhovniški sklad iz katerega so duhovnikom dajali plače -> iz njega naredi javnega vslužbenca ne pa nekega od boga posvečenega delavca - zato mu lahko naloži dodatne stvari: pisanje matičnih, krstnih, poročnih, mrliških knjig
