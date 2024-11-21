@@ -112,3 +112,6 @@ Njen oče ji je poskušal zagotoviti prestol s **Pragmatično sankcijo** kjer je
 - Nedeljske šole/šola za obnavljanje - po maši v vaški gostilni so naredili ponavljanje/popoldanski pouk - večinoma odrasli hodijo za obnavljanje znanja.
 ##### <font color="#c00000">Cerkvena Reforma</font>
 - Hotela sta narediti revnejšo cerkev, celo ukinila sta veliko samostanov, ni 'nič ne delajo' samo tiste samostane, ki so skrbeli za reveže sta ohranila iz stavb pa sta naredila manufakture - šparajo.
+- pokopavali so jih v žakljih, ker so šparali z lesom
+- **Tolerančni patent** - verska toleranca
+- 
