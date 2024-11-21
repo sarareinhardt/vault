@@ -33,11 +33,15 @@ Immigration
 Emigration
 - leave
 The sense of permanence
-Why move
+Why move?
 - education
 - work
 - new start
 - culture
 - money
 - religion
-- politics
+- politics - exile
+- war/conflict
+- family
+- love
+- quality of life
