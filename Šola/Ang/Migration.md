@@ -26,3 +26,18 @@ Disadvantages
 - missing your family
 - bureaucratic problems (visas, work permits, insurance and pension schemes)
 - they always feel like foreigners (like they don't belong)
+
+Tim:
+Immigration
+- coming to live
+Emigration
+- leave
+The sense of permanence
+Why move
+- education
+- work
+- new start
+- culture
+- money
+- religion
+- politics
