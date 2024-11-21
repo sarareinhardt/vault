@@ -45,3 +45,15 @@ Why move?
 - family
 - love
 - quality of life
+
+Well founded fear
+1. race
+2. religion
+3. nationality
+4. social group
+5. nationality
+6. political opinion
+UNCHR
+- civilians fleeing conflict
+- civil wars
+- ethnic tribal and religious violence
