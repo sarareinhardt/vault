@@ -120,3 +120,4 @@ Njen oče ji je poskušal zagotoviti prestol s **Pragmatično sankcijo** kjer je
 - <3
 - M.T. ustanovila duhovniški sklad iz katerega so duhovnikom dajali plače -> iz njega naredi javnega vslužbenca ne pa nekega od boga posvečenega delavca - zato mu lahko naloži dodatne stvari: pisanje matičnih, krstnih, poročnih, mrliških knjig
 - MT je dovolila vse vere, kar je pomenilo gosp razcvet - judje so prinesli denar, možnost, priložnost za delo
+- Trst in Reka ja naredila za svobodni brezcarinski promet, ukinila carine med deželami, uredila ceste - dobra trgovina, po teh cestah je pošiljala tudi pošto
