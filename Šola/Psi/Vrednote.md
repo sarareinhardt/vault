@@ -10,3 +10,9 @@
 ![[Pasted image 20241119113253.png|400]]
 Skupine vrednot: estetske, kulturne, spoznavne samoaktualizacijske in religiozne vrednote
 Samoaktualizirane osebe - moraš vedet 5 lastnosti za test
+##### Opredelitev pojma stres
+= vzorec fizioloških, spoznavnih, vedenjskih in čustvenih odgovorov na stresorje (dražljaje, ki zmotijo človekovo notranje ravnotežje)
+#Stresorji = vsi pojavi, ki jih doživljamo kot grožnjo ali izziv in, ki telesno ali duševno obremenjujejo našo osebnost
+###### Najpogostejši stresorji:
+Skupine stresorjev:
+- 
