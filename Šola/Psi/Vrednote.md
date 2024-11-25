@@ -9,3 +9,4 @@
 - Zavzemajo najvišje mesto v hierarhiji človekovih motivacijskih ciljev
 ![[Pasted image 20241119113253.png|400]]
 Skupine vrednot: estetske, kulturne, spoznavne samoaktualizacijske in religiozne vrednote
+Samoaktualizirane osebe - moraš vedet 5 lastnosti za test
