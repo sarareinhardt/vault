@@ -8,6 +8,12 @@
 - 50 zveznih držav - 
 	- skupno vsem: ustava (American constitution) valuta, vojska & obramba, trgovina
 	- različo - zakoni... odloča vsaka država sama
-- Federacija - se tesno povežejo v enotno državo - določene značilnosti svojih držav obdržijo, večini pa se odpovejo za to kar bodo imeli skupaj
+- Federacija - tesna povezanost držav/narodov... - določene značilnosti svojih držav obdržijo, večini pa se odpovejo za to kar bodo imeli skupaj
 - Konfederacija = v neko skupno državo se povežejo že obstoječe politične entitete (državne tvorbe) - kadar se združijo se težko odpovejo svojim lastnim zakonom - ker je v ameriki na začetku obstajalo 13 kolonij, ki so že imele svoje zakone in razdeljene veje oblasti in se niso hotele odpovedati svojim zakonom.....in so se zato povezali v neko 'ohlapno' tvorbo - konfederacijo in samo določili nekega predsednika vsega skupaj
 	- največje vprašanje glede katerega se niso strinjali so bili sužnji
+Amerika je zdaj FEDERACIJA
+Statue of liberty - predstavlja svobodo, resnico, pravico in prijateljstvo
+- grška toga je simbol demokracije
+- zlomljene verige - simbol osvoboditve od suženjstva
+- bakla simbol svobode
+- darilo od Francozov ob 100ti obletnici francoske neodvisnosti, ker so jim Američani pomagali pri osamosvojitvi?
