@@ -7,4 +7,5 @@
 - [[Turki (Osmansko cesarstvo)]]
 - [[Kmečki upori na slovenskem]]
 - [[Razsvetljenstvo]]
+- [[Amerika]]
 - 

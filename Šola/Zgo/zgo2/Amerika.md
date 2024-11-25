@@ -1,0 +1,6 @@
+- vlado sestavlja predsednik države, ne najmočnejša stranka
+- predsednik postavlja tudi vrhovne sodnike - ko nekdo postane vrhovni sodnik je ta do konca življenja
+- predsednik je nosilec izvršilne veje oblasti, sam izbira funkcionarje
+- Kongres = ameriški parlament sestavljen iz 2 delov
+	- senat vanj vsaka zvezna država pošlje 2 senatorja, mandat senatorjev je 6 let - vsaki 2 leti zamenjajo 1/3 senata
+	- predstavniški dom; skoraj 500 predstavnikov - ko je ZDA nastajala so se odločili, da je na 30k prebivalcev 1 predstavnik, zato so danes že na številu 620k (cca)
