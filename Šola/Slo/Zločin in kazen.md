@@ -92,3 +92,67 @@ Tisti, ki niso nadljudje - so navadni (kar Raskolnikov ni hotel biti):
 - verni
 - redoljubni
 "Novo življenje"
+___
+### **Vprašanja za vajo**
+#### **1. Opazujte pripovedno tehniko: kakšen je pripovedovalec? Opazite kaj nenavadnega?**
+
+Pripovedovalec je tretjeosebni, vsevedni, vendar pogosto prehaja v misli in občutke Raskolnikova, kar roman približa notranji monološki tehniki. Nenavadno je, da pripovedovalec ne ostaja popolnoma distanciran – pogosto poudarja psihološko stanje junakov, predvsem Raskolnikova, in na trenutke celo deluje subjektivno.
+
+---
+
+#### **2. Kakšna je zunanja zgradba romana? Ali gre za tipično epsko delo?**
+
+Roman je razdeljen na šest delov in epilog, kar ustreza tipični epski strukturi 19. stoletja. Vendar pa delo odstopa od klasične epske naracije zaradi močnega osredotočanja na notranje konflikte in psihologijo junakov, kar je značilno za Dostojevskega.
+
+---
+
+#### **3. Kakšen je dogajalni prostor v romanu? Kako bi opisali dogajalni čas? Katere barve in katera števila se ves čas ponavljajo – in kakšen pomen bi lahko imele za psihologijo glavnih oseb?**
+
+Dogajalni prostor je predvsem Sankt Peterburg, ki je predstavljen kot mračno, tesnobno in zanemarjeno mesto, kar odraža Raskolnikovo notranje stanje. Dogajalni čas je 19. stoletje, v obdobju socialne in moralne krize v Rusiji.  
+Barve, kot so rdeča (kri, strast) in rumena (bolezen, dekadenca), imajo simboličen pomen. Število "dva" (dvojnost) se ponavlja v povezavi z Raskolnikovim notranjim bojem med dobrim in zlom.
+
+---
+
+#### **4. Označite književne osebe (socialni položaj, telesna podoba in duševna podoba, ravnanje in delovanje, pomen njihovih imen):**
+
+- **Rodja (Rodion) Raskolnikov**: Bivši študent, reven in notranje razdvojen. Njegovo ime izhaja iz "raskol" (razkol), kar simbolizira njegovo dvojnost. Je inteligenten, a preveč ponosen in obremenjen z lastnimi teorijami.
+- **Dunja**: Raskolnikova sestra, močna in požrtvovalna. Njena predanost družini in čistost nasprotujeta Raskolnikovemu razdoru.
+- **Sonja Marmeladova**: Skromna in moralno čista, čeprav prisiljena v prostitucijo. Njeno ime simbolizira "sočutje" in "modrost".
+- **Arkadij Ivanovič Svidrigajlov**: Moralno pokvarjen in dvoumen lik, ki odseva temne plati človeške narave.
+- **Peter Petrovič Lužin**: Samovšečen in manipulativen, predstavlja pohlep in egoizem.
+
+**b)** Dunja in Sonja simbolizirata čistost in moralno moč, ki nasprotujeta Raskolnikovim temnim mislim.
+
+---
+
+#### **5. Kakšno je Raskolnikovo duševno stanje po umoru – zakaj se vrne na prizorišče dvojnega zločina? Kako poteka policijska preiskava Porfirija Petroviča?**
+
+Po umoru je Raskolnikov psihološko raztreščen, preganjajo ga krivda, paranoja in razdvojenost med občutkom nadvlade in kesanjem. Na prizorišče zločina se vrne zaradi notranje napetosti in želje, da bi preveril, ali so njegovi sumi glede preiskave utemeljeni.  
+Porfirij Petrovič vodi preiskavo z manipulativnim pristopom – skozi pogovore poskuša Raskolnikova psihološko destabilizirati in ga prisiliti k priznanju.
+
+---
+
+#### **6. Kakšna je teorija Raskolnikova? Se z njo strinjate ali ne?**
+
+Raskolnikov verjame, da so ljudje razdeljeni na "običajne" in "izjemne". Izjemni ljudje naj bi imeli pravico prestopiti moralne meje za višje cilje (npr. Napoleon). Osebno se s to teorijo ne strinjam, saj zanemarja moralne posledice dejanj in človeško sočutje.
+
+---
+
+#### **7. Kako bi na kratko opisali "idejo" romana _Zločin in kazen_?**
+
+Ideja romana raziskuje vprašanja krivde, odrešitve, morale in vpliva družbenih razmer na človekovo duševno stanje. Glavna tema je, da nihče ne more ubežati svoji vesti in da resnično odrešenje prihaja skozi kesanje in ljubezen.
+
+---
+
+#### **8. Razpravljajmo:**
+
+**a)** _»Raskolnikov je nor!«_  
+Delno drži. Njegova dejanja in razmišljanje kažejo na psihološko nestabilnost, a hkrati gre za globoko intelektualen konflikt.
+
+**b)** _»Dunjina žrtev za brata je izraz absolutnega egoizma.«_  
+Ne drži. Dunja deluje iz ljubezni in skrbi za brata, čeprav njena dejanja niso vedno najboljša izbira.
+
+**c)** _»Vzljubi najprej, pred vsemi drugimi, samega sebe, kajti vse na svetu temelji na osebnih interesih.«_ (P. P. Lužin)  
+Izjava je izrazito egoistična in nasprotuje glavni ideji romana, ki poudarja altruizem in sočutje.
+
+
