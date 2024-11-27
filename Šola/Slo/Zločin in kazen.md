@@ -158,3 +158,5 @@ Izjava je izrazito egoistična in nasprotuje glavni ideji romana, ki poudarja al
 
 - Poglej kar je v branjih o Dostojevskem
 - psihološki realizem, avtor, romanopisec, pisatelj
+- nihilizem
+- v začetku jedra s par stavki opišeš idejo/bistvo romana po tem pa o navodilih
