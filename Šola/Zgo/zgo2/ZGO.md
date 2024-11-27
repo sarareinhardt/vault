@@ -8,4 +8,3 @@
 - [[Kmečki upori na slovenskem]]
 - [[Razsvetljenstvo]]
 - [[Amerika]]
-- 
