@@ -156,3 +156,5 @@ Ne drži. Dunja deluje iz ljubezni in skrbi za brata, čeprav njena dejanja niso
 Izjava je izrazito egoistična in nasprotuje glavni ideji romana, ki poudarja altruizem in sočutje.
 
 
+- Poglej kar je v branjih o Dostojevskem
+- psihološki realizem, avtor, romanopisec, pisatelj
