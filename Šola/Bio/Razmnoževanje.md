@@ -5,3 +5,5 @@ progesteron povzroči ovulacijo
 maš 400 jajčec in vsak mesec porabiš 1
 notranjost maternice - sluznica - krovno tkivo
 	zunanjost - gladko mišično tkivo
+Izvenmaternična nosečnost - zarodek se zasidra v jajcevodu - jajcevod poči - notranje krvavitve - ženska lahko umre
+zarodek začne izločati hormon, ki gre preko posteljice v materino kri $\rightarrow$ urin $\rightarrow$ test nosečnosti
