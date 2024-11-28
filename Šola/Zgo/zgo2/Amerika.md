@@ -19,3 +19,20 @@ Statue of liberty - predstavlja svobodo, resnico, pravico in prijateljstvo
 - darilo od Francozov ob 100ti obletnici francoske neodvisnosti, ker so jim Američani pomagali pri osamosvojitvi?
 Roosewelt je bil najdlje predsednik
 born 4th of July - nek film
+Zakaj so se preseljevali v ameriko
+- iskati boljše življenje (obuboženi kmetje)
+- neko plemstvo?
+- **Verski begunci** v angliji so bili puritanci
+- Amishi: tudi versiki preganjanci??
+	- prišli in zavračali vse tehnološke napredke
+- Več kot jih je bilo boljše so lahko skrbeli za svojo varnost - grajenje dovolj kvalitetnih in samozadostnih naselij (so se zavarovali pred naravo), obranili pred staroselci, merkantilizem - pridobiti lastne surovine in prodajati to drugam
+- britanci so kolonijam rekli naselitvene kolonije in britanci so o njih značili razmišljati kot vir surovin 
+	- tudi priseljenci so rabili surovine ampak so jih angleži odvažali
+	- priseljenci so si sami proizvajali produkte, ki bi jih sicer kupovali od britancev
+	- => pride do konflikta interesov
+- prva kolonija = jamestown
+- **Guvernerji** so prihajali do kolonij iz anglije, vendar so bili drugače samoupravni
+	- ko so postali dovolj gospodarsko močni postanejo konkurenca britancem
+##### <font color="#c00000">Ameriška revolucija</font>
+1765-1783
+Pride do , prepovedala jim je manufaktire, trgovanje 
