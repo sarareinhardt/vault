@@ -40,3 +40,6 @@ Pride do oboroženega konflikta ker britanija, prepovedala jim je manufaktire, t
 Španci na levi francozi na sredini angleži na desni
 - angleži so začeli uvajati nove davke zaradi denarne krize = **Tax act oz. Davčni zakon** 
 - **Kolek** neka državna znamka - če ste hoteli nekaj kupiti si plačal kolek/carino, ki je dokazovala da anglija nekej profitira. Kolonisti so nehali plačevati davek in rekli, da ga ne bojo dokler nimajo predstaavnikov v parlamentu
+
+Auf seiner geburtstag haben wir viel gegessen und getanzt.
+Es hat auf seiner geburtstag viel getanzt ung geggessen werden
