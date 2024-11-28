@@ -17,3 +17,5 @@ Statue of liberty - predstavlja svobodo, resnico, pravico in prijateljstvo
 - zlomljene verige - simbol osvoboditve od suženjstva
 - bakla simbol svobode
 - darilo od Francozov ob 100ti obletnici francoske neodvisnosti, ker so jim Američani pomagali pri osamosvojitvi?
+Roosewelt je bil najdlje predsednik
+born 4th of July - nek film
