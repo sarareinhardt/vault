@@ -39,3 +39,4 @@ Pride do oboroženega konflikta ker britanija, prepovedala jim je manufaktire, t
 - Ang se je zato udeležila 7 letne vojne ANG + Prusija vs FRA + Avstrija - v osnovi med marijo terezijo in friderikom 2. pruskim. Angleški kolonisti v ameriki so se borili proti francoskim čeprav bi se lahko postavili na francosko stran in se že takrat osamosvojili, ampak se jim iskaže, kot dobro, ker so dobili takrat veliko posesti
 Španci na levi francozi na sredini angleži na desni
 - angleži so začeli uvajati nove davke zaradi denarne krize = **Tax act oz. Davčni zakon** 
+- **Kolek** neka državna znamka - če ste hoteli nekaj kupiti si plačal kolek/carino, ki je dokazovala da anglija nekej profitira. Kolonisti so nehali plačevati davek in rekli, da ga ne bojo dokler nimajo predstaavnikov v parlamentu
