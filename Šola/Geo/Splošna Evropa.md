@@ -251,3 +251,15 @@ Estonija Latvija Litva
 - <font color="#c00000">2 ½ 80-ih;</font> demokratizacija (Gorbačov)
 - <font color="#c00000">l.1991;</font> Jelcin (vodka man - ta vesela slikica) jim prizna samostojnost
 - <font color="#c00000">rusifikacija;</font> priseljevanje Rusov, Ukrajincev in Belorusov; še najbolj homogena je Litva (80% avtohtonih prebivalcev)
+##### <font color="#c00000">Litva</font>
+- <font color="#c00000">podnebje;</font> zmerno – oceansko in celinsko
+- <font color="#c00000">površje;</font> ob obali peščene sipine, JV –gričevje z jezeri, jezera so ledeniška
+- <font color="#c00000">rastje; </font>borovi, hrastovi gozdovi, travniki (paša)
+- <font color="#c00000">prebivalstvo;</font> skoraj več kot 3M; Vilnius (aka Vilna)
+-  <font color="#c00000">gospodarski viri;</font> šota, nafta, govedina, les
+##### <font color="#c00000">Latvija</font>
+- <font color="#c00000">površje</font>; ob Baltiku; dolga, peščena obala; valovito nižavje, V del – nizka planota z jezeri in močvirji
+- <font color="#c00000">podnebje</font>; hladno, vlažno, pozimi mrzlo
+- <font color="#c00000">rastje</font>; hrastovi, borovi gozdovi, travniki (paša)
+- <font color="#c00000">prebivalstvo</font>;  2.3 milij; protestanti, letonščina
+- <font color="#c00000">gospod. viri</font>; jantar, šota, les, mlečni izdelki
