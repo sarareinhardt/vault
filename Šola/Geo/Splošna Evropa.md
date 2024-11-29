@@ -246,4 +246,8 @@ Estonija Latvija Litva
 - <font color="#c00000">splošne značilnosti;</font> gostota poselitve upada od J – S, povečuje pa se gozdnatost; Litvanci in Latvijci – baltska, Estonci – ugrofinska jezikovna skupina; 
 	- Litva – katoličani, Latvija in Estonija – protestanti; rečne ravnine, valovit svet do 300m, jezerca; 
 	- najbolj razvita je Estonija 
-- <font color="#c00000">preteklost;</font> v 18.st. so del ruskega carstva, ob koncu 1.sv.v. vse tri razglasijo samostojnost, l.1920 jim jo prizna SZ, l.1940 jih spet nasilno priključijo.
+- <font color="#c00000">preteklost;</font> v 18.st. so del ruskega carstva, ob koncu 1.sv.v. vse tri razglasijo samostojnost, <font color="#c00000">l.1920</font> jim jo prizna SZ, l.1940 jih spet nasilno priključijo.
+- <font color="#c00000">2.sv.v.</font>; zasedba nemške vojske, l.1944 zoper Rdeča armada
+- <font color="#c00000">2 ½ 80-ih;</font> demokratizacija (Gorbačov)
+- <font color="#c00000">l.1991;</font> Jelcin (vodka man - ta vesela slikica) jim prizna samostojnost
+- <font color="#c00000">rusifikacija;</font> priseljevanje Rusov, Ukrajincev in Belorusov; še najbolj homogena je Litva (80% avtohtonih prebivalcev)
