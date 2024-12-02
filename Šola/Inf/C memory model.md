@@ -1,7 +1,7 @@
 ### **1. Uvod (2 minuti)**
 
 - **vprašanje**:
-    - _"Kaj se v resnici zgodi v pomnilniku, ko v jeziku C deklarirate spremenljivko?"_
+    - _"Kaj se v resnici zgodi v pomnilniku, ko v jeziku C deklarirate spremenljivko? Kaj naredi računalnik z informacijami ki mu jih damo, kam jih shranjuje..."_
 - **Zakaj je pomembno** razumevanje pomnilniškega modela:
     - Razumevanje pomnilniškega modela (memory model) je ključno za:
         - Učinkovito programiranje.
