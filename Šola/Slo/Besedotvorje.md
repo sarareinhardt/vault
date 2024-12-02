@@ -4,7 +4,7 @@
 	- miz-ar/ski/stvo - to so **obrazila** (ta ar ski stvo)
 	- na-miz-je
 	- igralec: -igra -lec
-		- < tisti, ki igra = skladenska podstava
+		- < tisti, ki igra = skladenjska podstava
 		- igra v igralec = besedotvorna podstava
 		- lec v igralec je obrazilo
 		- obrazila:
