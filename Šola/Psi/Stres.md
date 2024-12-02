@@ -7,3 +7,8 @@ Skupine stresorjev:
 - delavno mesto ali šola; preobremenjenost, prekratki roki, premalo dela, premalo zahtevno delo, preverjanje in ocenjevanje znanja
 - nenadne življenjske spremembe; smrt bližnjiih, ločitev, sprememba službe/šole, zadetek na loteriji, izjemni osebni dosežek
 - vsakodnevne skrbi; naglica, kaos, čakanje v vrstah, prevoz v šolo, slabi medsebojni odnosi, kajenje, premalo gibanja
+###### Odziv na stresorje
+**Eustres** - pozitiven stres
+- kadar mislimo/ocenimo, da so naše sposobnosti večje od zahtev
+**Distres** - negativen stres
+ - kadar mislimo, da so zahteve večje od naših sposobnosti, pa tudi takrat kadar ni nobenih zahtev
