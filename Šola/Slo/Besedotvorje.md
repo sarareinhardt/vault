@@ -3,7 +3,15 @@
 - tvorjene besede
 	- miz-ar/ski/stvo - to so **obrazila** (ta ar ski stvo)
 	- na-miz-je
-	- igralec: -igra -lec < tisti, ki igra 
+	- igralec: -igra -lec
+		- < tisti, ki igra = skladenska podstava
+		- igra v igralec = besedotvorna podstava
+		- lec v igralec je obrazilo
+		- obrazila:
+			- **prionska**
+			- **medponska** - zob-o-zdrav-nik b.p. = zob, zdrav medponsko obrazilo = o (medponska obrazila so lahko večinoma samo o in a)
+			- **predponska** - *od*-pisati - vemo, ja de predonsko pbrazilo ker ga lahko s čim zamenjamo: za-pisati, pre-pisati...
+	- zobozdravnik < zdravnik za zobe, besedotvorna podstava = zdrav, zob
 ___
 Pojmi - delitev
 - zlog
