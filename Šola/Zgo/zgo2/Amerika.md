@@ -49,5 +49,5 @@ sklicujejo se na:
 - združevali so se pod geslom "no taxation without representation" (ne bomo plačevali davkov, če ne bomo v angliji imeli svojih predstavnikov)
 Franklin je poznal obred ustoličevanja => predstavljal to kot demogratični način izbiranja voditelja
 (help tle neki shita manka)
-
+iz deklaracije
 
