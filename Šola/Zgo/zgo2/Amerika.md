@@ -40,4 +40,14 @@ Pride do oboroženega konflikta ker jim je britanija prepovedala manufaktire, tr
 Španci na levi francozi na sredini angleži na desni
 - angleži so začeli uvajati nove davke zaradi denarne krize = **Tax act oz. Davčni zakon** 
 - **Kolek** neka državna znamka - če ste hoteli nekaj kupiti si plačal kolek/carino, ki je dokazovala da anglija nekej profitira. Kolonisti so nehali plačevati davek in rekli, da ga ne bojo dokler nimajo predstaavnikov v parlamentu
+- Bostonska čajanka - vržejo čaj iz angleških ladij v morje kot protest za davek na čaj
+###### Organiziranje in ideje kolonistov
+sklicujejo se na:
+- principe angleške revolucije
+- liberalni konstitucionalizem 
+- razsvetljenski racionalizem
+- združevali so se pod geslom "no taxation without representation" (ne bomo plačevali davkov, če ne bomo v angliji imeli svojih predstavnikov)
+Franklin je poznal obred ustoličevanja => predstavljal to kot demogratični način izbiranja voditelja
+(help tle neki shita manka)
+
 
