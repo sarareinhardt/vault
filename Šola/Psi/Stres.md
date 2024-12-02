@@ -13,3 +13,4 @@ Skupine stresorjev:
 **Distres** - negativen stres
  - kadar mislimo, da so zahteve večje od naših sposobnosti, pa tudi takrat kadar ni nobenih zahtev
 ![[Pasted image 20241202112659.png]]
+učb. str. 110
