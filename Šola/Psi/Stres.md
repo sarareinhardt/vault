@@ -14,3 +14,18 @@ Skupine stresorjev:
  - kadar mislimo, da so zahteve večje od naših sposobnosti, pa tudi takrat kadar ni nobenih zahtev
 ![[Pasted image 20241202112659.png]]
 učb. str. 110
+###### Kadar stres premagamo
+- nas uspeh opogumlja
+- razvijamo svoje sposobnosti
+- samobodoba se izboljša
+- predstavimo si zahtevnejše cilje
+- naslednji stresor bomo verjetno ocenili kot cilj, ki je obvladljiv
+Bolj stresni poklici
+- kontrolor poletov
+- zdravnik, 
+- direktor,
+- učitelj,
+- svetovalni delavec
+- itd.
+###### Psihosomatska obolenja
+- posledica psihične obolitve
