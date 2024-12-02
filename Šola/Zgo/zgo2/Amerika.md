@@ -35,7 +35,7 @@ Zakaj so se preseljevali v ameriko
 	- ko so postali dovolj gospodarsko močni postanejo konkurenca britancem
 ##### <font color="#c00000">Ameriška revolucija</font>
 1765-1783
-Pride do oboroženega konflikta ker britanija, prepovedala jim je manufaktire, trgovanje z evropskimmi državami in jih poskusila prisiliti v gospodarsko neodvisnost (naj bi kupovali stvari iz ANG ) ko je ANG sama imela denarno stisko, ker se je ispraznila državna blagajna (sredstva porabijo za vojsko)
+Pride do oboroženega konflikta ker jim je britanija prepovedala manufaktire, trgovanje z evropskimmi državami in jih poskusila prisiliti v gospodarsko neodvisnost (naj bi kupovali stvari iz ANG ) ko je ANG sama imela denarno stisko, ker se je ispraznila državna blagajna (sredstva porabijo za vojsko)
 - Ang se je zato udeležila 7 letne vojne ANG + Prusija vs FRA + Avstrija - v osnovi med marijo terezijo in friderikom 2. pruskim. Angleški kolonisti v ameriki so se borili proti francoskim čeprav bi se lahko postavili na francosko stran in se že takrat osamosvojili, ampak se jim iskaže, kot dobro, ker so dobili takrat veliko posesti
 Španci na levi francozi na sredini angleži na desni
 - angleži so začeli uvajati nove davke zaradi denarne krize = **Tax act oz. Davčni zakon** 
