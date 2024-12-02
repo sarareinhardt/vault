@@ -1,8 +1,9 @@
 - netvorjene besede
 	- miza
 - tvorjene besede
-	- miz-ar
+	- miz-ar/ski/stvo - to so **obrazila** (ta ar ski stvo)
 	- na-miz-je
+	- igralec: -igra -lec < tisti, ki igra 
 ___
 Pojmi - delitev
 - zlog
