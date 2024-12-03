@@ -8,7 +8,7 @@
 	        - 
         - Odpravljanje napak.
 	        - npr pointer, ki kaže na del spomina po koncu izvedene funkcije, kjer te spremenljivke več ni
-        - Izogibanje težavam, kot so uhajanje pomnilnika (memory leak) in prelivanje medpomnilnika (buffer overflow).
+        - da ne pozabiš clearat spomona, ki si ga popisal z malloc (memory locate)
 - **Struktura predstavitve**:
     - Razporeditev pomnilnika (memory layout).
     - Tipi spremenljivk in njihov vpliv na pomnilnik (variable types and memory impact).
