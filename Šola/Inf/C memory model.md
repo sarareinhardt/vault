@@ -20,7 +20,7 @@
 - **Pomnilniški segmenti (memory segments)**:
     - **Segment kode (text/code segment)**: Shrani kodo ki se trenutno izvaja.
     - **Podatkovni segment (data segment)**: Inicializirane globalne in statične spremenljivke.
-    - **Segment BSS (BSS segment)**: Neinicializirane globalne in statične spremenljivke.
+    - **Neinicializirane globalne in statične spremenljivke.
     - **Kopica (heap)**: Dinamično dodeljen pomnilnik za spremenljivke, ki so dodeljene s funkcijami, kot sta `malloc` ali `calloc`.
     - **Sklad (stack)**: Pomnilnik za lokalne spremenljivke in klice funkcij.
 - **Diagram**:
