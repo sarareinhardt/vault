@@ -11,5 +11,5 @@
     - Razporeditev pomnilnika (memory layout).
     - Tipi spremenljivk in njihov vpliv na pomnilnik (variable types and memory impact).
     - Vrste pomnilnikov (types of memory).
-    - Ključne napake (common issues) in zaključek.
+    - Ključne napake (skill issues) in zaključek.
     - :3
