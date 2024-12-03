@@ -10,5 +10,6 @@
 - **Struktura predstavitve**:
     - Razporeditev pomnilnika (memory layout).
     - Tipi spremenljivk in njihov vpliv na pomnilnik (variable types and memory impact).
-    - Vrste pomnilnika (types of memory).
+    - Vrste pomnilnikov (types of memory).
     - Ključne napake (common issues) in zaključek.
+    - :3

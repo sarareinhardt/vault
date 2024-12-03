@@ -1,1 +1,1 @@
-[[Boolova Algebra]]
+[[Booleanova Algebra]]
