@@ -5,7 +5,9 @@
 - **Zakaj je pomembno** razumevanje pomnilniškega modela:
     - Razumevanje pomnilniškega modela (memory model) je ključno za:
         - Učinkovito programiranje.
+	        - 
         - Odpravljanje napak.
+	        - npr pointer, ki kaže na del spomina po koncu izvedene funkcije, kjer te spremenljivke več ni
         - Izogibanje težavam, kot so uhajanje pomnilnika (memory leak) in prelivanje medpomnilnika (buffer overflow).
 - **Struktura predstavitve**:
     - Razporeditev pomnilnika (memory layout).
