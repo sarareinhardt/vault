@@ -47,3 +47,6 @@ Besedotvorni načini:
 	- sklopi - sklapljanje
 - Če je naloga določi besedotvorni način = zlaganje
 - Vrsta tvorjenke = zloženka
+
+ta, ki
+tak, ki
