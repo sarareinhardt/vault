@@ -2,13 +2,6 @@
 
 - **vprašanje**:
     - _"Kaj se v resnici zgodi v pomnilniku, ko v jeziku C deklarirate spremenljivko? Kaj naredi računalnik z informacijami ki mu jih damo, kam jih shranjuje..."_
-- **Zakaj je pomembno** razumevanje pomnilniškega modela:
-    - Razumevanje pomnilniškega modela (memory model) je ključno za:
-        - Učinkovito programiranje.
-	        - Razumevanje kako se podatki zvrstijo v pomnilniku
-        - Odpravljanje napak.
-	        - npr pointer, ki kaže na del spomina po koncu izvedene funkcije, kjer te spremenljivke več ni
-        - da ne pozabiš clearat spomona, ki si ga popisal z malloc (memory locate)
     - :3
 ### **2. Razporeditev pomnilnika v jeziku C (3 minute)**
 
