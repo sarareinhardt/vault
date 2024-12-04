@@ -49,7 +49,7 @@
 		    - Zasede **8 bajtov** in podpira približno 15 decimalnih mest.
     - **Poravnava**:
         - Pravila poravnave lahko dodajo zapolnjevanje (padding). Primer: `struct` z `int` in `char` polji lahko zahteva več pomnilnika, kot bi pričakovali.
-	        - podatkovni tipi 
+	        - podatkovni tipi se v spominu nahajajo na poziciji, ki je večkratnik njegove velikosti
 - **Sestavljeni tipi**:
     - **Tabele (arrays)**: Shranjene v zaporednem pomnilniku.
         - Primer: `int arr[5];` porabi `5 * sizeof(int)` bajtov na skladu.
