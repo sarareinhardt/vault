@@ -18,3 +18,4 @@
 - [ ] lekarna: gel za obraz scetja, cera ve
 - [ ] PSI
 - [ ] FIZ
+- [ ] SLO dz 1. DEL
