@@ -10,7 +10,7 @@
     - **Podatkovni segment (data segment )**: Inicializirane globalne in statične spremenljivke.
     - **Neinicializirane globalne in statične spremenljivke BSS segment.
     - **Kopica (heap)**: Dinamičen, 
-    - Heap – začasen, avtomatičen, hitrejši, določena, manjša velikost od stacka
+    - Kopica - Heap – Dinamičen, začasen, avtomatičen, hitrejši, določena, manjša velikost od stacka
     - Stack (Sklad) – dolgoročen, ni avtomatičen, počasnejši
 
 
