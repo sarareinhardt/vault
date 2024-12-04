@@ -80,26 +80,16 @@
     - Dvojna sprostitev (double free)
 	    - 2x sprostiš prostor s free()
     - Prelivanje medpomnilnika(Buffer overflow)
+	    - poskusiš pisati izven meje dodeljenega pomnilnika (napišeš več podatkov kot si dodelil prostora)
+	    - Buffer (ali medpomnilnik) je začasni pomnilniški prostor, ki se uporablja za shranjevanje podatkov med prenosom iz enega mesta v drugo.
     - Uhajanje pomnilnika (Memory leak)
-- **Orodja za odpravljanje napak**:
-    - `valgrind` za zaznavanje uhajanja pomnilnika.
-    - Možnosti prevajalnika, kot je `-fsanitize=address`.
+	    - Dinamično dodeljeni pomnilnik se ne sprosti z `free`, kar povzroči, da ostane dodeljen, vendar nedostopen.
+	    - torej mi (npr znotraj neke funkcije) zapišemo nekaj v heap - dinamični polnilnik, po izvedbi funkcije pa ne sprostimo tega prostora s free. Podatki so še vedno tam shranjeni pointerja za dostop do njih pa nimamo več.
+	    - **Valgrind**  - orodje za zaznavanje uhajanja pomnilnika 
 
 ---
 
-### **6. Napredni koncepti (2–3 minute)**
-
-- **Poravnava in zapolnjevanje**:
-    - Vpliv na hitrost dostopa do pomnilnika.
-- **Težave pri sočasnosti**:
-    - Tekmovanje za podatke v večnitenih programih.
-    - Vloga spominskih ovir.
-- **Optimizacije prevajalnika**:
-    - Predpomnjenje in uporaba registrov.
-
----
-
-### **7. Zaključek in vprašanja (2–3 minute)**
+### **5. Zaključek in vprašanja (2–3 minute)**
 
 - **Ključne ugotovitve**:
     - Razumevanje pomnilniškega modela jezika C pomaga preprečiti napake in pisati učinkovito kodo.
