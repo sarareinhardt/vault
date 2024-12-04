@@ -22,6 +22,6 @@
     - **Podatkovni segment (data segment)**: Inicializirane globalne in statične spremenljivke.
     - **Neinicializirane globalne in statične spremenljivke.
     - **Kopica (heap)**: Dinamično dodeljen pomnilnik za spremenljivke, ki so dodeljene s funkcijami, kot sta `malloc` ali `calloc`.
-    - **Sklad (stack)**: Pomnilnik za lokalne spremenljivke in klice funkcij.
+    - **Sklad (stack)**: Pomnilnik za lokalne spremenljivke in klice funkcij. dinamičen, avtomatičen, 
 - **Diagram**:
     - Prikaz hierarhije pomnilnika s primeri: kje so spremenljivke shranjene glede na njihovo deklaracijo.
