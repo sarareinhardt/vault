@@ -50,3 +50,11 @@ Besedotvorni načini:
 
 ta, ki
 tak, ki
+^besedne vrste
+Skladenska podstava je lahko priredna ali podredna
+priredne so enakovredne božični in novoletni
+podredne - neenakovredne - tak, ki je od mame
+
+učitelj - uči.telj
+učiteljski - učitelj.ski
+prvi del se šteje kot besedotvorna podstava tudi, če je že sama tvorjenka
