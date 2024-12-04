@@ -48,8 +48,9 @@
 		    - Shranjuje **realna števila** z večjo natančnostjo (dvojna natančnost).
 		    - Zasede **8 bajtov** in podpira približno 15 decimalnih mest.
     - **Poravnava**:
-        - Pravila poravnave lahko dodajo zapolnjevanje (padding). Primer: `struct` z `int` in `char` polji lahko zahteva več pomnilnika, kot bi pričakovali.
-	        - podatkovni tipi se v spominu nahajajo na poziciji, ki je večkratnik njegove velikosti
+        - Pravila poravnave lahko dodajo zapolnjevanje (padding). 
+	        - podatkovni tipi se v spominu nahajajo na poziciji, ki je večkratnik njegove velikosti, za optimizacijo procesov (proceser ve, da se podatek lahko nahaja samo na mestu, ki je večkratnik njegove velikosti)
+		        - vmes dobimo padding, ki poskrbi za pravilno poravnavo nadaljnih podatkov. Notri lahko nima nič ali pa neko naključno vrednost, ki je bila prej tam.
 - **Sestavljeni tipi**:
     - **Tabele (arrays)**: Shranjene v zaporednem pomnilniku.
         - Primer: `int arr[5];` porabi `5 * sizeof(int)` bajtov na skladu.
