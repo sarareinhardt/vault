@@ -30,4 +30,12 @@ Vrste tvorjenk:
 	- podoficir: pod-predponsko obrazilo, oficir besedotvorna podstava, skladenska podstava = nižji oficir -> nižji (pridevnik, polnopomenska beseda) gre v pod, ki ni polnopomenska beseda
 	- lahko dodajamo tudi priponske obrazila (podoficirski)
 - **predpražnik** skladenjska podstava: to, da je pred pragom 
-	- pred = predmet in NI polnopomenska beseda in ostane isti ko postane priponsko obrazilo, zato je IZPELJANKA
+	- pred = predmet in NI polnopomenska beseda in ostane isti ko postane priponsko obrazilo, zato je IZPELJANKA => sesravljanke imajo lahko samo polnopomensko predponsko obrazilo
+- Prazgodovina skladenjski podstavek = davna zgodovina
+- Zloženke
+	- besedotvorna odstava1 + medponsko obrazilo + besedotvorna odstava1 (lahko je na koncu še priponsko obrazilo)
+- Sklopi
+	- ko združiš več besed
+		- seveda (se ve da)
+		- petindvajset
+	- imajo isti pomen tudi če damo vmes presledek
