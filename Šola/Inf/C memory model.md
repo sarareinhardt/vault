@@ -18,7 +18,7 @@
 ### **2. Razporeditev pomnilnika v jeziku C (3 minute)**
 
 - **Pomnilniški segmenti (memory segments)**:
-    - **Segment kode (text/code segment)**: Shrani kodo ki se trenutno izvaja.
+    - **Segment kode (text/code segment)**: Shrani kodo ki se trenutno izvaja - navodila programa prevedena v strojno kodo
     - **Podatkovni segment (data segment BSS)**: Inicializirane globalne in statične spremenljivke.
     - **Neinicializirane globalne in statične spremenljivke.
     - **Kopica (heap)**: Dinamičen, 
@@ -72,32 +72,15 @@
 
 ---
 
-### **4. Vrste pomnilnika (5 minut)**
-
-- **Sklad**
-    - Značilnosti: LIFO, upravlja ga prevajalnik, hiter.
-    - Primer: Klici funkcij, lokalne spremenljivke.
-    - Slabosti: Preliv sklada.
-- **Kopica**
-    - Značilnosti: Dinamična dodelitev, počasnejši dostop.
-    - Funkcije: `malloc`, `calloc`, `free`.
-    - Slabosti: Uhajanje pomnilnika, fragmentacija.
-- **Statičen/globalen pomnilnik**
-    - Življenjska doba: Celoten program.
-    - Primeri uporabe.
-- **Segment kode**
-    - Samo za branje, shranjuje prevedena navodila.
-    - Primer: Literalne nize.
-
----
-
-### **5. Pogoste težave in nasveti za odpravljanje napak (4 minute)**
+### **4. Pogoste težave in nasveti za odpravljanje napak (4 minute)**
 
 - **Pogoste napake**:
-    - Ohlapni kazalci.
-    - Dvojna sprostitev.
-    - Prelivanje medpomnilnika.
-    - Uhajanje pomnilnika.
+    - Ohlapni kazalci (dangeling pointers)
+	    - Kazalec, ki kaže na prostor ki je bil že sproščen s free()
+    - Dvojna sprostitev (double free)
+	    - 2x sprostiš prostor s free()
+    - Prelivanje medpomnilnika(Buffer overflow)
+    - Uhajanje pomnilnika (Memory leak)
 - **Orodja za odpravljanje napak**:
     - `valgrind` za zaznavanje uhajanja pomnilnika.
     - Možnosti prevajalnika, kot je `-fsanitize=address`.
