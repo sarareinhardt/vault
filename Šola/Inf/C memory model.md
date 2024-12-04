@@ -20,6 +20,7 @@
 
 - **Primitivni tipi**:
     - **Poraba pomnilnika**:
+	    - ko deklariramo spremenljivko moramo povedaati tip spremenljivke
         - `int`, `char`, `float`, `double`: Pojasnite značilne velikosti v bajtih (npr. `int` običajno zaseda 4 bajte na 32-bitnem sistemu).
         - `char` = 1 bajt, `double` = 8 bajtov.
         - - **`char`**:
@@ -34,7 +35,7 @@
 		- **`double`**:
 		    - Shranjuje **realna števila** z večjo natančnostjo (dvojna natančnost).
 		    - Zasede **8 bajtov** in podpira približno 15 decimalnih mest.
-    - **Poravnava**:
+    - **Poravnava (alignment)**:
         - Ko določimo vrednost neki spremenljivki se ta shrani kot pointer na prvi bite te vrednosti v spominu
 	        - podatkovni tipi se v spominu nahajajo na poziciji, ki je večkratnik njegove velikosti, za optimizacijo procesov (procesor ve, da se podatek lahko nahaja samo na mestu, ki je večkratnik njegove velikosti)
 		        - vmes dobimo padding, ki poskrbi za pravilno poravnavo nadaljnih podatkov. Notri lahko nima nič ali pa neko naključno vrednost, ki je bila prej tam.
