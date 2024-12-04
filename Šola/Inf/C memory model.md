@@ -19,7 +19,7 @@
 
 - **Pomnilniški segmenti (memory segments)**:
     - **Segment kode (text/code segment)**: Shrani kodo ki se trenutno izvaja.
-    - **Podatkovni segment (data segment)**: Inicializirane globalne in statične spremenljivke.
+    - **Podatkovni segment (data segment BSS)**: Inicializirane globalne in statične spremenljivke.
     - **Neinicializirane globalne in statične spremenljivke.
     - **Kopica (heap)**: Dinamičen, 
     - Stack (Kopica) – dolgoročen, ni avtomatičen, počasnejši
@@ -63,8 +63,12 @@
         - Dinamično dodeljeni kazalci uporabljajo kopico (`malloc` ali podobno).
 - **Obseg in življenjska doba**:
     - **Globalne/statične spremenljivke**: Shranjene v podatkovnem ali BSS segmentu.
-    - **Lokalne spremenljivke**: Shranjene na skladu.
-    - **Dinamične spremenljivke**: Dodeljene na kopici z uporabo `malloc` ali podobnih funkcij.
+    - **Lokalne spremenljivke**: Shranjene na skladu (stack).
+    - **Dinamične spremenljivke**: Dodeljene na kopici (heap) 
+	    - spremenljivke, ki jim tekom programa dodelimo vrednost, na začetku samo določimo prostor, ki ga bo porabila
+			- int * ptr = malloc(sizeof(int)); 
+			- * ptr = 10; 
+			- free(ptr);
 
 ---
 
