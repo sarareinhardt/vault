@@ -7,11 +7,11 @@
 
 - **Pomnilniški segmenti (memory segments)**:
     - **Segment kode (text/code segment)**: Shrani kodo ki se trenutno izvaja - navodila programa prevedena v strojno kodo
-    - **Podatkovni segment (data segment BSS)**: Inicializirane globalne in statične spremenljivke.
-    - **Neinicializirane globalne in statične spremenljivke.
+    - **Podatkovni segment (data segment )**: Inicializirane globalne in statične spremenljivke.
+    - **Neinicializirane globalne in statične spremenljivke BSS segment.
     - **Kopica (heap)**: Dinamičen, 
     - Heap – začasen, avtomatičen, hitrejši, določena, manjša velikost od stacka
-    - Stack (Kopica) – dolgoročen, ni avtomatičen, počasnejši
+    - Stack (Sklad) – dolgoročen, ni avtomatičen, počasnejši
 
 
 ---
@@ -39,7 +39,7 @@
 	        - podatkovni tipi se v spominu nahajajo na poziciji, ki je večkratnik njegove velikosti, za optimizacijo procesov (procesor ve, da se podatek lahko nahaja samo na mestu, ki je večkratnik njegove velikosti)
 		        - vmes dobimo padding, ki poskrbi za pravilno poravnavo nadaljnih podatkov. Notri lahko nima nič ali pa neko naključno vrednost, ki je bila prej tam.
 - **Sestavljeni tipi**:
-    - **Tabele (arrays)**: Shranjene v zaporednem pomnilniku.
+    - **Tabele (arrays)**: podatki istega tipa shranjeni zaporedneo v pomnilniku.
         - Primer: deklariramo tabelo `int arr[5];` ta porabi `5 * sizeof(int)` bajtov na skladu.
         - 
     - **Strukture (structs)**:
@@ -58,7 +58,7 @@
 
 ---
 
-### **4. Pogoste težave in nasveti za odpravljanje napak (4 minute)**
+### **4. Pogoste težave (4 minute)**
 
 - **Pogoste napake**:
     - Ohlapni kazalci (dangeling pointers)
