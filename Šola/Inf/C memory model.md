@@ -9,11 +9,6 @@
         - Odpravljanje napak.
 	        - npr pointer, ki kaže na del spomina po koncu izvedene funkcije, kjer te spremenljivke več ni
         - da ne pozabiš clearat spomona, ki si ga popisal z malloc (memory locate)
-- **Struktura predstavitve**:
-    - Razporeditev pomnilnika (memory layout).
-    - Tipi spremenljivk in njihov vpliv na pomnilnik (variable types and memory impact).
-    - Vrste pomnilnikov (types of memory).
-    - Ključne napake (skill issues) in zaključek.
     - :3
 ### **2. Razporeditev pomnilnika v jeziku C (3 minute)**
 
@@ -91,9 +86,6 @@
 
 ### **5. Zaključek in vprašanja (2–3 minute)**
 
-- **Ključne ugotovitve**:
-    - Razumevanje pomnilniškega modela jezika C pomaga preprečiti napake in pisati učinkovito kodo.
+-
+    - Razumevanje pomnilniškega modela jezika C pomaga preprečiti napake in pisati učinkovitejšo kodo.
     - Je temelj za sistemsko programiranje in aplikacije, kjer je zmogljivost ključna.
-- **Naslednji koraki**:
-    - Predlagajte vire za nadaljnje učenje: knjige, orodja ali spletne tečaje.
-- **Vprašanja in odgovori**: Povabite občinstvo k vprašanjem.
