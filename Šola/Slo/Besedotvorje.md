@@ -27,6 +27,7 @@ Vrste tvorjenk:
 	- skakalec - ta ki skače skaka - besedotvorna podstava, lec-priponsko obrazilo
 - Sestavljenke
 	- predponsko obrazilo
-	- podoficir: pod-predponsko obrazilo, oficir besedotvorna podstava, skladenska podstava = nižji oficir
+	- podoficir: pod-predponsko obrazilo, oficir besedotvorna podstava, skladenska podstava = nižji oficir -> nižji (pridevnik, polnopomenska beseda) gre v pod, ki ni polnopomenska beseda
 	- lahko dodajamo tudi priponske obrazila (podoficirski)
-	- predpražnik skladenjska podstava: to, da je pred pragom
+- **predpražnik** skladenjska podstava: to, da je pred pragom 
+	- pred = predmet in NI polnopomenska beseda in ostane isti ko postane priponsko obrazilo, zato je IZPELJANKA
