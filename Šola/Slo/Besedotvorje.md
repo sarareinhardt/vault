@@ -18,4 +18,15 @@ Pojmi - delitev
 - osnova, končnica (del, ki se spreminja in del ki se ne spreminja)
 - koren besede = tisti osrednji morfem (= najmanjša pomenska enota, ki je  asociirana z pomenom besede) - besede z istim pomenom spadajo v **Besedno družino**
 - tematsko polje - (koš, trener, sodnik, žoga - tematsko polje košarka)
-- 
+
+Moramo: znati določiti besedno vrsto in katere vrste tvorjenke imamo
+Vrste tvorjenk:
+- Izpeljanke - v SLO najpogostejše
+	- besedotvorna podstava + priponsko obrazilo
+	- mizica
+	- skakalec - ta ki skače skaka - besedotvorna podstava, lec-priponsko obrazilo
+- Sestavljenke
+	- predponsko obrazilo
+	- podoficir: pod-predponsko obrazilo, oficir besedotvorna podstava, skladenska podstava = nižji oficir
+	- lahko dodajamo tudi priponske obrazila (podoficirski)
+	- predpražnik skladenjska podstava: to, da je pred pragom
