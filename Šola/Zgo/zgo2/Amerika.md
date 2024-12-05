@@ -50,3 +50,4 @@ sklicujejo se na:
 Franklin je poznal obred ustoličevanja => predstavljal to kot demogratični način izbiranja voditelja
 (help tle neki shita manka)
 iz deklaracije
+[[Francoska revolucija]]

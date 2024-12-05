@@ -21,3 +21,4 @@
 		- utilitarizem
 			- Jeremy Bentham je utemeljitelj te šole
 		- empirizem
+			- 
