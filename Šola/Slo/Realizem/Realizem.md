@@ -1,5 +1,5 @@
 - **Realizem (1830–1880)**: Nastal kot nasprotje romantiki, s poudarkom na prikazu resničnega življenja in družbenih razmer (prikazuje realističen svet).
-- **Vplivi revolucij in znanosti**: Francoska revolucija in industrijska revolucija, skupaj z znanstvenimi teorijami (Darwin, Marx), so oblikovali realizem. Razvoj znanosti je bil dodatna pobuda za realistični prikaz sveta.
+- **Vplivi revolucij in znanosti**: Francoska revolucija in industrijska revolucija, skupaj z znanstvenimi teorijami (Darwin, Marx), so oblikovali realizem. Razvoj znanosti je bil dodatna pobuda za realistični prikaz sveta.**
 - **Družbene spremembe**: Pisatelji so se osredotočali na vsakdanje življenje in resnične družbene situacije, brez idealiziranja sveta, značilnega za romantiko. Poudarek na točnem opazovanju, psiholoških & socioloških študijah
 - **Širitev realizma**: Začel se je v Franciji, nato se razširil v Nemčijo, Anglijo, Rusijo in druge dežele. Ključni avtorji: Balzac, Dickens, Gogolj, Tolstoj.
 - **Objektivni realizem**: Po letu 1850 so pisatelji težili k nepristranskemu prikazu stvarnosti (Flaubert, Thackeray).

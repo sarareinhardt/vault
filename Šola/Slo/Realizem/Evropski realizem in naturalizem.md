@@ -20,5 +20,6 @@
 			- materializem: ker govorijo o stvarnem/materialnem svetu
 		- utilitarizem
 			- Jeremy Bentham je utemeljitelj te šole
+			- Utilitarizem je etična teorija, ki trdi, da so dejanja moralno pravilna, če maksimizirajo srečo ali korist in zmanjšujejo trpljenje. Njegov glavni princip je doseči največjo srečo za največje število ljudi. Osredotoča se na posledice dejanj, pri čemer je dobro tisto, kar prinaša največ pozitivnih učinkov za vse prizadete.
 		- empirizem
 			- 
