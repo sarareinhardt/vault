@@ -16,8 +16,8 @@
 Realizem se najbolj razvije v FRA ANG RUS
 **Realisti**
 *Francozi:
-- Flaubert
-- Honoré de Balzac
+- Flaubert - Gospa Bovary
+- Honoré de Balzac - Oče Goriot
 - Stendhal
 *Angleži
 - Charles Dickens
