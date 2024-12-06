@@ -58,3 +58,7 @@ podredne - neenakovredne - tak, ki je od mame
 učitelj - uči.telj
 učiteljski - učitelj.ski
 prvi del se šteje kot besedotvorna podstava tudi, če je že sama tvorjenka
+
+knjigar - ta, ki prodaja knjige
+knjigarna - to kjer se prodaja knjige 
+	večinoma pri opisu uporabimo besedo, ki je aktualna besedotvorna po
