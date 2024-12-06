@@ -33,7 +33,7 @@ Vrste tvorjenk:
 	- pred = predmet in NI polnopomenska beseda in ostane isti ko postane priponsko obrazilo, zato je IZPELJANKA => izpeljanke imajo lahko samo polnopomensko predponsko obrazilo
 - Prazgodovina skladenjski podstavek = davna zgodovina
 - Zloženke
-	- besedotvorna odstava1 + medponsko obrazilo + besedotvorna odstava1 (lahko je na koncu še priponsko obrazilo)
+	- besedotvorna odstava1 + medponsko obrazilo + besedotvorna odstava1 (lahko je na koncu še priponsko obrazilo) iz 2 polnopomenskih besed
 - Sklopi
 	- ko združiš več besed
 		- seveda (se ve da)
@@ -61,4 +61,8 @@ prvi del se šteje kot besedotvorna podstava tudi, če je že sama tvorjenka
 
 knjigar - ta, ki prodaja knjige
 knjigarna - to kjer se prodaja knjige 
-	večinoma pri opisu uporabimo besedo, ki je aktualna besedotvorna po
+	večinoma pri skladenski podstavi uporabimo besedo, ki je aktualna besedotvorna podstava (edino pri knjigar je ok, ker je tvorjenka 2. stopnje)
+izpeljanke -> nepolnopomenska -> nepolnopomenska 
+sestavljanke - polnopomenska -> nepolnopomenska
+zloženke - 2 polnopomenski besedi
+sklopi
