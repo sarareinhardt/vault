@@ -64,7 +64,7 @@ knjigarna - to kjer se prodaja knjige
 	večinoma pri skladenski podstavi uporabimo besedo, ki je aktualna besedotvorna podstava (edino pri knjigar je ok, ker je tvorjenka 2. stopnje)
 izpeljanke -> nepolnopomenska -> nepolnopomenska 
 sestavljanke - polnopomenska -> nepolnopomenska
-zloženke - 2 polnopomenski besedi
+zloženke - 2 polnopomenski besedi - 2 besedotvorni podstavi
 sklopi
 
 Koronavirus  - ima ničlo obrazilo (ga ni) korona.virus
