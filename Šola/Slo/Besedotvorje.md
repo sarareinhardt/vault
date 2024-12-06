@@ -66,3 +66,5 @@ izpeljanke -> nepolnopomenska -> nepolnopomenska
 sestavljanke - polnopomenska -> nepolnopomenska
 zloženke - 2 polnopomenski besedi
 sklopi
+
+Koronavirus  - ima ničlo obrazilo (ga ni) korona.virus
