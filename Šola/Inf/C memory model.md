@@ -8,8 +8,7 @@
 - **Pomnilniški segmenti (memory segments)**:
     - **Segment kode (text/code segment)**: Shrani kodo ki se trenutno izvaja - navodila programa prevedena v strojno kodo
     - **Podatkovni segment (data segment )**: Inicializirane globalne in statične spremenljivke.
-    - **Neinicializirane globalne in statične spremenljivke BSS segment.
-    - **Kopica (heap)**: Dinamičen, 
+    - **Neinicializirane globalne in statične spremenljivke BSS (**block starting symbol**) segment.
     - Kopica - Heap – Dinamičen, začasen, avtomatičen, hitrejši, določena, manjša velikost od stacka
     - Stack (Sklad) – dolgoročen, ni avtomatičen, počasnejši
 
@@ -35,6 +34,7 @@
 		- **`double`**:
 		    - Shranjuje **realna števila** z večjo natančnostjo (dvojna natančnost).
 		    - Zasede **8 bajtov** in podpira približno 15 decimalnih mest.
+		- ne pove samo 
     - **Poravnava (alignment)**:
         - Ko določimo vrednost neki spremenljivki se ta shrani kot pointer na prvi bite te vrednosti v spominu
 	        - podatkovni tipi se v spominu nahajajo na poziciji, ki je večkratnik njegove velikosti, za optimizacijo procesov (procesor ve, da se podatek lahko nahaja samo na mestu, ki je večkratnik njegove velikosti)
