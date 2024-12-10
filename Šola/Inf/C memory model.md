@@ -22,6 +22,7 @@
 	    - ko deklariramo spremenljivko moramo povedaati tip spremenljivke
         - `int`, `char`, `float`, `double`: Pojasnite značilne velikosti v bajtih (npr. `int` običajno zaseda 4 bajte na 32-bitnem sistemu).
         - `char` = 1 bajt, `double` = 8 bajtov.
+        - različni tipi spremenljivk imajo pripisano različno velikost poatka in kako se ga interpretira
         - - **`char`**:
 		    - Uporablja se za shranjevanje enega znaka (ASCII ali Unicode) ali majhnih celih števil.
 		    - Zasede **1 bajt** (8 bitov).
@@ -34,7 +35,6 @@
 		- **`double`**:
 		    - Shranjuje **realna števila** z večjo natančnostjo (dvojna natančnost).
 		    - Zasede **8 bajtov** in podpira približno 15 decimalnih mest.
-		- ne pove samo 
     - **Poravnava (alignment)**:
         - Ko določimo vrednost neki spremenljivki se ta shrani kot pointer na prvi bite te vrednosti v spominu
 	        - podatkovni tipi se v spominu nahajajo na poziciji, ki je večkratnik njegove velikosti, za optimizacijo procesov (procesor ve, da se podatek lahko nahaja samo na mestu, ki je večkratnik njegove velikosti)
