@@ -52,7 +52,7 @@
     - **Globalne/statične spremenljivke**: Shranjene v podatkovnem ali BSS segmentu.
     - **Lokalne spremenljivke**: Shranjene na skladu (stack).
     - **Dinamične spremenljivke**: Dodeljene na kopici (heap) 
-	    - spremenljivke, ki jim tekom programa dodelimo vrednost, na začetku samo določimo prostor, ki ga bo porabila
+	    - spremenljivke, ki jim tekom programa dodelimo vrednost, na začetku lahko samo določimo prostor, ki ga bo porabila ni pa nujno
 			- int * ptr = malloc(sizeof(int)); 
 			- * ptr = 10; 
 			- free(ptr);
