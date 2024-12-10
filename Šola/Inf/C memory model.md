@@ -42,9 +42,9 @@
 - **Sestavljeni tipi**:
     - **Tabele (arrays)**: podatki istega tipa shranjeni zaporedneo v pomnilniku.
         - Primer: deklariramo tabelo `int arr[5];` ta porabi `5 * sizeof(int)` bajtov na skladu.
-        - 
     - **Strukture (structs)**:
         - Več zaporedno shranjenih različnih (lahko sicer tudi enakih) podatkovnih tipov shranjenih znotraj ene strukture/objekta
+        - npr. struktura kjer mas ime, priimek, starost...
     - **Kazalci (pointers)**:
         - Shranjujejo naslove v pomnilniku, običajno 4 bajte (32-bitni sistemi) ali 8 bajtov (64-bitni sistemi).
         - Dinamično dodeljeni kazalci uporabljajo kopico (`malloc` ali podobno).
