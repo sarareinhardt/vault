@@ -68,3 +68,20 @@ zloženke - 2 polnopomenski besedi - 2 besedotvorni podstavi
 sklopi
 
 Koronavirus  - ima ničlo obrazilo (ga ni) korona.virus
+
+
+v testu bo reklama - kakšen slogan uporablja
+str.40 na začetku kaj je oglasno besedil...
+
+
+biti
+- kralj: kraljevati => biti kralj
+- mizariti - biti mizar
+postati/postajati
+- zelen; zeleneti -> postajati zelen
+imeti
+- vera: verovati -> imeti vero
+delati/narediti
+- guba: gubati -> delati gubo
+- končati: delati konec
+- raven: ravnati 
