@@ -1,5 +1,5 @@
 ### **1. Uvod (2 minuti)**
-
+:)
 - **vprašanje**:
     - _"Kaj se v resnici zgodi v pomnilniku, ko v jeziku C deklarirate spremenljivko? Kaj naredi računalnik z informacijami ki mu jih damo, kam jih shranjuje..."_
     - :3

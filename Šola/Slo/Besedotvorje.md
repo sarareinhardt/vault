@@ -81,7 +81,11 @@ postati/postajati
 - zelen; zeleneti -> postajati zelen
 imeti
 - vera: verovati -> imeti vero
-delati/narediti
+delati/narediti (dovršno, nedovršno)
 - guba: gubati -> delati gubo
 - končati: delati konec
 - raven: ravnati 
+dati/dajati
+- iz roke 
+	- izročiti - dati iz rooke
+	- izročati - dajati iz roke
