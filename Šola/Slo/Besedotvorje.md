@@ -89,3 +89,4 @@ dati/dajati
 - iz roke 
 	- izročiti - dati iz rooke
 	- izročati - dajati iz roke
+o.š. je sklop
