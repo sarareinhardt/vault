@@ -9,3 +9,4 @@ Old ideas:
 - rituals
 - fate & fortune
 - Old wives' tales - stories told by old women to scare and warn the younger kids
+- one for sorrow two for joy
