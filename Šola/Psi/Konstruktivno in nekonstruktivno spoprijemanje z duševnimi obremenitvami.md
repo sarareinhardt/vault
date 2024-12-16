@@ -6,3 +6,6 @@ Konstruktivno spoprijemanje z duševnimi obremenitvami
 Nekonstruktivno spoprijemanje z duševnimi obremenitvami
 - agresivno, destruktivno vedenje
 - regresivno vedenje (regredior = stopim nazaj) 
+- beg pred oviro - izogibanje neprijetni situaciji
+- ker težav nismo rešili, smo še naprej zadovoljni!
+	- kako lahko postanete zadovoljnejši?
