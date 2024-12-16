@@ -1,0 +1,2 @@
+- oviro premagamo ali premostimo
+- preusmerimo se k drugemu, približno enakovrednem cilju
