@@ -24,3 +24,7 @@ Prvi ukrepi narodne skupščine
 - svoboda govora
 **Uvajali so temeljne življ. pravice**
 1789 so sprejeli **deklaracijo o pravicah človeka in državljana** - prvi dokument, ki je temeljne človekove pravice v celoti zabeležil, veljale so za vse ljudi
+Reakcija na ukrepe
+- Plemstvo in duhovščin je ob izgubi vseh pravic pobegnila iz države on odnesla sabo vse svoje premično premoženje
+- nagovarjali so voditelje evr. držav predvsem Avstrije in Prusije da naj pridejo pomagati pruskemu kralju
+- Ludvik XVI pobegne z Marijo Antoineto poskusi pobegniti v Belgijo (ker je Marija A. Avstrijka in Belgija je)
