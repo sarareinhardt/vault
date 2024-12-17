@@ -27,4 +27,7 @@ Prvi ukrepi narodne skupščine
 Reakcija na ukrepe
 - Plemstvo in duhovščin je ob izgubi vseh pravic pobegnila iz države on odnesla sabo vse svoje premično premoženje
 - nagovarjali so voditelje evr. držav predvsem Avstrije in Prusije da naj pridejo pomagati pruskemu kralju
-- Ludvik XVI pobegne z Marijo Antoineto poskusi pobegniti v Belgijo (ker je Marija A. Avstrijka in Belgija je)
+- Ludvik XVI pobegne z Marijo Antoineto poskusi pobegniti v Belgijo (ker je Marija A. Avstrijka in Belgija je pripadala Avstriji, naj bi ga ravno ona nagovorila, da pobegneta)
+	- kralja prepoznajo na nekem novcu in ga pripeljejo nazaj v FRA (prej je )
+- evropske države na čelu z Avstrijo Rusijo Prusijo Veliko Britanijo 
+- 1791 izide **ustava**
