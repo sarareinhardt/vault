@@ -54,3 +54,39 @@ Besedilo opisuje vsakodnevno življenje gospe Bovary in Charlesa ter njuno zakon
 
 
 ##### <font color="#c00000">Nikolaj Vasiljevič Gogolj (1809 - 1852</font>
+Plašč:
+### Izpiski iz besedila
+
+1. **Avtor in delo:**
+    
+    - Nikolaj Vasiljevič Gogolj, _Plašč_ (novela).
+    - Gogolj velja za utemeljitelja ruskega (kritičnega) realizma. Novela je primer groteskno-fantastične literature, kjer se prepletajo socialni problemi in realistični opisi.
+2. **Glavni lik:**
+    
+    - **Akakij Akakijevič:** skromen, nižji uradnik, ki živi enolično in brezciljno življenje. Njegova največja strast in veselje je prepisovanje uradnih dokumentov.
+    - Obleka simbolizira njegov družbeni status. Njegova uniforma je stara, obrabljena in izgublja barvo.
+3. **Zgodba in ključni dogodki:**
+    
+    - **Prepisovalno delo:** Akakij svoje delo dojema kot poslanstvo. Odnos nadrejenih do njega je večinoma ignorantski, nekateri pa ga zasmehujejo.
+    - **Nov plašč:** Zaradi hude zime Akakij naroči nov plašč pri krojaču Petroviču, kar mu daje nov občutek ponosa in pomena. Plašč simbolizira preobrat v njegovem življenju.
+    - **Rop:** Akakiju ukradejo plašč. Ta dogodek ga zlomi, saj ne dobi pomoči od policije ali generalov, ki ga ignorirajo in ponižujejo.
+    - **Smrt:** Zaradi razočaranja in mraza Akakij zboli in umre. Njegove stvari so zanemarljive vrednosti, razen kapota, ki predstavlja osrednji simbol zgodbe.
+4. **Simbolika:**
+    
+    - **Plašč:** Simbolizira varnost, dostojanstvo in identiteto. Njegova izguba poudarja Akakijevo nemoč in družbeno nepomembnost.
+    - **Birokracija:** Kritika brezčutnega sistema, ki zanemarja posameznika.
+5. **Prividi in konec:**
+    
+    - Na smrtni postelji Akakij doživlja privide, kjer se osredotoča na plašč in preklinja. Smrt predstavlja konec njegovih muk, a hkrati tudi nemoč, saj ostane pozabljen.
+    - Po smrti se pojavijo govorice o duhovi Akakija, ki ropajo plašče, kar simbolizira maščevanje brezpravnega posameznika.
+6. **Družbena kritika:**
+    
+    - Gogolj kritizira socialno neenakost in brezbrižnost višjih slojev do trpljenja navadnih ljudi.
+    - Prikazuje nemoč malega človeka v rigidni birokratski družbi.
+7. **Slog in ton:**
+    
+    - Groteskno-fantastičen slog z ironijo.
+    - Sočutje do glavnega junaka, hkrati pa tragikomika življenjskih situacij.
+8. **Zaključna misel:**
+    
+    - Akakij Akakijevič je simbol malega človeka, ki se v brezčutni družbi izgubi in ostane neopažen. Novela poudarja pomen človečnosti in družbenega sočutja.
