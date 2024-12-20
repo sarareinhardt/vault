@@ -7,5 +7,8 @@
 	- reke; velike, plovne, majhen strmec (zato zelo primerne za promet)
 	- rastje; izkrčen gozd(zaradi obdelovalnih površin, poselitve), travniki, Zelena Evropa (ker je zdaj veliko travnikov)
 ##### <font color="#c00000">Velika Britanija</font>
-obseg;
-- britansko otočje: VB, Irska, otočja - Hebridi, Orkneyski, 
+- obseg;
+	- britansko otočje: VB, Irska, otočja - Hebridi, Orkneyski, Shetlandski otoki, Kanalski otoki
+	- uradno ime; Združeno kraljestvo VB in S Irske, deli pa so; Anglija, Wales, Škotska in S. irska
+	- po 2. sv. vojni; odvisni teritoriji; Hong Kong (neodvisen l. 1998), Gibraltar, bermudsko in Falklandsko otočje.
+	- Dominion
