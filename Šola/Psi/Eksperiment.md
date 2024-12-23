@@ -30,7 +30,7 @@ Z eksperimentom ugotavljamo vzročno-posledične odnose
 1. Ker osebe vedo, da so opazovane lahko spremenijo svoje vedenje
 2. Vseh pojavov ne moramo namerno povzročati in spreminjati, ker se pojavijo spontano (npr. ljubezenska čustva)
 3. Nekaterih pojavov zaradi etično moralnih razlogov ne smemo povzročiti (npr. povzročanje bolečine, ločevanje dvojčkov...)
-4. Zato, ker pojav izoliramo se lahko spremeni zato ugotovitev ne moramo prenesti v vsakdanje življenje (pri poskusu situacija ni enaka kot v resničnem življenju - rezultat poskusa ni realističen)
+4. Zato, ker pojav izoliramo se lahko spremeni, zato ugotovitev ne moramo prenesti v vsakdanje življenje (pri poskusu situacija ni enaka kot v resničnem življenju - rezultat poskusa ni realističen)
 **Psihološka etična načela** 
 Pravila, ki določajo kakšen je ustrezen odnos do udeležencev v raziskavah
 - sodelovanje je vedno prostovoljno
