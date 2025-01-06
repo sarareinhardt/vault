@@ -31,3 +31,12 @@ Reakcija na ukrepe
 	- kralja prepoznajo na nekem novcu in ga pripeljejo nazaj v FRA (prej je )
 - evropske države na čelu z Avstrijo Rusijo Prusijo Veliko Britanijo 
 - 1791 izide **ustava**
+
+- začetek frontalnega načina bojevanja, ki ostane do 1. svetovne vojne
+- Zaradi krutega režima, ki je sicer prinesel vojaške uspehe je nek model na koncu ostal brez politične moči emmmmm kaj...?
+- parlament:
+	- žirundisti so tvorili nov parlament imenovan svet 500tih
+	- svet modrih - nadzorni svet
+- vlada = direktorij (5 direktorjev iz vrst žirundistov)
+- na drugi strani so se oglašali rojalisti - tisti ki hočejo nazaj monarhijo - tu nastopi Napoleon
+[[Napoleonova Evropa]]
