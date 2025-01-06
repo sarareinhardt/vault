@@ -6,3 +6,4 @@
 [[Realizem]]
 [[Evropski realizem in naturalizem]]
 [[Besedotvorje]]
+[[Novela]]

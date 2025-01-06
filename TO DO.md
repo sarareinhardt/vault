@@ -19,3 +19,4 @@
 - [ ] PSI
 - [ ] FIZ
 - [ ] SLO dz 1. DEL
+- [ ] njam
