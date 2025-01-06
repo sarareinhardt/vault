@@ -6,3 +6,10 @@
 **Podoba človekove dvojne narave**
 - na eni strani **nagoni** in **čustva** neukročena "živalska narava"
 - na drugi strani samo **volja** in **razum**, kultivirana, civilizirana narava
+Analiza sanj:
+- pri sanjah je ločil 2 vsebini
+	- manifestna vsebina sanj - to kar sanjaš (sanjska podoba)
+	- latentna vsebina sanj - sporočilo sanj - kaj nam sanje želijo povedati
+Freud je uporabljal analizo sanj in metodo prostih asociacij
+- sanje, ker jih nimamo pod lastno kontrolo
+- metode prostih asociacij - poveš asociacijo na nekaj
