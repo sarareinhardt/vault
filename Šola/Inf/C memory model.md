@@ -9,8 +9,8 @@
     - **Segment kode (text/code segment)**: Shrani kodo ki se trenutno izvaja - navodila programa prevedena v strojno kodo
     - **Podatkovni segment (data segment )**: Inicializirane globalne in statične spremenljivke.
     - **Neinicializirane globalne in statične spremenljivke BSS (**block starting symbol**) segment.
-    - Kopica - Heap – Dinamičen, začasen, avtomatičen, hitrejši, določena, manjša velikost od stacka
-    - Stack (Sklad) – dolgoročen, ni avtomatičen, počasnejši
+    - Kopica - Heap – Dinamičen, začasen, avtomatičen, , določena, manjša velikost od stacka
+    - Stack (Sklad) – dolgoročen, ni avtomatičen, 
 
 
 ---
