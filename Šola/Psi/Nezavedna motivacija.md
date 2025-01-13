@@ -15,3 +15,4 @@ Freud je uporabljal analizo sanj in metodo prostih asociacij
 - metode prostih asociacij - poveš asociacijo na nekaj
 **Samostruktura osebnosti po Freudu**
 ![[Pasted image 20250106103348.png]]
+Id ne loči realnosti od nerealnosti (loči ego) npr ne mora ločiti med realnostjo, halucinacijami, sanjami.... to loči ego (če še ego propade o ou)
