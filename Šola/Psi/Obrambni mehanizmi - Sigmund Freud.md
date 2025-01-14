@@ -10,3 +10,7 @@ Včasih ne moramo izraziti jeze do bližnje osebe ali avtoritete, zato potlačen
 Pripisovanje lastnih negativnih teženj in značilnosti drugim.
 ##### <font color="#c00000">5. Identifikacija</font>
 Istovetenje z osebami, ki jih dojemamo za posebno popolne (vzorniki); poistovetenje z drugo osebo in prevzemanje njenih lastnosti.
+##### <font color="#c00000">6. Racionalizacija</font>
+Je razmeroma zapleten obrambni mehanizem. Kaže se v poskusih. Kaže se v temu, da bi zmanjšali ter opravičili neuspehe pri doseganju zastavljenih ciljev (kislo grozdje)
+##### <font color="#c00000">7. Kompenzacija ali izravnavanje </font> 
+Če se na določenem področju počutimo šibkejše, 'manjvredne' skušamo ta primankljaj izravnati na drugem področju.

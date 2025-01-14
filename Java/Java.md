@@ -20,12 +20,10 @@ pri ustnem be the ultimate yappinator ker kastelic bo tih
 ![[Recording 20250110185755.webm]]
 
 
+###### Java compilanje 
+![[Pasted image 20250113112529.png]]
 
-
-
-
-
-
+JVM = java virtual machine
 
 
 
