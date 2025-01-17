@@ -8,3 +8,4 @@
 [[Besedotvorje]]
 [[Novela]]
 [[Emile Zola]]
+[[Henrik Ibsen]]

@@ -37,3 +37,23 @@
 - industrija; Dublin Cork. Izvažajo farmacevtska sredstva, medicinske pripomočke... Ryanair
 - proizvodnja cinkovih in svinčenih koncentratov Zaloge mavca, apnenca.
 - brezposelnost; upade - na irsko se preseljujejo
+##### <font color="#ff0000">Države Beneluksa</font>
+- skupne značilnosti; leta 1948 se Belgija, Nizozemska in Luksemburg združijo v carinsko unijo,
+- Luksemburg ima največji BDP/preb/svetu
+- površje; Z. del Nem. - Poljsk. nižavja s pasovi
+- akumulacijska obala s peščenimi sipinami;
+- marši(slane površine, ki so bile nekoč pod vodo) in polderji
+- geesti; valovite peščeno prodnate ravnine, ki jih nasujejo reke v ledeni dobi
+- sredogorje na JV = Ardeni
+
+prebivalstvo
+- zroki za gostoto; 
+	- največja v Evropi zaradi tranzitne lege med VB, FRA in NEM
+	- izhod na S morje
+	- prometna vloga Rena, Maase, Schelde
+- izvor;
+	- germanski; Frizijci, Nizozemci, Luksemburžani, Flamci;
+	- romanski; Valonci na J Belgije (francosko)
+- jezikovna območja; flamsko, valonsko, nemško, dvojezični bruselj (80/francosko 20% flamsko/nizozemsko)
+##### <font color="#ff0000">Nizozemska</font>
+- podnebje; oceansko; mile zime enakomerno dežuje, megla, severni vetrovi
