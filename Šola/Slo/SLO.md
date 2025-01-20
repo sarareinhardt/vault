@@ -9,3 +9,4 @@
 [[Novela]]
 [[Emile Zola]]
 [[Henrik Ibsen]]
+[[Med romantiko in realizmom 1848-1899]]

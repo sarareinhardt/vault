@@ -9,3 +9,4 @@ Nora ali hiša lutk
 
 Nora je v zgodbi lutka, nima lastnega jaza
 govori o enakopravnosti spolov (v tistem času ž niso imele pravice do šolanja, niso smele delati, moški so poskušali znanstveno dokazati da niso isto pametne (da imajo manjše in lažje možgane...))
+problemska drama
