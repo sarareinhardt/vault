@@ -57,3 +57,24 @@ prebivalstvo
 - jezikovna območja; flamsko, valonsko, nemško, dvojezični bruselj (80/francosko 20% flamsko/nizozemsko)
 ##### <font color="#ff0000">Nizozemska</font>
 - podnebje; oceansko; mile zime enakomerno dežuje, megla, severni vetrovi
+- površje; Frizijski otoki ob S. obali (peščene sipine);
+- v notranjosti ilovnate ravnice prehajajo v peščene ravnine S, srednje in J Nizozemske
+- rastlinstvo; hrastovi in brezovi gozdovi izkrčeni 
+- gospodarstvo; trgovsko - pomorska država
+- visoko razvito kmetijstvo; osuševanje polderjev
+- ostali vzroki za uspešnost v kmetijstvu; specializacija v kvalitetne pridelke za izvoz;
+- računalniško vodeno vrtnarstvo (rastlinjaki)
+- visoka strokovnost (največji hektarski (ha) donos na svetu)
+- deltaprojet; l. 1953, sistem 9 protipoplavnih nasipov in zapornic na ustjih rek in v notranjosti estuarjev;
+	- zavarujejo delto Rena Maase in Schlede in pridobijo nove polderje
+###### <font color="#ff0000">Urbanizacija</font>
+- konurbacija Randstadt Holland; skupek mest (Rotterdam, Haag, Amsterdam, Utrecht), razporejenih v obliki podkve na Z; 40% ljudi (6 milijonov)
+- Amsterdam; prestolnica, kulturno finančno, trgovsko središče (čez 1 milj)
+- Utrecht; univerzitetno središče
+- Haag; sedež vlade in sodišča za vojne zločince
+- Rotterdam; največje pristanišče v Evropi
+###### Prebivalstvo
+- število in verska sestava; 17 milj;
+- ateisti 36%
+- katoličani 34%
+- protestanti 25%
