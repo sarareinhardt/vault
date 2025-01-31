@@ -78,3 +78,28 @@ prebivalstvo
 - ateisti 36%
 - katoličani 34%
 - protestanti 25%
+
+
+
+
+
+
+#### <font color="#ff0000">Francija</font>
+- splošne značilnosti; največja in najbolj raznolika država zahodne Evrope, center je na SZ
+- relief; sredogorja: Centralni masiv, Ardeni, Vogezi, Armorikansko gorstvo;
+	- mladonagubana gorstva: Alpe, Pireneji;
+	- nižavja: Pariška kotlina, Akvitanija, Alzacija, Flandrijsko nižavje, Ronsko - Saonsko podolje
+- podnebje; oceansko na Z, prehodno celinsko na V, mediteransko (J), gorsko v Alpah, Pirenejih
+- rastlinstvo; resje (gričevje na S in Z), listnat hrastov gozd (izkrčen), iglast gozd (gorat svet), makija in gariga (Sredozemlje)
+- vodovje; Seina, Loara (najdaljša, 1020km), Garona, Rhona (skozi Ženevsko jezero, HE, v sredozemlje)
+##### Družbeno geografske značilnosti
+- prebivalstvo; 66milij. Velik gostot - Pariška kotlina, ind. in pristaniška območja
+- Redka poselitev; Centralni masiv, Korzika (crash Adrie), mokrotna nižavja
+- narodne manjšine; Korzičani (govorijo neko italinsko narečje)
+	- Alzančani (v bližini Nemčije) in Flamci (v bližini Belgije)
+	- Provansalci (v Provansi) in Katalonci (na J.in Pireneji)
+	- Bretonci ( keltska bretonščina)
+	- Baski (Z. Pireneji, iberski izvor)
+- 4.4 milj. tujcev, socialna nasprotja, Alžirci, Tunizijci, tudi veliko ostarelih in nizek naravni prirastek
+- Največja judovska skupnost v Evropi (600.000), 10% muslimanov, čez milijon emigrantov iz S. Afrike in JV Evrope.
+- 

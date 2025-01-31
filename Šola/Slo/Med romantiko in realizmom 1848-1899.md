@@ -51,3 +51,11 @@ Vaje - vajevci
 - poosebitev
 - komparacija
 
+Značaj: zaprt, nesamozavesten $\rightarrow$ soočenje z resnico
+
+#### J. Jurčič (1844 - 1881)
+- Deseti brat (1866)
+- Telečja pečenka (1872)
+
+
+preberi str. 358
