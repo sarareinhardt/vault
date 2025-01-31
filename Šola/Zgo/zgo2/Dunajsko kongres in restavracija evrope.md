@@ -18,3 +18,6 @@ Konkretni cilji:
 - onemogočenje liberalnih, nacionalnih (razsvetljenskih) gibanj - ideja konzervativizma proti liberalizmu
 - liberalna in nacionalnna gibanja so bila smrt za metternichiv absolutizem
 - ustvarili so nemško zvezo - predsedujoča tej zvezi je bila dinastija habsburžanov - prusija in avstrija znotraj te zveze začneta tekmovati kdo bo zavladal vsem nemcem - pomlad narodov
+##### Ustanovitev evropskega varuha miru - <font color="#ff0000">Sveta aliansa</font> 1815
+- car Aleksander 1. napiše Manifest narodom (Manivest=slavnostni nagovor) tam obljubi, da bodo evropske velesile poskrbele za svetovni red in mir in, da naj se združijo, da v primeru da se začne nemir lahko ukrepajo (danes je to samo united nations) ta organizacija se imenuje sveta aliansa
+	- računali so na to, da se bodo ob nemiru dobili na kongresu (en je bil tudi v Lj. na Kongresnem trgu kjer so se dogovorili za intervencijo v Italijo) - tam so najprej hoteli "pobotati??" te, ki so bili vpleteni v konflikt - to seveda nikoli ni delovalo, zato so naredili vojaško intervencijo in s tem naredili več škode kot koristi
