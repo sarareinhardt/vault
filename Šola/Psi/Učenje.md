@@ -7,7 +7,7 @@ opazovalec in model
 - model:
 	- živi model: starši, sorojenci, drugi otroci...
 	- simbolični modeli: iz risank, filmov...
-###### <font color="#ff0000">Elementi učenja</font>
+###### <font color="#228800">Elementi učenja</font>
 1. Pozornost = na model, ki kaže določene modelne znake/vedenje
 2. Zapomnitev = informacije o vedenju shranimo v dolgoročni spomin
 3. Izvajanje = vedenje, ki ga je učenec zaznal vadi

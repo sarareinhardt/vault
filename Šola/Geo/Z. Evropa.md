@@ -102,4 +102,25 @@ prebivalstvo
 	- Baski (Z. Pireneji, iberski izvor)
 - 4.4 milj. tujcev, socialna nasprotja, Alžirci, Tunizijci, tudi veliko ostarelih in nizek naravni prirastek
 - Največja judovska skupnost v Evropi (600.000), 10% muslimanov, čez milijon emigrantov iz S. Afrike in JV Evrope.
-- 
+- gospodarstvo; raznolika narava - pestro gospodarstvo; kmetijstvo, industrija, turizem, rudarstvo
+- kmetijstvo; vodilna v EU 1/4 kmet. proizvodnje, kar 8% kmetov po l 1950 specializacija v :
+	- pariški kotlini in na severu - žitarice, sladkorna pesa, krompir, koruza
+- živinoreja; Cenrtalni masiv, Alpe (govedoreja, svinjereja)
+- mediteranske kulture; južna Francija, Korzika
+- pridelava jabolk (za mošt); Normandija, Bretanija
+- pridelava sliv; Akvitanija na JZ 
+- pridelava breskev, marelic; dolina Rhone
+- pridelava vina; Bordeaux, Burgundija, JV
+- ribištvo; zlasti v Atlantiku (ker se tam mešajo morski tokovi)
+- francija slovi po sirih vinih in visokorodni pšenici
+- industrija; stare panoge nazadujejo, danes nuklearne in hidroenergija, visoka tehnologija. Zgoščena je na S in SV. Svetovno znana avtomobilska(renault pegueot) , letalska (airbus), kozmetična 
+- turizem; 75 milj. turistov na leto, največ na svetu!! Azurna obala - navtičji in mondeni (bogataški) turizem
+- Alpe - zimski turizem (Chamonix, Grenoble)
+- prestolnica Pariz
+#### Politična ureditev FRA
+- centralistična politika, Pariz je gosp., kulturni, administrativni in prometni center države
+- Vlogo Pariza okrepi čas po FRA revoluciji 1789
+- zdaj skrbijo za uravnotežen razvoj države
+- v parizu živi 10milj. ljudi, vse ceste vodijo tja
+- FRA se deli na 101 departmajev (5 v tujini; Francoska Gvajana, Martinique, Guadaloupe, Mayotte, Reunion)
+- država je reorganizirana v 22w regij
