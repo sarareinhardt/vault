@@ -46,3 +46,23 @@ opazovalec in model
 - jo uporabimo na različne načine
 - lahko v naprej predvidevamo nekatere posledice
 - lahko poiščemo njeno nasprotje
+#### Asociacije
+- = zveze med besedami oz njihovimi pomeni, v širšem smislu: zveze med dražljaji in reakcijami
+###### Aristotel
+- asociacije po stičnosti: vsebine, ki smo jih doživeli skupaj ali drugo za drugo ze povežejo
+- asociacije po podobnosti: podobne vsebine se povežejo
+- asociacije po nasprotju: nasprotne vsebine se povežejo
+na testu moraš tip asociacije vedno utemeljiti
+
+**Asociativni reakcijski čas**
+- je čas od pojavljanja dražljaja do nastanka reakcije
+- odvisen od
+	- utrjenosti spominske sledi
+	- starosti
+	- smiselnosti besede
+**Uporaba v PSI**
+- kriminalistični nameni
+- klinična praksa (Freud Jung)
+	- Odkrivanje osebnostnih problemov
+- Psihološka praksa
+	- odkrivanje interesov, stališč
