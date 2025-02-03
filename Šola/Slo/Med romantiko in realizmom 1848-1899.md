@@ -57,5 +57,21 @@ Značaj: zaprt, nesamozavesten $\rightarrow$ soočenje z resnico
 - Deseti brat (1866)
 - Telečja pečenka (1872)
 
+##### Deseti brat
+**Sintetična**
+- Lovro Kvas
+- Monica
+- Marjana
+**Analitična**
+- Martinek Spak
+- Kravelj
+**Ljubezen**
+- Lovre:
+	- romantični lik
+	- socialni kompleks
+- Manica:
+	- odločna
+	- preračunljiva
+	- racionalna
 
-preberi str. 358
+Walter Scott - oseba iz ang romantične književnosti - obujal ljubezenske zgodbe z vitezi... 
