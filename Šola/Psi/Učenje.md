@@ -30,3 +30,19 @@ opazovalec in model
 - skrajšan napor in čas učenja
 - zmanjšuje število napak
 - zaradi tega napredek hitrejši
+
+#### Besedno učenje
+= učenje besed in drugih simbolov: številskih, kemijskih, geografskih...
+**2 vrsti učenja: **
+- *besedno učenje nižje ravni*: 
+	učenje nizov besed, ne da bi karkoli spreminjali (mehanično učenje, učenje "na pamet", npr. pesmi)
+- *besedno učenje na višji ravni*
+	učenje smisla besedila oz. učenje z razumevanjem
+**Snov razumemo, če**
+- jo lahko izrazimo s svojimi besedami
+- lahko navedemo svoje primere
+- jo prepoznamo v različnih okoliščinah in oblikah
+- jo lahko povežemo z drugimi idejami in dejstvi
+- jo uporabimo na različne načine
+- lahko v naprej predvidevamo nekatere posledice
+- lahko poiščemo njeno nasprotje
