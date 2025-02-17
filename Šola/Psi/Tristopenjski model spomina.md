@@ -32,3 +32,17 @@
 	- kako množimo enačbe, 
 	- kako plešemo sambo
 - za učenje teh veščin potrebujemo precej časa, a nam ostanejo v spominu za dolgo časa
+#### Spremembe v času retencije
+- retencija = ohranjanje v spominu
+- proučeval Friederich Bartlett
+- uporabil je 2 metodi
+	- metoda ponovne reprodukcije
+	- metoda serijske reprodukcije
+##### Kakovostne spremembe v zapomnitvi gradiva (poskus z zgodbico)
+- **poenostavljanje vsebine**: 2 ali več enot se stisne v eno
+- osnovna zgodba (vsebina) ostane v glavnem nespremenjena podrobnosti odpadejo
+- **poudarjanje**: tistega, kar prej ni bilo v ospredju
+- osnovne vsebine ni, ostanejo le podrobnosti
+- **racionalizacija vsebine**: osnovna vsebina lahko postane bolj logična, racionalna in konvencionalna
+- odpadejo ali pa se spremenijo imena oseb, krajev, rek
+- 
