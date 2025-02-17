@@ -4,7 +4,7 @@
 - Kongres = ameriški parlament sestavljen iz 2 delov Zakonodajno vejo oblasti
 	- senat vanj vsaka zvezna država pošlje 2 senatorja, mandat senatorjev je 6 let - vsaki 2 leti zamenjajo 1/3 senata
 	- predstavniški dom; skoraj 500 predstavnikov - ko je ZDA nastajala so se odločili, da je na 30k prebivalcev 1 predstavnik, zato so danes že na številu 620k (cca) - imajo 
-	- Vrhovno sodišče - sodna veja oblasti - sodniki umeščeni do smrti
+- Vrhovno sodišče - sodna veja oblasti - sodniki umeščeni do smrti
 - 50 zveznih držav - 
 	- skupno vsem: ustava (American constitution) valuta, vojska & obramba, trgovina
 	- različo - zakoni... odloča vsaka država sama

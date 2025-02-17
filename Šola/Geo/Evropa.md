@@ -263,3 +263,5 @@ Estonija Latvija Litva
 - <font color="#c00000">rastje</font>; hrastovi, borovi gozdovi, travniki (paša)
 - <font color="#c00000">prebivalstvo</font>;  2.3 milij; protestanti, letonščina
 - <font color="#c00000">gospod. viri</font>; jantar, šota, les, mlečni izdelki
+
+

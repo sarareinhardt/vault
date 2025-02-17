@@ -1,2 +1,2 @@
-[[Splošna Evropa]]
+[[Evropa]]
 [[Z. Evropa]]

@@ -1,17 +1,87 @@
+- obseg: Francija, Beneluks, VB, Irska
+- skupne značilnosti: lega ob Atlantiku, oceansko podnebje, stara industrializacija, Z. evropska kultura, visoka gospodarska razvitost
+- dejavniki gospodarskega razvoja: britanski in francoski kolonialni imperij, industrijska revolucija konec 18. stoletja, prometna funkcija Rena in Atlantika, prilagajanje trgu
+- problemi: neenakomeren razvoj osrednjih in obrobnih območij, zgostitev industrije v glavnih mestih, pristaniščih
+- pomen: gospodarsko najmočnejše: 
+	- Bruselj: sedež EU, pakta NATO
+	- Strassbourg: evropski parlament
+	- Luksemburg: evropsko sodišče
+	- VB - Commonwealth (= povezava VB s svojimi nekdanjimi kolonijami na gospodarskem in političnem področju (VB vpliva na kolonije))
+	- Francija: Frankofonska skupnost (isto kot commonwealth za anglijo)
 - naravne enote;
-	- stara grudasta sredogorja (Ardeni, Škotsko višavje, Centralni masiv)
-	- nižavja in kotline; Nizozemska, Pariška kotlina;
-	- Alpe; le Francija
-	- tipi obal; riasi, estuariji, delte, fjordi
-	- podnebje; oceansko (velika Britanija, Irska, Z. Francija), sredozemsko (j. Francija), gorsko (kjer so gore)
-	- reke; velike, plovne, majhen strmec (zato zelo primerne za promet)
-	- rastje; izkrčen gozd(zaradi obdelovalnih površin, poselitve), travniki, Zelena Evropa (ker je zdaj veliko travnikov)
+	- <font color="#ff0000">stara grudasta sredogorja</font> (Ardeni, Škotsko višavje, Centralni masiv)
+	- <font color="#ff0000">nižavja in kotline;</font> Nizozemska, Pariška kotlina
+	- <font color="#ff0000">Alpe; </font>le Francija
+	- <font color="#ff0000">tipi obal;</font> riasi, estuariji, delte, fjordi
+	- <font color="#ff0000">podnebje;</font> oceansko (velika Britanija, Irska, Z. Francija), sredozemsko (j. Francija), gorsko (kjer so gore)
+	- <font color="#ff0000">reke;</font> velike, plovne, majhen strmec (zato zelo primerne za promet)
+	- <font color="#ff0000">rastje;</font> izkrčen gozd(zaradi obdelovalnih površin, poselitve, npr Nizozemska), travniki, Zelena Evropa (ime ker je zdaj veliko travnikov)
+
 ### <font color="#c00000">Velika Britanija</font>
-- obseg;
+- <font color="#ff0000">obseg;</font>
 	- britansko otočje: VB, Irska, otočja - Hebridi, Orkneyski, Shetlandski otoki, Kanalski otoki
 	- uradno ime; Združeno kraljestvo VB in S Irske, deli pa so; Anglija, Wales, Škotska in S. irska
-	- po 2. sv. vojni; odvisni teritoriji; Hong Kong (neodvisen l. 1998), Gibraltar, bermudsko in Falklandsko otočje.
-	- Dominion
+	- po 2. sv. vojni; odvisni teritoriji (od VB); Hong Kong (neodvisen l. 1998), Gibraltar, bermudsko (bermudski trikot.) in Falklandsko otočje.
+- Površje:
+	- Nizka britaija:
+		- JV
+		- pod 200m
+		- mlajši, sedimenti
+		- intenzivno kmetijstvo (poljedelstvo, vrtnarstvo)
+		- gosta poselitev in visoka razvitost
+	- Visoka britanija:
+		- hribovja na S in Z
+		- stare kamnine
+		- Škotsko višavje je podobno Skandinavskem, ker sta enakega nastanka
+		- ekstenzivno kmetijstvo, živinoreja
+		- redka poselitev in slabša razvitost
+###### <font color="#ff0000">Kmetijstvo</font>
+- Značilnosti:
+	- mehanizirano, malo zaposlenih
+	- povpr. kmetija velika 107ha (srednje veliko) 
+	- pokrivajo $\frac{2}{3}$ potreb po hrani, uvažajo tropske in mediteranske kulture
+###### <font color="#ff0000">Urbanizacija VB</font>
+- najvišja stopnja na svetu (92%)
+- do 60ih let 20. st. je bilo popularno priseljevanje v mesta, potem se višji sloji premikajo na večja, cenejša posestva na podeželje $\rightarrow$ **suburbanizacija**
+- <font color="#ff0000">Zeleni  pasovi</font>= nezazidljiva (območja) zemljišča okoli mest v obliki obročev, široki 10km. z njimi omejijo širjenje mest v okolico (preprečijo pretirano širjenje Londona in ostalih mest)
+	- 1. zeleni pas: l. 1947 okoli Londona, danes jih je okoli 21 po celi VB - največ na JV, kjer je največ mest
+- <font color="#ff0000">Nova mesta:</font> načrtno grajena izven teh pasov, nastala so po 2. svetovni vojni okoli Londonskega zelenega pasu
+- <font color="#ff0000">Manjša mesta</font> . 30.000 - 50.000 ljudi po vzorcu vrtnih mest (načrtno zgrajena z več zemlje), sem so se priselili izobraženi mlajši. V 60ih letih 200.000 - 250.000 ljudi, nova gospodarska žarišča
+- <font color="#ff0000">Namen urbanizacije:</font> poselitev presežka ljudi iz Londona
+- Št prebivalcev v VB 64.5 milj
+	- London: skoraj 10 milj
+###### <font color="#ff0000">Industrija:</font> 
+- <font color="#ff0000">stare panoge:</font> metalurška (težka) industrija, tekstilna, jeklarska, ladjedelniška $\rightarrow$ zdaj propadajo; razcvet težke industrije = 1920-1980 $\rightarrow$ vezane so bile na domač rni premog, uvožne surovine (volna iz Avstralije, bombaž (Indija, Egipt))
+- <font color="#ff0000">nove panoge:</font> proizvodnja računalnikov, laserjev, robotov, vesoljske, medicinske, farmacevtske... opreme - Cambridge = znanstveni park
+- <font color="#ff0000">EVROPREDOR</font> dolg 50km, gradnja 1987 - 1993, povezuje Dover (ANG) - Calais(FRA). Ima 3 dele: 2 za železniški promet in 1 za zasilni izhod. Je več km pod morjem, grajen iz obeh strani
+- <font color="#ff0000">keltski jezik;</font> območja: 
+	- Bretanija (FRA - bretonščina)
+	- povsem keltska je bila Irska, a danes je le še2%, ostalo je angleško
+	- Wales (valižanščina - keltski jezik $\frac{1}{5}$)
+	- Hebridi 1%
+### <font color="#c00000">Pribaltske države</font>
+Estonija Latvija Litva
+- <font color="#c00000">splošne značilnosti;</font> gostota poselitve upada od J – S, povečuje pa se gozdnatost; Litvanci in Latvijci – baltska, Estonci – ugrofinska jezikovna skupina; 
+	- Litva – katoličani, Latvija in Estonija – protestanti; rečne ravnine, valovit svet do 300m, jezerca; 
+	- najbolj razvita je Estonija 
+- <font color="#c00000">preteklost;</font> v 18.st. so del ruskega carstva, ob koncu 1.sv.v. vse tri razglasijo samostojnost, <font color="#c00000">l.1920</font> jim jo prizna SZ, l.1940 jih spet nasilno priključijo.
+- <font color="#c00000">2.sv.v.</font>; zasedba nemške vojske, l.1944 zoper Rdeča armada
+- <font color="#c00000">2 ½ 80-ih;</font> demokratizacija (Gorbačov)
+- <font color="#c00000">l.1991;</font> Jelcin (vodka man - ta vesela slikica) jim prizna samostojnost
+- <font color="#c00000">rusifikacija;</font> priseljevanje Rusov, Ukrajincev in Belorusov; še najbolj homogena je Litva (80% avtohtonih prebivalcev)
+### <font color="#c00000">Litva</font>
+- <font color="#c00000">podnebje;</font> zmerno – oceansko in celinsko
+- <font color="#c00000">površje;</font> ob obali peščene sipine, JV –gričevje z jezeri, jezera so ledeniška
+- <font color="#c00000">rastje; </font>borovi, hrastovi gozdovi, travniki (paša)
+- <font color="#c00000">prebivalstvo;</font> skoraj več kot 3M; Vilnius (aka Vilna)
+-  <font color="#c00000">gospodarski viri;</font> šota, nafta, govedina, les
+### <font color="#c00000">Latvija</font>
+- <font color="#c00000">površje</font>; ob Baltiku; dolga, peščena obala; valovito nižavje, V del – nizka planota z jezeri in močvirji
+- <font color="#c00000">podnebje</font>; hladno, vlažno, pozimi mrzlo
+- <font color="#c00000">rastje</font>; hrastovi, borovi gozdovi, travniki (paša)
+- <font color="#c00000">prebivalstvo</font>;  2.3 milij; protestanti, letonščina
+- <font color="#c00000">gospod. viri</font>; jantar, šota, les, mlečni izdelki
+
 ### <font color="#c00000">Irska</font>
 - osamosvojitev leta 1922 (republika Irska, S ostane pod Britanijo)
 - v 17.st načrtno naseljujejo potomce angl. in škotskih kolonistov
@@ -80,10 +150,6 @@ prebivalstvo
 - protestanti 25%
 
 
-
-
-
-
 #### <font color="#ff0000">Francija</font>
 - splošne značilnosti; največja in najbolj raznolika država zahodne Evrope, center je na SZ
 - relief; sredogorja: Centralni masiv, Ardeni, Vogezi, Armorikansko gorstvo;
@@ -123,4 +189,13 @@ prebivalstvo
 - zdaj skrbijo za uravnotežen razvoj države
 - v parizu živi 10milj. ljudi, vse ceste vodijo tja
 - FRA se deli na 101 departmajev (5 v tujini; Francoska Gvajana, Martinique, Guadaloupe, Mayotte, Reunion)
-- država je reorganizirana v 22w regij
+- država je reorganizirana v 22w 
+
+
+
+![[Pasted image 20250209173507.png|500]]
+
+![[Pasted image 20250209173539.png]]
+
+![[Pasted image 20250209173610.png]]
+![[Pasted image 20250209174557.png]]
