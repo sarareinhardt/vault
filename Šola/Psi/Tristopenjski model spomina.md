@@ -1,4 +1,4 @@
-Senzorni/trenutni spomin
+#### Senzorni/trenutni spomin
 - prvo skladišče
 - shrani informacije (vidne, slušne, tipne) v celoti take kot so
 - zelo kratek čas (omogoča, da se info ne prekrivajo)
@@ -8,20 +8,27 @@ Senzorni/trenutni spomin
 
 
 
-Dolgotrajni spomin
+#### Dolgotrajni spomin
 - so vse naše izkušnje, dogodki, informacije, veščine, čustva, besede, kategorije, pravila, sodbe itd
 - če so med seboj dobro povezani in organizirani jih lahko obnovimo
 - spoznavni/učni stili
 - ponavljanje - ponavljalni ciklus
 - organizacija gradiva - PRPOP
-PRPOP
+###### PRPOP
 - **Preletite** da dobite vpogled v snov, ki jo morate obdelati
 - **Razdelite** na manjše enote
 - **Proučite** tako, da ga boste razumeli (učenje s ključnimi besedami, učni stili...)
 - **Obnovite** po 1h učenja
 - **Povežite** snov učnega sklopa v celoto
-Značilnosti dolgotrajnega spomina:
+###### Značilnosti dolgotrajnega spomina:
 - shranjevanje: spominske mreže
 - obseg: teoretično neomejen
 - trajanje: celo življenje
 - izgube zaradi: neprimernega osvajanja, premalo ponavljanja, neustrezne organizacije snovi
+
+
+##### Proceduralni spomin
+- Spomin za postopke (kako stvari delamo):
+	- kako množimo enačbe, 
+	- kako plešemo sambo
+- za učenje teh veščin potrebujemo precej časa, a nam ostanejo v spominu za dolgo časa
