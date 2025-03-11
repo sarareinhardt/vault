@@ -1,1 +1,3 @@
-[[Odmevi baroka - Ravnikarjevo novo krilo narodne galerije in barok v arhitekturni teoriji 20. stoletja]]
+- [[Odmevi baroka - Ravnikarjevo novo krilo narodne galerije in barok v arhitekturni teoriji 20. stoletja]]
+- [[Architectural imagination - Harvard]]
+- 

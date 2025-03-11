@@ -10,7 +10,7 @@ tags:
 - ![[Chatsworth-House-Enfilade.jpg|250]] < random primer
 ![[Pasted image 20250219233451.png]]
 Ravnikarjev načrt za tloris moderne galerije ^ (zdaj ni izvedena v taki obliki, ampak se vidi enfilade, ki stavbo povežejo tako, da gremo lahko cel pravokotnik okoli nje)
-
+![[Pasted image 20250307121239.png]] (highlightane te enfilade)
 #### Gilles Deleuze - čas in gubanje
 njegova percepcija časa dosti drugačna od Newtonove - se celo bolj ujema z Einsteinovo teorijo relativnosti
 
