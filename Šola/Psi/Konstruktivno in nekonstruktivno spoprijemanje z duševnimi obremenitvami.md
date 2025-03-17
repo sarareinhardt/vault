@@ -9,3 +9,4 @@ Nekonstruktivno spoprijemanje z duševnimi obremenitvami
 - beg pred oviro - izogibanje neprijetni situaciji
 - ker težav nismo rešili, smo še naprej zadovoljni!
 	- kako lahko postanete zadovoljnejši?
+- samo fiziološke potrebe se zadovoljujejo s homeostazo

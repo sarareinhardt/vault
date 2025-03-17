@@ -9,6 +9,10 @@
 - [[Stres]]
 - [[Osebnostna čvrstost]]
 - [[Nezavedna motivacija]]
+- [[Sigmund Freud]]
 - [[Obrambni mehanizmi - Sigmund Freud]]
 - [[Učenje]]
 - [[Tristopenjski model spomina]]
+--- 
+- [[Čustva in učenje]]
+- 

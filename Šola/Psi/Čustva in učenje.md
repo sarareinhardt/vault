@@ -1,0 +1,6 @@
+- na učenje vplivajo tako pozitivna (nekaj nam je všeč) kot negativna čustva (nekaj česa ne maramo)
+- pomembna je tudi jakost čustev (močna čustva zavirajo učenje)
+- pozitivno razpoloženi - boljša pozornost
+- slabo razpoloženi (otožni, tesnobni) - slaba koncentracija, delamo počasneje
+- čustva do sebe (zaupanje vase, samospoštovanje)
+- čustvene motnje: anksioznost, depresivnost

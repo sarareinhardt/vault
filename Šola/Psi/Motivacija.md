@@ -21,9 +21,10 @@ Potreba $\rightarrow$ Javljanje potrebe (skozi občutke) $\rightarrow$ Zavedanje
 | - so prirojene<br>- so univerzalne<br>Delimo jih na:<br>- potreba po ohranitvi človekovega življenja | - so povezane s človekovim življenjem v skupini<br>- so pridobljeni (po lepoti, urejenosti, ustvarjanju)<br>- so prirojene ali naučene? (po pripadnosti, spoštovanju...) |
 <font color="#c00000">Homeostatično zadovoljevanje potreb</font>
 potreba sproži dejavnost usmerjeno k cilju, doseganje cilja povzroči zadovoljitev potrebe in ponovno se vzpostavi homeostaza (stanje kot je bilo pred javljanjem potrebe)
+**samo fiziološke potrebe** se zadovoljujejo homeostatično
 <font color="#c00000">Progresivno zadovoljevanje potreb</font>
 zadovoljitev prvotne potrebe ne pripelje do prvotnega stanja, temveč na drugi ravni pripelje do pojavljanja novih potreb, ki jih zadovoljujemo z novimi cilji itd.
-
+(zadovoljitev ene potrebe sproži drugo (se urejaš in si najprej narediš makeup, po tem lase...))
 Nagonsko ali kultivirano?
 Nagonsko:
 - dihanje, mežikanje, kašljanje.....

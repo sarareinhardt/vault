@@ -3,7 +3,7 @@
 - [[Naselitev Slovanov v vzhodne Alpe & oblikovanje Karantanije]]
 - [[Karantanija]]
 - [[Celjski grofje]]
-- [[Habsburžani (v SLO prostoru)]]
+- [[Habsburžani na SLO prostoru]]
 - [[Turki (Osmansko cesarstvo)]]
 - [[Kmečki upori na slovenskem]]
 - [[Razsvetljenstvo]]

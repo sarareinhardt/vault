@@ -9,7 +9,7 @@
 •Koža – največji organ
 •Poroženela plast- mehanska zaščita
 •Odpadanje odmrlih celic
-•Simbiontske bakterije – kisel pH
+•Simbiotske bakterije – kisel pH
 •Žleze lojnice – maščobe s protimikrobnimi lastnostmi
 •Sluznice – izločanje sluzi, izločkov – solze, slina, nosni sluz, materino mleko
 •Izločki vsebujejo encime – lizocime , fosfolipaze
@@ -31,3 +31,31 @@
 •Protitelesa – beljakovine, ki jih tvori organizem ob prisotnosti antigenov,  prepoznajo antigene in sprožijo imunski odgovor
 •Imunski sistem razlikuje med lastnimi in tujimi antigeni, prepozna
    50 000 različnih antigenov
+
+##### Prirojena in pridobljena odpornost
+•Naravna, prirojena odpornost, zagotavlja nespecifično odpornost
+•Pridobljena se razvija postopno, specifično usmerjena
+•Naravno pridobljena – s prebolevanjem bolezni
+•Umetno pridobljena – z medicinskimi postopki (cepljenje)
+- nikoli ne uporabi kompletnega celega živega organizma, a imunski sistem deluje na isti način
+![[Pasted image 20250312121752.png|300]]
+![[Pasted image 20250312121811.png|300]]
+##### Razlikovanje lastnega od tujega
+•HLA (histokompatibilni) kompleks – odgovoren za prepoznavanje lastnega
+•Skupek genov na 6. kromosomu
+•Določa antigene MHC - beljakovine, pripete na membrane telesnih celic
+•HLA I – na skoraj vsaki celici
+•HLA II – na makrofagih in limfocitih, ki tvorijo protitelesa
+HLA = Human Leukocyte Antigen
+Moj amazing 3 braincell explanation tega slajda:
+zato ker mas HLA I in HLA II označevalce na celicah k so basically odgovorni za to da telo ne prepozna teh celic kt tujo stvar (tko kt bi virus)
+če bi dubu napačno kri bi blo basically kt da bi meu avto imuno bolezn proti svoji krvi, isto transplantacija organov
+
+##### Cepljenje - imunizacija
+•Zagotovimo umetno pridobljeno aktivno odpornost
+•Limfociti B pridejo v stik z antigeni in pričnejo tvoriti protitelesa
+•Primarni odgovor – množenje limfocitov B ( mitotske delitve v limfnih vozlih) – naraščanje števila protiteles in nato upad
+•Razvije se imunski spomin – spominske celice ohranijo zgradbo antigena
+•Sekundarni odgovor – ob naslednjem stiku z istim antigenom – hitrejši in močnejši odgovor
+•Začetni odmerek cepiva, nato sledi druga ali več ponovitev
+![[Pasted image 20250312125349.png|370]]

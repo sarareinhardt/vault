@@ -7,8 +7,10 @@
 	- pomenijo ponotranjene motive
 	- delujejo trajno, dolgoročno in intenzivno
 - Zavzemajo najvišje mesto v hierarhiji človekovih motivacijskih ciljev
+###### Hierarhija vrednot
 ![[Pasted image 20241119113253.png|400]]
-Skupine vrednot: estetske, kulturne, spoznavne samoaktualizacijske in religiozne vrednote
+Skupine vrednot: estetsk![[piramidko.png]]e, kulturne, spoznavne samoaktualizacijske in religiozne vrednote
 Samoaktualizirane osebe - moraš vedet 5 lastnosti za test
 
-- 
+###### Maslowa hierarhija potreb
+![[piramidko.png]]

@@ -45,4 +45,7 @@
 - osnovne vsebine ni, ostanejo le podrobnosti
 - **racionalizacija vsebine**: osnovna vsebina lahko postane bolj logična, racionalna in konvencionalna
 - odpadejo ali pa se spremenijo imena oseb, krajev, rek
-- 
+
+pišemo motivacijo, učenje
+![[Pasted image 20250317095350.png]]
+to ^

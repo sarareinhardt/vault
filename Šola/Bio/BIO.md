@@ -9,3 +9,8 @@ Test1:
 - [[Razmnoževanje]]
 - [[Prehrana]]
 - [[Dihala]]
+- [[Obramba telesa]]
+- [[Izločala]]
+
+
+**Predstavitev dialize (dializnega aparata) za del ocene**
