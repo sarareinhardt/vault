@@ -10,3 +10,5 @@
 - [[Amerika]]
 - [[Francoska revolucija]]
 - [[Napoleonova Evropa]]
+- [[19.st]]
+- 
