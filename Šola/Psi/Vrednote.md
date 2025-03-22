@@ -24,12 +24,15 @@
     - cenjen status, moč v družbi … vodilni, menedžerji
 - ##### **Hedonske vrednote** (_hedonist – uživač_)
     - preveč zapostavljajo uživanje
-    - povezane s telesnimi potrebami, vendar je poudarek na uživanju … uživanje v hrani, sproščanju v toplih kopelih, igri …
+    - **Uživanje** povezano s telesnimi potrebami, vendar je poudarek na uživanju … uživanje v hrani, sproščanju v toplih kopelih, igri …
 ##### *Hierarhija vrednot
 
 ![[Pasted image 20241119113253.png|400]]
-Skupine vrednot: estetske, kulturne, spoznavne samoaktualizacijske in religiozne vrednote
+- bol dol kot je manj je pomembna vrednota
+- Skupine vrednot: estetske, kulturne, spoznavne samoaktualizacijske in religiozne vrednote
 Samoaktualizirane osebe - moraš vedet 5 lastnosti za test
-
-##### Maslowa hierarhija potreb
-![[piramidko.png]]
+- **Notranja motivacija** – njihovo delovanje temelji na **ponotranjenih vrednotah**, ne zunanjih nagradah ali pritiskih.
+- **Avtonomija** – niso odvisni od družbenih norm, ampak sledijo **lastnim vrednotam in ciljem**.
+- **Sprejemanje sebe in sveta** – realistični pogled na življenje in **sprejemanje svojih pomanjkljivosti**.
+- **Globoki medosebni odnosi** – kakovostnejši in globlji odnosi, **ne pa nujno veliko socialnih stikov**.
+- **Osredotočenost na višje cilje** – zanimanje za **smisel življenja, osebno rast in prispevek družbi**.

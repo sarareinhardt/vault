@@ -1,20 +1,24 @@
+# Stres - osnova
+___ 
+#Stresorji 
 ##### Opredelitev pojma stres
-= vzorec fizioloških, spoznavnih, vedenjskih in čustvenih odgovorov na stresorje (dražljaje, ki zmotijo človekovo notranje ravnotežje)
-#Stresorji = vsi pojavi, ki jih doživljamo kot grožnjo ali izziv in, ki telesno ali duševno obremenjujejo našo osebnost
-###### Najpogostejši stresorji:
+= vzorec *fizioloških, spoznavnih, vedenjskih in čustvenih odgovorov na stresorje* (dražljaje, ki zmotijo človekovo notranje ravnotežje)
+- stres je vsaka obremenitev, ki nas spravi iz ravnovesja - ni nujno,da jo izkušamo negativno
+#Stresorji = vsi pojavi, ki jih doživljamo kot <u>grožnjo</u> ali <u>izziv</u> in, ki telesno ali duševno obremenjujejo našo osebnost
+##### Najpogostejši stresorji:
 Skupine stresorjev:
 - okolje; previsoka, prenizka temp, hrup, naravne nesreče...
 - delavno mesto ali šola; preobremenjenost, prekratki roki, premalo dela, premalo zahtevno delo, preverjanje in ocenjevanje znanja
 - nenadne življenjske spremembe; smrt bližnjiih, ločitev, sprememba službe/šole, zadetek na loteriji, izjemni osebni dosežek
 - vsakodnevne skrbi; naglica, kaos, čakanje v vrstah, prevoz v šolo, slabi medsebojni odnosi, kajenje, premalo gibanja
-###### Odziv na stresorje
+##### Odziv na stresorje
 **Eustres** - pozitiven stres
-- kadar mislimo/ocenimo, da so naše sposobnosti večje od zahtev
+- kadar mislimo/ocenimo, da so naše sposobnosti večje od zahtev (izjemni dosežek, priprava na rojstni dan, zmaga na loto)
 **Distres** - negativen stres
- - kadar mislimo, da so zahteve večje od naših sposobnosti, pa tudi takrat kadar ni nobenih zahtev
+ - kadar mislimo, da so zahteve večje od naših sposobnosti (učenje za test iz snovi, ki mi ne gre) , pa tudi takrat kadar ni nobenih zahtev (učenje snovi, ki jo obvladam)
 ![[Pasted image 20241202112659.png]]
 učb. str. 110
-###### Kadar stres premagamo
+##### Kadar stres premagamo
 - nas uspeh opogumlja
 - razvijamo svoje sposobnosti
 - samobodoba se izboljša
@@ -27,5 +31,5 @@ Bolj stresni poklici
 - učitelj,
 - svetovalni delavec
 - itd.
-###### Psihosomatska obolenja
+##### Psihosomatska obolenja
 - posledica psihične obolitve
