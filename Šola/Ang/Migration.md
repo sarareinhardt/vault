@@ -6,7 +6,7 @@
 	- economical financial
 	- political
 	- personal
-	- professional reasons
+	- professional reasons 
 - to flee
 - a refugee - (a person who is forced to leave their home usually without anything or just the basics and usually gets the status of a refugee and gets help)
 - refuge - a safe place
