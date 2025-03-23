@@ -400,7 +400,7 @@ Potiskanje neprijetnih dogodkov in konfliktov iz zavesti. Tako jih na videz 'poz
 O zanikanju govorimo kadar ravnamo tako, kot da konflikt ali problem sploh ne obstaja. (zanikamo bolezen / da nas partner vara (pomisliš na njegove dobre lastnosti & ga nočeš pustiti (cringeeee)) zanikanje odvisnosti)
 ##### <font color="#c00000">3. Premeščanje ali premik</font>
 O premeščanju govorimo, če čustva ne izrazimo v odnosu tistega, ki mu je namenjeno, temveč do nekoga drugega.
-Včasih ne moramo izraziti jeze do bližnje osebe ali avtoritete, zato potlačeno agresivnost v sprevrženi obliki nezavedno prenesemo na drugo (nedolžno) osebo ali stvar. (mama pride domov in začne težit za vsako najmanjšo zadevo, ker je imela slab dan v službi, slabo pišeš test in kriviš profesorja..)
+Včasih ne moramo izraziti jeze do bližnje osebe ali avtoritete, zato potlačeno agresivnost v sprevrženi obliki nezavedno prenesemo na drugo (nedolžno) osebo ali stvar. (mama pride domov in začne težit za vsako najmanjšo zadevo, ker je imela slab dan v službi, slabo pišeš test in kriviš profesorja.)
 - Če to počneš **nezavedno** = **obrambni mehanizem**
 - Če to počneš **zavedno** = **konstruktivni način soočanja** s konfliktom
 - Ta se običajno navezuje na **osebo** (ne mešat z racionalizacijo)
