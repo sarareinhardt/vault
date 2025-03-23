@@ -3,11 +3,36 @@
 - shrani informacije (vidne, slušne, tipne) v celoti take kot so
 - zelo kratek čas (omogoča, da se info ne prekrivajo)
 - podaljša razpoložljivost informacij, ki prihajajo iz okolja
-- vidni spomin $\rightarrow$ 
+- **vidni** ali **ikonični** spomin $\rightarrow$ traja manj kot sekundo
+- **slušni** ali **ehoični** spomin $\rightarrow$ traja 3 - 4 sekunde
+- če informacija ne gre v drugo vrsto spomina, je za vedno izgubljena
+- senzorični zapis je **dovolj dolg**, da nam da občutek **kontinuitete** sveta, obenem pa dovolj **kratek**, da ne moti **novih čutnih vtisov** → lahko sledimo več različnim vtisom, filmu, melodij ...
 
+ **Vloga senzoričnega spomina:**
+- je povezovanje čutnih vtisov v celoto
+ **Značilnosti senzornega spomina:**
 
+- shranjevanje: vidno, slušno, tipno ... → obseg: velik
+    
+- trajanje: nekaj sekund (1 ali 3–4 s)
+    
+- izgube zaradi: časovnega bledenja, izrinjenja ...
+    
 
+---
 
+##### **Kratkoročni ali delovni spomin**
+
+- obdeluje gradivo, ki prihaja iz senzornega ali iz dolgoročnega spomina
+- informacija dobi pomen
+- v njem se odvija mišljenje  
+    → je sedež zavesti in sedanjega časa
+
+ **Značilnosti kratkoročnega spomina:**
+- **Shranjevanje:** vidno, slušno, pomensko ...
+- **Obseg:** 7 (±2) pomenskih enot, razširimo z združevanjem ali preusmerjanjem enot
+- **Trajanje:** 15–40 s → podaljšano s ponavljanjem
+- **Izgube zaradi:** časovnega bledenja, pomanjkanja ponavljanja, distraktorjev
 ##### Dolgotrajni spomin
 - so vse naše izkušnje, dogodki, informacije, veščine, čustva, besede, kategorije, pravila, sodbe itd
 - če so med seboj dobro povezani in organizirani jih lahko obnovimo
