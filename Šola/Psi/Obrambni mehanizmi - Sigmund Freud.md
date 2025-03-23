@@ -1,3 +1,6 @@
+# Obrambni mehanizmi - Sigmund Freud
+
+
 delujejo nezavedno, kar pomeni, da se njihovega pravega namena ne zavedamo. Uporabljamo jih, da ohranimo pozitivno podobo samega sebe, da se obranimo občutkov neuspeha in manjvrednosti. Na zavestni ravni delujejo kot samoprevara (laž samemu sebi). Začasno zmanjšujejo napetost, vendar ne pripeljejo do prave rešitve.
 ##### <font color="#c00000">1. Potlačevanje ali represija </font>
 Potiskanje neprijetnih dogodkov in konfliktov iz zavesti. Tako jih na videz 'pozabimo', s tem pa jih ne odstranimo. Ker pa se potlačenega ne zavedamo tudi ne moramo uspešno obvladati motečih posledic. - Predvsem stvari iz otroštva (npr. kot otrok si skoraj utonil in se zdaj bojiš vode ampak ne veš zakaj)
