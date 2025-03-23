@@ -10,6 +10,9 @@ tags:
   - test-ustvarjalnosti
   - merila-za-ustvarjalnost
 ---
+# Psihološki testi
+---
+
 - #Psihomerični-testi = tisti, ki imajo izpeljane metrijske značilnosti ali karakteristike
 - <u>Veljavnost</u> test je veljaven, ko merimo to, kar želimo meriti
 - <u>Zanesljivost</u> test je zanesljiv, ko pri več zaporednih meritvah dobimo isti rezultat

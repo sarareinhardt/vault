@@ -5,7 +5,8 @@ tags:
   - Motivacija-privlačnosti
   - Potreba
 ---
-
+# Motivacija
+--- 
 **Motivacija** so vsi procesi, spodbujanja, vzdrževanja in usmerjanja telesnih in duševnih dejavnosti, zato da bi uresničili cilj
 2 vrsti:
 #Motivacija-privlačnosti (ideali, vrednote, želje) in #motivacija-potiskanja (potrebe) se združita in nastane #motiv 

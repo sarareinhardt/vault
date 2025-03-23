@@ -1,4 +1,5 @@
-# Vrednot
+# Vrednote
+---
 - vrednote so **posplošeni cilji**, ki jih cenimo, želimo in se zavzemamo.
 - Vrednote so **temeljni in splošni** cilji, ki relativno trajno in celostno usmerjajo ravnanje posameznika (Musek - Muskova teorija/definicija)
 - glede na vedenje drugih lahko sklepamo njihove vrednote (dobre ocene, delanje dn $\rightarrow$ šola je vrednota) 
