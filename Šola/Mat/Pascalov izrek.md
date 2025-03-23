@@ -40,7 +40,7 @@ Paposov izrek in projekcija
 [GeoGebra Pascal's conic](https://www.geogebra.org/m/b3zwgzep)
 
   
-  
+
 
 If six unordered points are given on a conic section, they can be connected into a hexagon in 60 different ways, resulting in 60 different instances of Pascal's theorem and 60 different Pascal lines. This [configuration](https://en.wikipedia.org/wiki/Projective_configuration "Projective configuration") of 60 lines is called the _Hexagrammum Mysticum_.[[3]](https://en.wikipedia.org/wiki/Pascal%27s_theorem#cite_note-3)[[4]](https://en.wikipedia.org/wiki/Pascal%27s_theorem#cite_note-4)
 

@@ -29,3 +29,4 @@ Več plasti $\rightarrow$ spodnja plast $\neq$ spodnja
 - **Prizmatične celice
 	- **Izboljšana absorpcija**: Pogosto imajo #mikrovilus (majhne izrastke), ki povečujejo površino za absorpcijo, npr. v črevesju za absorpcijo hranil.
 Krovno tkivo je torej le povrhnjica (pod njo je $\underbrace{usnjica, maščobno \; tkivo}_\text{[[Vezivno tkivo]]}$) $\rightarrow$ vse to skupaj je koža
+

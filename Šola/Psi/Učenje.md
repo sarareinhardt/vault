@@ -1,18 +1,18 @@
 - *= proces spreminjanja znanja ali vedenja zaradi izkušenj z razmeroma trajnim učinkom*
 ##### Oblike učenja glede na sestavljenost
 
-###### <font color="#ff7799">Posnemanje</font>
+##### Posnemanje
 Albert Bandura
 opazovalec in model
 - model:
 	- živi model: starši, sorojenci, drugi otroci...
 	- simbolični modeli: iz risank, filmov...
-###### <font color="#228800">Elementi učenja</font>
+##### Elementi učenja
 1. Pozornost = na model, ki kaže določene modelne znake/vedenje
 2. Zapomnitev = informacije o vedenju shranimo v dolgoročni spomin
 3. Izvajanje = vedenje, ki ga je učenec zaznal vadi
 4. Motivacija = vedenje opazimo, si ga zapomnimo in bi ga znali posnemati, a se za to ne odločimo
-###### Od česa je odvisno ali bo posameznik vedenje sprejel in ga posnemal ali ne?
+##### Od česa je odvisno ali bo posameznik vedenje sprejel in ga posnemal ali ne?
 - od posledic, ki jih ima model za svoje vedenje
 	- če je bil model kaznovan je manjša verjetnost
 - od osebnostnih lastnosti modela
@@ -26,12 +26,12 @@ opazovalec in model
 - od vrednot osebe, ki jo posnemamo
 	- kult...
 	- zaupanje vase
-###### Posnemanje dejavnosti
+##### Posnemanje dejavnosti
 - skrajšan napor in čas učenja
 - zmanjšuje število napak
 - zaradi tega napredek hitrejši
 
-#### Besedno učenje
+##### Besedno učenje
 = učenje besed in drugih simbolov: številskih, kemijskih, geografskih...
 **2 vrsti učenja: **
 - *besedno učenje nižje ravni*: 
@@ -46,9 +46,9 @@ opazovalec in model
 - jo uporabimo na različne načine
 - lahko v naprej predvidevamo nekatere posledice
 - lahko poiščemo njeno nasprotje
-#### Asociacije
+##### Asociacije
 - = zveze med besedami oz njihovimi pomeni, v širšem smislu: zveze med dražljaji in reakcijami
-###### Aristotel
+##### Aristotel
 - asociacije po stičnosti: vsebine, ki smo jih doživeli skupaj ali drugo za drugo ze povežejo
 - asociacije po podobnosti: podobne vsebine se povežejo
 - asociacije po nasprotju: nasprotne vsebine se povežejo

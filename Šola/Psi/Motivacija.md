@@ -25,7 +25,7 @@ potreba sproži dejavnost usmerjeno k cilju, doseganje cilja povzroči zadovolji
 **samo fiziološke potrebe** se zadovoljujejo homeostatično. 
 <font color="#c00000">Progresivno zadovoljevanje potreb</font>
 Zadovoljitev ene potrebe privede do druge (še večje) potrebe (ko se naučimo osnove neke znanosti se je želimo naučiti še več)
-zadovoljitev prvotne potrebe ne pripelje do prvotnega stanja, temveč na drugi ravni pripelje do pojavljanja novih potreb, ki jih zadovoljujemo z novimi cilji itd. (ne mešaj z Maslowim)
+zadovoljitev prvotne potrebe ne pripelje do prvotnega stanja, temveč na drugi ravni pripelje do pojavljanja novih potreb, ki jih zadovoljujemo z novimi cilji itd. (ne mešaj z Maslowim )
 Nagonsko:
 - dihanje, mežikanje, kašljanje.....
 Ostalo kultivirano npr. hranjenje (učimo se kultiviranega hranjenja)
