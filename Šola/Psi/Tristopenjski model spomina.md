@@ -46,17 +46,25 @@
 - **Obnovite** po 1h učenja
 - **Povežite** snov učnega sklopa v celoto
 ##### Značilnosti dolgotrajnega spomina:
-- shranjevanje: spominske mreže
-- obseg: teoretično neomejen
-- trajanje: celo življenje
-- izgube zaradi: neprimernega osvajanja, premalo ponavljanja, neustrezne organizacije snovi
+- **shranjevanje**: spominske mreže
+- **obseg:** teoretično neomejen
+- **trajanje:** celo življenje
+- **izgube zaradi**: neprimernega osvajanja, premalo ponavljanja, neustrezne organizacije snovi
 
 
-##### Proceduralni spomin
-- Spomin za postopke (kako stvari delamo):
-	- kako množimo enačbe, 
-	- kako plešemo sambo
-- za učenje teh veščin potrebujemo precej časa, a nam ostanejo v spominu za dolgo časa
+##### **Podsistemi dolgoročnega spomina**
+
+- **Deklarativni** (_zavestni priklic_):
+    - **Semantični** (_dejstva, splošno znanje_) → učenje informacij iz biologije, učbenika
+    - **Epizodični** (_osebne izkušnje_) → priklic spominov iz otroštva, npr. igranje z lego kockami
+- **Nedeklarativni** (_nezavestni priklic_):
+    - **Proceduralni** (_spretnosti_)  →  spomin na **postopke** (kako stvari delamo), reševanje enačb, ples ... → več ponavljanja = boljše pomnjenje (metode ne pozabimo). Če se nekaj naučimo (npr. vožnja kolesa) in tega ne izvajamo več let, sposobnost hitro zopet osvojimo – **brez učenja**.
+    - **Dispozicije** (_klasično pogojevanje_)
+
+**Za učenje teh veščin potrebujemo precej časa, a nam ostanejo v spominu za dolgo časa!**
+
+---
+
 ##### Spremembe v času retencije
 - retencija = ohranjanje v spominu
 - proučeval Friederich Bartlett
@@ -70,3 +78,24 @@
 - osnovne vsebine ni, ostanejo le podrobnosti
 - **racionalizacija vsebine**: osnovna vsebina lahko postane bolj logična, racionalna in konvencionalna
 - odpadejo ali pa se spremenijo imena oseb, krajev, rek
+
+
+---
+
+
+##### **Krivulje Se Med Seboj Razlikujejo Zaradi:**
+
+- Načina ponavljanja (priklic, prepoznavanje, prihranek pri ponovnem učenju)
+- Vrste učnega gradiva (smiselno – nesmiselno, urejeno – neurejeno ipd.)
+- Količine učenja (nezakonito, čezmerno)
+- Metode učenja (z ali brez odmorov, z asociacijami, Metoda Prop)
+![[Pasted image 20250323152614.png|300]]
+**Predstavljanje**
+- Predstave delimo na:
+    - Spominske (bolj ali manj točna kopija zaznav)
+    - Domišljijske (nastanejo s kombiniranjem senzoričnih izkušenj/elementov, zato kot celota ne ustrezajo stvarnosti)
+- Ljudje se razlikujemo glede na to, Katere Vrste Predstavnost Pogosteje Uporabljamo:
+    - Vidne, Slušne, Tipne, Kinestetične, Olfaktorne, Organske, Vojnalne
+- Eidetske Predstave
+    - Eidetski oziroma fotografski spomin pomeni izredno živ spominski zaznamek, ki so polne podrobnosti
+    - Pogoste so pri otrocih in redke pri odraslih
