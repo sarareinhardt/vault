@@ -12,5 +12,4 @@
 - [[Obrambni mehanizmi - Sigmund Freud]]
 - [[Učenje]]
 - [[Tristopenjski model spomina]]
-- 
-- 
+- [[Dejavniki učenja]]

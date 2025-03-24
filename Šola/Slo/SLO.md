@@ -11,3 +11,4 @@
 [[Henrik Ibsen]]
 [[Med romantiko in realizmom 1848-1899]]
 [[Večstavčne povedi]]
+[[Nadpovedna sintaksa]]

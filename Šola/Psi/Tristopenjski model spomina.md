@@ -107,29 +107,3 @@
 
 ___ 
 
-# Dejavniki učenja
-
-**Fizikalni Dejavniki Učenja**
-- Vremenske razmere
-- Osvetljenost, hrup, zračnost, Temperatura prostora
-- Urejenost prostora
-- Čas, kraj učenja
-
-**Fiziološki Dejavniki Učenja**
-- Kratkotrajna telesna stanja: žej, lakota, utrujenost, zadovoljstvo
-- Dolgotrajnejša telesna stanja: kronična oslabelost (rakotvorna bolezen…), okvara vida, sluha
-- Hormonsko ravnovesje (Menstruacija…)
-- Poškodbe
-
-**Socialni Dejavniki Učenja**
-- Vpliv družine: vrednote, stališča (Romi → izobrazba ni prioriteta)
-- SES družine (Socialno-Ekonomski Status) → posredni dejavniki (učna pomoč, prostori)
-- Vpliv šole (klima v razredu)
-- Širše družbeno okolje (ali ciljana spolnega izobraževanja – nekatere šole)
-
-**Psihološki Dejavniki Učenja**
-1. Čustva:
-- Na učenje vplivajo tako pozitivna (nekaj nam je všeč) kot negativna čustva (nečesa ne maramo)
-- Pomembna je jakost čustev (močna čustva zavirajo učenje)
-- Pozitivno Razpoloženje – boljša pozornost
-- Slabo Razpoloženje (otožni, tesnobni) – slaba koncentracija, slabše pomnjenje

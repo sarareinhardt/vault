@@ -22,6 +22,7 @@ Potreba $\rightarrow$ Javljanje potrebe (skozi občutke) $\rightarrow$ Zavedanje
 | Fiziološke potrebe                                                                                   | Psihosocialne potrebe                                                                                                                                                    |
 | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | - so prirojene<br>- so univerzalne<br>Delimo jih na:<br>- potreba po ohranitvi človekovega življenja | - so povezane s človekovim življenjem v skupini<br>- so pridobljeni (po lepoti, urejenosti, ustvarjanju)<br>- so prirojene ali naučene? (po pripadnosti, spoštovanju...) |
+
 <font color="#c00000">Homeostatično zadovoljevanje potreb</font>
 potreba sproži dejavnost usmerjeno k cilju, doseganje cilja povzroči zadovoljitev potrebe in ponovno se vzpostavi homeostaza (stanje kot je bilo pred javljanjem potrebe). Nato se cikel znova ponovi (lakota, sitost)
 **samo fiziološke potrebe** se zadovoljujejo homeostatično. 
@@ -30,7 +31,7 @@ Zadovoljitev ene potrebe privede do druge (še večje) potrebe (ko se naučimo o
 zadovoljitev prvotne potrebe ne pripelje do prvotnega stanja, temveč na drugi ravni pripelje do pojavljanja novih potreb, ki jih zadovoljujemo z novimi cilji itd. (ne mešaj z Maslowim )
 Nagonsko:
 - dihanje, mežikanje, kašljanje.....
-Ostalo kultivirano npr. hranjenje (učimo se kultiviranega hranjenja)
+Ostalo **kultivirano** npr. hranjenje (učimo se kultiviranega hranjenja)
 
 ___
 
@@ -78,7 +79,9 @@ Lestvica (ta piramida) potreb
 💡 **Zaključek:**  
 Maslowlova hierarhija je dober model, vendar v resničnem življenju ni vedno linearna. Ljudje lahko prioritizirajo višje potrebe, četudi osnovne niso v celoti zadovoljene, kar kaže, da je človekova motivacija bolj kompleksna in dinamična, kot predvideva teorija.
 
+
 ##### Piramidko iz interneta
+
 ![[piramidko.png]]
 
 
