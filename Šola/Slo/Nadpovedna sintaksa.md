@@ -17,3 +17,11 @@ večgovorno = tisto, ki pričakuje odziv
 - Pojasnjevalno
 - Posledično
 - Sklepno
+- Vezalno?
+
+##### Slogovni postopki
+- opisovanje (naštevalno razmerje)
+- pripovedovanje (časovno)
+- razlaganje (vzročno in posledično)
+- utemeljevanje (pogojevalno)
+- obveščevanje
