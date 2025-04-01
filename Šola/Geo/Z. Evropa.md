@@ -191,11 +191,11 @@ prebivalstvo
 - FRA se deli na 101 departmajev (5 v tujini; Francoska Gvajana, Martinique, Guadaloupe, Mayotte, Reunion)
 - država je reorganizirana v 22w 
 
-
-
-![[Pasted image 20250209173507.png|500]]
-
-![[Pasted image 20250209173539.png]]
-
-![[Pasted image 20250209173610.png]]
-![[Pasted image 20250209174557.png]]
+##### Portugalska
+- Površje; večji in in gorat atlantski del na S (drobna posest) in 
+- nižinski sredozemski del na J (veleposest) Pripada ji še Madeira in Azori
+- Podnebje; hladne, mokre zime, vlažna poletja ob obali, v notranjosti pa vroča in suha. Suša na J in V
+- Rastlinstvo; na S gozd, na J mandljevci in smokvovci. Oljke so povsot
+- Prebivalstvo in gospodarstvo, 10 mil, večjagostota na severu in obali (Lizbona, Porto)
+- Izvažajo ribe (konzerve sardin), vino (portovec ob reki Douro), plutovino (na j, 1. na svetu), industrijske izdelke
+- turizem; hiter razvoj, hiter razvoj, *Algarve*

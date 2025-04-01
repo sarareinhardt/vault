@@ -25,3 +25,15 @@ večgovorno = tisto, ki pričakuje odziv
 - razlaganje (vzročno in posledično)
 - utemeljevanje (pogojevalno)
 - obveščevanje
+
+--- 
+
+# Navezovanje in napovedovanje
+
+
+1. **Navezovanje** (anafora):
+<u>Ljubljana</u> je poleti živahna. <u>Mesto</u> obiskovalcem nudi veliko.
+Ljubljana = nanašalnica
+Mesto  = naveznica
+2. **Napovedovanje** (katafora): 
+Naj vam povem <u>naslednje</u>. <u>Dobimo se ob 8. uri</u>.

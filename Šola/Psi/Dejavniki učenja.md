@@ -61,7 +61,17 @@
 
 ##### Luis L. Thurstone - Teorija multiplih faktorjev ali sedmih primarnih faktorjev inteligence
 **R - faktor rezoniranja ali miselnega presojanja**
-- Kaže se v sposobnosti presojanja logičnih odnosov, v možnosti abstrahiranja, sklepanja (induktivnega, deduktivnega)
+- Kaže se v sposobnosti presojanja logičnih odnosov, v možnosti abstrahiranja, sklepanja (induktivnega  - is posameznega sodimo na splošno, deduktivnega- iz splošnega na posamezno)
 **M - faktor, spominski faktor
 - kaže se kot sposobnosti zapomnitve in ohranitve gradiva
+**P - faktor, perceptivni (zaznavni) faktor**
+Kaže se kot sposobnost hitrega in točnega zaznavanja (predvsem zaznavanje vidnih podrobnosti, podobnosti, razlik)
+**S - faktor, prostorski (spacialni) faktor**
+Sposobnost dobrega zaznavanja in razumevanja prostorskih odnosov in pa sposobnost transformiranja teh odnosov
+**N - faktor, številski (numerični) faktor**
+Kaže se v sposobnosti hitrega in točnega računanja 
+**W - faktor, besednost,besedna točnost (fluentnost)**
+Faktor vpliva na količino in hitrost ravnanja z besednim gradivom.
+**V - faktor - besedno razumevanje**
+Kaže se v sposobnosti razumevanja, besednih in jezikovnih odnosov ter vsebin
 
