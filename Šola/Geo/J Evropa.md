@@ -19,3 +19,26 @@ Meseta, Pireneji, Sierra Nevada
 - Centri; sredozemska obala, Baleari, Kanarski otoki (celoletni turizem, **Pico del Teide** (3718) najvišja njihova gora)
 - <font color="#ff0000">na ozki obali;</font> konflikti s kmetijstvom, industrijo in vodno oskrbo
 - betonska prenasičenost v nasprotju s tradicionalno arhitekturo
+##### Italija
+- Obseg: Padska nižina in Alpe na S, apeninski polotok s Sicilijo in Sardinijo. Naravnogeografsko se deli na S Italijo in Apeninski polotok
+- Severna Italija; obsega padsko nižino, Alpe in Ligursko primorje
+- Padska nižina; nasujejo jo reke Pad, Adiža, Brenta, Piva, Tilment in Soča (prod in pesek)
+	- zaradi delte (Pad) je obala nizka, ima peščene sipine, lagune in močvirja. Izgonska struga
+	- Na Z. in S. Padsko nižino obrobljajo
+- Alpe; segajo na masive Mont Blanca, Matterhorna...V od tod (nižje) so turistično pomembna ledeniška jezera. V osrednjem delu je dolina Adiže. Alpe se na V nadaljujejo v Dolomitih, Karnjskih in z Julijskih Alpah
+- Ligursko primorje; pokrajina ob Genovskem zalivu
+- Podnebje v S. Italiji submediteransko, v Ligurskem primorju mediteransko, v Padski nižini celinsko, v Alpah gorsko
+- Apeninski polotok; v sredini je mladonagubano Apeninsko gorovje (slemenitev SZ-JV). 3 deli; 
+	- Severni: nižji, položnejši iz peščenjaka, fliša
+	- osrednji del; iz apnenca, podolžna slemena z ravninami, v Abruzzih je Gran Sasso (2914)
+	- Ob reki Arno (teče skozi Firence) in Tibera (teče skozi Rim); rodovito gričevje
+	- tektonika; z dviganjem Apeninov in konec terciarja v Tirenskem morju, rude. Vezuv, Etna, Stromboli, Vulcano Al Banske gore pri Rimu
+- **Podnebje** polotoške in otoške Italije; sredozemsko v nižinah 600-800mm (namakanje!), v Apeninih do 3000mm
+- **Prebivalstvo**; 60 milijonov, Slovenci - Tržaško, Goriško, Beneška Slovenija, Rezija, Kanalska dolina; nemško govoreči J Tirolske v zg. Poadižju, francosko govoreči dolini Aoste, Sardi na Sardiniji, Albanci c Kalabriji, Furlani  (še manjka!!!!!!!!!)
+	- **Poselitev;** gosto a neenakomerno poseljeno
+		- Do 1. sv. v. se selijo v ZDA, Argentino, Brazilijo, Francijo
+		- Kasneje v Švico, NEM, FRA. Zlasti iz J. ITA
+	- **Slovenci;** 90.000, večina Trst in Gorici
+- **KMETIJSTVO;** Padska nižina; koruza, sladkorna pesa, riž, v padski nižini pridelajo 40% vseh izdelkov
+- Apeninska ITA; še močno kmetijska. Aktivnih kmetov je 8% (aktivni so tisti, ki imajo kmetovanje edini dohodek)
+- Ostala območja; slabše prsti, a z int. obdelavo
