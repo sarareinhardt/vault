@@ -3,7 +3,7 @@
 - <font color="#ff0000">družbene značilnosti;</font> najpomembnejši panogi – kmetijstvo in turizem. Zaradi slabše gosp. razvitosti je bila J Evropa že od konca 19.st. območje odseljevanja.
 - <font color="#ff0000">litoralizacija;</font> koncentracija ljudi in gospodarstva ob obalah. Sproži jo prometna odmaknjenost in skromni naravni pogoji.
 - <font color="#ff0000">strnjeno zgrajena naselja</font>
-#### <font color="#ff0000">Iberski polotok</font>
+# <font color="#ff0000">Iberski polotok</font>
 Meseta, Pireneji, Sierra Nevada
 ![[Progress_of_the_Reconquista_(718–1492)_-_es.svg.png|300]]
 - <font color="#ff0000">lega;</font> skrajni JZ Evrope, ločen s Pireneji od ostalega kontinenta, od Afrike pa z Gibraltarskimi vrati
@@ -19,7 +19,7 @@ Meseta, Pireneji, Sierra Nevada
 - Centri; sredozemska obala, Baleari, Kanarski otoki (celoletni turizem, **Pico del Teide** (3718) najvišja njihova gora)
 - <font color="#ff0000">na ozki obali;</font> konflikti s kmetijstvom, industrijo in vodno oskrbo
 - betonska prenasičenost v nasprotju s tradicionalno arhitekturo
-##### Italija
+# Italija
 - Obseg: Padska nižina in Alpe na S, apeninski polotok s Sicilijo in Sardinijo. Naravnogeografsko se deli na S Italijo in Apeninski polotok
 - Severna Italija; obsega padsko nižino, Alpe in Ligursko primorje
 - Padska nižina; nasujejo jo reke Pad, Adiža, Brenta, Piva, Tilment in Soča (prod in pesek)
@@ -42,3 +42,24 @@ Meseta, Pireneji, Sierra Nevada
 - **KMETIJSTVO;** Padska nižina; koruza, sladkorna pesa, riž, v padski nižini pridelajo 40% vseh izdelkov
 - Apeninska ITA; še močno kmetijska. Aktivnih kmetov je 8% (aktivni so tisti, ki imajo kmetovanje edini dohodek)
 - Ostala območja; slabše prsti, a z int. obdelavo
+- izvažajo še olive in sadje. Namakajo 9% zemlje
+- **problemi;** pomanjkanje kvalitetnih zemljišč, vode, delovne sile
+- neugodna posestna sestava
+	- razdrobljenost posesti (le 8 ha poprečna velikost)
+	- $\frac{1}{4}$ kmetijske zemlje v rokah veleposestnikov z nad 500 ha
+##### Industrija
+- imajo le živo srebro, žveplo, kameno sol, marmor, naftne vtrine na Siciliji (6% porabe )
+- center industrije je na severu zaradi HE
+- najmočnejše panoge; kovinska, ladjedelništvo, avtomobilska, elektrotehnična, ind. gospodinjskih aparatov, precizne mehanike, ...
+- **ind. trikotnik;** Torino - Genova - Brescia z jedrom v Milanu. Kmetijski jug - mezzogiorno (= zaostal kmetijski jug), Padanija
+##### Turizem
+- **Vzroki;** podnebje, morje, gore, jezera, spomeniki. Čez 20 milj turistov/leto. 3. v Evropi za FRA in ŠPA
+- **Ekološko ogroženo;** S Jadran, Ligurska obala, mad Rimom in Neapljem (obala) zaradi turistov, infrastrukture, prometa, industrije, urbanizacija
+
+# Grčija
+- **Površje;** celinska Grčija je J del goratega Balkanskega polotoka
+- skoraj 1/6 vse Grčije; Jonski otoki na Z ter egejski (Kikladi, Sporadi) na v
+- na J je Kreta
+- na severu sega v Egejsk, Makedonijo in Trakijo.
+- Otokov več kot 2000, 150 poseljenih
+- Korintski prekop 23?m
