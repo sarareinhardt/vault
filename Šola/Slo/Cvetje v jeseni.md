@@ -1,4 +1,4 @@
-##### 1. Razložite simboliko naslova _Cvetje v jeseni_.
+h##### 1. Razložite simboliko naslova _Cvetje v jeseni_.
 
 Naslov simbolizira krhkost in minljivost lepih trenutkov v življenju — tako kot cvetje zacveti in oveni, tudi človekovo življenje mineva. Jesen je čas staranja, konec mladosti, a tudi čas lepote in miru. V zgodbi je ljubezen med Meto in Janezom »cvetje v jeseni« — nekaj lepega, a tudi minljivega.
 

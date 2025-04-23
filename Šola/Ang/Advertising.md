@@ -1,0 +1,23 @@
+- = a form of communication
+- usually paid for
+- designed to inform or influence
+- intended to make people buy, try or do something
+- more then just selling things to people
+- Types:
+	- print
+	- broadcast
+	- outdoor
+	- digital
+	- product/brand integration (in movies...)
+	- slogans, jingles, logos, characters designed for a particular product/company
+	- Companies usually advertise products, service, new products - new version/upgraded version/limited edition products
+- Why do companies spend so much money on products we already know? 
+	- remind people it exists
+	- reassure customers their products are still popular
+	- to make sure they don't loose sales to competitors
+	- for first time buyers to go for their particular product
+- Charity advertising
+	- a one off donation or subscription donation
+	- who they are, what they do raising awareness, giving advice or recommendation to change your life
+- Political advertising
+	- election, public safety

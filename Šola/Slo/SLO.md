@@ -13,4 +13,6 @@
 [[Večstavčne povedi]]
 [[Nadpovedna sintaksa]]
 [[Visoška kronika]]
+[[Nova romantika]]
+
 8 al pa 16

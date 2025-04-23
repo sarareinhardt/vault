@@ -60,6 +60,28 @@ Meseta, Pireneji, Sierra Nevada
 - **Površje;** celinska Grčija je J del goratega Balkanskega polotoka
 - skoraj 1/6 vse Grčije; Jonski otoki na Z ter egejski (Kikladi, Sporadi) na v
 - na J je Kreta
-- na severu sega v Egejsk, Makedonijo in Trakijo.
+- na severu sega v Egejsko, Makedonijo in Trakijo.
 - Otokov več kot 2000, 150 poseljenih
 - Korintski prekop 23?m
+##### Podnebje
+- **sredozemsko** a različno; na S so pozimi ledeni vetrovi iz V Balkana, na J so topli vetrovi
+- padavine - jeseni, pozimi, največ na Z obalnem hribovju (Krf!)
+- Vroča in suha poletja
+- **Meltemi** je vroč suh veter, ki še povečuje vročino na Kreti in J otokih
+- **rastlinstvo;** gozd zmanjšal na $\frac{1}{5}$ zaradi izsekavanja, paše. Je na S Peloponez - makija
+##### Kmetijstvo
+- največ bombaža v Evropi, izvaža še olivno olje, zelenjavo, grozdje. 
+- Gojijo drobnico.  (ovce, koze)
+- Namakajo (Atene le 300-400mm/leto) 1/3 obd. zemljišč, gojijo sadje, povrtnine, tobak
+- **problemi;** drobna posest, razdrobljenost posesti, pomanjkanje del. sile. Posestva 3,5ha
+##### Industrija
+- **vrste industrije;** tobačna, tekstilna, obutvena, ladjarstvo.
+- **priključitev EU;** l. 1981.
+- **center;** Atene, Solun; odvisna od uvoza surovin, zastareli obrati,
+- **rafinerije nafte;** V od Pireja
+##### Turizem
+- vzroki; pestra pokrajina, morje, podnebje, kult.zgod. spomeniki
+- Po l 1970; razcvet; največ turistov poleg Malte in Cipra
+- izstopata; med otoki – Rodos in Kreta
+- litoralizacija (=selitev ob obalo - gospodarska rast obale)
+- 10 milijonov Grkov, 3 milij. v tujini

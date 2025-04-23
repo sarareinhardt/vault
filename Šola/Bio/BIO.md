@@ -12,7 +12,7 @@ Test1:
 - [[Obramba telesa]]
 - [[Izločala]]
 - [[Hormonalni sistem]]
-- 
+- [[Živčni sistem]]
 
 
 **Predstavitev dialize (dializnega aparata) za del ocene**
