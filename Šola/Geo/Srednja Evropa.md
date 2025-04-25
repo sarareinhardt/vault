@@ -1,0 +1,9 @@
+- **Blokovska delitev** Evsope po 2. sv. v.; Srednjo Evropo za več kot 40 let razdeli z železno zaveso na 2 dela; razvite kapitalistične države (Z) in manj razvite soc države (V)
+- **padec berlinskega zidu**; l. 1898; V uvaja kapitalizem
+- **pleistocen;**  kont. poledenitev, rečne doline V-Z, pot proti S zapre ledenik, 
+- **danes;** spet tečejo proti S. Ostanejo pradoline (Berlinsko-Varšavska)
+- **Nemško-Poljsko nižavje;** S del Sr. Evrope; morske, rečne naplavine, ledeniški nanosi
+- **sredogorja s kotlinami;** hercinska orogeneza, grudasta gorstva, gorski čoki (Schwarzwald), kotline (Frankfurtska), tektonski jarki (Renski)
+- **nizke planote;** Češkomoravska;
+- **sredogorja;** do cca 1000m (Vogezi, Schwarzwald, Ardeni, Malopoljske višine), iz magm. in metam. kamnin; na obrobju – črn in rjav premog
+- **Alpe in Z Karpati;** Centralne Alpe (najvišje, iz magm. in metam. kamnin), S-apneniške in J-apneniške. Delijo se na V in Z – meja med Bodenskim in Comskim jezerom
