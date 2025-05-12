@@ -57,4 +57,33 @@
 - **Površje;** S. nemško nižavje, Nemško sredogorje, J Nemčija, Bavarska planota (meji na alpe in Avstrijo, najvisja gora - Zugspitze 2963m)
 - **Podnebje;** Celinsko (mrzle zime, vroča poletja), dežuje vse leto, pozimi sneži, najmanj padavin - severne nižine
 - Donava = 2x daljša od Rena, izvira na v pobočju Schwarzwalda
-- **rastlinstvo;** skoraj 30% gozd (hrastov, brezov), resave pogozdijo z bori; Schwarzwald in Bavarske Alpe (do 1500m) smreke
+- **rastlinstvo;** skoraj 30% gozd (hrastov, brezov), resje (take pretty rožice idk) pogozdijo z bori; Schwarzwald in Bavarske Alpe (do 1500m) smreke
+
+#####
+ZRN - zvezna republika Nemčija
+NDR - nemška demokratična republika
+- **oktober 1990;** ZRN in NDR se združita v ZRN, **16** zveznih dežel
+- **prebivalstvo;** 83 milj. - protestanti 45%, katoličani 37%
+- konec l. 1991 pride? 6 milj tujcev (industrija, rudarstvo, gozdarstvo; Turki, Jugoslavani) 60.000 Slovencev
+- **gospodarstvo;** ob združitvi (z in v) peša gospodarstvo
+##### Gospodarstvo
+- **V. Nemčija;** zastarela tehnologija, nizka kakovost , zapiranje obratov , brezposelnost
+- **Z Nemčija;** gospodarska rast (na V novo tržišče, vse gradijo na novo), vidijo, da gre denar na V, zato se začnejo deliti na 
+	- **wessje in os (ta slide manka do konca)
+##### Porurje
+- **premogovno-industrijsko-železarsko območje;** najpomembnejše, bilo zelo onesnaženo, monostrukturna industrija
+- **v 60ih letih:** uvedba cenejše nafte, izkop premoga nazaduje, tudi kriza železarstva, degradirano okolje
+- **prestrukturiranje;** pestra ind., več žensk, manjše onesnaževanje, terciarne in kvartarne dejavnosti
+- **Dortmund;** inovacijsko središče visoke tehnologije (čipi, sončne celice)
+- v Porurju danes univerza, raziskovalni centri, zabaviščni parki, nakupovalna središča, zeleni pasovi med mesti (70% površja), 3 večji naravni parki
+
+---
+# Švica
+- **Splošne značilnosti;** konfederacija iz 26 **Kantonov** gl. mesto = Bern, med vojnama je bila nevtralna, mednarodne organizacije, kapital
+- **Podnebje;** celinsko vlažno, velik vpliv nagubanega reliefa, obilne padavine vse leto
+- **Rastlinstvo;** gozd, v J dolinah celo ciprese, smokovci, nad 2000 m so alpske rastline
+- **vodovje;** pod prelazom SantGotthard izvirata Rhona in Ren, ki tečeta skozi Ženevsko (Rhona)
+
+
+pišemo j pa sr evropo
+
