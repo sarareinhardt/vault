@@ -43,3 +43,18 @@
 - Avstrija; prehiti Nemčijo
 - Švica; najrazvitejša zaradi bančništva, ni članica EU
 - države V dela Sr. Evrope; z izjemo Češke – nekdanje plansko gospodarstvo (SZ) nadomestijo s tržnim (brezposelnost)
+
+##### Onesnaženost okolja
+- **V. del;** težka industrija (zlasti V Nemčija), pokrajina Saška - lignit z veliko žvepla, kisel dež (podobno na S Češke in JZ Poljske) 
+- **Črni trikotnik;** tromeja med V Nemčijo, Češko in Poljsko
+- rafinerije, petrokemična industrija, rudniki, steklarne, (kurijo lignit)
+- zastrupljen zrak, prst, voda; rak, bolezni dihal
+- **L. 1991;** sestanek okoljskih ministrov vseh 3 držav iz EU  - do l. 1996 se zmanjšajo emisije za več kot 50%
+
+---
+# Nemčija
+
+- **Površje;** S. nemško nižavje, Nemško sredogorje, J Nemčija, Bavarska planota (meji na alpe in Avstrijo, najvisja gora - Zugspitze 2963m)
+- **Podnebje;** Celinsko (mrzle zime, vroča poletja), dežuje vse leto, pozimi sneži, najmanj padavin - severne nižine
+- Donava = 2x daljša od Rena, izvira na v pobočju Schwarzwalda
+- **rastlinstvo;** skoraj 30% gozd (hrastov, brezov), resave pogozdijo z bori; Schwarzwald in Bavarske Alpe (do 1500m) smreke
