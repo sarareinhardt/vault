@@ -284,3 +284,214 @@ Francija mora plačati visoko ceno – izgubi **Alzacijo, Loreno** in **5 milija
 ---
 
 🔚 Tako se **leta 1871** – v istem letu kot Italija – **združi še Nemčija**, pod **pruško vodstvo**. Združitev ni prišla po mirni poti, temveč **z orožjem, diplomacijo in odločno politiko Bismarcka**.
+
+
+##### 🛡️ _Krimska vojna – ko Evropa trese Ruse_
+
+Sredi 19. stoletja je Rusija želela razširiti svoj vpliv na Balkanu, zlasti med pravoslavnimi verniki v Osmanskem cesarstvu. To je zmotilo Zahod. Leta 1853 je Turčija – z britansko in francosko podporo – napovedala vojno Rusiji. Sprva so Rusi zmagovali, a ko sta VB in Francija poslali ladjevje v Črno morje, se je razmerje hitro spremenilo. Rusija je morala umakniti svoje čete iz Moldavije in Vlaške, hkrati pa ji je bila prepovedana plovba po Črnem morju. Spopadi na Krimu so se nadaljevali, najhujši del vojne pa je bil obleganje Sevastopolja, kjer so zmrzal in kolera terjali več življenj kot sovražniki.  
+Italija se je pridružila z 15.000 vojaki, v zameno pa želela politično pomoč Napoleona III za osvoboditev svojih ozemelj. Ko se je vojna zaključila s Pariško mirovno pogodbo leta 1856, je Rusija izgubila del ozemlja, vpliv na Balkan in pravico do vojaške prisotnosti na Črnem morju. Krimska vojna je tako oslabljena Rusijo potisnila korak nazaj, Napoleonu III pa utrdila položaj v Evropi.
+
+---
+
+##### 👑 _Napoleon III – cesar z voljo ljudstva_
+
+Leta 1848 je francoska ustava uvedla predsedniški sistem. Na volitvah je bil izvoljen Louis Bonaparte, nečak Napoleona I. Ko mu je mandat potekel, je izvedel državni udar in leta 1852 postal cesar Napoleon III – z ljudsko podporo prek plebiscita. V njegovi vladavini je vsak sloj našel nekaj zase – kmetje mir in red, meščani liberalno gospodarstvo, delavci obljube socialnih reform.  
+A gospodarska kriza leta 1857 in rast opozicije so ga prisilili v reforme. Leta 1860 je omogočil večjo vlogo parlamenta, dovolil združevanje delavcev in leta 1870 z ustavno spremembo vzpostavil »liberalno cesarstvo«. A prav to leto si je izbral za vojno proti Prusiji – in bila je to usodna napaka.
+
+---
+
+##### ⚔️ _Francosko-pruska vojna – Napoleonov zaton_
+
+Leta 1870 je Napoleon III izzval Prusijo in vojna se je začela. Ni trajalo dolgo, da so pruske sile obkolile francosko vojsko in Napoleona ujele v **bitki pri Sedanu**. Cesar je končal v ujetništvu, v Parizu pa je zavrelo. Ljudje so zavrnili bonapartizem in razglasili **tretjo republiko**.  
+Francija je bila poražena, izgubila **Alzacijo in Loreno**, ter morala plačati ogromno odškodnino. Prusija pa je postala zmagovalka – in pripravljena na naslednji veliki korak.
+
+---
+
+##### 🏰 _Nemško cesarstvo – Prusija zavlada Nemčiji_
+
+Po zmagi nad Francijo leta 1871, je v dvorani ogledal v Versaillesu Bismarck razglasil **Nemško cesarstvo**. Zgrajeno je bilo kot federacija 22 držav in 3 svobodnih mest, a z jasno prusko prevlado.  
+Zahod države je bil industrijsko razvit, vzhod pa ostal agraren. Verske in nacionalne razlike so bile očitne – sever protestantski, jug katoliški. Vseeno se je nova država hitro gospodarsko razvijala – kemija, železarstvo, rudarstvo – obenem pa rasel tudi **proletariat**, nov razred delavcev, ki so garali cele dneve in živeli v težkih razmerah.
+
+
+
+# 🌍 IMPERIALIZEM – tekma za svet
+
+![[Colonization_1945.png]]
+
+V drugi polovici 19. stoletja so evropske države ugotovile, da njihove tovarne proizvajajo več, kot lahko domača tržišča porabijo. Kriza leta 1873 je pokazala, da liberalna ekonomija ne zadostuje več. Tako so začeli gledati navzven – po **novih trgih**, **surovinah**, **delovni sili** in **strateških točkah**. Rodil se je **imperializem**: tekmovanje za svetovno prevlado.
+
+Države niso le osvajale – širile so idejo, da imajo pravico (in celo dolžnost), da "civilizirajo" druge narode. To so poimenovali **"civilizacijsko poslanstvo bele rase"**, kar je bilo pogosto zgolj opravičilo za izkoriščanje.
+
+---
+
+##### 🇬🇧 **Velika Britanija – morja**
+
+**Britanski imperij** je bil največji v zgodovini – imeli so pregovor: _"Sonce v britanskem imperiju nikoli ne zaide."_  
+Do leta 1914 je pod britansko krono živela **četrtina svetovnega prebivalstva**. VB je nadzorovala **Indijo**, **Kanado**, **Avstralijo**, **Novo Zelandijo**, **deli Afrike** (Sudan, Kenija, Rodezija, Uganda…) in številne otoke.  
+Britanci so imeli **gospodarsko in pomorsko moč**, nadzorovali **pomembne prehode**, kot je **Sueški prekop**, ki je skrajšal pot do Indije in Kitajske. Sprva so ga gradili skupaj s Francozi, a so jih kasneje izrinili in prešli v popoln nadzor.
+
+Imperializem jim je omogočal, da so preusmerili pozornost od notranjih težav – **socialne neenakosti**, **upori Ircev**, **nezadovoljstvo v kolonijah**, predvsem v Indiji.
+
+---
+
+##### 🇫🇷 **Francija – imperij iz poraza**
+
+Po porazu proti Prusiji (1870) in izgubi **Alzacije in Lorene** je Francija iskala novo samozavest – našla jo je v **kolonialni širitvi**.  
+Zasedli so velik del **Severne in Zahodne Afrike** (Alžirija, Tunizija, Senegal, Mali, Čad, Mauritanija…).  
+V Aziji so si prisvojili **Indokino** (Vietnam, Kambodža, Laos) in imeli v lasti še **Madagaskar**, **Tahiti**, del **Konga** ter celo del **Kitajske obale**.
+
+Francija je imperij gradila tudi kot odgovor na britansko prevlado. Želela je pokazati, da še vedno spada med svetovne sile. Njene kolonije so bile vir **surovin**, **delovne sile** in **vojakov** za prihodnje vojne.
+
+---
+
+##### 🇩🇪 **Nemčija – pozna, a ambiciozna**
+
+**Nemško cesarstvo**, razglašeno šele leta 1871, je v tekmo za kolonije vstopilo zadnje – a z veliko **energijo** in **agresivnostjo**.  
+Do začetka 20. stoletja je imela Nemčija:
+
+- **Jugozahodno Afriko** (današnja Namibija)
+    
+- **Nemško Vzhodno Afriko** (današnja Tanzanija)
+    
+- **Togo** in **Kamerun**
+    
+- **Otoke v Pacifiku**, vključno z delom **Nove Gvineje** in **Mikronezijo**
+    
+
+Skupaj je nemški imperij vključeval okoli **12 milijonov ljudi**.  
+Bismarck sicer imperializma sprva ni podpiral, a ga je potem podprl kot **sredstvo za preusmeritev notranjih napetosti**. Kolonije so postale simbol moči in prestiža.
+
+---
+
+##### 🇮🇹 **Italija – prišla prepozno**
+
+Italija se je združila šele po letu 1870 in bila gospodarsko šibka. Kljub temu je želela postati kolonialna sila.  
+Priključili so si:
+
+- **Libijo** (izpod osmanske oblasti)
+    
+- del **Somalije**
+    
+- želeli so Etiopijo, a jih je ta leta 1896 porazila v **bitki pri Adwi** – eden redkih primerov, ko je afriška država ugnala evropsko silo.
+    
+
+Italijanske kolonialne pustolovščine so bile manj uspešne, a pomembne za **notranjo legitimnost vlade** in **narodno samozavest**.
+
+---
+
+##### 🇷🇺 **Rusija – pogled na Balkan in Daljni vzhod**
+
+Rusija je bila velika, a gospodarsko zaostala in politično togo vodena.  
+Na **Vzhodu** se je širila v **Sibirijo**, proti **Koreji** in **Mandžuriji**. A ko je leta 1905 v vojni z Japonsko izgubila, je preusmerila svojo politiko proti **Balkanu**, kjer je želela zaščititi **pravoslavce** in širiti vpliv.
+
+Zunanja ekspanzija je služila tudi kot **ventil za notranje nezadovoljstvo** – država je bila absolutistična, reforme pa počasne in plitke.
+
+---
+
+##### 🇯🇵 **Japonska – vzhajajoča sila**
+
+Ko so Japonci videli, kako so zahodnjaki kolonizirali Kitajsko, so hitro modernizirali svojo državo (Meidži reforme). A ker niso imeli dovolj **surovin**, so začeli širiti svoj imperij.
+
+Najprej so osvojili **Korejo**, nato pa premagali še **Rusijo** v vojni leta 1905 (prva zmaga azijske sile nad evropsko).  
+Zasedli so tudi **Mandžurijo**, kjer so z zasvojenim kitajskim cesarjem ustvarili **lutkovno državo**.
+
+Japonski imperializem je bil **grob**, a učinkovit – temeljil je na kombinaciji **vojaške moči**, **tehnološke naprednosti** in **nacionalne zavesti**.
+
+---
+
+#####  🇪🇸 **Španija in Portugalska – ostanki slavne preteklosti**
+
+Nekdaj največji kolonialni sili, a do konca 19. stoletja sta postali **senčni figuri**.
+
+- **Španija** je izgubila skoraj vse svoje kolonije v **vojni z ZDA leta 1898** (Kuba, Portoriko, Filipini), ostal ji je le **del Maroka**.
+    
+- **Portugalska** pa je ohranila nekaj kolonij v **Afriki** (Angola, Mozambik) in **otoke v Atlantiku**.
+    
+
+Obe državi sta vztrajali pri svojih posestih predvsem iz **tradicionalnih razlogov** in zaradi **ekonomskih koristi**.
+
+---
+
+##### 🇳🇱 **Nizozemska – dišavna kraljica**
+
+Nizozemska ni širila imperija agresivno kot druge, a je ohranila svojo **najbolj donosno kolonijo** – **Indonezijo**, kjer je bogato služila s **začimbami**, **kavčukom**, **sladkorjem** in drugimi tropskimi dobrinami.
+
+---
+
+##### 🇧🇪 **Belgija – kraljevski Kongo**
+
+Kralj Leopold II. je v **osebni lasti** zasedel **Kongo**, kjer so izvajali enega najbolj **brutalnih kolonialnih režimov**. Milijoni domačinov so umrli zaradi prisilnega dela, nasilja in lakote.  
+Ko so zločini prišli v javnost, je bil Kongo prenesen pod belgijsko državno upravo – a tudi ta ni bistveno izboljšala razmer.
+
+---
+
+# Preusmerjanje pozornosti
+#####  **Preusmerjanje pozornosti – notranji problemi in imperializem**
+
+Ko se državam začnejo kopičiti **notranji problemi** – gospodarske krize, socialne napetosti, razredni boji, nezadovoljstvo delavcev, zahteve po reformah – se vlade pogosto **obrnejo navzven**, v iskanje zunanjih zmag, novih ozemelj, virov in prestiža. S tem hočejo:
+
+- **združiti narod** okoli skupnega "sovražnika",
+    
+- **preusmeriti pozornost** od težav doma,
+    
+- **zatreti revolucionarne težnje** in razredna nasprotja.
+    
+
+---
+
+##### 🇩🇪 **Nemčija** – primer preusmerjanja pozornosti
+
+Po združitvi Nemčije 1871 je država **bliskovito industrializirana**, kar je ustvarilo močan **proletariat** – delavski razred, ki je živel v težkih razmerah in začel politično nastopati (npr. preko **socialistov in SPD**).
+
+Namesto da bi se lotili notranjih reform, so se **konzervativne sile** (npr. **Bismarck**, kasneje **cesar Wilhelm II**) odločile, da pozornost raje preusmerijo:
+
+- k **zunanji ekspanziji** (kolonije v Afriki in Oceaniji),
+    
+- k **vojaškemu poveličevanju** in gradnji močne mornarice (konkurenca VB),
+    
+- k **imperialni politiki**, ki je ustvarjala občutek moči in nacionalnega ponosa.
+    
+
+➡️ Tako so ljudi zaposlili z "velikimi cilji" in vsaj začasno umirili socialne napetosti doma.
+
+---
+
+##### 🇫🇷 **Francija** – po porazu v prusko-francoski vojni (1871)
+
+Francija je izgubila **Alzacijo in Loreno**, Napoleon III je padel, narod pa je bil **psihološko ranjen**. Namesto da bi se ukvarjali z bolečino poraza, so se Francozi usmerili v **kolonialno širitev** – predvsem v **Severno in Zahodno Afriko** ter **Jugovzhodno Azijo** (Indokina). To je okrepilo **nacionalni ponos**.
+
+---
+
+##### 🇬🇧 **Velika Britanija** – gospodarska konkurenca in irski upor
+
+Velika Britanija se je znašla pod pritiskom:
+
+- izzivi s **kolonialnimi upori** (npr. v Indiji),
+    
+- **irski nacionalizem**,
+    
+- **naraščajoča socialna vprašanja** doma (delavstvo, neenakosti),
+    
+- **gospodarska konkurenca** iz Nemčije in ZDA.
+    
+
+Da bi utrdila svoj položaj, je še bolj agresivno širila imperij – S Afrika, Sueški prekop, Sudan, Uganda...
+
+---
+
+##### 🇮🇹 **Italija** – združena, a šibka
+
+Italija je bila **združena šele nedavno** in brez močne ekonomije. Da bi dokazala, da je prava evropska sila, se je trudila dobiti **kolonije** – Libijo, del Somalije, napadla je Etiopijo (in doživela poraz). To je bilo bolj **simbolično iskanje prestiža** kot realna potreba.
+
+---
+
+##### 📌 Zaključek
+
+Imperializem ni bil samo gospodarska zgodba, ampak tudi **politična in psihološka strategija**:
+
+- **»Dajmo jim zunanjega sovražnika, da pozabijo na notranje razlike.«**
+    
+- S tem so elite branile svoj položaj, narod pa je bil »zaposlen« z idejo veličine države.
+    
+
+Če hočeš, ti to povzamem še kot mini zgodbo ali infografiko.

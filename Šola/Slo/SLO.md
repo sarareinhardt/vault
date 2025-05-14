@@ -14,6 +14,7 @@
 [[Nadpovedna sintaksa]]
 [[Visoška kronika]]
 [[Nova romantika]]
+[[Cankar]]
 [[predstavitev - Cankar]]
 
 
