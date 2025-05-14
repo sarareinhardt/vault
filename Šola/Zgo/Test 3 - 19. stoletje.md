@@ -248,32 +248,39 @@ Po **bitki pri Solferinu** se vzpostavi **Rdeči križ**. Italijanske državice 
 
   
 
-## Združitev Nemčije:
 
-Nemci in Italijani dosežejo vrhunec nacionalnega gibanja v istem letu. (1871-1848)
+# 🇩🇪 **Združitev Nemčije (843–1871)**
 
-Nemški narod takrat razbit na 300 državic.
+Nemški narod je bil skozi zgodovino razdeljen. Ko je **Frankovska država leta 843 razpadla**, je **zahodni del postal Francija**, **vzhodni pa Rimsko-nemško cesarstvo (RNC)** – obsežna, a zelo razdrobljena tvorba, ki je obstajala vse do **Napoleona**.
 
-Frankovska država razpade leta 843 na V in Z Frankovsko državo. Z postane Francija, iz V pa Rimsko-Nemško cesarstvo. RNC pa je od 962 – 1806. Državice so se konstantno večale, združevale, ukinile… Bila je zelo **nehomogena**, težko jo je bilo voditi in kdorkoli jo je lahko napadel. 1806 Napoleon ukine RNC in naredi **Rensko zvezo z bratislavskim mirom**. Prusija in Avstrija sta bila pod RNC ampak ne pod rensko zvezo. S nemške države nagibajo s Prusijo in imele protestantizem in bile bolj liberalne/strpne, J nemške države pa z Avstrijo, niso bili protestanti in bili so konservativni..
+Napoleon je leta **1806** RNC ukinil in na njenem območju ustvaril **Rensko zvezo** – Prusija in Avstrija pa v to zvezo **nista spadali**. Po njegovem porazu na Dunajskem kongresu **(1815)** je nastala **ohlapna Nemška zveza** z **Avstrijo kot vodilno silo**. Prusija, naprednejša in bolj industrializirana, pa se je ob tem počutila odrinjeno. Tako se je začela tiha tekma med Prusijo in Avstrijo za **vodilno vlogo med Nemci**.
 
-Po dunajskem kongresu (padcu Napoleona) se iz Renske zveze, Prusije in Avstrije ustanovi ohlapna **nemška zveza** (1815). Majhnim državicam vzeli samostojnost in priključevali drugim državam. Nemška zveza je bila sestavljena iz 35 držav in 4 svobodnih mest (Hamburg). Dali Habsburžanov NZ kot predsedujočo dinastijo (sami niso morali narediti nič). Obstajal je svet, s katerim so odločitve morale biti vzkaljene. Hkrati pa NZ imela skupni parlament V Frankfurtu ob reki Maini. Dogovor je bil, da pomembne odločitve sprejmejo predstavniki vseh 35 držav in 4 mest, kar pomeni, da je bila zelo demokratična. Habsburžani pridobijo vodstvo (primat) v NZ se je Prusija počutila manj vredno, zato je nastal konflikt. Zdaj se Prusija in NZ borita, kdo bo izpeljal proces združitve nemškega naroda, kdo bo vodil novo državo in kakšna bo njena ureditev. Prusi in Nemci jo niso hoteli imeti Avstrije v skupni državi. Prusija je bila bolj privlačna, ker je bila gospodarsko močna, napredna in najbolj industrialna država. Imeli premog, jeklarsko in kemično industrijo – koristno za vojsko (orožje). Otton vod Bismark postane nemški železni kancler. Začne se odločen premik v smeri združevanja. »Naroda se ne bo združilo z besedami ampak z jeklom – to pomeni, da je pripravljen iti v boj. Leta 1834 Prusija začela nagovarjati nemške državice gospodarskem sodelovanju. Ukinila je carine, tako da jih je privezala nase. Naredila se je **brezcarinska cona** – torej se splača trgovati. Avstrija tega ni naredila, zato so državice začele trgovati večinoma s Prusijo.
+Prusija je bila praktična. Leta **1834** je ustvarila **carinsko unijo (Zollverein)** in povezala severne nemške državice v **gospodarsko sodelovanje brez carin** – brez Avstrije. Tako jih je privezala nase.
 
-1848 (pomlad narodov) v vsaki državi se dvignejo nacionalna gibanja. Nekatere takoj dobijo ustave, uvedejo človekove pravice, v drugih čakajo, da bodo uporne državljane utišali. V Frankfurtu so se zbrali predstavniki vseh nemških držav v parlamentu in ideja je bila, da združijo vse Nemce v enotno državo. Imajo 2 ideji: **Velikonemški program**: združijo se vse države Nemčije, Prusija in Avstrija. Vodili bi jih Habsburžani. Ampak Avstrijci bi se rabili odpovedati ogrskemu delu (kar je ogromen del njihovega ozemlja). Druga ideja je bila **malonemški** program: Združijo se nemške države in Prusija. Zmaga malonemški program. Pruski kralj naj bi postal vladar nove Nemške države, a noče, ker si je ni izboril in ni hotel, da mu nekdo samo da državo za voditi (to naredi, ker ga je ljudstvo postavilo na moč, ga lahko odstavi in on bo moral vladati tako kot ljudstvo hoče.: Diadema. Program leta 1848 **propade**.
+Ko je leta **1848** Evropo zajela **Pomlad narodov**, so tudi Nemci zahtevali **ustave, pravice in enotno državo**. V Frankfurtu so se sestali predstavniki vseh držav in razmišljali o **združitvi Nemcev**. Vprašanje pa je bilo – **s kom**? Z Avstrijo ali brez?
 
-1849 Vsi vladarji so naenkrat nazaj prevzeli nazaj politiko in zavrteli nazaj politiko v konservativno. Friderik Vilijem IV se je zavedal, da če bo želel postati združevalec naroda, bo potreboval ponuditi ohlapno ustavo, sodelovanje z meščanstvom…
+Dve zamisli sta se pojavili:
+- **Velikonemški program** – predlog za združitev vseh nemških držav **v eno skupno državo skupaj z Avstrijo** pod vodstvom **Habsburžanov**.  
+➡️ Avstrija bi morala zato izpustiti svoj **ogrski del**, kar ni želela, zato program **ni uspel**.  
 
-1850 Friderik Vilijem IV začne vabiti severno nemške države (tiste s katerimi je bil v carinski zvezi) in nastala je **Erfurtska zveza**. V to zvezo so bile povabljene vseh 35 držav ampak Avstrija ni bila povabljena. J države se večina ni odzvalo, da se združijo okoli Prusije, S nemške pa ja. To pomeni, da zdaj nekdo so postavlja nad Nemško zvezo in nad Avstrijo, zato so bili Avstrijci ogroženi. Zato je s **sporazumom iz Olomouca** prisilila Prusijo, da Erfurtska zveza razpade. Nemški prostor nazaj v isto stanje kot po dunajskem kongresu. Avstrija se bori za ohranitev nemške zveze, Prusija za razpad.
+- **Malonemški program** – brez Avstrije, z **Prusijo kot voditeljico**.
 
-1862 pridejo nove spremembe z novim vladarjem Vilijem I. To leto izbral novega kanclerja: Otto von Bismarck z vzdevkom »železni kancler«. Parlament proti temu, da Prusija zahteva uničenje nemške zveze. Bismarck pa vedel, brez nasilja se narod ne o združil. Par mesecev preden je bil imenovan za kanclerja se je pogovarjal z Angleškim politikom in rekel: »kmalu bom prisiljen prevzeti vodstvo Pruske vlade. Moja prva skrb bo reorganizacija vojske s pomočjo deželnega zbora ali brez nje«. V obdobju politične krize je prevzel vodstvo in takoj začel oboroževati Nemčijo in povečal proizvodnjo orožja in moralno preoblikoval Prusijo/narod, da so sprejemali idejo, da je treba s silo (še v šolah so učili to – **militarizacija družbe**). Začel pri majhnih. Napihoval nemški nacionalizem.
+Malonemški predlog je zmagal, a pruski kralj **ni želel sprejeti krone**, ki bi mu jo ponudilo ljudstvo – ker ni želel vladati kot "izbranec množic". Gibanje je **propadlo**, Avstrija pa je znova utrdila svoj položaj.
 
-/// poglej str 75 v učb za količino premoga/jekla/železnice ///
+Prusija se ni predala. **Friderik Vilijem IV.** je leta **1850** poskusil z novo zvezo severnih držav (Erfurtska zveza), a **Avstrija je to preprečila** s pritiskom in **prisilila Prusijo k umiku** (sporazum iz Olomouca).
 
-1864 Sosed NM, Danska si je želela priključiti sosedno pokrajino **Schlesswig**. Prusija pa rekla, da rabi preprečiti (obrnila na NZ) a države niso hotele vojne, take politike in dokazovati moči. Samo Avstrija se je strinjala. Avstrija Prusom pomaga premagati Dance in z orožjem dobili nazaj Schlesswig in tudi **Holstein** v imenu Prusije in Avstrije (obe). Prusi opravljajo Schlesswig, Avstrijci pa Holstein. Vse članice NZ so zdaj videle Avstrijo kot agresivno (Prusi so to kazali prej J)
+Pravi preobrat pa se začne leta **1862**, ko pruski kralj Vilijem I. izbere **Otto von Bismarcka** za kanclerja. Ta verjame, da se Nemčija ne bo združila z besedami, temveč "**z jeklom in krvjo**". Takoj okrepi vojsko, orožarno in začne **militarizacijo družbe** – tudi v šolah učijo, da je moč pomembnejša od razprav.
 
-1865 Prusija želi prevzeti Holstein (ker so misli, da so njihove pokrajine). Avstrijci pa se niso hoteli odmakniti in nastane konflikt. Bismarck se zaveda, da če bo prišlo do vojne, bo moral zavarovati vse strani, da se bo osredotočil samo na Avstrijo. Sklenil pogodbo z Rusijo, da če gre v vojno s Avstrijo, bo Rusija nevtralna in celo z Francijo sklenil zvezo, da bodo nevtralni. Z Italijo so pa sklenili, da bo Italija njena zaveznica in pomagala.
+Ko si **Danska leta 1864** skuša priključiti nemško govorečo pokrajino **Schleswig**, Prusija in Avstrija skupaj napadeta in jo osvojita. Prusija upravlja Schleswig, Avstrija pa Holstein. A dolgo mir ne traja. Že leto kasneje **(1865)** pride do spora, kdo ima več pravic do teh ozemelj. Prusija pripravlja teren za spopad: z Italijo sklene zavezništvo, z Rusijo in Francijo pa si zagotovi **nevtralnost**.
 
-1866 Pride do vojne med Prusijo in Avstrijo. Avstrijci so se borili proti Italijani, kjer so bili dokaj uspešni (bitka pi Visu in postoči), pri bitki pri **Kraljevem gradcu** so Avstrijci bili poraženi. Prusi dosegli razpustitev NZ (mirovna pogodba v Pragi) in nato ustanovili Severnonemška zveza. J države se tej zvezi niso hotele pridružiti (hotele ohraniti samostojnost). Francozi pa se ustrašili, ker moč Nemcev rase in bodo imeli premočnega konkurenta. Napoleon III izval Severnonemško zvezo.
+Leta **1866** izbruhne vojna med **Prusijo in Avstrijo**. Avstrija je uspešna proti Italiji, a **Prusija zmaga v odločilni bitki pri Kraljevem Gradcu**. Po **mirovni pogodbi v Pragi** se **Nemška zveza razpusti**, Prusija pa ustanovi novo **Severnonemško zvezo** brez Avstrije.
 
-1870 se začne francoska-pruska vojna. Zdaj pa so se te J nemške države podprle SNZ in napadli Francoze. 1. Bitka pri Metzu – zajamejo 100.000 francoskih vojakov. + napoleona, ki pobegne 2. bitka pri Sedanu – zajamejo (predalo) 130.000 francoskih vojakov. Francija morala kapitulirati. Nemci ogromen profit (združila z JND in januarja 1871 se je dal Vilijem I v kristalni dvorani v Versaju razglasiti kot Nemškega Cesarja.
+A Nemci na jugu še niso del te zveze. Priložnost za dokončno združitev pride **leta 1870**, ko izbruhne **francosko-pruska vojna**. Napoleon III. se ustraši moči Nemcev in napove vojno. A Prusija z združeno vojsko in pomočjo južnih nemških držav **hudo porazi Francoze** (bitki pri Metzu in Sedanu). Celo Napoleon sam pade v ujetništvo.
 
-Francijo kaznovali: Odvzamejo Alzacije, Lorene in 5 milijard zlatih frankov.
+Zdaj je vse pripravljeno: **januarja 1871 se v Versaillesu razglasi Nemško cesarstvo**, s **kraljem Vilijem I. kot cesarjem**.
+
+Francija mora plačati visoko ceno – izgubi **Alzacijo, Loreno** in **5 milijard zlatih frankov**.
+
+---
+
+🔚 Tako se **leta 1871** – v istem letu kot Italija – **združi še Nemčija**, pod **pruško vodstvo**. Združitev ni prišla po mirni poti, temveč **z orožjem, diplomacijo in odločno politiko Bismarcka**.
