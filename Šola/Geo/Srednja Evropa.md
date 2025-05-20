@@ -83,7 +83,35 @@ NDR - nemška demokratična republika
 - **Podnebje;** celinsko vlažno, velik vpliv nagubanega reliefa, obilne padavine vse leto
 - **Rastlinstvo;** gozd, v J dolinah celo ciprese, smokovci, nad 2000 m so alpske rastline
 - **vodovje;** pod prelazom SantGotthard izvirata Rhona in Ren, ki tečeta skozi Ženevsko (Rhona)
+- in Bodensko jezero (Ren)
+- **alpske reke;** globoke soteske (Via Mala)
+- **Mittelland;** planota z ledeniškimi jezeri
+- **Aletsch;** največji evropski ledenik, dolg 24km v Bernskih Alpah
+- Peninske Alpe so med Švico in Italijo tu je najvišji vrh Dufourspitze
+- **prebivalstvo**; 65% nemško, 18% francosko in 10% italijansko govorečih, 1% Retoromanov (v dolini Inna in pod gorovjem Adula); 7 milij. ljudi, tujci 16%, veča se delež Italijanov, manjša pa Nemcev in Retoromanov
+- **prometna prehodnost;** *St Gotthard* (železniški in cestni alpski predor, promet med Italijo in Nemčijo), 
+- **Simplon;** zveza s Francijo po dolini Wallis; 
+- Veliki Sv. Bernard (med kantonom Valais in Aosto)
+- onesnaževanje zaradi prometa; že pred desetletji prepovejo vožnjo tovornjakov ponoči, konec tedna in med prazniki (takse), tovorni promet gre na železnico
+- **turizem;** sredi 19.st. angleški alpinisti, vaške gostilne – hoteli, gorske vasi – turistični kraji (Zermatt), v vznožju Alp (jezera) – kopališki turizem; zobata železnica, žičnice; zelene vasi, bogataški turizem, poletna in zimska sezona
 
+POLJSKE NE PIŠEMO VEČ
+
+---
+$$
+# Poljska
+- **površje;** na S zalivi in lagune Baltiškega morja, J od obrežne ravnice se površje vzpne v Baltsko gričevje; osrednje nižavje – 1/3 države, na JV je del Karpatov
+- **podnebje;** J in V del celinsko p. (hladne, suhe zime; topla, vlažna poletja); SZ hladnejša poletja, milejše zime (Z vetrovi)
+- **rastlinstvo;** izkrčen gozd zaradi kmetovanja
+- **nastanek sodobne Poljske;** sedanje meje dobi po 2.sv.v. Z meja postane Odra, ki jo l. 1970 prizna tudi ZRN; Poljska tako dobi čez 500km obale – postane baltska država
+- **prebivalstvo;** 38,6 milij., katoličani, med vojno izgubijo 6 milij. ljudi (2 milij. Židov pred vojno), izseljevanje v ZRN po vojni; največja gostota v Gornji Šleziji, okoli Krakova, Dolnji Šleziji, okoli Varšave; najmanjša SV države
+- **Gornja Šlezija;** težka ind., železarstvo, premogovništvo, velika gostota ljudi – stanovanja prepletena s premogovniki, TE, železarskimi obrati, stare stavbe, ni zelenic
+- **onesnaževanje;** zrak, prst, voda; nanosi jalovine, najbolj onesnaženo v Evropi
+- **rešitev;** prestrukturiranje, modernizacija, terciarne dejavnosti, a brezposelnost, l.1996 ustanovijo posebno gospod. cono Katowice
+##### Katowice
+- **najpomembnejša gospod. cona;** privablja tuj kapital, združuje 30 lokacij ob glavnih cestah v šlezijskih mestih; obrati podjetij iz 29 držav, največ nemškega kapitala, investitorji so General Motors-Opel, Fiat
+- **Katowice;** tudi sejemsko, kulturno, univerzitetno središče, tuje banke
+- **onesnaženost;** se zmanjša zaradi čistilnih naprav, ureditve zelenic, nar. parkov, a stanje voda je še slabo
 
 pišemo j pa sr evropo
 
