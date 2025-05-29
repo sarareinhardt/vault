@@ -16,7 +16,7 @@
 [[Nova romantika]]
 [[Cankar]]
 [[predstavitev - Cankar]]
-[[Kralj na betajnovi]]
+[[Kralj na betajnovi & Hlapci]]
 
 
 8 al pa 16

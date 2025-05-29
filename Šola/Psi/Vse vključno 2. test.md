@@ -783,3 +783,15 @@ Osnovne zakonitosti razvoja:
 - odtegnitev ali celo odsotnost čustvenih stikov in spodbud
 - 'volčji otroci' - večinoma kazali le jezo in strah ne pa pozitivnejših in kompleksnejših čustev (deklici Kamala in Amala)
 - hospitalizacija otrok v zgodnjem otroštvu - kažejo znake čustvene prikrajšanosti
+
+##### Temeljni dejavniki razvoja
+
+**Interakcijski model osebnosti - Kurt Lewin
+- vedenje = f (*osebnost* $\times$ *okolje*)
+	- osebnost: 3 vrste notranjih dispozicij
+		- Motivacijske ali dinamične (potrebe, nagoni, motivi, cilji)
+		- Strukturne (osebnostne poteze in dimenzije)
+		- Sposobnosti (inteligentnost)
+	- okolje: družbeno in socialno okolje
+		- vplivi okolja, 
+		- spodbude, dražljaji

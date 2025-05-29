@@ -14,5 +14,5 @@
 - [[Tristopenjski model spomina]]
 - [[Dejavniki učenja]]
 - [[Skupinsko delo]]
-- [[The everything]]
+- [[Vse vključno 2. test]]
 - [[ Čustveni razvoj]]

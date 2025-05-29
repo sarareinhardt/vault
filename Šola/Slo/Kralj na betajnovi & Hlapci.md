@@ -16,4 +16,12 @@
 - Maks je bolj pesimistično naravnan, ker na koncu pravi da ve da ne bo nič dosegel in da ne bo zmagal 
 - Kantor - človek, ki ga noen ne mara želi biti izvoljen in tudi bo izvoljen
 - Jerman v razmerjju z Maksom
-	- Jerman ni odločen
+	- Jerman je odločen????
+
+  
+- Jerman:
+	- odločen, ciničen, kritičen (scena, ko se upre župniku, ker se vsi ljudje podredijo gospodarju in začnejo metati knjige iz knjižnice, ...da bi bil gospodar zadovoljen z njimi)
+- Kalander
+- Župnik
+
+- Reference na hlapce: ne glede na to kdo bo na oblasti se bodo ljudje podredili gospodarju: "Gospodar se menja, bič pa ostane"
