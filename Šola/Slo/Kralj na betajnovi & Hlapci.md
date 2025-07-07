@@ -25,3 +25,25 @@
 - Župnik
 
 - Reference na hlapce: ne glede na to kdo bo na oblasti se bodo ljudje podredili gospodarju: "Gospodar se menja, bič pa ostane"
+
+
+**Župnik.**  
+**Nadučitelj.**  
+**Jerman,** (učitelji)  
+**Komar,** (učitelji)  
+**Hvastja,** (učitelji)  
+**Lojzka,** (učiteljice)  
+**Geni,** (učiteljice)  
+**Minka,** (učiteljice)  
+**Zdravnik.**  
+**Poštar.**  
+**Župan.**  
+**Anka,** županova hči.  
+**Jermanova mati**.  
+**Kalander,** kovač.  
+**Kalandrova žena.**  
+**Pisek,** pijanec.  
+**Nace,** kmet.  
+**Kmetica.**  
+**Krčmar.**  
+Kmetje, kmetice, delavci.

@@ -1,11 +1,11 @@
 #### <font color="#c00000">Trikotniki:</font>
 <font color="#c00000"> Sinusni izrek:</font>
 	$$\frac{a}{\sin \alpha} = \frac {b}{\sin \beta} = \frac {c}{\sin\gamma} = 2R$$
-###### <font color="#c00000">Kosinusni izrek</font>
+##### <font color="#c00000">Kosinusni izrek</font>
 	   $$a^2 = b^2 + c^2 - 2bc * \cos \alpha$$
 	   $$b^2 = a^2 + c^2 - 2ac * \cos \beta$$
 	   $$c^2 = a^2 + b^2 - 2ab * \cos \alpha$$
-###### <font color="#c00000">Ploščine</font>
+##### <font color="#c00000">Ploščine</font>
 $$S=\frac {a \times V_a}{2}$$
 $$S=\frac {b \times V_b}{2}$$
 $$S=\frac {c \times V_c}{2}$$
@@ -18,7 +18,7 @@ $$S = \frac{a \times c \times \sin \beta}{2}$$
 
 
 $$S= \frac {a \times b \times c}{4R}$$ $$S = s \times r$$
-###### <font color="#c00000">Enakostranični trikotniki:</font>
+##### <font color="#c00000">Enakostranični trikotniki:</font>
 $$S = \frac {a^2 \times \sqrt{3}}{4}$$
 $$v_a = \frac {a \times \sqrt{3}}{2}$$
 $$R = \frac {a \times \sqrt{3}}{3}$$
@@ -55,36 +55,36 @@ $$S = \frac{e \times f}{2}$$
 
 $$S = \frac{e \times f \times \sin \varphi}{2}$$
 ---
-#### <font color="#c00000">Krog:</font>
+##### <font color="#c00000">Krog:</font>
 $$S = \pi \times r^2$$$$o = 2\times\pi \times r $$
 $$\underbrace{l = \frac{\pi \times r \times\alpha}{180\degree}}_\text{lok}$$
-###### <font color="#c00000">Krožni izsek:</font>
+##### <font color="#c00000">Krožni izsek:</font>
 $$S = \frac{\pi \times r^2 \times\alpha}{360\degree}$$
 $$o = 2 \times r + l $$
-###### <font color="#c00000">Krožni odsek:</font>
+##### <font color="#c00000">Krožni odsek:</font>
 $$S = \frac{\pi \times r^2 \times\alpha}{360\degree} - \frac{r^2 \times \sin \alpha}{2}$$
 ___
-#### <font color="#c00000">Prizma:</font>
+##### <font color="#c00000">Prizma:</font>
 $$P = 2 \times S_0 + pl$$
 $$V = S_0 \times v$$
 ___
-#### <font color="#c00000">Valj:</font>
+##### <font color="#c00000">Valj:</font>
 $$V = \pi \times r^2 \times v$$
 $$P = 2\times\pi\times r^2 + \underbrace{2\times\pi\times r \times v }_\text{pl} $$
 ___
-#### <font color="#c00000">Piramida:</font>
+#####
 $$P = S_0 + pl$$
 $$V = \frac{S_0 \times v}{3}$$
 
-###### <font color="#c00000">Tetraeder:</font>
+##### <font color="#c00000">Tetraeder:</font>
 $$P = a^2\sqrt{3}$$
 $$V = \frac{a^3\times\sqrt {2}}{12}$$
 $$v = \frac{a \times \sqrt{6}}{3}$$
-###### <font color="#c00000">Oktaeder:</font>
+##### <font color="#c00000">Oktaeder:</font>
 $$P = 2\times a^2 \times \sqrt{3}$$
 $$v = \frac{a \times \sqrt{2}}{2}$$
 $$V = \frac{a^3\times\sqrt{2}}{3}$$
-###### <font color="#c00000">Stožec:</font>
+##### <font color="#c00000">Stožec:</font>
 $$P = S_0 + pl$$
 $$pl = \pi \times r \times s $$
 $$V = \frac{S_0 \times v}{3}$$

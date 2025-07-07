@@ -19,3 +19,5 @@ Osnovne zakonitosti razvoja:
 - hospitalizacija otrok v zgodnjem otroštvu - kažejo znake čustvene prikrajšanosti
 
 ##### Temeljni dejavniki razvoja
+**občutenje** je proces sprejemanja dražljajev iz okolja in njihove pretvorbe v živčno vzburjenje
+**Zaznavanje** je proces organizacije in interpretacije informaci, ki jih sprejemamo s čutili
