@@ -72,7 +72,7 @@ ___
 $$V = \pi \times r^2 \times v$$
 $$P = 2\times\pi\times r^2 + \underbrace{2\times\pi\times r \times v }_\text{pl} $$
 ___
-#####
+##### <font color="#c00000">Stožec</font>
 $$P = S_0 + pl$$
 $$V = \frac{S_0 \times v}{3}$$
 

@@ -4,7 +4,6 @@
 - [[Karantanija]]
 - [[Celjski grofje]]
 - [[Habsburžani na SLO prostoru]]
-- [[Turki (Osmansko cesarstvo)]]
 - [[Kmečki upori na slovenskem]]
 - [[Razsvetljenstvo]]
 - [[Amerika]]

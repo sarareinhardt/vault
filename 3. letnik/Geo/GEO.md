@@ -2,4 +2,4 @@
 [[Z. Evropa]]
 [[J Evropa]]
 [[Srednja Evropa]]
-[[Šola/Geo/Test|Test]]
+[[3. letnik/Geo/Test|Test]]
