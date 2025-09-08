@@ -1,1 +1,0 @@
-[[Splošno idk]]
