@@ -8,4 +8,12 @@
 	- še en
 - Jurij Japelj
 - Vodnik 1811
-- 
+
+
+Ilirizem (Vraz)
+nove oblike v SLO
+pater Stanislav Škrabec - pravorečje
+1899 Fran Levec - slovenski pravopis in slovar
+
+$(\frac{2x-1}{6-x})^2$
+
