@@ -31,5 +31,5 @@ Descartes začne meditacije s tem, da ga zanima kaj je resnica - če imamo razli
 		Jung je bil Švicar, študent pri Freudu ampak je drugače poimenoval psihoanalizo. Po Freudu je zavest samo 1/10 ostalo je nezavedno, kar je glavni del, ki na nas vpliva. Jung pa loči osebno nezavedno (imam neke slabe izkušnje in zaradi tega nečesa ne maram, sanjam nekaj na podlagi nekega dogodka, ki se mi je zgodil) in kolektivno nezavedno(to, kar je skupno vsemu človeštvu).
 7. isto kot prej torej, da tudi, če nekaj sanjam bo še vedno imelo neke barve, ki so resnične
 8. spet istoooo - 2. stopnjo dvoma bo razrešil s pomočjo mat. Trikotnik ima 3 stranice, 2 + 3 = 5. Mat. resnice so univerzalne.
-9. Prvič omenja Boga. Pravi, da je obstoj Boga le mnenje, ne pa neka resnica
+9. Prvič omenja Boga. Pravi, da je obstoj Boga le mnenje, ne pa neka resnica boga postavlja za temelj vsega - vse je bog (narava, itd)
 
