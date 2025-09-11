@@ -1,0 +1,1 @@
+![[09_PRAVOPIS_miselni vzorec.pdf]]
