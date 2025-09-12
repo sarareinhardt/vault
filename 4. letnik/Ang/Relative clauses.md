@@ -29,3 +29,9 @@ My uncle, who lives in Sidney is a mechanic the specific uncle from Sidney is a 
 
 My uncle who lives in England got married.
 My uncle, who lives in England got married.
+
+There is a woman who is <u>reading</u> a book.
+There is a woman reading a book.
+
+The car that/which was stolen yesterday was found.
+The car stolen yesterday was found.
