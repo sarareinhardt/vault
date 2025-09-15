@@ -6,7 +6,8 @@ umre v Stockholmu, myb zastrupljen ampak ni 100%
 
 **Stopnje dvoma**
 1. Stopnja dvoma:  čutom ne gre popolnoma zaupati
-2. Stopnja dvoma: kako ločevati sanje od budnosti (kako vem, da zdaj ne sanjam, kaj pomeni biti buden, Buddja - prebujen, prebujenost)
+2. Stopnja dvoma: kako ločevati sanje od budnosti (kako vem, da zdaj ne sanjam, kaj pomeni biti buden, Buddha - prebujen, prebujenost) - rešitev: matematične resnice veljajo v sanjah in v budnosti
+3. Ali nas tako pri matematiki kot pri ostalem ne vara nek "zlobni duh" (ta lik si je sposodil iz dramatike 19. stoletja, ta lik je slepil ljudi?? Z zlobnim duhom je myb mišljen hudič ampak tega ni rekel, ker bi bil bogokleten ker se peča s hudičem, iz istega razloga ne reče, da ga vara bog)
 
 
 *Razprava o metodi; 1637*
@@ -15,7 +16,9 @@ Ukvarja se s tem, da bi ugotovil katera metoda pripelje do pravega spoznanja
 
 Descartes začne meditacije s tem, da ga zanima kaj je resnica - če imamo različne resnice katera je absolutna
 
-##### Prva meditacija: o čem je mogoče dvomiti (49)
+
+# 1. meditacija
+##### O čem je mogoče dvomiti (49)
 1. Hoče zgraditi temelj za ostala spoznanja
 	pravi da je bog nek temelj na katerem vse temelji (temelj temelji na bogu)
 **mnenje**: osebno stališče, ki je lahko resnično ni pa nujno
@@ -32,4 +35,12 @@ Descartes začne meditacije s tem, da ga zanima kaj je resnica - če imamo razli
 7. isto kot prej torej, da tudi, če nekaj sanjam bo še vedno imelo neke barve, ki so resnične
 8. spet istoooo - 2. stopnjo dvoma bo razrešil s pomočjo mat. Trikotnik ima 3 stranice, 2 + 3 = 5. Mat. resnice so univerzalne.
 9. Prvič omenja Boga. Pravi, da je obstoj Boga le mnenje, ne pa neka resnica boga postavlja za temelj vsega - vse je bog (narava, itd)
+10.  a
+11. Kaj je resnično? $\rightarrow$ ne ve. $\rightarrow$ nasprotno predpostavi, da nič ni resnično = vse je dvomljivo
+12. a
 
+# 2. meditacija
+##### O naravi človeškega duha: bolj spoznatna je kakor telo
+1. a
+2. Mogoče je resnično samo to, da nič ni gotovo
+3. Pride do razrešitve 3. točke dvoma. v Razpravi o metodi Descartes to zapiše kot mislim torej sem. Jaz lahko dvomim o vsem ampak ni smiselno dvomiti o tem da dvomim. To je *točka samozavedanja*. Za njega je isto um in duša. Če mislim potem tudi nujno bivam. Ko pišeš esej povej to v obliki 'mislim torej sem' in povej, da je to uporabil potem v razpravi o metodi. Iz tega bo potem izpeljal kriterij za resnico?
