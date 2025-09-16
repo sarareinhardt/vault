@@ -41,3 +41,21 @@ Nato pride do mirovne konference, ki je bila podpisana v Parizu v Versaillesu. B
 *Ekskurzija interception*
 Primorski Slovenci si niso mogli sami izbrati v kateri državi bodo živeli. Priključeni so bili ITA kot nagrada za ITA iz Londonskega sporazuma. Bilo je rečeno naj se sami dogovorijo s kraljevino SHS kje bo potekala meja. SHS je imela prestolnico v Beogradu in jim je bilo precej vseeno kje bo potekala meja
 Med ITA in SHS je bila sklenjena Rapalska pogodba po mestu Rapal, kjer so se dogovorili, da bo meja potekala tako kot je bilo dogovorjeno na Londonskem sporazumu? Še preden je imela ITA uradno fašizem so začeli napadati SLO. S soglasjem kralja je začela ITA bojkotirati slovenske biznise - niso smeli kupovati krompirja od njih, niso hodili v njihove gostilne, itd. primorski Slovenci so se zato začeli seliti v Ameriko (Cleveland ima veliko SLO skupnost) z ladjami. Ženske, ki so ravno tako poskušale prispevati h temu, da bi preživeli njihovi sorodniki so se začele seliti v Egipt v Aleksandrijo in domov pošiljali nekaj denarja. Slovensko gospodarstvo propade, aktivni SLO delavci se odselijo in ostane samo še stara populacija, ki ne more delati. Italijani odkupijo to zemljo od njih in pripeljejo Italijane iz juga, ki je bil najmanj razvit na slovensko zemljo. Tam ostanejo do WW2. Takrat so se morali odseliti. Zdaj, ko so tam živeli Italiiani je vedno bolj potekal proces asimilacije. Eno od pravil/zakonov je bilo, da v javnih ustanovah (uradi, šole, trgovine, ...) nisi smel govoriti SLO. Če si govoril SLO si bil kaznovan z nekim oljem?? Ki povzroči prebavne težave od katerih se lahko izčrpaš in celo umreš, ali pa si bil obsojen na neko mučenje? Temu so protestirali s tem, da so si Slovenci zavezali trak čez usta, itd. Zamenjali so jim imena (ITA verzijo SLO) Pritiskali so na njih gospodarsko in socialno. V Bazovici to bi morali iti pogledati) so napisana imena 4 Slovencev, ki so bili prve 4 žrtve, ker so bili antifašisti.
+z vzponom nacizma so Nemci začeli širiti teorijo, da se NEM ni nikoli predala in, da se je bila sposobna boriti še naprej, v resnici pa se je začel en general pogajati kakšne pogoje jim dajo, če se predajo. S temi pogoji se druge države niso strinjale in potem so bili od drugih zgoraj omenjene pogoje. Nem so hoteli demokracijo. Cesar Vilijem II. je moral *abdicirati* (sam odstopiti) nem pa je potem postala republika. Ko so Nemci sprejeli pogoje drugih zaveznikov so bili povabljeni v *vagon Ferdinanda Foscha* , kjer je NEM kapitulirala(s tem, da so podpisali te pogoje drugih držav) na mestu kjer se je zgodil ta podpis so zdaj postavili spomenik Ferdinanda Foscha. V WW2 je Hitler rage baitou Francoze in so pol oni morali v istem vagonu na istem stolu podpisati kapitulacijo v WW2. 
+**Vzroki za konec vojne:**
+**NEM**: izčrpana, ker so imeli prepreko na morju in niso morali priti do surovin (hrane, itd)
+
+**Posledice vojne:**
+Veliki imperiji kot je rusko cesarstvo razpade (socialistična RUS), Razpade turško cesarstvo (ostane sam toliko Turčije kot je zdaj), Razpade AO (ostane samo Avstrija in Ogrska(Madžarska))
+Na pariški mirovni konferenci ustanovijo 'tampon cono' s katero bi se naj obvarovali pred socializmom iz vzhoda - Finska, Estonija, Latvija, Litva, Poljska, Čehoslovaška, Jugoslavija
+Socializem = prehodno stanje v komunizem, kjer je državno premoženje, državna lastnina
+Komunizem = družbena lastnina, ni bogatih, ni revnih, ljudje upravljajo s to lastnino
+ZDA postane vodilna svetovna sila
+- Evropa izgubi prvenstvo v svetu
+- nastanejo predstave o pravičnejši družbi DN (= društvo narodov, ki naj bi skrbelo za razorožitev in mir, sedež v Ženevi)
+- Uresničena ideja socializma
+- Migracije (Evropejcev v Ameriko, iz socialističnih držav na zahod npr. iz SZ), po vojni gospodarska kriza, ker je bilo gospodarstvo usmerjeno v orožje in je bilo to potrebno prestrukturirati. Vojni ujetniki so rabili več let, da so prišli ven oz. nazaj domov (posebej iz SZ so rabili ogromno časa)
+- Nastanek novih držav - **Cordon Sanitaire** 
+- Vzpon držav (Švedska, Norveška, Španija, ...)
+**Embargo** = sankcioniranje države na način, da vsem ostalim državam prepoveš politični in gospodarsko sodelovanje s to državo
+Amerika je zamenjala predsednika Willsona in na koncu ni nikoli prišla v društvo narodov, ampak je šla nazaj v svojo politiko izolacionizma

@@ -50,7 +50,7 @@ Je model v računalniku, ki:
 - Vnašamo v podatke v sistem
 - Spreminjamo posredujemo
 - Varujemo pred izgubo in zlorabo 
-[SUPBSUPB][https://www.wikiwand.com/sl/articles/Sistem_za_upravljanje_s_podatkovnimi_zbirkami] –– sistem za upravljanje podatkovnih baz (npr. Access) omogoča funkcionalno obdelavo
+[SUPB](https://www.wikiwand.com/sl/articles/Sistem_za_upravljanje_s_podatkovnimi_zbirkami] –– sistem za upravljanje podatkovnih baz (npr. Access) omogoča funkcionalno obdelavo
 
 ##### Obdelava podatkov
 **Naloge funkcionalne obdelave podatkov so:**
