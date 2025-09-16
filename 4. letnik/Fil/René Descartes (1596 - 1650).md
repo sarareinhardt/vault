@@ -29,7 +29,7 @@ Descartes začne meditacije s tem, da ga zanima kaj je resnica - če imamo razli
 	-čutom ne gre 100% zaupati
 	so subjektivni, odvisni od okoliščin - relativni
 4. Čutom načeloma zaupamo koliko jim je smiselno zaupati, ne bomo jih postavili kot temeljno metodo v znanosti, s čuti ne pridemo do znanstvenih spoznanj. Pravi, da ve, da je npr. v svojem telesu itd., če jim pa sploh nebi zaupal pa bi bil podoben norcu. (čuti niso zelo natančni, npr. ne veš koliko stopinj ima ogenj ampak čutimo, da je vroč, zato se ga ne bomo dotikali)
-5. a
+5. Descartes pravi, da bi ga lahko varal nek vsemočen zli duh, tako da bi se motil celo pri stvareh, ki se zdijo najbolj gotove (npr. matematika). Zato mora dvomiti o vsem, dokler ne najde popolnoma trdne osnove spoznanja.
 6. Tudi, če sanjam o nečemu ima to neke resničnosti, matematične resničnosti, tudi če sanjam nekaj neresničnega bodo barve resnične, itd. 
 		Jung je bil Švicar, študent pri Freudu ampak je drugače poimenoval psihoanalizo. Po Freudu je zavest samo 1/10 ostalo je nezavedno, kar je glavni del, ki na nas vpliva. Jung pa loči osebno nezavedno (imam neke slabe izkušnje in zaradi tega nečesa ne maram, sanjam nekaj na podlagi nekega dogodka, ki se mi je zgodil) in kolektivno nezavedno(to, kar je skupno vsemu človeštvu).
 7. isto kot prej torej, da tudi, če nekaj sanjam bo še vedno imelo neke barve, ki so resnične
@@ -41,6 +41,6 @@ Descartes začne meditacije s tem, da ga zanima kaj je resnica - če imamo razli
 
 # 2. meditacija
 ##### O naravi človeškega duha: bolj spoznatna je kakor telo
-1. a
-2. Mogoče je resnično samo to, da nič ni gotovo
+1. Descartes ugotovi, da dvom v vse (čute, telo, svet) ne more omajati dejstva, da on sam obstaja kot misleče bitje. Čeprav dvomi o vsem drugem, je samo dejstvo dvoma dokaz, da mora obstajati nekdo, ki dvomi → _cogito, ergo sum_ ("mislim, torej sem").
+2. Mogoče je resnično samo to, da nič ni gotovo. Razišče naravo tega "jaza". Ugotovi, da ni nujno telo ali nekaj čutno zaznavnega, temveč predvsem "stvar, ki misli" (_res cogitans_). To pomeni: nekaj, kar dvomi, razume, zatrjuje, zanika, hoče, neha, si predstavlja in čuti.
 3. Pride do razrešitve 3. točke dvoma. v Razpravi o metodi Descartes to zapiše kot mislim torej sem. Jaz lahko dvomim o vsem ampak ni smiselno dvomiti o tem da dvomim. To je *točka samozavedanja*. Za njega je isto um in duša. Če mislim potem tudi nujno bivam. Ko pišeš esej povej to v obliki 'mislim torej sem' in povej, da je to uporabil potem v razpravi o metodi. Iz tega bo potem izpeljal kriterij za resnico?
