@@ -37,6 +37,19 @@ Nato pride do mirovne konference, ki je bila podpisana v Parizu v Versaillesu. B
 - ITA so hoteli dobiti kar jim je bilo obljubljeno na Londonski konferenci, oni se niso hoteli pogajati ostali pa so se
 - FRA je hotela čim šibkejšo NEM s tem,  da bi dobili nazaj Loreno in Alzacijo
 
+**Meja NEM**
+Demilitarizacija Obrenja (ob Renu) 50km notri ni so smeli Nemci imeti nobenih orožij itd. Maginojeva linija - francozi so na meji kopaki jarke itd, v pripravi, da bo spet prišlo do frontalnega bojevanja. To jim zaradi blietzkriega ni nič pomagalo + itak so šli NEM po drugi poti preko BEL in jih presenetili.
+Francozom so dali Posarje in neki z nemci da se odločajo ali hočejo biti pod FRA ali NEM
+Najbolj problematična je bila ozemeljska sprememba je bila to, da so NEM vzeli del ozemlja (današnji RUS Kaliningrad) za potem so bili ljudje ločeni od domovine, še bolj pomembno pa je, da so imeli preko tega pot do morja. Hitler je najprej napadel Poljsko z geslom Ena država en narod en vladar, zanimala pa ga je ta strateška lega tega pristanišča. Poljaki so zagrozili, da če NEM napade POL bodo VB, FRA, itd razglasile vojno in t
+Razglašeno je bilo, da se Avstrija in Nemčija ne smeta nikoli več združiti ampak Hitler vseeno z Anschlusom priključi Avstrijo. Ta anschluss je bil fake plebiscit v Avstriji in NEM so začeli prirejati kaotične scene v Avstriji in zato je Hitler poslal vojsko v Avstrijo in šele po tem po 1 mesecu, ko so 'uredili stvari' v Avstriji, ko je bila NEM vojska že praktično povsod so izvedli ta plebiscit. Rezultati so bili seveda za, da se priključijo NEM.
+Nem je bilo prepovedano imeti več kot 100.000 vojakov. Nem bi morala po Pariško konferenci odpustiti in razpustiti vojsko, ampak tega niso naredili, ker bi razpadel sistem ker ni bilo dela za vse te vojake. Zato so na skrivaj še imeli to vojsko.
+NEM so vzeli orožja (letale, tanke...) dovolili so omejeno količino orožja glede na zmagovalke v bruto registerskih tonah. Če je imela ANG 30 ladij je imela NEM lahko 10 enakih ladij ali pa več lažjih ladij. Zato so NEM začeli izumljati lahke ladje in nanje naložili tega nekaj orožja, ki so ga lahko imeli in s tem niso kršili pogodbe.
+Razglasili so NEM in njene zaveznice za edine, ki so bile krive za vojno.
+
+
+Stanje miru med obema vojnama je **VERSAILLESKI MIR**
+Versailleska mirovna pogodba je imela zapisanih 800 vojnih zločincev s katerimi se ni nič zgodilo - nepravično
+
 
 *Ekskurzija interception*
 Primorski Slovenci si niso mogli sami izbrati v kateri državi bodo živeli. Priključeni so bili ITA kot nagrada za ITA iz Londonskega sporazuma. Bilo je rečeno naj se sami dogovorijo s kraljevino SHS kje bo potekala meja. SHS je imela prestolnico v Beogradu in jim je bilo precej vseeno kje bo potekala meja
@@ -59,3 +72,5 @@ ZDA postane vodilna svetovna sila
 - Vzpon držav (Švedska, Norveška, Španija, ...)
 **Embargo** = sankcioniranje države na način, da vsem ostalim državam prepoveš politični in gospodarsko sodelovanje s to državo
 Amerika je zamenjala predsednika Willsona in na koncu ni nikoli prišla v društvo narodov, ampak je šla nazaj v svojo politiko izolacionizma
+
+Harding Hoover Colidge - 3 republikanci, ki so zagovarjali lastnike kapitala s politiko, ki ji rečemo gospodarski liberalizam (= vsak lahko dela kar hoče kolikor hoče za katerokoli ceno, no nadzora nad trgom, ni nadzora nad financami) v taki ssituaciji lahko pričakujemo, da bodo kapitalisti naredili vse za dobiček, kar je spet pripeljalo v gospodarsko krizo
