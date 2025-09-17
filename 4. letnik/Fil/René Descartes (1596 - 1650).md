@@ -7,7 +7,7 @@ umre v Stockholmu, myb zastrupljen ampak ni 100%
 **Stopnje dvoma**
 1. Stopnja dvoma:  čutom ne gre popolnoma zaupati
 2. Stopnja dvoma: kako ločevati sanje od budnosti (kako vem, da zdaj ne sanjam, kaj pomeni biti buden, Buddha - prebujen, prebujenost) - rešitev: matematične resnice veljajo v sanjah in v budnosti
-3. Ali nas tako pri matematiki kot pri ostalem ne vara nek "zlobni duh" (ta lik si je sposodil iz dramatike 19. stoletja, ta lik je slepil ljudi?? Z zlobnim duhom je myb mišljen hudič ampak tega ni rekel, ker bi bil bogokleten ker se peča s hudičem, iz istega razloga ne reče, da ga vara bog)
+3. Ali nas tako pri matematiki kot pri ostalem ne vara nek "zlobni duh" (ta lik si je sposodil iz dramatike 19. stoletja, ta lik je slepil ljudi?? Z zlobnim duhom je myb mišljen hudič ampak tega ni rekel, ker bi bil bogokleten ker se peča s hudičem, iz istega razloga ne reče, da ga vara bog). Mislim, torej sem, čutim, torej sem.
 
 
 *Razprava o metodi; 1637*
@@ -41,6 +41,19 @@ Descartes začne meditacije s tem, da ga zanima kaj je resnica - če imamo razli
 
 # 2. meditacija
 ##### O naravi človeškega duha: bolj spoznatna je kakor telo
-1. Descartes ugotovi, da dvom v vse (čute, telo, svet) ne more omajati dejstva, da on sam obstaja kot misleče bitje. Čeprav dvomi o vsem drugem, je samo dejstvo dvoma dokaz, da mora obstajati nekdo, ki dvomi → _cogito, ergo sum_ ("mislim, torej sem").
+1. Descartes ugotovi, da dvom v vse (čute, telo, svet) ne more omajati dejstva, da on sam obstaja kot misleče bitje. Čeprav dvomi o vsem drugem, je samo dejstvo dvoma dokaz, da mora obstajati nekdo, ki dvomi → _cogito, ergo sum_ ("mislim, torej sem" lat. cogito ergo sum - misel iz Razprave o metodi).
 2. Mogoče je resnično samo to, da nič ni gotovo. Razišče naravo tega "jaza". Ugotovi, da ni nujno telo ali nekaj čutno zaznavnega, temveč predvsem "stvar, ki misli" (_res cogitans_). To pomeni: nekaj, kar dvomi, razume, zatrjuje, zanika, hoče, neha, si predstavlja in čuti.
 3. Pride do razrešitve 3. točke dvoma. v Razpravi o metodi Descartes to zapiše kot mislim torej sem. Jaz lahko dvomim o vsem ampak ni smiselno dvomiti o tem da dvomim. To je *točka samozavedanja*. Za njega je isto um in duša. Če mislim potem tudi nujno bivam. Ko pišeš esej povej to v obliki 'mislim torej sem' in povej, da je to uporabil potem v razpravi o metodi. Iz tega bo potem izpeljal kriterij za resnico?
+4. Kdo sem? jaz sem jaz samozavedanje
+5. a
+6. Res cognitans = misleča stvar/duh/duša/um/razum - vse te vesede so pri Descartesu sininimi. Ne glede na to iz katere meditacije dobimo iztočnico za esej moramo to razložiti pod delom navodila **umesti v celoto**
+7. a
+8. Nauči se na pamet, ko pišeš esej moraš to nekam dat
+9. a
+10. a
+11. Stvari, ki so enake imajo neko skupno *idejo* npr. vosek ne glede na to kako je stopljen bo vedel, da je vosek. Vodo bomo prepoznali v pipi v kozarcu, v morju, v soku - ker imamo idejo. Otroku se pokaže 1 psa in potem prepozna tudi druge pasme...
+
+
+
+
+v danem odlomku iz druge meditacije descartes pravi da je nesmiselno dvomiti da dvomi, razloži in umesti v celoto dela 

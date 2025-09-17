@@ -42,9 +42,9 @@ Je model v računalniku, ki:
 1. Podatki so v baziPodatki so v bazi povezani in urejeni po določenem vrstnem redudoločenem vrstnem redu 
 2. BP je urejena tako, da lahko podatke v njejBP je urejena tako, da lahko podatke v njej istočasno uporabljaistočasno uporablja en ali večen ali več uporabnikovuporabnikov 
 3. IstiIsti podatki se v bazi ne ponavljajopodatki se v bazi ne ponavljajo 
-4. Baza podatkov je shranjena v računalnikuBaza podatkov je shranjena v računalni
+4. Baza podatkov je shranjena v računalniku
 
-##### AOP sistem za obdelavo podatkov
+##### AOP (aspect oriented programming) sistem za obdelavo podatkov
 - Z obdelavo podatkov: 
 - Zbiramo podatke
 - Vnašamo v podatke v sistem

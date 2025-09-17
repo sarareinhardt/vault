@@ -1,4 +1,4 @@
-# Versaillski mir
+# Versailleski mir
 
 Po vsej verjetnosti povod za ww1
 ww1 =  velika vojna
