@@ -51,7 +51,8 @@ Descartes začne meditacije s tem, da ga zanima kaj je resnica - če imamo razli
 8. Nauči se na pamet, ko pišeš esej moraš to nekam dat
 9. a
 10. a
-11. Stvari, ki so enake imajo neko skupno *idejo* npr. vosek ne glede na to kako je stopljen bo vedel, da je vosek. Vodo bomo prepoznali v pipi v kozarcu, v morju, v soku - ker imamo idejo. Otroku se pokaže 1 psa in potem prepozna tudi druge pasme...
+11. Stvari, ki so enake imajo neko skupno *idejo* npr. vosek ne glede na to kako je stopljen bo vedel, da je vosek. Vodo bomo prepoznali v pipi v kozarcu, v morju, v soku - ker imamo idejo. Otroku se pokaže 1 psa in potem prepozna tudi druge pasme... 
+12. 
 
 
 
