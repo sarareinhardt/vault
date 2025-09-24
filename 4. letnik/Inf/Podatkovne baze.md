@@ -91,7 +91,7 @@ Model vsebuje množico pravil, ki določajo:
 1. Analiza realnega procesa → globalni model  
 2. Določitev »enot« (entitet), ki nastopajo v tem procesu → konceptualni model  
 3. Zapis logičnega modela (glede na SUPB)  
-4. Izdelava fizične podatkovne baze → fizični model
+4. Izdelava fizične podatkovne baze → fizični model - podatkovna baza naarejena na compu
 ![[Pasted image 20250918082458.png|400]]
 
 ##### **Konceptualni model**  

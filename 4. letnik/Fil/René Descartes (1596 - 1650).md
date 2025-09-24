@@ -58,3 +58,10 @@ Descartes začne meditacije s tem, da ga zanima kaj je resnica - če imamo razli
 
 
 v danem odlomku iz druge meditacije descartes pravi da je nesmiselno dvomiti da dvomi, razloži in umesti v celoto dela 
+
+
+
+##### 3. MEDITACIJA - o bivanju boga
+1. Descartes se znajde v solipsizmu njegovega duha - razen duha ničesar drugega ne obstaja.
+2. Mislim, torej sem. Descartes dvomi o vsem in pride do tega da je nesmiselno dvomiti o tem, da dvomi. Na čem postavljamo svoj temelj za razmišljane
+3. Kategorije idej: pridobljene ideje s pomočjo čutil, narejene (mitologija, znanstvene ideje (npr pitagorov izrek)), prirojene ideje (pri Descartesu: ideja misleče in razsežne(materialne) stvari, matematične resnice, bog)

@@ -1,3 +1,4 @@
+Spraševanje od konca 1. svetovne vojne
 # Versailleski mir
 
 Po vsej verjetnosti povod za ww1
@@ -74,3 +75,25 @@ ZDA postane vodilna svetovna sila
 Amerika je zamenjala predsednika Willsona in na koncu ni nikoli prišla v društvo narodov, ampak je šla nazaj v svojo politiko izolacionizma
 
 Harding Hoover Colidge - 3 republikanci, ki so zagovarjali lastnike kapitala s politiko, ki ji rečemo gospodarski liberalizam (= vsak lahko dela kar hoče kolikor hoče za katerokoli ceno, no nadzora nad trgom, ni nadzora nad financami) v taki ssituaciji lahko pričakujemo, da bodo kapitalisti naredili vse za dobiček, kar je spet pripeljalo v gospodarsko krizo
+
+##### Nora dvajseta (roaring 20s)
+Obdobje dekadence - po vsaki vojni vse breme odpade, ljudje se želijo zabavati, ne razmišljajo kakšne bodo posledice, sami sebe ne regulirajo, zelo hudo pa je, če država te situacije ne regulira
+V Evropi je tudi bila podobna situacija a malo kasneje ker so rabili dlje časa, da so se pobrali v predvojno stanje
+Konjunktura - ko se gospodarstvo pobira in doseže vrh, po vrhu se začne recesija in stanje upada, pridemo na dno do krize. Ta cikel se je ponovil 3x 
+the great Gatsby - film o konjunkturi, dekadenci. 
+Ko se je Evropa pobirala je Amerika povečala proizvodnjo, še med vojno (orožje, obleke, ...) dokler ni Amerika stopila v vojno. Po vojni je morala Amerika prilagoditi tehnologijo, da so namesto orožja začeli proizvajati stvari, ki jih bodo ljudje rabili (avto) Amerika je ustvarila *potrošniško družbo*  povečajo proizvodnjo in znižajo ceno - tekoči trak pri tem pomaga. Nemčija gre isto v avte (Volkswagen beetle), Uvedejo redne letalske linije. Fantje, ki so bili piloti v vojski so postali akrobatski letalci, potem pa komercialni piloti
+Dobimo srednji sloj, ki ima plačo, ki je višja kot samo za preživetje - iz teh naredijo potrošnike. En od načinov, da so dobili denar iz ljudi so prevozna sredstva (avto, letalo, ...) tudi različne naprave v hišah (pralni stroj, ...) S temi stvarmi za hiše so želeli doseči *ženske*, tako, da so takrat dali reklame v 'soap opere', to se je predvajalo na radiju. Radio je imelo veliko hiš v srednjem sloju. Russwelt, ki je reševal krizo je radio uporabljal za politično propagando (za njim tudi Hitler porabi za politično propagando) Naredijo tudi telefon (ta ki ga je rabil operater ročno povezat). Začne se jazz. Začetek je na J ob Missisipiju kjer je bila črnska delovna sila. Ta glasbe pride v izraz, ko so v Ameriki uvedli prohibicijo alkohola - ljudje so se zabavali tam kjer je bil alkohol, kar je bilo velikokrat v raznih močvirjih, kočah, na skrivaj in tam so črnci igrali glasbo. Zato so se začeli belski jazz bandi, da bi zmanjšali število ljudi, ki hodi v te klube s črnci, ki so igrali. Zabavali so se v tovornjakih
+Filmska ind.: Charlie Chaplin imel veliko filmov s socialno vsebino (upodobi Hitlerja, ki se igra z zemljo) makartizem - ko ga obsodijo, da je komunist? Zato se je odselil v Anglijo
+Coca-Cola - takrat je imela še koko
+Umetnost: kubizem, dadaizem, surrealizem; Kandinski, Miro, Picasso, Dali
+
+**Znanost - odkritje Tutankamonove grobnice 1922 Howard Carter**
+- Odkritje penicilina
+- atomska struktura
+- prvi jedrski reaktor
+- nevtron
+- rentgenski žarki
+- relativnostna teorija
+- umetna vlakna
+- **UMETNA GNOJILA** - stabilna pridelava hrane, vedno in dovolj pridelka, umetna gnojila zastrupljajo zemljo, človeka, sprožijo demografski porast in prekomerno proizvodnjo hrane na Z. Naredijo traktorje, kombajne -> lahko začnejo obdelovati ogromne količine zemljišč. Kmetijstvo je bilo v porastu. Preveč je bilo hrane, cene kmetijskih izdelkov so začele padati. Kmetje namesto, da bi obogateli so začeli obubožati. Niso se mogli privoščiti kar jim je ponujala industrija - potrošniških produktov. Kmetje, ki jih je bilo ogromno niso bili porabniki drugih kapitalističnih dobrin, opuščali so kmetijstvo, rodovitno zemljo je začel veter odnašati in so ta območja postala nerodovitna (Arizona)
+	- na zahodu imamo veliko hrane, zato pride do visoko procesirane hrane, ki povzroči, da zaznamo uživanje hrane kot nagrado - dopamin
