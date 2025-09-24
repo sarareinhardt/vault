@@ -88,12 +88,12 @@ Coca-Cola - takrat je imela še koko
 Umetnost: kubizem, dadaizem, surrealizem; Kandinski, Miro, Picasso, Dali
 
 **Znanost - odkritje Tutankamonove grobnice 1922 Howard Carter**
-- Odkritje penicilina
-- atomska struktura
-- prvi jedrski reaktor
-- nevtron
-- rentgenski žarki
-- relativnostna teorija
-- umetna vlakna
+- Odkritje penicilina (Fleming)
+- atomska struktura (Bohr)
+- prvi jedrski reaktor (Fermi)
+- nevtron (Chadwick)
+- rentgenski žarki (Röntgen)
+- relativnostna teorija (Einstein)
+- umetna vlakna - nylon
 - **UMETNA GNOJILA** - stabilna pridelava hrane, vedno in dovolj pridelka, umetna gnojila zastrupljajo zemljo, človeka, sprožijo demografski porast in prekomerno proizvodnjo hrane na Z. Naredijo traktorje, kombajne -> lahko začnejo obdelovati ogromne količine zemljišč. Kmetijstvo je bilo v porastu. Preveč je bilo hrane, cene kmetijskih izdelkov so začele padati. Kmetje namesto, da bi obogateli so začeli obubožati. Niso se mogli privoščiti kar jim je ponujala industrija - potrošniških produktov. Kmetje, ki jih je bilo ogromno niso bili porabniki drugih kapitalističnih dobrin, opuščali so kmetijstvo, rodovitno zemljo je začel veter odnašati in so ta območja postala nerodovitna (Arizona)
 	- na zahodu imamo veliko hrane, zato pride do visoko procesirane hrane, ki povzroči, da zaznamo uživanje hrane kot nagrado - dopamin
