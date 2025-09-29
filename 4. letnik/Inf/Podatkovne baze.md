@@ -169,3 +169,9 @@ relacije v mat so +, -, =, * , ...
  ![[Pasted image 20250918092818.png|400]]
 - spet primeri za to v pptju slide 43
 - tanka povezava - 
+
+microsoft baze thing?
+	quick sort?
+
+kaj je indeksiranje rabs vedn, kaj dosezem z indeksiranjem
+(telefonske številke)

@@ -10,4 +10,8 @@ $a^n\times a^m=a^{n+m}$
 $\frac{a^n}{a^m}=a^{n-m}$
 $(a^m)^n=a^{n\times m}$
 $(ab)^m=a^m\times b^m$
+$(\frac{a}{b})^m=\frac{a^m}{b^m},b\not= 0$
+$$
+$$
+$$
 $$

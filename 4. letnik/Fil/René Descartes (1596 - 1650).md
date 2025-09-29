@@ -65,3 +65,15 @@ v danem odlomku iz druge meditacije descartes pravi da je nesmiselno dvomiti da 
 1. Descartes se znajde v solipsizmu njegovega duha - razen duha ničesar drugega ne obstaja.
 2. Mislim, torej sem. Descartes dvomi o vsem in pride do tega da je nesmiselno dvomiti o tem, da dvomi. Na čem postavljamo svoj temelj za razmišljane
 3. Kategorije idej: pridobljene ideje s pomočjo čutil, narejene (mitologija, znanstvene ideje (npr pitagorov izrek)), prirojene ideje (pri Descartesu: ideja misleče in razsežne(materialne) stvari, matematične resnice, bog)
+
+Po Descartesu so prirojene ideje:
+- ideja misleče in razsežne stvari, 
+- mat. in log. resnice
+- ideja Boga
+Narejene so npr. 
+- domišljija
+- $e=mc^2$
+- ideja sonca (večje kot se zdi ko ga pogledaš
+Pridobljene ideje:
+- da vidim sonce (narejena -> sonce je veliko)
+- zelena barva - jo pač vidim

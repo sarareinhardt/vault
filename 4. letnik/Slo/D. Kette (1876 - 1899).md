@@ -62,13 +62,13 @@ Motiv: neuslišana ljubezen do kruha (vidimo, da je neuslišana iz zadnjega verz
 
 1. kitica
 	- noč, mrak
-	- luna, kruh
+	- luna, 
 	- vodnjak
 	- veter
 2. kitica
 	- ljubezen do mame
 	- novo mesto
-	- sankanje
+	- sanjanje
 
 Personifikacija
 

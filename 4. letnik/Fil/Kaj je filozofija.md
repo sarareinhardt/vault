@@ -25,3 +25,6 @@ Zadnji stavek lahko pride kot naslov za esej!!!
 
 Meter je jasna, nedvoumna enota
 ![[Pasted image 20250911101444.png]]
+
+##### Tales iz Mileta
+pravi da je vse narejeno iz vode- miselni preskok, kjer ugotovijo, da je svet sestavljen iz stvari in jih ni samo bog ustvaril, ...
