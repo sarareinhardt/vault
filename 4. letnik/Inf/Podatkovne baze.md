@@ -175,3 +175,7 @@ microsoft baze thing?
 
 kaj je indeksiranje rabs vedn, kaj dosezem z indeksiranjem
 (telefonske številke)
+
+
+To je nek thing v unmu accessu  ki basically nardi da se izpiše ko runnaš sam to kar se začne na opra- 
+![[Pasted image 20250930084036.png]]

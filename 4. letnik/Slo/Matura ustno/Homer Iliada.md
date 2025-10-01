@@ -1,0 +1,29 @@
+**ANTIČNO PRIPOVEDNIŠTVO**  
+**ANTIČNI EP**  
+Grška in rimska antika sta nam zapustili tri velike epe: _Homerjeva Iliada in Odiseja_ ter _Vergilova Eneida_.
+
+**HOMER: ILIADA**  
+Ep je od vseh književnih vrst stare Grčije najstarejši. Začetek in obenem vrh grške epike sta junaško-mitološka epa _Iliada_ in _Odiseja_, vzor vsem kasnejšim epskim pesnikom. Domnevni avtor obeh mojstrovin naj bi bil Homer, reven, slep potujoči grški pevec, ki je živel okoli 800 pr. n. št. Epa nista pomembna le po umetniški plati, saj sta prava zakladnica grške mitologije, pa tudi ena od prvih vezi med grškimi plemeni.  
+O Homerju ni zgodovinsko preverjenih podatkov, niti ni dokazov, da je res avtor _Iliade_ in _Odiseje_. Že v antiki se je sprožilo t. i. **homersko vprašanje** – ali je Homer res avtor obeh epov. O tem so nastale različne bolj ali manj verjetne teorije. Gotovo pa je, da sta epa nastala na podlagi izročila junaških pesmi, ki so jih razširjali potujoči pevci – torej na **podlagi mita**. V vsakem mitu se skriva nekaj zgodovinske resnice, a bolj ko so se resnični dogodki oddaljili v preteklost, več je bilo v mitu domišljijskega, izmišljenega. Tako je nastal tudi **mit o trojanski vojni**, iz katerega je vzeta snov _Iliade_ in _Odiseje_.
+
+**Troja**, mesto na zahodni obali Male Azije, je bila sredi 3. tisočletja pr. n. št. eno najbogatejših in najbolje utrjenih mest starega sveta. V 12. stol. pr. n. št. so Trojo zavzeli osvajalci iz uničili mikenski Grki. Mit o Troji se je verjetno porodil ob grški kolonizaciji Male Azije, segal pa tudi v mikensko kulturo. Seveda pa se mit o trojanski vojni korenito razlikuje od zgodovinske resnice.
+
+Mit se začne z zgodbo o trojanskem princu Parisu, ki mu je bilo prerokovano, da bo pogubil svoje rodno mesto. Otroka so izpostavili na gori, vendar ga je rešila medvedka. Paris je nato odrastel pri pastirjih. Nekoč mu privozijo boginje Hera, Afrodita in Atena; kličejo ga na svatbi morske nimfe Tetide in kralja Peleja sprejo za zlato jabolko – to naj bi pripadlo najlepši izmed njih. Med svate ga je vrgla boginja prepira Erida, jezna, ker ni bila povabljena na svatbo. Za razsodnika izberejo Parisa, ki izbere za najlepšo Afrodito, ker mu obljubi ljubezen najlepše ženske, s tem pa Trojanec nakoplje sovraštvo drugih dveh boginj, Atene in Here.
+
+Paris nato ugrabi lepo Heleno, ženo špartanskega kralja Menelaja, ki je veljala za najlepšo žensko na svetu. Menelaj in njegov brat Agamemnon pa z ladjevjem in vojsko kreneta proti Troji. Obleganje traja deset let, potem pa Troja zaradi grške ukane s trojanskim konjem končno pade. Nekaj tednov iz zadnjega leta trojanske vojne zajema zgodba epa _Iliada_ (Ilion = Troja). Po uničenju Troje se grški junaki bolj ali manj srečno vrnejo domov, najdlje, kar deset let, se na rodni otok Itako vrača Odisej. O tem pripoveduje Homerjeva _Odiseja_.
+
+V mitu se torej prepletajo zgodbe mnogih junakov, pa tudi, kar je za mit še posebej značilno, **bogov**. Ti se kar naprej vpletajo v življenje ljudi, njihove usode so pravzaprav v celoti odvisne od volje bogov. Bogovi pa so tudi sami splet dobrih in slabih človeških lastnosti, saj so jih stari Grki oblikovali **po človeški podobi**.
+
+
+Najpomembnejši junak grške vojske pred Trojo je božanski **Ahil**, sin nimfe Tetide. Ahilovo edino ranljivo mesto je njegovo peta. Zgodba _Iliade_ je pripoved o njegovi jezi (Prvi verz epa se glasi: _Pesem, boginja, zapoj, o jezi Pelida Ahila_). Jezen je na Agamemnona, ker mu je odvzel vojni plen, lepo Trojanko Briseido, zato se noče več bojevati. Prijatelj Patrokl si sposodi Ahilovo bojno opremo. Trojanski junak Hektor, misleč, da gre za Ahila, Patrokla ubije. Ahil se vrne na bojišče, da bi se maščeval. Vrh _Iliade_ je **dvoboj med junakoma Ahilom in Hektorjem**, sinom trojanskega kralja Priama. Ahil po volji bogov v dvoboju zmaga, a to še ne pomeni konca trojanske vojne, čeprav je Hektorjeva smrt za Trojance huda izguba. Razjarjeni Ahil šele na prošnjo kralja Priama Trojancem vrne Hektorjevo truplo. Ep se konča s pogrebnimi slovesnostmi: Grki pokopljejo Patrokla, Trojanci pa Hektorja.
+
+Proti vročekrvnemu in maščevalnemu Ahilu, največjemu grškemu junaku, je pripovedovalec postavil Hektorja, ki ga prva tako odlikujejo pogum, drznost in moč; prikazan je tudi kot čuteč mož, oče in sin. Čeprav ob slovesu od žene in sina (6. spev) sluti, da ga čaka smrt, gre pogumno v boj, saj je moč časti, ki se kot prince zavedla dolžnosti do Troje in Trojanov.
+
+Homerjeva epa odlikuje zelo natančna in premišljena zgradba. _Iliada_, ki ima prek 15.000 verzov, se deli na **24 spevov**, vsak se začne z nagovorom muzi. Vrh (dvoboj med Ahilom in Hektorjem) je v 22. spevu. Zgodba teče sintetično (po kronološkem zaporedju). Zelo podobno zgradbo ima tudi _Odiseja_.
+
+Značilni verz Homerjevih pesnitev je **heksameter**, najstarejši grški verz. Ima šest (gr. heksa = šest) daktilskih stopic ( = U U), zadnja je lahko nepopolna. Ker je heksameter dolg verz, ima vedno predah (cezuro), največkrat sredi tretje stopice. Vendar moramo upoštevati, da je ritem starogrškega verza precej drugačen kot v slovenskem prevodu, saj temelji na izmenjavanju dolgih in kratkih zlogov, slovenski pa na izmenjavanju poudarjenih in nepoudarjenih zlogov.
+
+Za Homerjev slog je značilna **epska širina**. Pripoved teče počasi, lagodno, pripovedovalec zmeraj najde čas za obširno in nazorno opisovanje vse podrobnosti (junakov, bojev, opreme, orožja …). K epski širini prispevajo tudi **stalni, ponavljajoči se okrasni pridevki** (božanski Ahiles, svetlooka Atena, hiter Ahil) in obširne primere, t. i. **homerske primere**. Homerska primera ali prispodoba je veliko obširnejša kot običajna primera, je do deset ali daljša. Snov zanjo pa je običajno vzeta iz narave.
+
+
+Ep je pesnitev napisana v verzih, pri Homerju je napisan v heksametru. Njegovi epi imajo značilne komparacije, ki se lahko raztezajo tudi čez več vrstic

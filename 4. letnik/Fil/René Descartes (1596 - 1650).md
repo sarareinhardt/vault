@@ -10,6 +10,23 @@ umre v Stockholmu, myb zastrupljen ampak ni 100%
 3. Ali nas tako pri matematiki kot pri ostalem ne vara nek "zlobni duh" (ta lik si je sposodil iz dramatike 19. stoletja, ta lik je slepil ljudi?? Z zlobnim duhom je myb mišljen hudič ampak tega ni rekel, ker bi bil bogokleten ker se peča s hudičem, iz istega razloga ne reče, da ga vara bog). Mislim, torej sem, čutim, torej sem.
 
 
+Po Descartesu so prirojene ideje:
+- ideja misleče in razsežne stvari, 
+- mat. in log. resnice
+- ideja Boga
+Narejene so npr. 
+- domišljija
+- $e=mc^2$
+- ideja sonca (večje kot se zdi ko ga pogledaš
+Pridobljene ideje:
+- da vidim sonce (narejena -> sonce je veliko)
+- zelena barva - jo pač vidim
+J Locke pravi da se rodimo kot nepopisan list papirja, kar je v nasprotju z Descartesom in njegovimi prirojenimi idejami
+
+Descartes pravi, da Bog ni varljiv ker je že itak najboljši in ne rabi varat...
+
+*Paradigma* prvi je ta pojem uvedel Thomas Kuhn nabor temeljnih idej in stališč, ki si jih deli določena skupina znanstvenikov
+
 *Razprava o metodi; 1637*
 Ukvarja se s tem, da bi ugotovil katera metoda pripelje do pravega spoznanja
 ##### Meditacije; 1641
@@ -61,19 +78,24 @@ v danem odlomku iz druge meditacije descartes pravi da je nesmiselno dvomiti da 
 
 
 
-##### 3. MEDITACIJA - o bivanju boga
+# 3. MEDITACIJA
+##### O bivanju boga
 1. Descartes se znajde v solipsizmu njegovega duha - razen duha ničesar drugega ne obstaja.
 2. Mislim, torej sem. Descartes dvomi o vsem in pride do tega da je nesmiselno dvomiti o tem, da dvomi. Na čem postavljamo svoj temelj za razmišljane
 3. Kategorije idej: pridobljene ideje s pomočjo čutil, narejene (mitologija, znanstvene ideje (npr pitagorov izrek)), prirojene ideje (pri Descartesu: ideja misleče in razsežne(materialne) stvari, matematične resnice, bog)
-
-Po Descartesu so prirojene ideje:
-- ideja misleče in razsežne stvari, 
-- mat. in log. resnice
-- ideja Boga
-Narejene so npr. 
-- domišljija
-- $e=mc^2$
-- ideja sonca (večje kot se zdi ko ga pogledaš
-Pridobljene ideje:
-- da vidim sonce (narejena -> sonce je veliko)
-- zelena barva - jo pač vidim
+4. a
+5. Ideja pri Descartesu = katerakoli vsebina njegove zavesti
+6. a
+7. a
+8. a
+9. tako me uči narava: nagon
+10. aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+11. a
+12. a
+13. *Formalna* *realnost* je fizična reprezentacija našega sveta. *Objektivna realnost* je direkten vtis, ki ga ta svet naredi na naše čute. Kot zunanji opazovalci NIKOLI *ne moremo izkusiti formalne realnosti*. Subjektivna realnost je naša predstava, interpretacija iz tega direktnega vtisa na naše čute.
+     Spekulacija: Te vrste realnosti imajo nekakšne vzporednice v vrstah idej: Narejena ideja je vzporednica formalne realnosti, ker je poskus razumevanja, katera stvar na kakšen način ustvarja ta vtis na naše čute (zvezde so nalepljene na velik strop - zakaj bi sicer bile nad mano in ne padle dol?), ampak hkrati je del subjektivne realnosti, saj je to ideja, ki jo povzročijo zunanji vtisi in je naš interni model zunanjosti. Prirojena ideja je naša formalna realnost, ki je mogoče drugi ne razumejo na isti način kot mi - je del nas samih in ni povzročena zaradi drugih stvari. Pridobljene ideje so pa objektivna realnost. Vodijo v naše narejene ideje.
+     Descartes pravi, da ima ideja večjega predmeta več objektivne realnosti (npr. da je ideja stol manjša od ideje mize) Ideja Boga pa je največja.
+    14. če imam idejo neskončnega bitja sem moral to dobiti iz neke neskončnosti npr. ideja Boga je neskončna in je ni mogel dobiti iz nič. Idejo boga moraš dobiti direktno iz boga
+    15. Spinoza v svojem delu Etika pravi, da je vse bog ali narava
+    16. a
+    17. 
