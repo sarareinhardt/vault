@@ -97,3 +97,51 @@ Umetnost: kubizem, dadaizem, surrealizem; Kandinski, Miro, Picasso, Dali
 - umetna vlakna - nylon
 - **UMETNA GNOJILA** - stabilna pridelava hrane, vedno in dovolj pridelka, umetna gnojila zastrupljajo zemljo, človeka, sprožijo demografski porast in prekomerno proizvodnjo hrane na Z. Naredijo traktorje, kombajne -> lahko začnejo obdelovati ogromne količine zemljišč. Kmetijstvo je bilo v porastu. Preveč je bilo hrane, cene kmetijskih izdelkov so začele padati. Kmetje namesto, da bi obogateli so začeli obubožati. Niso se mogli privoščiti kar jim je ponujala industrija - potrošniških produktov. Kmetje, ki jih je bilo ogromno niso bili porabniki drugih kapitalističnih dobrin, opuščali so kmetijstvo, rodovitno zemljo je začel veter odnašati in so ta območja postala nerodovitna (Arizona)
 	- na zahodu imamo veliko hrane, zato pride do visoko procesirane hrane, ki povzroči, da zaznamo uživanje hrane kot nagrado - dopamin
+
+
+
+
+
+
+
+**Reševanje krize in new deal** ko je bil 33. leta izvoljen Russwelt (edini, ki je zaradi vojnih razmer imel podaljšan mandat in imel 3 mandate.) Imel je polio (otroška paraliza - tisto z železnimi pljuči) posledice od bolezni so, da ni moral več stati , zato je bil v  zasebnem življenju vedno na vozičku, v javnosti pa je vedno stal oz. ko ni več mogel sedel. Kljub tem omejitvam je bil edini predsednik, ki se je zavedal in tudi deloval v tej smeri, da je država zaradi državljanov - da je država dolžna državljanom. Zato so mu očitali komunizem. Takrat je bil v SZ Stalin, ki je začel s *planskim gospodarstvom* Russwelt pa si je drznil nekaj podobnega - obtožili so ga, da je komunist. To vse je spodbujala tudi filmska industrija, ki promovira borzo in investicije. Komunizem je bil od prvega pojava v SZ strah in trepet Američanov.
+
+##### Rooseweltovi 3je r-ji
+**Rooseveltovi »3R-ji«** se nanašajo na tri glavne cilje njegovega programa _New Deal_: **pomoč (Relief)** za tiste, ki so trpeli zaradi Velike depresije, **okrevanje (Recovery)** gospodarstva in **reforme (Reform)** finančnega sistema, da bi se preprečile prihodnje krize. Te pobude so nudile takojšnjo pomoč, spodbudile gospodarsko rast in uvedle dolgoročne strukturne spremembe za zagotovitev stabilnosti.
+- **Pomoč (Relief)**
+**Namen:**  
+Nuditi takojšnjo pomoč brezposelnim in revnim s službami, hrano, obleke, denar, službe in neposredno pomočjo.
+**Primeri:**
+- pomoč kmetom
+- **Civilian Conservation Corps (CCC):** Ustvaril je delovna mesta za mlade, ki so delali na naravovarstvenih projektih in gradili infrastrukturo, kot so narodni parki.
+- **Federal Emergency Relief Act (FERA):** Zagotovil je neposredna denarna izplačila ljudem v stiski.
+- **Civil Works Administration (CWA):** Zaposlil je milijone ljudi pri gradnji mostov, cest in šol.
+    
+
+---
+
+- Okrevanje (Recovery)
+
+**Namen:**  
+Popraviti gospodarstvo in končati Veliko depresijo z reševanjem gospodarskih težav ter podporo podjetjem.
+
+**Primeri:**
+
+- **Agricultural Adjustment Act (AAA):** Poskušal je zvišati cene kmetijskih pridelkov s plačilom kmetom, da so zmanjšali proizvodnjo.
+    
+- **National Recovery Administration (NRA):** Spodbujal je industrije k sodelovanju pri oblikovanju kodeksov o plačah, cenah in delovnih pogojih (čeprav je imel ta program kasneje težave).
+    
+
+---
+
+- Reforma (Reform)
+**Namen:**  
+Izvesti temeljite spremembe v finančnem sistemu in drugih področjih, da bi preprečili ponovitev depresije. Dolgoročna preprečitev ponovitve socialne krize
+
+**Primeri:**
+
+- **Federal Deposit Insurance Corporation (FDIC):** Ustanovljena za zavarovanje bančnih vlog in ponovno vzpostavitev zaupanja ljudi v banke.
+    
+- **Securities and Exchange Commission (SEC):** Ustanovljena za nadzor borze in preprečevanje nezakonitih finančnih praks.
+    
+- **Social Security Act:** Uvedel je sistem zavarovanja za brezposelne, pokojnine za starejše ter pomoč invalidom in revnim.

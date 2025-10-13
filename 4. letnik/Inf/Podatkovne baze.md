@@ -179,3 +179,8 @@ kaj je indeksiranje rabs vedn, kaj dosezem z indeksiranjem
 
 To je nek thing v unmu accessu  ki basically nardi da se izpiše ko runnaš sam to kar se začne na opra- 
 ![[Pasted image 20250930084036.png]]
+
+access vspostavi referenčno integriteto, kaskadno posodabljanje polj v relaciji, kaskadno brisanje polj v relaciji
+
+
+splet. uč. naloge za pripravo na test 21. bo zihr

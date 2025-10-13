@@ -4,3 +4,12 @@ Fil: 3
 - inf baza podatkov za športne dneve v spletno
 - Duma Župančič preberi
 - FIL: nek tekst prebrat
+
+
+Teden 13. do 17. 10.
+Slo predstavitev        DONEEEE
+Mat spraševanje
+Nem spraševanje
+Inf test
+Inf database
+Zgo spraš

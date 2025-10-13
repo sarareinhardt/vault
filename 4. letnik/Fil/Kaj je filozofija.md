@@ -1,4 +1,4 @@
-dvomi, neznano, neizrekljivo, ...
+advomi, neznano, neizrekljivo, ...
 Zavest o smrti
 
 **Ying Yang**
@@ -28,3 +28,17 @@ Meter je jasna, nedvoumna enota
 
 ##### Tales iz Mileta
 pravi da je vse narejeno iz vode- miselni preskok, kjer ugotovijo, da je svet sestavljen iz stvari in jih ni samo bog ustvaril, ...
+##### Parmenides
+Nauk o biti:
+- bit je ena sama 
+- nedeljiva
+- negibna
+- nespremenljiva
+- biti je nebiti ni
+- misliti je isto kakor biti
+Meni, da obstajata 2 resnici - resnica videza in resnica biti - prava resnica, kako dejansko je zares.
+Parmenides je prvi uvedel pojem uma - prej se ljudje niso zavedali, da razmišljajo (random: Indijanci so rekli, da razmišljajo s srcem)
+Misliti je isto kakor biti vs Descartes mislim torej sem
+	Descartes: Hoče s tem povedati, da on obstaja zato ker misli
+	Parmenides: pravi da vse o čimer razmišljamo je nekaj (tudi če ni realno)
+

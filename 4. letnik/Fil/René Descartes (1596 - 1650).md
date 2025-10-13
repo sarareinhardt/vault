@@ -1,3 +1,6 @@
+22.točka 3. meditacije - utemeljitev, da obstaja Bog
+8.tocka 2. meditacije raz laga duša/misleča stvar/...
+
 "ni pomembno ali imamo več ali manj razuma pomembno je ali ga znamo pravilno uporabljati"  
 koordinatni sistem
 umre v Stockholmu, myb zastrupljen ampak ni 100%
@@ -9,6 +12,7 @@ umre v Stockholmu, myb zastrupljen ampak ni 100%
 2. Stopnja dvoma: kako ločevati sanje od budnosti (kako vem, da zdaj ne sanjam, kaj pomeni biti buden, Buddha - prebujen, prebujenost) - rešitev: matematične resnice veljajo v sanjah in v budnosti
 3. Ali nas tako pri matematiki kot pri ostalem ne vara nek "zlobni duh" (ta lik si je sposodil iz dramatike 19. stoletja, ta lik je slepil ljudi?? Z zlobnim duhom je myb mišljen hudič ampak tega ni rekel, ker bi bil bogokleten ker se peča s hudičem, iz istega razloga ne reče, da ga vara bog). Mislim, torej sem, čutim, torej sem.
 
+Descartes pride do tega, da tudi, če je čutno zaznavanje resnično to še vedno ni zelo uporabmno za njegov višji cilj
 
 Po Descartesu so prirojene ideje:
 - ideja misleče in razsežne stvari, 
@@ -23,12 +27,20 @@ Pridobljene ideje:
 - zelena barva - jo pač vidim
 J Locke pravi da se rodimo kot nepopisan list papirja, kar je v nasprotju z Descartesom in njegovimi prirojenimi idejami
 
+Ponavadi pristopimo do opazovanja nečesa iz perspektive subjekta in opazujemo objekt. Kant (in mogoce Descartes, ampak tega v svojem času ni mogel direktno povedati) je, da ko pridemo do točke samozavedanja objekt = subjekt
+
 Descartes pravi, da Bog ni varljiv ker je že itak najboljši in ne rabi varat...
 
 *Paradigma* prvi je ta pojem uvedel Thomas Kuhn nabor temeljnih idej in stališč, ki si jih deli določena skupina znanstvenikov
 
 *Razprava o metodi; 1637*
 Ukvarja se s tem, da bi ugotovil katera metoda pripelje do pravega spoznanja
+
+Kritiki pravijo, da če je ideja prirojena (za prirejene je Descartes imel idejo Boga, misleče in razsežne stvari in matematične resnice) potem bi jo morali vedeti tudi otroci, itd. Descartes je to verjetno mislil samo v smislu, da imamo vsi možnost imeti to idejo. Ugotovi tudi, da ne moramo dobiti ideje boga iz sebe ali od staršev, ker ideja nas ni tako velika kot ideja Boga
+Kako lahko dojemamo idejo Bo
+Gozd ima večjo *formalno realnost* kot drevo
+
+8. točka 4. meditacije "Jaz imam svobodno voljo, ki je enaka svobodni volji boga"
 ##### Meditacije; 1641
 
 Descartes začne meditacije s tem, da ga zanima kaj je resnica - če imamo različne resnice katera je absolutna
@@ -92,10 +104,22 @@ v danem odlomku iz druge meditacije descartes pravi da je nesmiselno dvomiti da 
 10. aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 11. a
 12. a
-13. *Formalna* *realnost* je fizična reprezentacija našega sveta. *Objektivna realnost* je direkten vtis, ki ga ta svet naredi na naše čute. Kot zunanji opazovalci NIKOLI *ne moremo izkusiti formalne realnosti*. Subjektivna realnost je naša predstava, interpretacija iz tega direktnega vtisa na naše čute.
-     Spekulacija: Te vrste realnosti imajo nekakšne vzporednice v vrstah idej: Narejena ideja je vzporednica formalne realnosti, ker je poskus razumevanja, katera stvar na kakšen način ustvarja ta vtis na naše čute (zvezde so nalepljene na velik strop - zakaj bi sicer bile nad mano in ne padle dol?), ampak hkrati je del subjektivne realnosti, saj je to ideja, ki jo povzročijo zunanji vtisi in je naš interni model zunanjosti. Prirojena ideja je naša formalna realnost, ki je mogoče drugi ne razumejo na isti način kot mi - je del nas samih in ni povzročena zaradi drugih stvari. Pridobljene ideje so pa objektivna realnost. Vodijo v naše narejene ideje.
-     Descartes pravi, da ima ideja večjega predmeta več objektivne realnosti (npr. da je ideja stol manjša od ideje mize) Ideja Boga pa je največja.
-    14. če imam idejo neskončnega bitja sem moral to dobiti iz neke neskončnosti npr. ideja Boga je neskončna in je ni mogel dobiti iz nič. Idejo boga moraš dobiti direktno iz boga
-    15. Spinoza v svojem delu Etika pravi, da je vse bog ali narava
-    16. a
-    17. 
+13.  Descartes loči dve realnosti:
+	1. *Formalna* *realnost* je to, kar mi čutimo s čutili. 
+	2. *Objektivna realnost* je realnost, ki jo imamo v glavi. Takrat koncepta subjektivnosti in objektivnosti nista bila izumljena, in "objektivno" pomeni "predmetno", "oprijemljivo", torej to, kar je za nas dejansko res.    
+     Descartes pravi, da ima ideja večjega predmeta več objektivne realnosti (npr. da je ideja stol manjša od ideje mize) S tem stopnjuje do ideje Boga, ki pa je največja.
+    3. če imam idejo neskončnega bitja sem moral to dobiti iz neke neskončnosti npr. ideja Boga je neskončna in je ni mogel dobiti iz nič. Idejo boga moraš dobiti direktno iz boga
+    4. Spinoza v svojem delu Etika pravi, da je vse bog ali narava
+    5. a
+14. a
+15. a
+16. a
+17. a
+18. a
+19.  *Descartes se tukaj ne jemlje za  fizično osebo ampak za dušo(= misleča stvar=um=razum=res cogitans) razlaga tega je 8. točka 2. meditacije
+20. a
+21. a
+22. a
+23. a
+24. a
+25. kako lahko Descartes dojema boga kot nekaj neskončnega, če tudi sam ni neskončen. Glede na to, da sam ni neskončen, je to idejo lahko dobil samo od bitje, ki je neskončno
