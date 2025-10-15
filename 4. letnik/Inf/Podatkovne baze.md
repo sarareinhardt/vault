@@ -2,11 +2,11 @@
 
 ##### Modeliranje realnosti
 - Predmeti, osebe in dogodki v realnosti so Predmeti, osebe in dogodki v realnosti so entitete - npr. učenci, itd 
-- Entiteta ima svoje lastnosti (Entiteta ima svoje lastnosti (atributeatribute) in) in pomenpomen  
-	 Človek nekatere entitete zaznava, sprejemaČlovek nekatere entitete zaznava, sprejema vtise in iz njih oblikuje koncepcijevtise in iz njih oblikuje koncepcije
-	 Koncepcije povezuje in dopolnjuje ter v glavi oblikujeglavi oblikuje model realnostimodel realnosti
-	 Model realnosti sestavljajo le tisti deli, kiModel realnosti sestavljajo le tisti deli, ki nas v določenem primeru zanimajonas v določenem primeru zanimajo –– okrnjena realnostokrnjena realnost 
-	 Entitete s skupnimi lastnostmi lahko združimo v **Entitete** s skupnimi lastnostmi lahko združimo v **entitetnoentitetno množico**(= skupina entitet, za katere imamo skupne podatke, npr. ena entitetna množica so dijaki, ena profesorji, ...) oz.množico oz. entitetnientitetni tip in join jo poimenujemo zpoimenujemo z entitetnimentitetnim imenomimenom
+- Entiteta ima svoje lastnosti (Entiteta ima svoje lastnosti (atribute) in) in pomen  
+	 Človek nekatere entitete zaznava, sprejema vtise in iz njih oblikuje koncepcije
+	 Koncepcije povezuje in dopolnjuje ter v glavi oblikuje model realnosti
+	 Model realnosti sestavljajo le tisti deli, ki nas v določenem primeru zanimajo –– okrnjena realnost
+	 **Entitete** s skupnimi lastnostmi lahko združimo v **entitetno množico**(= skupina entitet, za katere imamo skupne podatke, npr. ena entitetna množica so dijaki, ena profesorji, ...) oz.množico oz. entitetnientitetni tip in join jo poimenujemo z entitetnim imenom
 
 ##### Informacijski sistem
 - Ali neko podjetje, ustanova, … , lahko deluje ne da bi na nek načinda bi na nek način zbirali podatke zbirali podatke o svojemsvojem delovanju (Zakaj jih potrebuje?)(Zakaj jih potrebuje?) 
