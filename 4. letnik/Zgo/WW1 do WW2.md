@@ -157,5 +157,5 @@ SZ je imela totalitarni režim
 Jugoslavija je imela *avtoritarni* režim 
 	v Jugoslaviji so poskušali zagotoviti demokratičnost volitev (ker so hoteli, da v vsakem primeru zmaga komunistična stranka) tako, da so imeli opcijo voliti za njih ali pa dati listek v škatlo za 'karkoli drugega'. To so naredili, ker je meščanstvo bojkotiralo, ker niso hoteli komunističnega režima
 Demokracija:
-	+ sistem je prepočasen, ker se ljudje stalno menjavajo
-	-  
+	- sistem je prepočasen, ker se ljudje stalno menjavajo, draga, težko izvedljiva
+V WW2 je svet prišel zato, ker je demokracija v kritičnih trenutkih popustila. Voditelji so začeli popušcati in odstopati od prejšnjih načel, da bi ohranili oblast. 
