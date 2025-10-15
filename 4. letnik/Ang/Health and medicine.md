@@ -39,3 +39,6 @@ Do u think alternative medicines are tried tested and safe? It is not officially
 Do you think doctors should study about and be experts in alternative medicine? Yes to be able to appoint you to someone and be experts so they can be trusted and not harm you as said before
 
 Standard/western/contemporary medicine = includes modern health science, medical technology, etc More drug and surgery oriented
+
+traditional is legal and valid
+alternative is more of a gray area
