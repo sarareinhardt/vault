@@ -10,6 +10,12 @@
 
 
 
+Matura pogoste stvari:
+- nebesedni spremljevalci govorjenja - nebesedna mimika, očesni stik, pogled, kretnje, ...
+- osnovni komunikacijski model: naslovnik, sporočilo, pošiljatelj
+	- prenosnik: slušni, vidni
+
+
 
 Matura:
 [[Homer Iliada]]

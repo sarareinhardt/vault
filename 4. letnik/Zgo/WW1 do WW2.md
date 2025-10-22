@@ -159,3 +159,32 @@ Jugoslavija je imela *avtoritarni* režim
 Demokracija:
 	- sistem je prepočasen, ker se ljudje stalno menjavajo, draga, težko izvedljiva
 V WW2 je svet prišel zato, ker je demokracija v kritičnih trenutkih popustila. Voditelji so začeli popušcati in odstopati od prejšnjih načel, da bi ohranili oblast. 
+
+
+
+neki manjka
+
+
+##### Fašizem in fašistoidni režimi
+Fašizem je splošen izraz za ideologijo, doktrine, politična gibanja in politične prakse, pa tudi za politične sisteme in države v katerih se kažejo izrazito protidemokratične, totalitarne in avtoritarne težnje.
+V osnovi je to način razmišljanja, ki ga po tem vnesemo v nek družbeno politični sistem
+Osnovna značilnost fašizma je **kolektivizem** = vsi moramo sledit, sporočat eno, vsi sse moramo podrediti državi
+	Nasprotje kolektivizma je individualizem - kar je zdaj, ko zagovarjamo pravice posameznika
+Fašisti so kolektivizem dosegli z različnimi organizacijami (Hitlerjungen, Hitlermadchen, ...) v katerih so želeli narediti občutek tega, da ljudje zdaj ko so del tega nekaj so, prej pa niso bilo nič. Daje občutek, da so vsi enaki, občutek pripadnosti,  vsak ima nalogo, ... Vsak je moral biti del ene od teh organizacij
+**Skupne značilnosti fašističnih in fašistoidnih sistemov**
+- skrajni nacionalizem in šovinizem
+- agresivnost in diktatorski režim
+- od države vsiljena socialna pomoritev med delavci in delodajalci (tipično za današnji čas - ko spreminjamo pokojninsko reformo, ko uvajamo božičnico (delodajalci nočejo uvajat božičnice) mussolini je uvedel **korporativizem** kar pomeni, da je vse gospodarstvo razdelil na panoge znotraj te korporacije so iskali pomiritev? delavci, delodajalci)
+- rasizem
+- revanšizem - maščevalnost (nemci so se maščevali zaradi krutih pogojev ki so jih fasal od versaillseske mirovne pogodbe)
+- zagovarjanje kolektivizma
+- Nasprotovanje maščanskemu liberalizmu
+- Ekspanzionistične težnje
+- Antikomunizem
+- Čaščenje vodje
+- Uporaba politične propagande
+- uporaba spoznanj psihologije množic (najlažje je na to dobit nihiliste, neizobražene, revne)
+
+Se neki je na pptju tle 1 slide
+
+na slo1 nadaljevanka Bon?? 

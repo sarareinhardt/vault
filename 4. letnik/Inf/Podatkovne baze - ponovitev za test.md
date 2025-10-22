@@ -56,6 +56,7 @@ a. Kaj predstavlja: entiteta, atribut, razmerje, števnost?
 	- Entiteta je en row (Ana, 15)
 	- Entitetni tip je splošni row (ime, starost)
 	- Entitetna množica so vsi rowi v tabeli (množica vseh entitet :O )
+	- ![[Pasted image 20251015204436.png]]
 8. Kakšen podatkovni tip je lahko atribut?
 	- Katerikoli duh? Ne more bit ljubezen ali čustvo.
 	a. Zakaj je treba opredeliti podatkovni tip atributa?
@@ -125,5 +126,14 @@ d) glede na število ovrednotenih atributov
 	- Zapis
 	- Tabela
 ![[Pasted image 20251015182602.png|350]]
+
+
+# Codecadamy
+Tables are often reffered to as **relations**y
+Some of the most common data types are:
+- `INTEGER`, a positive or negative whole number
+- `TEXT`, a text string
+- `DATE`, the date formatted as YYYY-MM-DD
+- `REAL`, a decimal value
 
 

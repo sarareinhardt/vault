@@ -40,6 +40,8 @@ Kritiki pravijo, da če je ideja prirojena (za prirejene je Descartes imel idejo
 Kako lahko dojemamo idejo Bo
 Gozd ima večjo *formalno realnost* kot drevo
 
+slavna 13. točka??
+
 8. točka 4. meditacije "Jaz imam svobodno voljo, ki je enaka svobodni volji boga"
 ##### Meditacije; 1641
 
