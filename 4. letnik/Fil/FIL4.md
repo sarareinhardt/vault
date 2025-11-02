@@ -1,5 +1,6 @@
 [[René Descartes (1596 - 1650)]]
 [[Kaj je filozofija]]
+[[Primerjava Descartesovega in Lockovega pojmovanja idej]]
 
 Esej pri skupni fil:
 Uvod:

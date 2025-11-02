@@ -42,3 +42,6 @@ Misliti je isto kakor biti vs Descartes mislim torej sem
 	Descartes: Hoče s tem povedati, da on obstaja zato ker misli
 	Parmenides: pravi da vse o čimer razmišljamo je nekaj (tudi če ni realno)
 
+##### Družbeni pogoji za razvoj sofistov
+atene...
+**Protagora**
