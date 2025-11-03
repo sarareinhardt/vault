@@ -40,6 +40,8 @@ Kritiki pravijo, da če je ideja prirojena (za prirejene je Descartes imel idejo
 Kako lahko dojemamo idejo Bo
 Gozd ima večjo *formalno realnost* kot drevo
 
+**(um) Kriterij za resnico po Descartesu** je jasna in razločna misel, čutila pa so temna, zmedena - zagovarja stališče, da čutila zadostujejo, da preživimo v materialnem svetu in ne potrebujejo takšne natančnosti kot matematične resnice
+
 slavna 13. točka??
 
 8. točka 4. meditacije "Jaz imam svobodno voljo, ki je enaka svobodni volji boga"
@@ -125,3 +127,12 @@ v danem odlomku iz druge meditacije descartes pravi da je nesmiselno dvomiti da 
 23. a
 24. a
 25. kako lahko Descartes dojema boga kot nekaj neskončnega, če tudi sam ni neskončen. Glede na to, da sam ni neskončen, je to idejo lahko dobil samo od bitje, ki je neskončno
+
+
+
+
+# Ponavljanje
+1. a
+2. a
+3.  metodični ali radikalni dvom - pomeni, da dvomi o vsem, o čimer najde **razumski** razlog za dvom
+4. dvom o čutih - razreši s tem, da čutom zaupa, ker če jim nebi bi bil nor, vendar pravi, da samo z njimi ne mora priti do neke končne rešitve. Kako razlokovati med sanjami in budnostjo - ugotovi, da ni važno a je buden ali sanja matematične resnice veljajo. Zli duh, ki ga zavaja o vsem vključno z MAT resnicami - razreši s tem da če nič drugega lahko ve vsaj to, da je on tisti, ki ga zavaja in o tem ne rabi dvomiti
