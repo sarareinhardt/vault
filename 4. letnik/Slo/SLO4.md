@@ -6,7 +6,8 @@
 [[Oton Župančič]]
 [[Svet. knj. v 1. polovici 20. stoletja]]
 [[Reiner Maria Rilice]]
-[[F.G. Lorca]]
+[[Federico Garcia Lorca - Vitezova pesem]]
+[[Marcel Proust]]
 
 
 
