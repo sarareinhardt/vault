@@ -43,5 +43,8 @@ Misliti je isto kakor biti vs Descartes mislim torej sem
 	Parmenides: pravi da vse o čimer razmišljamo je nekaj (tudi če ni realno)
 
 ##### Družbeni pogoji za razvoj sofistov
-atene...
+Atene...
 **Protagora**
+
+##### Sokrat
+povzdigne FIL na višjo raven v smislu, da postavi vprašanje kaj je pojem
