@@ -147,6 +147,3 @@ S tem so ustvarili lažje ladje in so lahko nanje naložili več orožja.
 - Tovarne zapirajo vrata, zato so delavci ob službe in ne morejo ničesar kupovati → začaran krog.
 - Ljudje so nezadovoljni, ni služb, ni hrane, zapuščajo domove, izgubljajo zaupanje v državo.
 - Tako v Ameriki (Roosevelt) kot v Nemčiji se iz krize rešijo tako, da začnejo **proizvajati orožje**.
-    
-
----
