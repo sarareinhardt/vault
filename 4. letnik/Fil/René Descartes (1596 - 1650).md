@@ -6,6 +6,7 @@ koordinatni sistem
 umre v Stockholmu, myb zastrupljen ampak ni 100%
 študiral na Sorboni, pravi, da je po študiju imel več vprašanj kot odgovorov.
 
+racionalizem = proces spoznavanja skozi razum, ki pa ima po Descartesu že neke prirojene ideje
 
 **Stopnje dvoma**
 1. Stopnja dvoma:  čutom ne gre popolnoma zaupati

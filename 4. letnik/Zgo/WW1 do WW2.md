@@ -205,6 +205,21 @@ Ko pride iz zapora vidi, da ni tako ez prevzet oblasti. V NEM se začne dogajati
 literaly je rekla blablabla kot del razlage help idk kaj je blablablabla...
 Neki manj kot 3% glasov aka sploh ne prideš v parlament 33. leta pa je stranka prišla že na 37% glasov, ker je Hitler mega delal na tem da jih opazijo? Hiter na začetki ni dobil stranke s katero bi lahko šel v koalicijo in sestavil delujočo vlado. Nato pa se je za stranko povlekla vojska, ker so v njem videli velekapitalista in to, da jim bo dal službe in so dosegli pri predsedniku države, da mu je kljub temu dal mandat, da je sestavil vlado. Če bi se v tistem trenutku ko je bilo vprašanje o sestavitvi vlade združili komunisti in socialdemokrati bi Hitlerju lahko preprečili ustvaritev vlade. Ampak se niso marali, ker so komunisti zagovarjali prihod na oblast z državnim udarom s.d. pa parlamentarno in demokratično, s.d. zagovarjajo osebno lastnino, ...) Kljub temu so bili prepričani, da bodo lahko obvladovali Hitlerja ampak jim to na koncu ni uspelo (obv...)
 1933 je postal ka1ncler (predsednik vlade)
-
-NSDAP?
 Evgenika= program čiščenja 'nepotrebnih' ljudi
+
+Program Hitlerjeve stranke NSDAP: on je vedno izhajal iz tega, da ni on nič kriv, ampak je kriva okolica. Tako kot ni prišel na umetnostni faks zaradi 'slabe komisije' tako so bili tudi vir za probleme NEM drugi (Judje, ...) Hitler je bil prvi politik v NEM, ki je spremenil komunikacijo z ljudstvom (namesto tega, da je bral iz lista je igral, govoril glasno z raskavim glasom, preveč poudarjene kretnje, brki so bili tudi, za njegov znak, da bo drugačen in prepoznaven) in to je prevzelo ljudstvo [program NSDAP][https://www.wikiwand.com/en/articles/National_Socialist_Program] 
+
+**Sodelavci** (poglej to na pptju)
+- SA Rohm
+zob strup kapsula
+Vzpon na oblast: Hitler je prišel na oblast po legalni poti
+
+
+Reichstag - nemški parlament, ki ga je Hitler dal požgati takoj, ko je bil kancler. 
+![[Reichstag1.webp]]
+
+Sprememba ustavnega parlamenta po požaru:
+- Dan po požaru - izdan odlok za zaščito naroda s katero so bile ukinjene osnovne državljanske pravice
+- zvezna vlada je dobila pooblastilo, da ze vzpostavitev javnega reda v državi iz odločanja izloči deželne vlade
+- parlament je sprejel zakon o posebnih pooblastilih s katerim so bile odpravljene vse temeljne pravice
+- že ena alineja je na pptju pa tukej fali
