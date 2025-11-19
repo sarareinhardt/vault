@@ -224,3 +224,84 @@ piss off.'
 3) She started saying mad things.  Marcus doesn’t need a father – not like you. Will was confused. She tells him Marcus wants adult male company. She kinda wants Will to be in his life, at the same time doesn’t. She wants to talk about the situation.
 4) This was the first time he was out with a woman he didn’t find attractive. He didn’t flirt, he was absorbed in the convo.
 5) They talked about Marcus wanting male company. Will said it was just “an attack” at her, he doesn’t really need it. They agreed it was best if Marcus & Will don’t see each other again?
+
+   ##### Chapter 19
+ 1) Why didn’t Marcus want Will and his mom to talk anymore?
+	Marcus was afraid that if his mum and Will talked, **they would bring up things that could cause trouble**.  
+	He didn’t want Will to mention Marcus’s attempt at blackmail, he didn’t want his mum talking about how much TV he watched, and he didn’t want them discussing the hospital because it might make his mum “go funny again.”  
+	Basically, **every possible topic felt dangerous**, so he wanted them to stop talking.
+
+2. Who was Ellie?
+	Ellie McCrae was a **year-ten girl**, known for being **rebellious, scruffy, sulky**, and **constantly in trouble**.  
+	She cut her own hair, wore black lipstick, and had a reputation that made her “famous” at school. She was older then Marcus. They met randomly. They met in front of the headmistresses office. He was supposed to meet with the headmistress because of the stolen shoes. Ellie was also there. He remembered his mum told him to try to meet people from school 
+
+3. Why did Ellie have to see the Headmistress?
+	Ellie had to see Mrs Morrison because of her **sweatshirt**, which **did not have the school logo**. She was instead wearing a Kurt Cobain sweatshirt, and she refused to take it off, so the school saw it as a disciplinary issue. Marcus misheard the name. he heard Kirk O’Bane
+
+4. What was it like for Marcus when he met Mrs Morrison?
+	The meeting went badly.  
+	Mrs. Morrison suggested he should “try keeping out of their way,” which Marcus found stupid and insulting, because he obviously thought of that.  
+	He became frustrated, **lost his temper**, and eventually **walked out**, which made him feel oddly free and excited — as if he were “letting go” and becoming someone different, even a truant. ("sit down young man, I'm not done with you" and Marcus replied "I'm done with you") He felt great because he finally stood up for himself. He then went and skipped school.
+
+##### Chapter 20
+1. Will liked driving around London because he enjoyed the traffic, the feeling of being part of the city, knowing his way around, and being able to play loud music in the car without disturbing anyone. He listened to Nirvana. He was listening to it verry loudly, which he couldn't do at home, as his neighbors would protest it
+    
+2. He saw Marcus while driving, but he didn’t stop the car. Even though he felt a sudden affection for Marcus, he preferred not to stop because it was easier to stay fond of him from a distance. He was concerned, because he knew he should be at school.
+    
+3. Later in the afternoon, at exactly 4:15, Marcus buzzed Will’s door. He had clearly timed it perfectly so it wouldn’t look suspicious that he had skipped school. Eventually he did get in despite Will
+    
+4. Will didn’t let him in at first, ignoring the buzzer several times. After Marcus buzzed nonstop for over thirty minutes, Will finally gave up and let him in.
+    
+5. When Will asked Marcus about school, Marcus tried to lie. Will then revealed he had seen Marcus skipping that afternoon. Marcus panicked and blamed Mrs Morrison for telling him to keep away from the bullies.
+    
+6. Marcus asked Will to go and see Ms. Morrison
+    
+7.**What did Will realise about Marcus** 
+	   Will realized that Marcus didn’t need a father figure to teach him how to grow up — he needed someone to help him be a kid, understand basic things other kids knew, and survive school socially. He could do that. He needed to know things like popular music, fashion, ...
+
+##### Chapter 20
+- **Why was Ellie still teasing Marcus?**  
+    Ellie was still teasing Marcus because she thought he was funny. She and her friend enjoyed the way he spoke and how seriously he took everything. His reactions amused them, so they kept joking with him.
+    
+- **Did Marcus like Nirvana?**  
+    At first Marcus didn’t really like Nirvana — it sounded like noise to him. But after listening more, he began to understand it a bit and could hear some of the tune. He didn’t love it, but he could see why someone like Ellie might like their music.
+    
+- **How did Marcus start building a bond with Ellie?**  
+    Marcus started building a bond with Ellie by talking to her at the vending machine, trying to join in with her jokes, and unintentionally making her and her friend laugh. The girls found him amusing and interesting, and Ellie began to include him, defend him, and even call him her friend. This made Marcus feel accepted for the first time.
+##### Chapter 21
+- **Why was Ellie still teasing Marcus?**  
+    Ellie was still teasing Marcus because she and her friend found him funny. His seriousness, the way he answered questions, and how he didn’t understand their jokes made them laugh, so they kept teasing him in a playful way.
+    
+- **Did Marcus like Nirvana?**  
+    Marcus didn’t really like Nirvana at first — it mostly sounded like noise to him. But after hearing more, he could pick out the tune and understand why someone like Ellie might enjoy them, even though he still preferred the music he normally listened to. He was still interested in Nirvana, because Ellie liked it
+    
+- **How did Marcus start building a bond with Ellie?**  
+    Marcus began building a bond with Ellie by talking to her at the vending machine, trying to join her jokes, and unintentionally making her and her friend (Zoe) laugh. They enjoyed his odd sense of humour, included him in conversations, stood up for him, and even publicly called him their friend. This made Marcus feel accepted and closer to Ellie. They constantly bumped into each other which helped strengthen the bond. Ellie also protected Marcus by 
+##### Chapter 22
+- **How did Will try to avoid Christmas?**  
+    Will originally planned to avoid Christmas by staying alone, watching movies, getting drunk and smoking joints. But he began to feel that spending Christmas alone like that made his life look sad, so he tried to avoid ending up with Fiona and Marcus—and then accidentally accepted Marcus’s invitation anyway.
+    
+- **What was it like at Christmas dinner?**  
+    Christmas dinner was crowded but surprisingly pleasant. Fiona, Clive, Lindsey, Lindsey’s mum, Marcus, and Will all sat together. Will expected it to be awkward with just Marcus and his mum, but instead everyone tried to be friendly and get along. It wasn’t perfect, but it made Marcus happy, and even Will enjoyed the temporary harmony before the arguments eventually started.
+    
+- **What presents did Will bring for Fiona and Marcus?**  
+    Will brought Marcus a vinyl record of _Nevermind_ and a Kurt Cobain T-shirt. He brought Fiona a stylish and expensive glass vase for her flowers. Fiona gave will a book called Single Parent's Handbook as a joke
+    
+- **How did Will change his mind about Marcus?**  
+    Will realized Marcus was actually a good kid — thoughtful, grateful, and able to appreciate gifts even when they weren’t exciting. He saw that Marcus saw the world differently from other people, not with cynicism but with genuine appreciation. This made Will feel differently about him and see him in a kinder, more understanding way.
+##### Chapter 23
+- **How was Christmas different for Marcus?**  
+    Christmas was different for Marcus because it felt more like a lively party than a small family day. He got “serious” presents from his mum and fun ones from his dad, and with Will, Lindsey, and Lindsey’s mum there, the room felt full and busy. He liked the mix — it felt bigger, happier, and less boring than it would have been if it were just him and his mum. That was until Clive (Marcuse's dad) started to roll a joint. Fiona was angry that he was doing that in front of Marcus
+    
+- **Who else came to the party? How did Will feel?**  
+    Clive (Marcus’s dad), Lindsey, and Lindsey’s mum all came to the party. Later, Suzie and her daughter Megan arrived too.  
+    At first, Will felt surprisingly comfortable and even part of the group. But after the row about Clive’s joint, and especially when Suzie arrived and snubbed him, he felt awkward, embarrassed, and suddenly separate from everyone else.
+    
+- **What did Megan do?**  
+    Megan walked around the Christmas tree and chose someone to give a present to. She handed a gift to Will and made him open it with her. This forced Will into an uncomfortable interaction with her and with Suzie, who told him to “play with her.”
+    
+- **How did the conversation between Will and Suzie continue?**  
+    Their conversation was tense and awkward. Suzie ignored Will at first, then criticised him, saying he should learn how to play with kids and mocking him about his fake “Ned” story and pretending to be a single parent. Will got defensive and irritated, which made the atmosphere even more strained.
+    
+- **How and why did Marcus take Will’s side?**  
+    Marcus stood up for Will by arguing that Will had been kind to him — he listened to Marcus, helped him with the shoe problem, bought him trainers, and understood things like Kurt Cobain. Marcus said it wasn’t fair that Will was being attacked when he was the only guest Marcus himself had invited. He defended Will because he genuinely cared about him and didn’t want him to be driven away.

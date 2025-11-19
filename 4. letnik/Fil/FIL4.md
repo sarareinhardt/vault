@@ -12,13 +12,9 @@ Zaključek:
 Se opredeliš a se bolo nagibaš proti za/proti/rečeš da si neopredeljen, hkrati pa v zaključku odgovoriš na stvar, ki si jo izpostavil v uvodu
 
 
-Naslovi  člankov:
-(U. Galimberti: Pomanjkanje nas premika;)
-Marušič: Proti družbeno koristnemu raziskovanju);
-5. http://www.kvarkadabra.net/heraklit-parmenid
-(Sašo Dolenc: Tujci v lastni deželi;
-(Lenart J. Kučić: Ugrabljene alternative)
-
+Naslovi  člankov esej 2:
+https://www.youtube.com/watch?v=oJfFMoAgbv8
+	Sokrat 1. filozof, ki postavi vprašanje pojma (velja za 1. znanstvenika, vprašanje bistva, kaj je pojem/definicija pojma)
 
 Konformizem
 Retorika ubija filozofijo, ker ustvarja konsenz

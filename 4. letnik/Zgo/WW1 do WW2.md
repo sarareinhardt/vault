@@ -1,4 +1,7 @@
-Spraševanje od konca 1. svetovne vojne
+
+```table-of-contents
+
+```
 # Versailleski mir
 
 Po vsej verjetnosti povod za ww1
@@ -223,3 +226,27 @@ Sprememba ustavnega parlamenta po požaru:
 - zvezna vlada je dobila pooblastilo, da ze vzpostavitev javnega reda v državi iz odločanja izloči deželne vlade
 - parlament je sprejel zakon o posebnih pooblastilih s katerim so bile odpravljene vse temeljne pravice
 - že ena alineja je na pptju pa tukej fali
+
+
+___
+# Test 2
+
+##### Spreminjanje NEM družbe
+- vključenost vseh Arijcev v organizacije (Hitlerjugend)
+- Ideologija rasizma v šole, vrtce
+- organizacija LEBENSBORN ustvarja čisto raso
+- militarizacija NEM - SS (elitni varnostni oddelki), GESTAPO (tajna policija)
+	- Militarizacija družbe $\rightarrow$ preusmerjaš ljudem miselnost v vojno, dobivaš letake na dom o tem kaj je treba narediti ob raznih alarmih, 2 mesečna mobilizacija 'za vsak slučaj'
+Ko je Nemčija začela svoje meje širiti je svoj sistem prenesla tudi drugam (Balkan, Ukrajina, Avstrija, ...) Pripelje do tega, da so bosansko-hercegovski muslimani korakali z Nemci (ker so sovražili Hrvate in se to nekak povezuje)
+![[1280px-1943_occupied_Sarajevo.webp|400]]
+<center>Nazi troops in Sarajevo</center>
+##### Odstranjevanje nasprotnikov
+Jude so bojkotirali - tiste, ki so imeli zasebni kapital: nisi smel v judovski trgovini kupovat stvari (čeprav so bili zelo kvalitetni)
+- niso smeli imeti hišnih ljubljenčkov
+- niso smeli hoditi v parke - populacija bi lahko videla, da so normalni, s segregacijo so Jude odtujili
+- niso smeli hoditi po pločnikih
+- Judje so v šolah sedeli v zadnji vrsti, arijci pa spredaj.  Možno, da so bili prej prijatelji, a zdaj so 
+**KRISTALNA NOČ:** vrh vsega, vse razbijajo, 
+Davidova zvezda: judje so bili razdeljeni na Izraelske in Judovske rodove. Ker niso bili združeni so izraelci ene odpeljali v Asirsko in druge v Babilonsko suženjstvo. Ta David po katerem je bila poimenovana zvezda jih je združil v državo
+
+1935 leta vojaška obveznost, priključijo si Porenje (ni dokončala stavka rip)

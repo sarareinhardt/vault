@@ -158,7 +158,7 @@ Zaradi Versajskega mira se 20 let kuha zamera
 - krize se zgodijo tudi, ker je med vojno gospodarsko temeljilo na proizvodnji orožja; zdaj pa je bilo potrebno industrijo preusmeriti.
 - zaradi krize pride do vzpona novih ideologij, ki ponujajo hitre rešitve: fašizem, nacizem, komunizem.
 
-##### **JUDE**
+##### **JUDI**
 svoje države ne dobijo do 1948
 po 1. svetovni vojni je bila Palestina na njihovem območju
 nastanejo mandati – neavtonomne države
@@ -663,6 +663,19 @@ Odstranjevanje nasprotnikov
 
 
 
+
+
+
+
+
+
+
+
+→ **4 ločene mirovne pogodbe** (z vsako poraženko so posebej podpisali mirovne pogodbe; prva – nemška – je bila v Versaillesu in je bila podlaga za ostale 3):
+- _Trianon:_ Madžarska (izgubi 2/3 ozemlja)
+- _Saint Germain:_ Avstrija
+- _Sevres:_ Turčija
+- _Neuilly:_ Bolgarija
 
 
 
