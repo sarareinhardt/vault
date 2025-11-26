@@ -396,7 +396,7 @@ VB in FRA se razglasita za nevtralni.
 VB je obema stranema prodajala orožje.
 FRA pa ni bila pripravljena sprejeti beguncev iz Španije.
 
-VB in FRA sta furali politiko popuščanja, ker sta si reševali rit (lmao peak Živa zapiski) in zato, ker sta bili ponosni na lovorike. Šele ko sta videli, kako dela Hitler, sta se začeli oboroževati.
+VB in FRA sta imeli politiko popuščanja, ker sta se poskušali reševati provlemov in zato, ker sta bili ponosni na lovorike. Šele ko sta videli, kako dela Hitler, sta se začeli oboroževati.
 
 Še celo Chamberlain (VB) in francoski predsednik se sestata z Nemčijo; zato da je lahko Hitler zasedel del Češkoslovaške. Ko Hitler zasede Sudete, VB postavi mejo in določi, da si ne sme Nemčija več ničesar priključiti, drugače bo prišlo do vojne.
 1. 9. 1939 Hitler napade Poljsko. 3. 9. gresta Francija in VB v vojno, saj spoznata, da se Hitler ne bo ustavil.
