@@ -250,3 +250,34 @@ Jude so bojkotirali - tiste, ki so imeli zasebni kapital: nisi smel v judovski t
 Davidova zvezda: judje so bili razdeljeni na Izraelske in Judovske rodove. Ker niso bili združeni so izraelci ene odpeljali v Asirsko in druge v Babilonsko suženjstvo. Ta David po katerem je bila poimenovana zvezda jih je združil v državo
 
 1935 leta vojaška obveznost, priključijo si Porenje (ni dokončala stavka rip)
+- 1934 se začne **čiščenje družbe**
+- 1934 **NOČ DOLGIH NOŽEV** - SA
+- 1933 prva koncentracijska taborišča
+- program Evgenika
+- 1935 Židovski zakoni (bojkot podjetij, odpustitev iz javnih služb, davidova zvezda, prepovedano poročanje, odvzem državljanstva, razlastitev, KRISTALNA NOČ)
+Najprej Mussolini ni mel nič proti judom, zato se nekateri zbirali jude in jih peljali v ITA, da bi se tam skrili, po tem pa je moral Mussolini spremeniti odnos z Judi, da je lahko sklenil zavezništvo s Hitlerjem
+
+ZAPOMNI SI:
+**1935 - rasni zakoni** [**Nürnberški** kodeks/zakon](https://www.wikiwand.com/en/articles/Nuremberg_Laws) (Rudolf je rekla zakon google pravi kodeks)
+**1942 - dokončna rešitev judovskega vprašanja**
+
+1
+Evgenika: 400.000 Nemcev je bilo podvrženih prisilni sterilizaciji
+
+##### Popravljanje versailleskega miru
+ppt slide
+Zunanja politika - tut ppt2
+- leta 36. politično zavezništvo z ITA
+
+nek trojni pakt je naredu hitler in pritiskal na madžarsko in italijo da sta se pridružili??
+
+##### Inovator fašizma - Benito Mussolini
+Časovno ga postavljamo pred Hitlerja in lahko rečemo, da je bil Hitler Mussolinijev učenec. Občudoval ga je. V resnici še v času ko je vspostavljal NSDAP se je zgledoval po fašistični ITA in po Mussoliniju. Mussolinijev cilj je bil obnova Rim. imperija, moč Italije.
+![[mussolini-giving-the-roman-salute-infront-of-a-statue-of-v0-r44e03qom8ff1.webp|400]]
+Mussolini
+Mussolinijevi vojaki so bili črnosrajčniki po barvi uniforme. Gor so imeli napisano "me ne briga"  Bili so *skvadristi* te se požvižgajo na pravila, norme...Te Mussolinijevi fašisti so s palicami in kiji pretepali in preganjali stavkajoče delavce, potem pripadike drugih strank (komunistična), pripadnike manjšin (SLO). Mussolini če je hotel angažirati sledilce je moral nekaj ponudit (tako kot je Hitler ponudil združen narod, delo, prekinitev plačevanja reparacij, ...) ITA je bila na zmagovalni strani in niso bili nič kaznovani, ampak so pričakovali več. Po londonskem sporazumu jim je pripadala Dalmacija, Rijeka,  $\frac{1}{3}$SLO. Dobili so $\frac{1}{3}$SLO, niso pa dobili Dalmacije & Rijeke, kot največjega pristanišča, ker je bilo določeno, da bo Rijeka svobodno pristanišče pod mednarodnim nadzorom. En ITA pesnik je s prostovoljci Rijeko zasedel. Mednarodne sile bi morale takrat njega ustaviti in ustaviti Mussolinija ampak ig pač niso...Mussolini jim je ponudil obnovo rimskega imperija, to kar jim je bilo obljubljeno v Londonskem sporazumi in obljubil jim je nekdanjo slavo iz časa rimskega imperija (Mi Italiani!, Mi slovenci!) V vse družbene pore je upeljeval ideologijo vojne ("Vojna je za moške tisto kar je za ženske porod" - kot telesna preizkušnja/iniciacija - če se nisi enkrat preizkusil v vojni nisi pravi moški. "minuta na bojišču je vredna več kot vse življenje v miru" ) Mussolini do žensk ni imel tako slabega odnosa kot Hitler. Hitler je rekel da so ženske samo da rodijo in vzgojijo otroke. Mussolini je spoštovaol ženske. Itonija je da je končal življenje tako, da so ga ustrelili in njega in njegovo ljubico v Milano semizdi kot sporočilo, da diktatorja ni več. Začeli so ju tolči s palicami in se izživljali nad njima, na koncu pa so ju zavezana za noge obesili.
+**Črnosrajčniki** me ne frego = me ne briga
+**Vzpon Mussolinija**
+leta 1919 je ustanovil *Fascio di combatimento* v tem času je ITA bila zelo ne mirna država. Jug je bil nerazvit, sever pa razvit. Jug je moral denarno zalagati jug. S - izobražen J-nepismen. Vlada je bila skorumpirana in je sprejemala odločitve ki so bile take kot so ustrezale kapitalu. Mussolini je preganjal stavkajoče delavce, neitaliane berače, komuniste, ki so kot v vseh drugih državah predstavljali nevarnost za komunistično revolucijo. Vlada vodi državo po ustavi. Ne smejo preganjati stavkajočih delavcev, ker so imeli to pravico. Za to jim je bilo všeč, da je Mussolini delal red v državi s skvadristi. Vlada je dopuščala, da se je vse to dogajalo in M. se je odločil, da je zdaj dovolj močen, da bi prvzel državno oblast. Naredil je stranko PNF (partita nazionale fascista) Mussoliniju to ni bilo dovolj, ker bi trajalo pre dolgo, da bi volilno telo spreobrnil. Zato je od vlade zahteval, naj mu izročijo mandat za sestavo vlade (to pomeni, da on postane predsednik vlade in sestavi svojo vlado) in zagrozil, da bo v nasprotnem primeru s skvadristi izvedel državni udar. Naredili so pohod v Rim kot državni udar. M. sploh ni šel tja ampak se je z zdajšnjim predsednikom po telefonu pogovarjal med tem ko so njegovi hodili proti rimu. Ko so prišli v Rim niso rabili nič narediti, ampak so zelo napihnili zgodbo kako so se rabili boriti in koliko jih je padlo itd. V Rimu se samo sprehodijo ob zastavah. Začne z ustrahovanjem poslancev v parlamentu, odstranjevanjem (ubijanjem) političnih naspreotnikov (vrhunec ko da ubit nekega socialista) ostali so enostavno odstopili od svojih poslanskih funkcij, parlament pa so napolnili sami fašisti. Ključni korak, ki ga je uvedel M. je bilo to, da je uradno sprejel zakon, da tista strank, ki na parlamentarnih strankah zmaga ne glede na udeležbo ne glede na procent dobi $\frac{2}{3}$poslanskih sedežev, ker je to več kot večina in če hočeš spreminjat ustavo rabiš $\frac{2}{3}$ glasov. Na ta način je šel okoli demokracije. Tako je popolnoma zakonito uvedel smrtno kazen za politične delikte. Smrtna kazen na splošno namesto, da bi jo omejil jo je povečal, cenzura medijev, moral je ustvariti vojsko, kar je začel v vrtcu in v šoli
+ ![[Untitled.png]]
+Povezane palice predstavljajo močni smo skupaj, sekira pa pokorščina

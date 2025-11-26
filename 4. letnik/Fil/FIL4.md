@@ -2,6 +2,8 @@
 [[Kaj je filozofija]]
 [[Primerjava Descartesovega in Lockovega pojmovanja idej]]
 [[4. letnik/Fil/Test|Test]]
+[[Blueprint za eseje]]
+[[3 Descartes Meditacije]]
 
 Esej pri skupni fil:
 Uvod:

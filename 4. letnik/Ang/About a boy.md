@@ -291,17 +291,64 @@ piss off.'
     Will realized Marcus was actually a good kid — thoughtful, grateful, and able to appreciate gifts even when they weren’t exciting. He saw that Marcus saw the world differently from other people, not with cynicism but with genuine appreciation. This made Will feel differently about him and see him in a kinder, more understanding way.
 ##### Chapter 23
 - **How was Christmas different for Marcus?**  
-    Christmas was different for Marcus because it felt more like a lively party than a small family day. He got “serious” presents from his mum and fun ones from his dad, and with Will, Lindsey, and Lindsey’s mum there, the room felt full and busy. He liked the mix — it felt bigger, happier, and less boring than it would have been if it were just him and his mum. That was until Clive (Marcuse's dad) started to roll a joint. Fiona was angry that he was doing that in front of Marcus
+    Christmas was different for Marcus because it felt more like a lively party than a small family day. He got “serious” presents from his mum and fun ones from his dad and Will, and with Will, Lindsey, and Lindsey’s mum there, the room felt full and busy. He liked the mix — it felt bigger, happier, and less boring than it would have been if it were just him and his mum. That was until Clive (Marcuse's dad) started to roll a joint. Fiona was angry that he was doing that in front of Marcus. The atmosphere became quite tense after that. Fiona was right to comment on is, as it isn't appropriate to do that in front of Marcus.
     
 - **Who else came to the party? How did Will feel?**  
     Clive (Marcus’s dad), Lindsey, and Lindsey’s mum all came to the party. Later, Suzie and her daughter Megan arrived too.  
     At first, Will felt surprisingly comfortable and even part of the group. But after the row about Clive’s joint, and especially when Suzie arrived and snubbed him, he felt awkward, embarrassed, and suddenly separate from everyone else.
     
 - **What did Megan do?**  
-    Megan walked around the Christmas tree and chose someone to give a present to. She handed a gift to Will and made him open it with her. This forced Will into an uncomfortable interaction with her and with Suzie, who told him to “play with her.”
+    Megan walked around the Christmas tree and chose someone to give a present to. She handed a gift to Will and made him unwrap it with her. He wasn't willing to participate, but Susie asked him to do it for Meghan. When he opened it it was a toy. Susie pressured him to play with Meghan and will was uncomfterble.
     
 - **How did the conversation between Will and Suzie continue?**  
     Their conversation was tense and awkward. Suzie ignored Will at first, then criticised him, saying he should learn how to play with kids and mocking him about his fake “Ned” story and pretending to be a single parent. Will got defensive and irritated, which made the atmosphere even more strained.
     
 - **How and why did Marcus take Will’s side?**  
-    Marcus stood up for Will by arguing that Will had been kind to him — he listened to Marcus, helped him with the shoe problem, bought him trainers, and understood things like Kurt Cobain. Marcus said it wasn’t fair that Will was being attacked when he was the only guest Marcus himself had invited. He defended Will because he genuinely cared about him and didn’t want him to be driven away.
+    Marcus stood up for Will by arguing that Will had been kind to him — he listened to Marcus, helped him with the shoe problem, bought him trainers, and understood things like Kurt Cobain. Marcus said it wasn’t fair that Will was being attacked when he was the only guest Marcus himself had invited. He defended Will because he genuinely cared about him and didn’t want him to be driven away. He also said he was allowed to bring a friend and argued if Lindsey's mum who was uninvited could be there so could will.
+##### Chapter 24
+- Rachel was the woman Will fell in love with on New Year's Eve. She illustrated children's book Bohemian, clever, lots of long, unruly dark hair.
+
+- **Why didn't Will appreciate falling in love?**
+	When he saw his friends fall in love, it had always struck him as a particularly unpleasant-seeming experience. He just thought od the worst case scenario - when it was unreciprocated. The loss of sleep, weight, ... didn't seem worth it when it eventually goes wrong. Bottom line: he thought of it as just a way to complicate life. He didn't like that you can't control love, so he concluded it would only bring him misery. He also didn't have anything to offer for the other person apart from money, so he felt like a looser. He thought to himself - how could any beautiful intelligent woman fall in love with a loser like him.
+
+- **What did he realise was the most interesting thing about his life?**
+	Marcus. He realized he could use Marcus to give some sort of meaning to his life
+- 6. Ellie, Because her and Marcuse's mums were friends. 
+- 7. Marcus felt like he needed to take care of his mum
+- 8. She first asked him about the previous year. He said it was bad, and Ellie eventually told him that she knew about his mum. 
+- 9. They bonded because Marcus felt way more at ease talking about serious things 
+- 10. She showed him her mum making out with a guy. Marcus ended up being more shocked then Ellie. He realized then, that other mums were also imperfect.
+
+
+##### Chapter 29 - 36
+1. How was it different for Marcus when his mother started crying again?
+	It was different because _he was now surrounded by people who cared_ — he wasn’t alone anymore, and he could talk to Will.
+2. What happened when Marcus met Ellie after a while?
+	They talked again, and Ellie behaved normally toward him; she even helped scare off other kids for him.
+3. How and why did Ellie frighten Marcus?
+	She led him into a classroom, scared off several kids with threats, and showed how aggressive and unpredictable she could be — which intimidated Marcus. She chased Marcus into the toilet, comforted him, hugged him. She saw what she caused
+4. What was Will’s relationship with Rachel like?
+	It was _strange but developing_ — awkward, emotional, but becoming more serious and intimate. He wasn't just interested about having sex and leaving, but this time it wasn't a priority, which surprised even him. They had a conversation about "the point" in a way she looked at Will's life curiously, because he didn't have a job/a child. He rather enjoyed the little things in life. They said the little things and unfinished things are the point
+5. What did Rachel suggest that surprised Will?
+	She suggested that she would talk to Fiona herself, because it might help. He loved the suggestion, because Marcus asked him to help and he wouldn't even have to do it.
+6. The beginning of spring brought better weather in London and Marcus became more optimistic. What did his mother tell him?
+	She told him that _his father had hurt himself_ — he had fallen off a window ledge and broken his collarbone, and Marcus had to go visit him. It wasn't really a big deal, but Clive made it a big deal. Marcus didn't want to hear it, because he didn't want Marcus there when he was okay so why would he want to go only now when he's hurt.
+7. What made him change his mind about visiting his dad?
+	Ellie encouraged him to go and “tell his dad what he thought of him.” To tell him what a jerk of a father he was. Ellie would bully him. He was offended to be summoned only when he feels like it She also said she would come with him — which made Marcus want to go.
+8. What did Marcus notice when he was on his way to his dad’s? What worried him?
+	He saw the newspaper headline about _Kurt Cobain’s death_.  
+	He worried Ellie would see it and be devastated, since Kurt was her idol. To Ellie he was a "real person"
+9. How did Marcus try to protect Ellie?
+	He tried guiding her through the station _with her eyes closed_, so she wouldn’t see the newspapers showing Kurt Cobain’s face. She was willing to do it and wanted to play along for a while, but then she told him she knew, but that she liked that he tried to protect her. She showed him a bottle of vodka and told him that was the way she was going to cope with it. Marcus didn't like that and realized that inside school she had to at least somewhat obey the rules. She didn't care how the world saw her and Marcus was kind of dissappointed
+10. How did Will arrange the meeting with Rachel and Fiona? What happened?
+	Will invited Rachel and Fiona to meet, but during the meeting he said too much and tried to “explain the point of things,” leading to awkwardness and misunderstanding.
+11. How did their conversation progress?
+	Fiona started crying. He told her he couldn't help her. Fiona opened up and told him she was depressed. Surprisingly to will that ended up helping her because she just needed to tell someone which made it easier for her and at the same time will also learned a few things about her. She explained that it was an illness and that it was serious and not just melancholy.
+12. What happened when they were on their way back to Fiona’s?
+	They heard on the radio that Curt Cobane died.
+13. What did they hear on the answerphone machine?
+	Marcus was calling them from the police station and he was terrified and lonely 
+14. What did Marcus realise about Ellie when they were on the train?
+	He didn't want Ellie to be his girlfriend. She was drinking, swearing, ... She was no girlfriend material. He realized he needed someone quieter who likes reading books. He also thought she overreacted to Kurts death. When he asked what was she mad about and she said life and that life is "shit" He thought she didn't really have a reason strong enough to say her live was shit especially in comparison to Marcus with his mum having attempted suicide. He wonders if will and Ellie 
+15. How did Marcus give Ellie a lesson
+	 He told her she doesn't have real problems and told her to look at his mum and the problems she has. He told her she enjoys her life too much

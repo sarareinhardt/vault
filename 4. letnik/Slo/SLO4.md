@@ -8,6 +8,10 @@
 [[Reiner Maria Rilice]]
 [[Federico Garcia Lorca - Vitezova pesem]]
 [[Marcel Proust]]
+[[Besedotvorje]]
+[[Besedilne vrste]]
+[[Oblikoslovje]]
+[[Franz Kafka (1883 - 1924)]]
 
 
 
