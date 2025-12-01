@@ -22,11 +22,14 @@ Za tem se Descartes vpraša po izvoru idej. Pride do tega, da imamo prirojene, n
 
 
 Za konec imam samo vprašanje in sicer kaj ste mislili z vlogo Boga v meditacijah na miselnem vzorcu iz današnje ure? Je to to kar sem napisala - torej razrešitev 3. stopnje dvoma in odprava solipsizma ali bo morala še kaj dodati?
+- razlika pri D. dokazovanju boga to da najprej dokaže svoj obstoj in potem iz sebe dokazuje obstoj boga
+- kritičnost do D. zagotavljanja da je bog vsemogočen, če ima bog svobodno voljo pri kateri bog nima vpliva
 
-A je fora da si lahko ustvarim idejo Sfinge to da ma manj objektivne realnosti kot imam jaz formalne realnosti???
+
+A je fora da si lahko ustvarim idejo Sfinge to da ma manj objektivne realnosti kot imam jaz formalne realnosti???  - NE to *ne smeš mešat baje* 
 
 Zakaj potrebuje D. Boga in kako zapade v krožni argument, lahko bi se navezovali na Spinozo ali Heglja in povedali kako ona 2 rešujeta ta problem, da ne rabita xtra Boga,  
-myb glede časa še kaj (da recimo ni mogel svobodno česa razpravljati, ker je bilo vprašanje življenja in smrti)
+myb glede časa v katerem je D. živel še kaj (da recimo ni mogel svobodno česa razpravljati, ker je bilo vprašanje življenja in smrti)
 
 Nekaj kar i
 
