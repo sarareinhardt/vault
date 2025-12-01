@@ -34,3 +34,13 @@ String a =  "tvoja mamiii";
 > [!QUESTION]- Kaj je rezultat:
 >-
 >string index 420 out of bounds exception
+
+
+> [!QUESTION]- Wait how did I do thatt:
+>-
+>askjkdajsdald
+
+
+>[!QUESTON]- Omg:
+>-
+>Yo so prei like model or cheerleader soming prei

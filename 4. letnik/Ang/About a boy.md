@@ -352,3 +352,26 @@ piss off.'
 	He didn't want Ellie to be his girlfriend. She was drinking, swearing, ... She was no girlfriend material. He realized he needed someone quieter who likes reading books. He also thought she overreacted to Kurts death. When he asked what was she mad about and she said life and that life is "shit" He thought she didn't really have a reason strong enough to say her live was shit especially in comparison to Marcus with his mum having attempted suicide. He wonders if will and Ellie 
 15. How did Marcus give Ellie a lesson
 	 He told her she doesn't have real problems and told her to look at his mum and the problems she has. He told her she enjoys her life too much
+16. What happened at Royston station?
+
+17. What happened when they were caught?
+
+18. Marcus’s father and Lindsey were the first to turn up at the police station. How did Ellie introduce herself to them?
+
+19. What was it like when Will, Fiona and Ellie’s mother got to the police station?
+
+20. How did the owner of the shop, Ruth, and Ellie discuss the problem?
+
+21. What did Fiona do and why?
+
+22. Why did Marcus turn away from Fiona and go to Will?
+
+23. Afterwards Marcus went with his dad and Lindsey. What did Marcus realise?
+
+24. What was the conversation between Clive and Marcus like?
+
+25. Will took Ali and Marcus to many places on Saturday afternoons. What change in Marcus did he notice?
+
+26. What did Ali ask Will?
+
+27. What was Marcus’s explanation?

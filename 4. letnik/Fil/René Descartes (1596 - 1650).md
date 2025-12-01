@@ -6,6 +6,8 @@ koordinatni sistem
 umre v Stockholmu, myb zastrupljen ampak ni 100%
 študiral na Sorboni, pravi, da je po študiju imel več vprašanj kot odgovorov.
 
+
+
 racionalizem = proces spoznavanja skozi razum, ki pa ima po Descartesu že neke prirojene ideje
 
 **Stopnje dvoma**
@@ -44,6 +46,10 @@ Gozd ima večjo *formalno realnost* kot drevo
 **(um) Kriterij za resnico po Descartesu** je jasna in razločna misel, čutila pa so temna, zmedena - zagovarja stališče, da čutila zadostujejo, da preživimo v materialnem svetu in ne potrebujejo takšne natančnosti kot matematične resnice
 
 slavna 13. točka??
+
+Zakaj se ljudje lahko motimo?; ker nismo popolni, torej je naša volja do odločitve večja od našega razuma, ki nima vseh podatkov za odločitev - ne odločamo se vedno z vsemi podatki. (edina lastnost, po kateri smo Bogu enaki, je svoboda, torej svoboda, da naredimo neinformirano odločitev)
+
+Ont. d. bistvo vsake stvari je ideja, pri Bogu pa je ta posebnost, da ideja njega nujno sovpada z bivanjem, ker če nebi bival potem to nebi sovpadalo z njegovo popolnostjo?
 
 8. točka 4. meditacije "Jaz imam svobodno voljo, ki je enaka svobodni volji boga"
 ##### Meditacije; 1641
