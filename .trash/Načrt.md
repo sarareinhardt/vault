@@ -1,34 +1,3 @@
-
-
-![[_Jan.pdf]]
-
-
-učb za FIL Maria Fürst
-Razprava o človeškem razumu - Lock
-Lock: tipični predstavnik empirizma
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Plan seminarske naloge: Primerjava Descartesovega in Lockovega pojmovanja idej
 
 ##### 1. Uvod
@@ -69,18 +38,6 @@ Lock: tipični predstavnik empirizma
 - Povzetek ključnih razlik.
 - Lastna ocena prepričljivosti obeh teorij.
 - Pomen razprave za razvoj moderne filozofije.
-
-
-
-
-
-
-
-
-
-
-
-
 
 https://plato.stanford.edu/entries/locke/
 učb za FIL Maria Fürst

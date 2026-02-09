@@ -7,6 +7,8 @@ Iz tega izpelje 3 stopnje dvoma. V prvi se navezuje na čute, za katere je kot o
 
 Samo to, da je stvar jasna in razločna še ni bilo dovolj, ker je še vedno imel problem potencialnega varanja zlobnega duha, zato na tem mestu Descartes vpelje Boga. Boga dojema kot neskončno in popolno bitje in uporabi kavzalni dokaz o obstoju boga, ki pravi, da ideja neskončnega in popolnega bitja nikakor ne more izvirati iz Descartesa, saj je končen in nepopoln. Zato mora tako bitje obstajati in to bitje je bog. To razširjeno utemelji s tem, da v tem dokazu uvede razliko med objektivno in formalno realnostjo. Formalna realnost je to, kar mi lahko čutimo s čutili. Npr. jaz kot misleča stvar imam formalno realnost, drevo ima formalno realnost... Objektivna realnost pa je realnost ideje v mojem umu torej npr. ideja tega prej omenjenega drevesa. Ideja boga ima najvišjo stopnjo objektivne realnosti, ker predstavlja neskončno in popolno bitje. Sledi, da ker ima Descartes kot končno in nepopolno bitje manj formalne realnosti kot ima ta ideja objektivne realnosti on ne mora biti vzrok te ideje. Zato mora biti vzrok te ideje nekaj kar je samo neskončno in popolno - torej Bog. Pravi, da ga Bog ne bi varal, ker je popoln in če bi ga varal se to ne bi skladalo z njegovo popolnostjo in s tem razreši 3. stopnjo dvoma. 
 
+Tu se pojavi Descartesov krožni argument. Da bi odpravil tretjo stopnjo dvoma se zanaša na jasne in razločne ideje, a te so zanesljive le, če obstaja Bog, obstoj Boga pa utemeljuje ravno s temi jasnimi in razločnimi idejami.
+
 Za tem se Descartes vpraša po izvoru idej. Pride do tega, da imamo prirojene, narejene in pridobljene ideje. Med prirojene ideje spada ideja Boga, matematične in logične resnice (npr. trikotnik im  3 stranice, koti se seštejejo v 180°) in ideja misleče in razsežne stvari. Idejo boga tu utemeljuje s prej omenjenim kavzalnim dokazom. Te ideje ne moremo dobiti ne iz lastnih čutnih izkušenj, ne skozi posredovane izkušnje nekoga drugega. Kavzalni dokaz temelji ravno na tem, da kot končno in nepopolno bitje ne moremo ustvariti ideje bitja, ki je popolno in neskončno brez, da bi to bitje - Bog zares obstajalo. Matematične in logične resnice prav tako ne izvirajo iz nikakršne čutne izkušnje, ampak iz uma samega. Znani so nam tudi pojmi, kot je neskončnost; teh pojmov nismo dobili iz izkušnje, kar kaže, da so vrojeni. Vrojene ideje so torej za Descartesa del temelja za resnično in zanesljivo spoznanje, ker ne izvirajo iz čutnih spoznanj, temveč iz narave uma. Iz njih tudi izhaja dokaz za obstoj boga, s čimer si Descartes tlakuje pot za izhod iz solipsizma in nesmiselnega dvoma. Poznamo sicer tudi ontološki dokaz o obstoju Boga, ki pravi, da iz pojma Boga že sledi, da Bog mora obstajati. Narejene ideje pa so tiste, ki smo si jih ustvarili sami. Primer take ideje bi bila Sfinga, ker bitje s telesom mačke in človeško glavo ne obstaja, ampak smo si idejo  takšnega bitja ustvarili. Pod pridobljene ideje pa spadajo stvari, ki jih spoznamo skozi življenje s čutili npr. dobim idejo snega s tem, da vidim sneg.
 
 
@@ -38,3 +40,17 @@ Nekaj kar i
 - Formalne realnosti so lastnosti **stvari**
 Kavzalni dokaz: Učinek ne more imeti več realnosti kot vzrok. Učinek ima objektivno realnost vzrok pa formalno - 
 	Če bi bil D. vzrok za idejo boga bi torej moral imeti večjo formalno realnost kot ideja boga, ki bi bila v tem primeru učinek in bi imela objektivno realnost
+
+8. II.
+**I am → a res cogitans**  
+not  
+**A res cogitans is → X (universally)**
+
+
+
+Dvom
+
+
+4. o resničnem in lažnem - 
+5. .o naravi materialnih stvari in o bivanju božjem ontološkinokaz in o naravi materialnih stvari. Pove da svet obstaja,ma čutne zaznave in nima opcije, da ne bi čutil po tej logiki čutne zaznave ne prihajajo iz njega ampak iz nečesa kar ni pod njegovo kontrolo
+6. razlaga o realni razliki med duhom in telesom- duh in telo sta različna ampak hkrati nista različna. Mi nismo tko kot mornar na ladji ker mi z našim telesom instinktivno vemo kaj je narobe in smo bolj povezani kot je mornar z ladjo 

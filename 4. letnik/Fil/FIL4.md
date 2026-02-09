@@ -4,6 +4,8 @@
 [[4. letnik/Fil/Test|Test]]
 [[Blueprint za eseje]]
 [[3 Descartes Meditacije]]
+[[, Descartes meditacije]]
+
 
 Esej pri skupni fil:
 Uvod:

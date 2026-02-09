@@ -281,3 +281,72 @@ Mussolinijevi vojaki so bili črnosrajčniki po barvi uniforme. Gor so imeli nap
 leta 1919 je ustanovil *Fascio di combatimento* v tem času je ITA bila zelo ne mirna država. Jug je bil nerazvit, sever pa razvit. Jug je moral denarno zalagati jug. S - izobražen J-nepismen. Vlada je bila skorumpirana in je sprejemala odločitve ki so bile take kot so ustrezale kapitalu. Mussolini je preganjal stavkajoče delavce, neitaliane berače, komuniste, ki so kot v vseh drugih državah predstavljali nevarnost za komunistično revolucijo. Vlada vodi državo po ustavi. Ne smejo preganjati stavkajočih delavcev, ker so imeli to pravico. Za to jim je bilo všeč, da je Mussolini delal red v državi s skvadristi. Vlada je dopuščala, da se je vse to dogajalo in M. se je odločil, da je zdaj dovolj močen, da bi prvzel državno oblast. Naredil je stranko PNF (partita nazionale fascista) Mussoliniju to ni bilo dovolj, ker bi trajalo pre dolgo, da bi volilno telo spreobrnil. Zato je od vlade zahteval, naj mu izročijo mandat za sestavo vlade (to pomeni, da on postane predsednik vlade in sestavi svojo vlado) in zagrozil, da bo v nasprotnem primeru s skvadristi izvedel državni udar. Naredili so pohod v Rim kot državni udar. M. sploh ni šel tja ampak se je z zdajšnjim predsednikom po telefonu pogovarjal med tem ko so njegovi hodili proti rimu. Ko so prišli v Rim niso rabili nič narediti, ampak so zelo napihnili zgodbo kako so se rabili boriti in koliko jih je padlo itd. V Rimu se samo sprehodijo ob zastavah. Začne z ustrahovanjem poslancev v parlamentu, odstranjevanjem (ubijanjem) političnih naspreotnikov (vrhunec ko da ubit nekega socialista) ostali so enostavno odstopili od svojih poslanskih funkcij, parlament pa so napolnili sami fašisti. Ključni korak, ki ga je uvedel M. je bilo to, da je uradno sprejel zakon, da tista strank, ki na parlamentarnih strankah zmaga ne glede na udeležbo ne glede na procent dobi $\frac{2}{3}$poslanskih sedežev, ker je to več kot večina in če hočeš spreminjat ustavo rabiš $\frac{2}{3}$ glasov. Na ta način je šel okoli demokracije. Tako je popolnoma zakonito uvedel smrtno kazen za politične delikte. Smrtna kazen na splošno namesto, da bi jo omejil jo je povečal, cenzura medijev, moral je ustvariti vojsko, kar je začel v vrtcu in v šoli
  ![[Untitled.png]]
 Povezane palice predstavljajo močni smo skupaj, sekira pa pokorščina
+Isto kot Hitler je Mussolini  uvedel te neke skupine v katere so se morali včlaniti že od mlade starosti (na pptju je od kere do kere starosti so bili v kateri skupini), vadili so z lesenimi puškami do 14. leta...
+kako narediš militarizirano družbo: začneš z otroci
+Njegova komunikacija je bila zelo ljudska, neformalna, na tak način je znal pristopati k ljudem. Hkrati se je pojavljal na vseh dogodkih in otvoritvah osebno. Slike njega ko dela v tovarni, je delavec -> s tem želi povedati, da je tudi on delavec in je enak ljudstvu. Gradil je avtoceste (hotler je tudi gradil avtoceste čeprav se ni noben vozil po njih) Razlika med M in H je bila, da je H bil na robu bankrota in je moral iti v vojno, M pa ne. Naslednji veliki projekti so bili v Padski nižini kjer uvede izsuševanje in naredil agrarno uporabno območje tam. Ko je to naredil je bilo potrebno tja naseliti tudi delovno silo, ki jo je dobil iz revnega juga. Zato je začel graditi naselja, ki so žal bila več ali manj spalna naselja. Ta naselja so potem postala leglo mafije in kriminala. Mussolini ni mogel odstraniti mafije, jo je pa imel skoraj popolnoma pod nadzorom (po WW2 so skupine mafije spet začele delovati zato jih je moral kot omenjeno spravit pod kontrolo) 
+Carta del Lavoro = vzpostavitev/uzakonitev korporativističnih panog (turizem, ...) Vsaka panoga je urejala plače med delavci in delodajalci in poosrednik med delavci in delodajalci je bil predstavnik države. To je enako kot današnji ekonomsko socialni svet. S tem so prepovedali stavke (ker ne boš stavkal proti sebi, če si ti vspostavil pogoje v katerih si?) Prepovedali so sindikate
+Vse to je navdajalo ljudi z nekim upanjem
+Cerkev je pridobil na svojo stran (konkordat s cerkvijo) cerkev podpira fašizem in Mussolinija in ker so bili Italijani zelo verni je bilo to zelo učinkovito, ker so potem vsi verniki podpirali fašizem, katoliška vera je bila proglašena za uradno državno religijo
+
+Intermission: Ali je cerkev vedela za proram Evgenike: En duhovnikov, ki je bil stric od enega dekleta, ki je bilo umorjeno s strani evgenike, zato je začel zbirati informacije o Evgeniki in ugotovil, da je ogromno otrok ubitih v procesu in s temi informacijami šel do papeža, ki pa naj takrat nebi nič glede tega (to je blo predstavljeno kot "zgodbica" whatever that means)
+(fact check naslednji odstavek ker nism 100% da je prav)
+Leta idk je Mussolini napadel Etiopijo. Z letali so ITA nad Etiopijo metali bombe z bojnimi plini in je bilo odločeno,  da so izvedli genocid nad Etiopci. Ta isti guy ki je organiziral genocid nad Etiopci se je na koncu WW2 dogovoril, da ITA kapitulira v zameno, da dobi status zaveznice Etiopije. Etiopija je nato bila priključena ITA. ITA na koncu s tem dealom za kapitulacijo ni bila ne kaznovana ne statusa zmagovalke ni dobila je pa dobila status zaveznice z E.
+Kasneje je poskušal in uspel priključit Albanijo,  poskušal (neuspešno?) otok Krf
+
+Se navezuje na film črni bratje:
+**Leta 1920 določitev meje med ITA in Jugoslavijo** 
+pol je bil pa plebiscit (Tle sm zonala out neki manka ceumu temu odstavku)
+Wilson je dosegel to, da so imeli plebiscita bi se SLO želeli priključiti Avstriji ali Jugoslaviji
+
+
+
+prva evropska odprta meja je bila med SLO in ITA. Po WW" je Jugo ker smo izgubili Trst naredila Kopersko ladjedelnico. Danes je evropska prestolnica kulture obe gorici skupaj. resegli so to mejo ravno v Gorici. 4 Tigrovci. Nek župnik je hotel pomagati ljudem, ampak na koncu ni mogel, ker je cerkev sklenila konkordat, da ne bo podpirala protifašističnih aktivnosti.
+
+Dan molka v znak protesta da ne smejo govoriti slovensko je to ko so si Slovenci zavezali usta s temi robci s sporočilom, da če ne smejo govoriti SLO po tem sploh ne bojo
+Holy speedrun pou te ure manka (začne se pr Se navezuje na film črni bratje)
+
+DN: kdo je anastazija v RUS zgodovini
+Anastazija Nikolajeva Romanova
+Anastazija se je [rodila](https://www.wikiwand.com/sl/articles/Rojstvo "Rojstvo") v Petrodvorcu v [Sankt Peterburgu](https://www.wikiwand.com/sl/articles/Sankt_Peterburg "Sankt Peterburg"). Hčerka [Nikolaja II.](https://www.wikiwand.com/sl/articles/Nikolaj_II._Ruski "Nikolaj II. Ruski") in [carice](https://www.wikiwand.com/sl/articles/Carica) Aleksandre je umrla v [Jekaterinburgu](https://www.wikiwand.com/sl/articles/Jekaterinburg "Jekaterinburg") v [Sibiriji](https://www.wikiwand.com/sl/articles/Sibirija "Sibirija"), potem ko je [Lenin](https://www.wikiwand.com/sl/articles/Lenin "Lenin") naročil umor carjeve družine. O njej je dolgo časa krožil mit, da je še živa, a so leta 2007 odkrili njeno truplo ter truplo njenega brata Alekseja nedaleč od lokacije, kjer so izkopali preostali del družine. Njena dvojnica, [Poljakinja](https://www.wikiwand.com/sl/articles/Poljaki "Poljaki") Anna Anderson, ki se je izdajala za Anastazijo, je umrla leta [1981](https://www.wikiwand.com/sl/articles/1981 "1981") v [New Yorku](https://www.wikiwand.com/sl/articles/New_York "New York"). Ugotovili so, da je bila v resnici Franziska Schanzkowska, poljska delavka v tovarni, ter da je že prej trpela za duševnimi boleznimi. Prav tako so že pred odkritjem trupla prave Anastazije na podlagi primerjanja DNK vzorcev ugotovili, da je prevarantka
+
+Odnos med Jugoslavijo in Sovjetsko zvezo
+Jugoslavija je imela v času WW2 osvobodilno gibanje priznano iz USA, rusi so pa samo pomagali?? zato se je Tito počutil s podporo zahoda močnega, zato sta se s Stalinom takrat skregala - če se ne bi bi Jugoslavija bila enako nesrečna kot poljska in ostala tampon cona. Prvi stik z zahodom so smuči elan - prodaja'? Jugo nikoli ni imela komunizma.
+meščanska revolucija 1945 
+kanonfuter?
+razmere pred revolucijo v rusiji
+nazaj rusija v WW1
+Vsi kmetje so bili nepismeni in zelo revni (bosi so delali na kmetijah) Rabili so nekoga na oblasti, ki bi bil močen in pismen. Imamo boljševike, ki so idk in manjševiki, ki so hoteli obdržati cesarstvo or sum	
+Februarska revolucija: poslanci:če nas je car odrezal bomo mi odrezali njega. Ustanovili so nadomestno vlado. In pol je nastala še ena vlada iz kmetov in še nekoga?
+
+
+
+
+Sovjetska zveza med in po vojni
+Med tem ko je sovjet si predstavljal demokratično republiko in takrat sploh še ni bilo ideje o socializmu. Pobudo za socializem je dal Lenin. To, da je Lenin prišel v RUS je omogočila NEM, ki je hotela RUS odstraniti vojno, Lenin je bil po prepričanju marksist in en od boljševikov, ki je zagovarjal socialistično revolucijo. Po Socialistični revoluciji je na oblast prišel proletariat. Niso hoteli izstopiti iz vojne, ker so NEM še imeli Baltske države in Ukrajino - niso  hoteli imeti ozemeljske izgube. Lenin pa je zagovarjal takojšnji izstop iz vojne, saj je vedel, da bo dobil s tem široko podporo delavcev in kmetov, ker so oni imeli od vojne veliko škode in verjetno razmišljal tudi o smrtnih žrtvah. Če je bilo Februarja zahteve (kruha, lačni smo med vojno) konca vojne. Lenin obljubi mir, oblast Sovjetom. Takoj ko je bil izveden napad na zimski dvorec in so oblast prevzeli boljševiki z Leninom na čelu.
+Ukrepi nove oblasti:
+- Odlok o mitu - Izstop iz vojne
+- Odlok o zemlji - Nacionalizacija vse zemlje, veleposestnikom so vzeli zemljo, država je imela last zemlje in so jo razdelili kmetom, ki so jo obdelovali
+- Ustanovili so Rdečo armado (enako kt SA za Hitlerja ali Skvadristi za Mussolinija) 
+- Decembra 1917 neuspešne volitve - delavcev le 2% boljševiki so dobili le cca 40% in ugotovili, da nimajo v parlamentu večine. Zato so razveljavili volitve in naredili diktaturo
+Rdeča armada: navadni ljudje, niso imeli uniform.Ustanovljeno za obrambo revolucije.
+Takrat je bilo pismenih le cca 5% ljudi
+Bogati (plemiči...) so vzeli vso premično premoženje in pobegnili iz rusije.Središče pobeglih je bila FRA.
+Marca 1918 je bila podpisana mirovna pogoda, s katero je Rusija izgubila ozemlja (tudi del Poljske, baltske države, finsko in ukrajino) Lenin je uresničil vse kar je obljubil. Lenin je od 17. do 24. leta vodil državo
+Vodilne države, ki so bile Češka, VB, FRA in ZDA so poslale ljudi, da bi revolucijo zatrli. Revolucija se je začela v St Petersburgu. Pomembno je, da tisti ki prej pride do državljanov jih bo dobil na svojo stran. Zdaj so si nasproti stali Bela garda (nasprotniki revolucije) in Rdeča armada (za revolucijo). V 4ih letih državljanske vojne je bilo več žrtev kot v prvi svetovni vojni. Umrlo je 5M ljudi - največ otrokov in starcev zaradi bolezni in kasneje 3M ljudi samo v Ukrajini kjer so naredili holodomor - načrtno stradanje Ukrajincev. Izvažali so žito iz Ukrajine in v 3 letih se je zgodil gospodarski razcvet, kjer se je zgodilo to, da so prišli iz tega, da so 100 let zaostajali za vsemi do tega, da so bili ena od svetovnih velesil. Ukrajinci so še veliko let potem imeli svojo oblastno strukturo. Oni so še obstajali kot država, ki je nihče ni priznaval.
+22.leta Lenin doživi 2 možganski kapi. Stalin je takrat vodil narodna vprašanja in se v partiji dvignil na vodilno mesto. Pod Stalinom sta se civilna oblast in partija združili.
+Trocki, ki naj bi bil naslednik (semizdi Lenina?) je bil ubit v Mehiki, ker so si izmislili, da je nekaj narobe naredil? Ubit je bil s kladivom med tem, ko se je skrival pri Mehiškem slikarju Diego Rivera. Kaže, da je bila Diegova žena Frida bila Trockijeva ljubica...Če bi Trocki nasledil Lenina bi RUS verjetno bila nekaj takega kot Jugoslavija in imela čisto dugo smer kot s Stalinom, ki je šel v čisto socialistično/komunistično smer.
+
+schintlerjev seznam - film
+
+Goli otok - na golem otoku so morali sekat kocke ker mu bo "delo osvobaja" tam so bili na prevzgoji - bil je klasičen gulag, pošiljali so kasneje vse, ki so bili proti titoističnem režimu
+
+Holodomor - načrtno uničevanje Ukrajincev z lakoto. Hoteli so jih uničiti, ker se niso sprijaznili, da je Lenin dal pravico o samoodločbi narodov, ampak se je po revoluciji pozabilo na to in jim je bila ta pravica odvzeta - odvzeta jim je bila samostojnost in neodvisnost - zraven so še baltske države itd.
+
+
+Še en diktator - z državnim udarom je med vojnama prišel na oblast v ŠPA s podporo Hitlerja in Mussolinija, ki sta mu pomagala ostati na oblasti Fransisko Franko
+
+F.G.Lorca
+
+Gesla ki bojo probs v testu povezana z Lorcom
+No pasaran! = ne boste prišli/ne boste prodrli (v Madrid) to je graslo rapublikancev (republikazci = antifašisti, demokrati)
+	4 kolone so prihajale proti madridu 5. kolona pa je bila znotraj madrida in so pomagai (izraz peto kolonaši = izdajalci)

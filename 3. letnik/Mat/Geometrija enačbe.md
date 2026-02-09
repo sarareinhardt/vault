@@ -1,6 +1,10 @@
 #### <font color="#c00000">Trikotniki:</font>
 <font color="#c00000"> Sinusni izrek:</font>
 	$$\frac{a}{\sin \alpha} = \frac {b}{\sin \beta} = \frac {c}{\sin\gamma} = 2R$$
+##### <font color="#c00000">Težišče trikotnika</font>
+
+$T\left(\frac{x_1+x_2+x_3}{3},\;\frac{y_1+y_2+y_3}{3}\right)$
+
 ##### <font color="#c00000">Kosinusni izrek</font>
 	   $$a^2 = b^2 + c^2 - 2bc * \cos \alpha$$
 	   $$b^2 = a^2 + c^2 - 2ac * \cos \beta$$

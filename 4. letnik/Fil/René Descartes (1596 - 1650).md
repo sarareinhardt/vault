@@ -1,3 +1,13 @@
+Ko pišeš, da pravi, da te čuti varajo moraš vsaj dat v narekovaje to, ker te v bistvu ne varajo. Ko gledaš sonce in je majhno te v bistvu nič ne varajo, ker je samo tako daleč. Zato se lahko tudi probaš v celoti izognit temu da rečeš da varajo in rečeš da dojemamo drugače kot je zares or smt in pol slappaš to da *se zdi* da jih dojema kot relativna, subjektivna in nezanesljiva on there
+
+Da bi prišel iz solipsizma, je želel ustvariti kriterije za resnico. Zato je analiziral sam cogito. Spoznanje cogita je imelo določene lastnosti. Bilo je jasno, torej o tem ni mogel dvomiti. Bilo je razločno, torej čisto in ločeno od drugih idej. Tako Descartes iz cogita, izpelje jasno in razločno misel To je prva, jasna, nedvomna misel, gotovo spoznanje, sámozavedanje, ki za potrditev svoje resničnosti **ne potrebuje ničesar zunaj sebe**. .
+
+8. II.
+**I am → a res cogitans**  
+not  
+**A res cogitans is → X (universally)**
+Yes — **secondarily and derivatively** this also functionsasthe general definition of res cogitans, but not formally.
+
 22.točka 3. meditacije - utemeljitev, da obstaja Bog
 8.tocka 2. meditacije raz laga duša/misleča stvar/...
 
@@ -6,6 +16,9 @@ koordinatni sistem
 umre v Stockholmu, myb zastrupljen ampak ni 100%
 študiral na Sorboni, pravi, da je po študiju imel več vprašanj kot odgovorov.
 
+
+Res cogitans = misleča stvar, um, razum, duh, duša
+**Res cogitans Descartes razloži z 8. točko II. **
 
 
 racionalizem = proces spoznavanja skozi razum, ki pa ima po Descartesu že neke prirojene ideje

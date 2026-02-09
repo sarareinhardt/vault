@@ -8,4 +8,4 @@ konstruktivizem
 - garde - konjenica
 - avantgarde - zase pravijo, da so pred svojim časom (pred konjenico) $\rightarrow$ podiranje norm
 - Integrali - ima še vedno ekspresionistično tematiko, a je konstruktivistična zaradi avantgardno predstavljene vsebine (predstavljeno z matematičnimi simboli)
-- 
+-

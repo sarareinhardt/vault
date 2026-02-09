@@ -20,7 +20,7 @@ In his private life he has been married twice (3 children, one autistic).
 3. **When did his parents get divorced?**
    Marcuse's parents divorced 4 yrs ago when he was 8.
 4. **How did the divorce affect Marcus? How does any divorce affect children?**
-   He had to move schools, was missing a father figure, which is evident when he turned to Will to fill the role. Usually it affect children poorly, because they usually end up missing a parent figure like Marcus or have a hard time communicating problems from their own life to parents if they are used to associating a certain type of problem with mom/dad. They also lack a role model for what their relationships should/could look like in the future.
+   He had to move schools, was missing a father figure, which is evident when he turned to Will to fill the role. Usually it affects children poorly, because they usually end up missing a parent figure like Marcus or have a hard time communicating problems from their own life to parents if they are used to associating a certain type of problem with mom/dad. They also lack a role model for what their relationships should/could look like in the future.
 
 ##### Chapter 2
 1.  **Introduce Will Freeman. How does he live?** 
@@ -40,7 +40,7 @@ In his private life he has been married twice (3 children, one autistic).
 
 ##### Chapter 4
 1. How did Will embarrass himself? What followed the embarrassment?
-   Will embarrassed himself at the SPAT meeting when he pretended to be a single father and then got caught out by asking stupid, obviously fake questions about raising a child — his lies made him look ridiculous.  After that embarrassment, the women there felt sorry for him and one of them (Angie) actually agreed to meet him again — so the embarrassment _weirdly helped him
+   Will embarrassed himself at the SPAT meeting when he pretended to be a single father and then got called out by asking stupid, obviously fake questions about raising a child — his lies made him look ridiculous.  After that embarrassment, the women there felt sorry for him and one of them (Angie) actually agreed to meet him again — so the embarrassment _weirdly helped him
 2. How did Will react when they had a date and she immediately told him she had children?
    Inside, he panicked — he felt uncomfortable and didn’t WANT a woman with kids.  But he didn’t admit that — he faked being “ok with it” to keep up his fake single-dad act.
 3. What did Will realize after a few dates with Angie and her children?
@@ -353,25 +353,27 @@ piss off.'
 15. How did Marcus give Ellie a lesson
 	 He told her she doesn't have real problems and told her to look at his mum and the problems she has. He told her she enjoys her life too much
 16. What happened at Royston station?
-
+	Ellie said her life was "shit" and marcus gave her a lesson. He told her she has no reason to be saying that. If anyone was having a "shit time" it was him
+	Ellie stood up and jumped off the train and marcus followed her. She threw her boot and smashed the window of the record shop that had Curt Cobanes picture on the window as she thought they were trying to 
 17. What happened when they were caught?
-
+	When caught hey just stayed there and didn't fight back. Then they were taken to the police station. Ellie told the policeman that Marcus was innocent and said several times that he wasn't to blame
 18. Marcus’s father and Lindsey were the first to turn up at the police station. How did Ellie introduce herself to them?
-
+	I'm Eleanor Toyah McCrae, aged fifteen years seven months. I live at twenty-three . . She explained she wasn't messing around with Marcus 
 19. What was it like when Will, Fiona and Ellie’s mother got to the police station?
 
 20. How did the owner of the shop, Ruth, and Ellie discuss the problem?
-
+	Ruth looked exactly like her. Allie was surprised and first she blamed the shop owner for allegedly exploiting the tragedy of Kurt's death. Ruth told her that she was the only fan of him in the small area and Allie was embarrassed. She could clearly see she acted immaturely and impulsively. It was a reality check to ally, because Ruth simply told her to "grow up" and hugged her. 
 21. What did Fiona do and why?
-
+	She started verry theatrically hugging Marcus and made a scene. She was most likely trying to get atention herself at a very bad time. 
 22. Why did Marcus turn away from Fiona and go to Will?
-
+	He didn't want to be in the situation because it was becoming ridiculous. He turned away from everyone but Will, because he knew he could only rely on him and he was the only one that wasn't acting crazy
 23. Afterwards Marcus went with his dad and Lindsey. What did Marcus realise?
-
+	He compared life in Cambridge and in London. He realized the people that didn't live in London were way more scared of things. They were less open, more scared of change. He realized his dad now couldn't offer him anything. He wasn't particularly useful. Clive missed that chance
 24. What was the conversation between Clive and Marcus like?
-
+	His dad rolled a joint and he said himself, that he wasn't a good father. He made a rly big deal about his accident. Despite realizing his dad is not useful he was still happy because he realized he now had more people then just his parents. He had Will and Ellie too
 25. Will took Ali and Marcus to many places on Saturday afternoons. What change in Marcus did he notice?
-
+	The old Marcus who needed help was dissappearing. He didn't need Will as much as he used to and in a was as much as he hated it in the beginning will missed helping Marcus
 26. What did Ali ask Will?
-
+	He asked weather he is going to marry his mum. Will wasn't opposed to it and he was thinking about it. He just didn't want to disturb the whole situation which wasn't perfect but it was great. He finally got along with Allie.
 27. What was Marcus’s explanation?
+	Marcus said that every married couple divorced and will was mad at Marcus. Fiona also realized she was loosing him and that he started doing things he liked not the things his mum liked 
