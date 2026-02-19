@@ -5,6 +5,11 @@
 [[Blueprint za eseje]]
 [[3 Descartes Meditacije]]
 [[, Descartes meditacije]]
+[[Kant]]
+[[John Locke]]
+[[Resnica]]
+[[2. esej vaja]]
+[[2. pola esej]]
 
 
 Esej pri skupni fil:

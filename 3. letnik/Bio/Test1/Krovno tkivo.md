@@ -8,6 +8,9 @@ tags:
   - Epitel
 ---
 
+
+
+
 Krovno ali epitelijsko tkivo je tkivo, ki ga sestavljajo celice na površini kože (kožna povrhnjica), sluznica
 Funkcija meja, zaščita (zato mora biti močna)
 - **Koža**: Pokriva celo telo in je večplastna za boljšo zaščito.
