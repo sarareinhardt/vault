@@ -11,7 +11,16 @@ tags:
   - KOMITE
   - SOVJETI
   - ISKRA
+  - rekvizicija
+  - plansko-gospodarstvo
+  - kolektivizacija
+  - kolhoz
+  - sovhoz
+  - NKVD
 ---
+```table-of-contents
+
+```
 
 # FAŠIZEM V ITALIJI
 
@@ -65,7 +74,7 @@ ljudstvo je s palicami tolklo po njegovem truplu. Nato
 so obe trupli obesili na drogove (v Milanu na  
 bencinski postaji).
 
-# UVAJANJE DIKTATURE
+##### UVAJANJE DIKTATURE
 
 • Mussolini in njegov oče sta bila socialsta, celo urednik socialstičnega  
 časopisa je bil (on ne oče). Nato se odvrne od socialistov, češ da so v WW1  
@@ -252,3 +261,116 @@ Lenin je zagovarjal takojšen izstop iz vojne, ker je razmišljal o žrtvah.
 Dobil je veliko podpore (saj je obljubljal konec vojne in aprilske teze, ki so veljale do l. 1921) in izpeljal revolucijo.
 
 **Po socialistični revoluciji pridejo na oblast delavci in ne kmetje!**
+  
+Po napadu oblast prevzamejo boljševiki z Leninom na čelu in začnejo izvrševati obljube. Predstavniki dume so se jim lahko pridružili ali odstopili.  Pred tem so obljubljali, da bodo po prevzemu oblasti izpeljali demokratične volitve (da bodo omogočili, da so v parlamentu predstavniki vseh sil). Rezultat volitev je bil šok (saj so boljševiki pričakovali, da so z vsemi reformami ljudi pridobili na svojo stran); 24% ljudi je glasovalo za boljševike, zmagali (večino dobili) so socialni revolucionarji. Zato so volitve razveljavili (niso upoštevali želja ljudstva – začne se diktatura proletariata).  
+ Obljube: 
+↳ odlok o zemlji – nacionalizirajo vso zemljo in država jo je delila kmetom, ki so jo nato obdelovali  
+  
+ustanovijo Rdečo armado (za obrambo revolucije) – ni še uradna vojska (kot skvadristi za Mussolinija).  Izstopijo iz vojne , izpeljejo volitve  
+-> takrat niti skvadristi - kasneje znani kot črnosrajčniki niti rdeča armada niso bili uradna vojska, kasneje pa je rdeča armada postala uradna vojska sovjetske zveze skvadristi/črnosrajčniki pa so ostali fašistična milica in politično represivno orodje. 
+
+Rusko plemstvo je pobegnilo iz države, največ v Francijo (s sabo prinesejo pijačo Calvados).  
+ -> tu gre za namerno razpustitev carske strukture, da so lahko s "praznim listom" začeli vzpostavitev nove vojske, ki je bila ideološko zavezana revoluciji.
+3. marca 1918 sklenejo premirje (mir v Brest-Litovskem), s tem Rusija izgubi del Poljske, Baltske države, Ukrajino, Finsko.  
+  
+Lenin je vladal do 1924 in uresničil vse, kar je obljubil.  Lenin je bil voditelj stranke boljševikov.
+
+Protiboljševiške sile se imenujejo bela garda/bela armaday. Znotraj Rusije so bile to razne skupine nekdanjih carjev, častnikov, konzervativcev, liberalcev, ... Njihov cilj je bil vspostaviti nazaj predrevolucionarni red, ali pa vsaj ustaviti boljševistični režim 
+14 svetovnih držav (vodilne: Francija, VB, ZDA, Češka) je zbralo sredstva in poveljniški kader ter poslali pomoč proti revoluciji (torej beli armadi→ ruski nasprotniki revolucije (plemstvo, meščanstvo) dobijo pomoč. 
+
+Revolucija se je začela v Sankt Petersburgu, a Rusija je ogromna, zato so z vlakovno kompozicijo izvažali revolucijo (po državi so pošiljali vlake, ki so oznanjali revolucijo ter zahtevali podreditev njej). Lenin je bil prepričan, da morajo revolucijo izvažati tudi iz države.  Lenin je verjel, da bi bila svetovna revolucija idealna, saj bi to razbremenilo Rusijo in bi socializem v večih državah omogočal stabilnost. Iz pragmatičnih razlogov se je po neuspehu svetovne revolucije osredotočil na gradnjo socializma v Rusiji
+  
+Odjekne državljanska vojna (1918–1922), ki zahteva večje št. žrtev, kot je bilo ruskih žrtev med WW1. Veliko (5 mil.) jih umre tudi zaradi lakote. 3 mil jih umre tudi v Ukrajini (Ukrajina je že takrat proizvajala največ žita in se je želela odcepiti od Rusije) (tukej je fora samo, da Rusija hoče prodajati žito zahodu, ki so ga zelo potrebovali v zameno za orožje tako, da so Rusi načrtno odvažali zaloge žita, da bi naredili genocid nad Ukrajini. Žito so nato zamenjali za zahodno tehnologijo – Rusija tako v 30-ih letih postane 3. največja gospodarska sila (ZDA, Nem., Rus).  
+  
+Ukrajinci so medtem vzporedno v tujini imeli lastno oblastno strukturo (parlament, predsednika vlade)  
+  
+**Trocki** – leta 1927 ga izključijo iz partije (ker naj bi on legalno nasledil Lenina, a se z njegovimi idejami niso strinjali.  
+  (Trocki je zagovarjal stalno revolucijo, torej idejo, da se revolucija mora širiti mednarodno in, da je brez tega obsojena na propad)
+→ če bi Lenina nasledil Trocki, bi bila Rusija bolj kot Jugoslavija (bolj bi sodelovala z zahodom…)  
+→ on bi po svojih prepričanjih vodil državo, tako pa jo je Stalin  
+→ 1929 Trocki pobegne iz Rusije, pristane v Mehiki, kjer je l. 1940 ubit s kladivom (takrat se skriva pri slikarju Diegu Riveri)
+
+Stalin je vodil nacionalna vprašanja, v KP se zavihiti na vodilno mesto, Lenin se zaveda, kaj se bo zgodilo, če ga bo Stalin nasledil (KP in oblast se bosta združili → to se zares zgodi).  
+  
+Stalin naredi fotomontažo svoje in Leninove slike – s tem poskuša prepričati, da ga bo nasledil.
+
+##### VOJNI KOMUNIZEM – do 1921  
+nacionalizacija premoženja (podjetja, banke, zavarovalnice, zemlja … vse je odvzeto ljudem in postane državna lastnina. Država nato razporeja z vsem tem)  
+  
+→ uvedejo **konfiskacije**; prisilne odvzeme (tako je kmet lahko delal, a mu ni nič ostalo, zato so kmetje zapuščali zemljo in odšli v mesto (zaradi pomanjkanja kmetijske sile pride do hude lakote). Država razdeli sobe v dvorcih, ki so bile prej od plemstva, med delavske družine. To so bila socialna stanovanja → ljudje niso plačevali najemnine)
+
+→ mesta in podeželje so začeli propadati, ljudje nočejo delati (5 mil. ljudi zato umre od lakote)  
+  
+v času ko traja vojna je treba narediti vse za "obrambo revolucije" → fokusirano na rdečo armado
+  
+Lenin je bil prepričan, da če ohranijo socializem, bodo ljudje dobili svojo delavnice zemljo… nazaj  
+najprej so nacionalizirali zemljo velikih kmetov in velike industrialce, a to ni bilo dovolj – Lenin je požiral iz leta v leto več  
+Lenin je s prisilo dobival ljudi  
+→ stopnjevanje:
+Lenin uvede skrajno gospodarstvo imenovano vojni komunizem. 
+ukinijo denar - blago za blago; če si karkoli rabil, je država vsaki družini namenila del hrane/oblačil, sploh nisi hodil v trgovino, država je določila, koliko ti pripada → **naturalno gospodarstvo**  
+→ na črnem trgu je vedno denar
+
+#rekvizicija – pridejo davkarji in ti hočejo vzeti stvari (npr. prašiča, pridelke)  
+  
+ko je bilo konec državljanske vojne, je Lenin (ki se zaveda, da gospodarstvo nazaduje), ukinil konfiskacije, malim in srednjim obrtnikom dal njihove delavnice nazaj, nazaj uvede denarno gospodarstvo in življenje zaživi.  
+  
+Uvede **novo ekonomsko politiko**; prodaš lahko po ceni, ki ti ustreza in kupiš lahko po ceni, ki ti ustreza. Kmetje so lahko začeli najemati zemljo za več pridelkov (izključno njihova motivacija!) in se dvignejo nad ostale – kulak = vele kmet .  
+  
+V času stalinizma so preganjali in demonizirali kulake. Takrat so jih označili za razredne sovražnike.
+
+1927 ima Stalin trdno oblast v svojih rokah, ukine NEP (nova ekonomska politika) in uvede #plansko-gospodarstvo. Ustanovijo posebno komisijo **Gosplan** za 5-letne gospodarske plane: za industrializacijo, elektrifikacijo, kolektivizacijo.  
+
+Razlika med tem radikalnim vojnim komunizmom in planskim gospodarstvom je, da je vojni komunizem bil krizno vojno stanje, ki je ljudem prisilno vzemali pridelke, ukinili trg. Plansko gospodarstvo pa določa koliko česa bo proizvedeno namesto, da to določa prosti trg
+  
+S pomočjo prisilne delovne sile postavijo tovarne in nanje postavijo planske ure, kaj je treba narediti v enem letu. Če to ni bilo izpolnjeno, so direktorja tovarne in njegovo družino poslali v gulag. enako ob izpadih proizvodnje
+  
+socializem lahko obstaja tudi z normalnim gospodarstvom  
+  
+tudi v Jugoslaviji se je dogajalo samoupravljanje, ta sistem se kasneje sesuje, razvite države gredo danes v smeri samoupravljanja
+
+Stalin je očital, da se z NET vračajo nazaj v kapitalistično družbo, nevarno v SZ in da si bil uspešen – Stalin te je odkrižal.  
+  
+petletke: (1928–33, 1933–37, 1937–38)  
+  
+pripravljati se je moral na vojno  
+
+**Velike čistke**
+1938 Stalin počisti vojaški vrh – ni imel ljudi, ki bi vojno vodili in zato je Rusiji na začetku šlo zelo slabo  
+
+Ježov – šef tajne policije #NKVD (narodni komisariat za notranje zadeve = *tajna policija za odstranjevanje ljudi*); oni izvajajo akcije čiščenja. Na koncu da Stalin počistiti še Ježova.  
+  
+Našel si je nov kader, ampak takoj, ko se mu je ta osebno preveč približal, ga je začutil kot nevarnega.
+
+#kolektivizacija = vzpostavljanje kolektivnih kmetijskih posesti 
+→ če so kmetje združeni v zadrugo, imajo pripomočke, ki si jih delijo med seboj  
+→ problem: kmetje so z revolucijo zemljo prvič dobili, ampak zdaj so jo morali prenesti v #kolhoz  - zadruga (odreče se svobodi kaj in koliko bo pridelal, kmetijska zadruga) ali v #sovhoz (=državne posesti, ki so jih upravljali uradniki iz Moskve; tukaj kmetje delajo kot tlačani)  
+  
+Alexei Stahanov – o njem posnamejo propagandni film, česa vse je on zmožen  
+  
+→ to je rudar, ki so si ga izmislili; izmislijo si idejo udarništvo (on naj bi v 8h izkopal 102 t premoga)  
+
+**SOVHOZ**: uradniki upravljajo velike kmetijske površine  
+kmetje so bili samo najeta delovna sila in niso o ničemer odločali – kmetje nezadovoljni niso bili čustveno navezani  
+  
+**KOLHOZ**: prednost v organizaciji da so si delili opremo, a vsak je imel svoj kos zemlje
+
+---
+
+→ začne se #stahanovstvo; ljudje so želeli biti podobni njemu, da bi bili "kakor on, sprejeti pri Stalinu"  
+→ s tem so želeli dvigniti delovno uspešnost
+→ dali so ga na denar, "delavec je tisti, ki ga častimo, ne pa vsi intelektualci"  
+→ to gibanje se prenese tudi na področje kmetijstva  
+V Gulage so ljudi pošiljali v prevzgojo in zadolano silo.  
+	-> (največ jih je bilo v evropskem delu - za razvoj industrije so rabili delovno silo)  
+→ podobno v Jugoslaviji Goli otok (ustanovijo ga l. 1948 ko se je Tito razšel s Stalinom; tja so pošiljali ljudi ki so vseeno pozdravljali tovariša Stalina; čez nekaj let pa so tja pošiljali vse nasprotnike režima).  
+
+#GLADOMOR-HOLODOMOR; načrtno uničevanje Ukrajincev z lakoto → hočejo uničiti, ker se Ukrajinci niso morali sprijazniti s tem, da je Lenin obljubil pravico do samoodločbe narodov, a tega ni izpolnil.  
+Ukrajinci imeli svojo državo 1918–1921 → takrat jim odvzamejo samostojnost. Vlada se umakne v drugo državo in naprej deluje.
+Otroci in stari so največ umirali.  
+Ljudje so želeli zbežati, a Rusi so okrog mest naredili bodeče žice; ljudje so bili lačni in ujetniki mest.  
+NKVD – tajna policija za odstranjevanje ljudi  
+→ tudi vodjo so l. 1938 očistili  
+→ zmontirani sodni procesi (obtožijo ti nekaj, za kar nisi kriv)  
+otroke vzgajali s pranjem možganov
+"V raju ni morilcev" -> zato umorov niso raziskovali (mislim, da se to nanaša na to da so Rusi dolgo zavračali, da je bil to genocid ampak zdaj je večinsko mnenje, da je bil in ig so te umori pač to ko so jih pobijali s stradanjem)

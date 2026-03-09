@@ -10,6 +10,8 @@
 [[Resnica]]
 [[2. esej vaja]]
 [[2. pola esej]]
+[[Immanuel Kant]]
+
 
 
 Esej pri skupni fil:

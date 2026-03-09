@@ -15,9 +15,11 @@
 [[Slo književnost med vojnama]]
 [[Help pišem slovnico]]
 [[Srečko Kosovel (1904-1926)]]
+[[Tina Vrščaj Na klancu]]
 
 
 
+obdobja pri Prešernu, prelomne letnice, prva x (prva knjiga, prvi roman, ...)
 
 
 Matura pogoste stvari:

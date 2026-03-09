@@ -130,3 +130,75 @@ There was a law prohibiting birth control and other contraceptives in the 80s an
 4. Wether she can run fast and then instructs her to run to the mail box and times her
 5. She teaches her how to do chores even though she already knows how to do things such as make toast but the girl doesn't mind being explained that again, brushes her hair with a lot of care and braids it. She also gives her some kind of cookies that are supposed to help keep her skin clear like Ms. Kinsellas
 6. On the news they said that another striker is dead. The Kinsellas agree that that is some horrible news
+
+
+##### Chapter 6
+What is it like for ms K when her husban takes them shopping
+She slowly finishes what shes doeng and then she prepares herself, but she locks herself in the bathroom. When the child also goes to prepare herself for the trip. When ms. K. walks out the girl saw sadness in her face. Mr K snaps at her, maybe because the girls clothes are a reminder as they are clothes of their dead child and now they went shopping with her so she won't be wearing the dead childs clothes anymore.
+
+She isn't used to shopping. Mr K gives her some money for her own treats they bought beautiful clothes for her. The shop assistant said "isn't your mummy good to you" and no one reacts to that being said not Ms K nor the girl. It seemes as though that is completely natural (as if they lived together the whole time)
+
+
+childhood effects your whole life and trauma especially then 
+the girl:
+ - lonely - when she and her father are driving up to the cabin and the story is describing what she sees it seems lonely. In that moment she is as if alone, her father doesn't care what she does he just knows she's there. She may feel lonely because she knows she's going to the Kinsellas but she doesn't know what it's going to be like - that's why she's scared too
+ - mature (for a young girl, we don't know her exact age)
+ - scared
+ - insecure
+ - introverted
+ - curious - she wants to know everything that Edna is doing
+ - helpful - she wants to help Edna around and she tries rely hard
+ - fear of abandonment - when she wets the bed and when they were upset about their kid or smt?? she is afraid she'll be sent back
+ - honest - but most kids are...She's not afraid to tell Edna 
+ - ambitious - she wants to improve every time she's running
+ - search for validation - same with the running - this is their thing and she wants to impress Mr. K. When she ran towards the end he praised her on her improvement, which she really needed. She was never praised at home which meant Mr. K's praise meant that much more to her
+ - she didn't complicate and was extremely appreciative - when they went shopping she would wear 
+
+
+In the moment of driving to the K. we can see in a way that she's neglected, her mum tried to clean her but by the time they got there her hair was all over the place, ... also when Kinsella bathed her she saw she wasn't exactly properly cleaned.
+
+When she gets back her siblings don't ask her anything about her stay at K. She seems as if she was a stranger in her own home (loneliness).
+
+The experience of driving there was so traumatic and scarry to the girl that she wet the bed
+
+Mrs Kinsella
+- caring - when we first meet her she goes to the car and takes her out of the car, makes a rhubarb pie... she soothes the girl, she gives her a bath, when she wets the bed she comforts her with dignity and shows her through her reaction that nothing is wrong. and together with her husband shows how they feel as a couple and her husband also plays along. She gives her the choice of praying, she checks if everything is okay when the girl goes to sleep and stays with her. When they have guests she goes to the girl which was supposed to be sleeping and brings her down so that she could be a part of the situation. Also when it comes to keeping the house clean she doesn't push her into anything, but the girl is curious and Mrs. makes sure how to teach her how to do everything. It is obvious the neighbourhood is helpful to each other.
+- protective - when they go shopping someone mentions how great it will be when school starts so soon and she is in a way protective of the girl because she will miss her as she is such a great kid
+- loving
+- warm
+- kind - she is kind to everyone. Even though the girls father is treating Mrs. K. badle she still treats him as a human
+- lonely we get a feeling that the pair is lonely because the loss of their child and that's why they probably accepted the girl into their home to temporarily fill that void.
+- grieving/in pain -  when Mr. K suggested buying the girl clothes she had a realy hard time putting their boys clothes away
+- social - a lot of people come into their home
+- trauma: when she fell into the well 
+
+Someone trusts people and gets disappointed very often
+
+Mr. K. also shows grief by taking the girl to the beach - he needs to be outside and walk it out so that he somehow forgets his loss
+
+When they are walking her back home they in a way lost another child. They got really attached to the girl. The pain wasn't the same as when they lost their own kid, but it was there
+
+Mr. K. 
+- at first it seems that he is a tough, cold, big man, but then we realise that he has a gentle and soft heart
+- not very talkative
+- reserved
+- despite that he shows his love
+- more prone to facing problems more directly and objectively - for example with the shopping - Kinsella doesn't really want to do it because of the connection to the trauma of
+	- reasonable, realistic and rational
+- grateful to have his wife and now the girl - he's generally apprecative of life which he expresses when they hear the news of the striker. In this sense he doesn't take nice things for granted
+Milgred:
+- nosy
+- talkative
+- in her attitude to the girl she doesn't treat her like a child but she more treat her as a way to look into the Kinsellas. She treats her really wrong and indecent. The girl is not mature enough to ask her so many questions and even if she were much older. It isn't curiousness it is nosiness and it is completely inappropriate to use the kid to get that information. She even says that the girl lives in the dead boy's clothes which is obviously inappropriate and not her place to say. She wasn't really interested in helping as much as she just wants to know the news about them (we cant really say she doesn't want to help or that she is by core a bad person but she cant help herself)
+
+The wind (a symbol in the story): it is present all the time and represents her emotions. The moment when she is in Mr. K. arms she says that a sudden push of wind forms rainclouds around them (strong emotions - raindrops myb tears) Whenever her emotions are strong the wind is also strong and cold (also when she gets out of the car and first enters the K's home there is a cold draft) and when things are going well the wind is light and warm
+When they go to the beach there is a nice light breeze - the whole atmosphere is soothing, calming, nice. This is only an assumption but as children
+Clean and dirty water also has a symbolic meaning: The well has a symbolic meaning of the well could represent a fresh start for both the girl and Mrs. K.  which needed to find something to make her go on. Even though the girl later goes back home there is a positive change in the girl and she now knows that life isn't always cold and harsh, but it can also be pleasant like it is at the Kinsellas. The water can also be a symbol of purity and cleansing. Mrs. K. takes the girl to the well on the first day already because she feels calm there and she wanted that for the girl too. The fall into the well affects Mrs. K a lot more then the girl. The girl just climbs out (it wasn't really dangerous) Edna was affected by it as she was 
+The whipping willows in front of the K's house: the girl says the trees are sick. it might symbolically mean that there is sadness present here (dead child)
+Comparison between the books: the topic of loneliness, the meaning of family (Marcus creates his own family and the girl also finds the Kinsellas as a family), parenting, growing up (the girl, Marcus, Will are all growing up), friendship (in about a boy it's obvious, but in Foster you could view it in the sense of community (in about a boy they live in london where community isn't as present because the size of the city swallows up everyone so they often don't get the chance of making friends with people in the city, where as in Foster they live in a more rural area where community is more prevelant and easier to establish. Fear of loosing: in foster: the girl fears she'll loose the kinsellas
+
+
+
+
+Discuss parenting in Foster
+Kinsellas VS the girls family *contrast*

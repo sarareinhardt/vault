@@ -377,3 +377,40 @@ piss off.'
 	He asked weather he is going to marry his mum. Will wasn't opposed to it and he was thinking about it. He just didn't want to disturb the whole situation which wasn't perfect but it was great. He finally got along with Allie.
 27. What was Marcus’s explanation?
 	Marcus said that every married couple divorced and will was mad at Marcus. Fiona also realized she was loosing him and that he started doing things he liked not the things his mum liked 
+
+
+
+
+
+Characters:
+Marcus: 
+- clumsy (in words)
+- insecure; about his mum - because he doesn't know what could happen
+- unaware
+- curious
+- nice, kind, good heart
+- protective (of his mother)
+- caring
+- Change: he becomes more independent and mature (he stands up to Ellie when she has the bottle of vodka - he realizes he doesn't need a girlfriend like her, when him and Fiona fight he stands up for himself, before he didn't question anything, in the talk with his dad when he says he doesn't need him anymore, he defended Will at Christmas dinner), knows more about popular culture and fits in better
+
+foster & about a boy - loosing something/someone, insecurity, the girl is afraid she'll loose her foster parents and Marcus is afraid of loosing his mum - they are both insecure in that sense
+
+
+Ellie:
+- rebellious
+- immature
+- angry
+- loyal 
+- infamous in the school
+- emotional
+- bully
+- impulsive (when she broke the window in the store - she did that impulsively out of her anger, she didn't think of the consequences, nor the real reason why the picture of kurt Cobain could be there, at the police station it wasn't enough that they were brought to the police station and she attacked Marcuse's father when he got there and another moment at the police station when Ruth came she immediately told her what she thought and she was embarrassed of the way she reacted after she sees the whole picture)
+- Ellie doesn't (yet) grow throughout the story like Marcus and Will do
+
+
+Fiona:
+- confused - she doesn't understand why Will should be such a prominent figure in Marcuse's life
+- caring - she doesn't know much about bullies, but will explains it verry vividly to her and she feels bad, she loves and cares for Marcus , when she suspects that Will might be molesting her child she reacts maturely and is protective
+- rebellious - she isn't a typical adult (she dresses in a different way, she is a vegetarian, when she hears about the new shoes that would help Marcus fit it she imitates the sound of a sheep - she is different and doesn't want to be like anyone else which might also be why she's confused and why her life might be more difficult)
+- she insists on Marcus following her footsteps (being vegetarian, music, ...) - it stops being okay eventually because Marcus starts thinking with his own brain 
+- in the end she is much calmer because she finally starts trusting Marcus and she finally has people and a community around herself
