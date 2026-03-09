@@ -11,7 +11,7 @@
 [[2. esej vaja]]
 [[2. pola esej]]
 [[Immanuel Kant]]
-
+[[Sokrat & Platon za esej 2]]
 
 
 Esej pri skupni fil:
