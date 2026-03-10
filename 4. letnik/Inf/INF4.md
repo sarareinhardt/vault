@@ -7,3 +7,8 @@ $ številka $ stolpec
 if morš poznat
 concatinate združi 2 polji (lahko uporaviš sam & umes (npr. B4&C3 )) - to ne sešteje ampak združi
 lower za črke
+
+
+IAAA
+
+2FA, MFA     2/multi factor authentication
