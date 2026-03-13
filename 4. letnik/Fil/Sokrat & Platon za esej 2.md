@@ -1,3 +1,5 @@
+
+
 Sokrat:
 ok torej sokrat je napisou Etiko in tm izjavu ta vem da nič ne vem in s tem kritizira sofiste tko kt si rekla Maša kerpač je to zavedanje lastnega neznanja in s tem svojih omejitev in bla bla in to je valda tut filozofski paradoks (in pol tle poveš kaj je retorika in rečeš da se sokratu ni zdel kul ker je hotu resnico ne pa vidt kdo je močnejši).
 pol maš še ta etični individualizem k je tko da more vsak posameznik sam iskati resnico in dobro in upholdat te neke svoje vrednote in whatever in da moralnost izhaja iz znanja in pravi ljudje delajo krivico samo zato ker ne vejo kaj je prav in da če bi gdo zares razumel dobro bi to tudi storil (men se ne zdi lih vedno tko ampak ajde nismo tuki zato da se strinjamo s sokratom) pa kritizirou je tut atensko demokracijo ker se je folk odločou na podlagi mnenja ne znanja/vedenja
@@ -10,3 +12,6 @@ basically je sofizem to ko se zbere par ful tuff tipou in so tko "gajz ce mi nek
 basically uci retoriko aka "umetnost prepricevanja" al whatever bullshit izraz hocjo za to
 poanta je da so zmagal debate ker so bli pac tok kul in velki in mocni da so si zmisljeval shit ampak pomembno je da more usaj mal logicn zgledat
 mi mamo se v pltju da do spremembe to da javno dvomijo v obstoj bogov (prej nisi lih meu dobrga nacina za prezivet to da si reku da ni boga) pa da dvomijo o obstojecem znanju pa da ni absolutne resnice al pa absolutne morale in temu recemo relativizem in da ma vsak posameznik svojo resnico in moralo in da ma prav ta ki je najmocnejsi
+
+
+temporalsatze

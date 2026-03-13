@@ -202,3 +202,44 @@ Comparison between the books: the topic of loneliness, the meaning of family (Ma
 
 Discuss parenting in Foster
 Kinsellas VS the girls family *contrast*
+
+neglect: bringing the kid to the kinsellas in 1 dress, keep her as long as you want
+ - cantrasted with love - bath, clothes
+sign of care in Mrs Kinsellas lap when she was going to bed the first time
+smt with mr 
+
+In _Foster_, Claire Keegan explores parenting by contrasting the neglectful, chaotic environment of the girl’s biological family with the calm, attentive care she receives from the Kinsellas. Through small everyday actions and symbolic moments, the writer shows how good parenting is expressed through attention, patience, and emotional support rather than simply biological connection.
+
+At the beginning of the story, the girl’s home life is characterised by disorder and emotional distance. Her family is large and chaotic, and her parents struggle to properly care for all the children. Her father appears particularly indifferent. When he drives her to the Kinsellas’ house, he casually says that the Kinsellas can keep her “for as long as they wanted,” which suggests a lack of attachment and responsibility. Even small details during the car ride reinforce this attitude: he drives with the windows open, letting the wind ruin her hair. In this scene we can see a case where the writer uses the symbolic meaning of wind to show the girls emotions and the general atmosphere of the situation. Her mother also tried her best to make the girl look presentable for the Kinsellas. She put her in a dress and brushed her hair, but by the time her and her father got to the house the somewhat put together image is ruined, because the wind from the car ride messed up her hair. Her parents sent her to the Kinsellas in only 1 dress which shows their neglectful attitude towards the girl.
+
+In contrast, the Kinsellas provide a calm and nurturing environment that the girl has never experienced before. When she first arrives, she feels uncertain, symbolized by the cold draft she notices when entering the house. However, the Kinsellas gradually demonstrate their care through gentle actions. For example, Mrs. Kinsella gives the girl a bath and properly cleans her, something that suggests she was not consistently cared for and given as much attention in her own home. She was given much more attention than there was even available in her own home with many children, marking the beginning of a new kind of care in her life.
+
+The Kinsellas also provide a sort of emotional security. When the girl wets the bed, they do not get angry or shame her. Instead, they respond calmly and compassionately even blaming the mattress instead of the girl, which contrasts with the harshness she might expect from her own family. Mr Kinsella also plays with her, running and joking, which shows an active involvement in her life that we don't see from her biological father.
+
+The Kinsellas’ parenting is also shown through their teamwork. For example, when they go shopping, Mrs. Kinsella struggles emotionally with putting away their late son’s clothes, but Mr Kinsella tells her that it needs to be done. This moment reveals how they support each other. Even during simple activities like shopping, they treat the girl with kindness, allowing her the small luxury of buying a treat for herself which she would have never gotten at home.
+
+Through these contrasts, it's shown that parenting is not defined by blood ties but by love, responsibility, and emotional presence. While the girl’s biological family provides little stability or care, the Kinsellas offer patience, attention, and genuine affection. As a result, the girl begins to experience what real parenting feels like for the first time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Another important moment occurs when Mrs. Kinsella and the girl walk to the well. The well and the water symbolize purity, calmness, and renewal. This peaceful environment reflects the emotional stability the girl experiences with the Kinsellas. Later, when she accidentally falls into the well, Mrs Kinsella becomes extremely frightened. Her reaction reveals deep concern and also hints at past trauma, as the couple once lost a child. This moment shows how deeply they care about the girl’s safety and wellbeing.
+
+
+
+

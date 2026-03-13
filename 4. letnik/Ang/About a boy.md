@@ -414,3 +414,20 @@ Fiona:
 - rebellious - she isn't a typical adult (she dresses in a different way, she is a vegetarian, when she hears about the new shoes that would help Marcus fit it she imitates the sound of a sheep - she is different and doesn't want to be like anyone else which might also be why she's confused and why her life might be more difficult)
 - she insists on Marcus following her footsteps (being vegetarian, music, ...) - it stops being okay eventually because Marcus starts thinking with his own brain 
 - in the end she is much calmer because she finally starts trusting Marcus and she finally has people and a community around herself
+
+
+
+
+
+
+
+##### Discuss the theme of friendship between Marcus and Will
+- will protected Marcus on the dead duck day - first connection/sign of friendship
+- will let marcus go to his home when the bullies were chasing him and throwing rock candy at him?
+	  - this marks the start of the friendships development. At first they only watched a tv show called countdown, eventually they started having other random talks about life and people. 
+- Will kept their friendship as a secret from his mum which wasn't the right thing to do but signified his loyalty to the friendship
+- Fiona ended up intervening, Will said he didn't want Marcus there anyway, and will defended Marcus, told fiona the real situation with the bullies verry harshly, Marcus stopped the fight right before Will was about to utilize fionas suicide attempt as a strike against her.
+- growing up "together" 
+
+In Nick Hornby's book About A Boy we are presented with many relationship dynamics between different characters. A lot of those relationships are friendships which constantly affect and shape peoples every day lives. In the book Will and Marcuse's friendship was particularly highlighted. 
+At first glance this seems like an extremely unlikely friendship. It involves Will - a 36 year old man, who is rich and extremely immature for his age and Marcus - a 12 year old boy who just moved to London from Cambridge. They first met when Will went on a date with Suzie - a single mom, who brought along her own child and Marcus who was the son of her friend Fiona. At first Marcus didn't have particular interest in Will, but that changed when Marcus accidentally killed a duck by throwing a piece of bread at it. When the park keeper came up to Marcus Will lied for him to get him out of trouble
