@@ -14,6 +14,16 @@
 [[Sokrat & Platon za esej 2]]
 
 
+
+
+SEMINARSKA
+https://plato.stanford.edu/entries/rationalism-empiricism/
+
+
+
+
+
+
 Esej pri skupni fil:
 Uvod:
 S svojimi besedami utemeljite naslovno trditev

@@ -111,3 +111,9 @@ $$V = \frac{a^3\times\sqrt{2}}{3}$$
 $$P = S_0 + pl$$
 $$pl = \pi \times r \times s $$
 $$V = \frac{S_0 \times v}{3}$$
+
+##### Random stvari z racunanjem
+ln⁡(A)=B  ⟺  A=$e^B$       npr. : ln(x+4) = 0 <=> $e^0$ = x+4
+
+
+![[Pasted image 20260319140326.png]]
