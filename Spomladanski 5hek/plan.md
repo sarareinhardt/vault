@@ -16,3 +16,10 @@ Stvari za razmislek: iz kakšnih stvari bi si lahko sestavila noge, roke, kako n
 - razmislimo kaj bomo rabili od pixel arta **DOLOČIMO FIKSNO VELIKOST CANVASA 32x32!!** za backgroundg lahko tudi drugače
 - razdelimo sev skupine kaj bo kdo delal (uni kosi plastike, riba, fish bowl, roke, noge, razmislit je treba kako bi dobil namige (una piratska flaška z listkom uaaa))
 - delajo pixle art prevermo da majo usi prave velikosti grid, pokazemo un tepih mode
+
+
+
+
+
+riba levo desno gor dol
+alge v ozadju woosh

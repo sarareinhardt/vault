@@ -242,4 +242,4 @@ Another important moment occurs when Mrs. Kinsella and the girl walk to the well
 
 
 
-
+https://www.litcharts.com/lit/foster/summary

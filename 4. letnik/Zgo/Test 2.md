@@ -374,3 +374,18 @@ NKVD – tajna policija za odstranjevanje ljudi
 → zmontirani sodni procesi (obtožijo ti nekaj, za kar nisi kriv)  
 otroke vzgajali s pranjem možganov
 "V raju ni morilcev" -> zato umorov niso raziskovali (mislim, da se to nanaša na to da so Rusi dolgo zavračali, da je bil to genocid ampak zdaj je večinsko mnenje, da je bil in ig so te umori pač to ko so jih pobijali s stradanjem)
+
+# Španska državljanska vojna
+
+**Francisco Bahamonte Franco** – fašist    
+njegova dejanja niso bila vzeta za tako huda, saj se je uspel izmakniti vstopu v vojno (fašistično-nacionalistična koalicija je imela že dovolj problemov)  
+  
+→ ker se v vojni ni umazal, je njegova diktatura zdržala do 1975; 1969 je Franco že izbral naslednika kralja Juana Carlosa in obnovo monarhije
+
+Španija je po 1. sv. vojni bila parlamentarna monarhija (od 1918) (kralj Alfons XIII.), v parlamentu ni bilo pripadnika druge skupine kot pripadniki cerkve, vojske, veleposestniki, industrialci).  
+Cerkev močna sila, obvladovala je šolstvo.  
+Državljani niso imeli zagotovljenih osnovnih človekovih pravic.  
+  
+General Primo de Rivera in Alfons XIII. razglasita vojaško diktaturo leta 1923 → lokalna oblast v regijah ni imela nobene moči.  
+  
+Leta 1930 sta morala Alfons in Rivera popustiti in izvesti lokalne volitve zaradi vsesplošnih protestov in nezadovoljstva, na katerih so zmagali republikanci (več so volili za tiste proti monarhiji). Leta 1931 izvedejo še državne volitve, kjer zmagajo republikanci, ki ustanovijo republiko in izženejo kralja.

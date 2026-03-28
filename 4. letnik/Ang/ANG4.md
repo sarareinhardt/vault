@@ -13,6 +13,8 @@
 [[Foster]]
 [[Foster VS About A Boy]]
 [[Fancy besede]]
+[[Formal text]]
+
 
 
 MATURA: verbs gap fill
@@ -22,3 +24,8 @@ MATURA: verbs gap fill
 - Wishes
 - Verb patterns
 - Non finites
+
+
+
+
+Formal letters and emails are factual! - no opinion no nothing just formal also ne krajšat stvari kot so don't (moraš pisat do not)
