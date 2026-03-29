@@ -375,7 +375,7 @@ NKVD – tajna policija za odstranjevanje ljudi
 otroke vzgajali s pranjem možganov
 "V raju ni morilcev" -> zato umorov niso raziskovali (mislim, da se to nanaša na to da so Rusi dolgo zavračali, da je bil to genocid ampak zdaj je večinsko mnenje, da je bil in ig so te umori pač to ko so jih pobijali s stradanjem)
 
-# Španska državljanska vojna
+# ŠPANSKA DRŽAVLJANSKA VOJNA
 
 **Francisco Bahamonte Franco** – fašist    
 njegova dejanja niso bila vzeta za tako huda, saj se je uspel izmakniti vstopu v vojno (fašistično-nacionalistična koalicija je imela že dovolj problemov)  
@@ -389,3 +389,13 @@ Državljani niso imeli zagotovljenih osnovnih človekovih pravic.
 General Primo de Rivera in Alfons XIII. razglasita vojaško diktaturo leta 1923 → lokalna oblast v regijah ni imela nobene moči.  
   
 Leta 1930 sta morala Alfons in Rivera popustiti in izvesti lokalne volitve zaradi vsesplošnih protestov in nezadovoljstva, na katerih so zmagali republikanci (več so volili za tiste proti monarhiji). Leta 1931 izvedejo še državne volitve, kjer zmagajo republikanci, ki ustanovijo republiko in izženejo kralja.
+
+→ Na osebnem nivoju so se izvajali pritiski nad državljani pod vojaško diktaturo, zelo na udaru so bili Katalonci (npr. arhitekt Gaudi je bil preganjan zaradi govorjenja katalonščine).  
+  
+Nova republikanska vlada uvede ukrepe:  
+- ločili so cerkev od države  
+- cerkvi iz rok vzamejo šolstvo, in ga naredijo državnega  
+	- ni več ideološkega vpliva na mladino  
+- ukinejo red jezuitov  
+- temeljne človekove pravice, enakost med spoloma  
+- ukinejo privilegije plemstva, enakost pred zakonom
