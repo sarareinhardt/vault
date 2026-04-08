@@ -12,6 +12,7 @@
 [[2. pola esej]]
 [[Immanuel Kant]]
 [[Sokrat & Platon za esej 2]]
+[[Chomsky]]
 
 
 

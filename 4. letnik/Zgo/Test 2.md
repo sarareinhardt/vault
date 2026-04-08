@@ -17,6 +17,7 @@ tags:
   - kolhoz
   - sovhoz
   - NKVD
+  - delikt
 ---
 ```table-of-contents
 
@@ -80,7 +81,7 @@ bencinski postaji).
 časopisa je bil (on ne oče). Nato se odvrne od socialistov, češ da so v WW1  
 delavce poslali v boj in niso poskrbeli zanje.
 
-• 1919 ustanovi Fascio di combattimento
+• 1919 ustanovi Fascio di combattimento (=fašistična bojna skupina) - boj proti komunistom, socialistom in stavkajočim delavcem = črnosrajčniki
 ↳ simbol snopa; vsaka bilka je skupaj močna  
 sekira predstavlja državo, pokorščino zakonom  
 	→ to izvira iz Rima; straža visokih uradnikov je nosila butaro.
@@ -105,8 +106,7 @@ kapitalisti začeli Mussolinija podpirati, Mussolini se je odločil, da je dovol
 dobi možnost za vstop v parlament, to Mussoliniju  
 ni bilo dovolj (predolgo bi trajalo, da bi spremenil  
 volilno telo), zato je od skorumpirane vlade zahteval,  
-da mu izročijo mandat za sestavo vlade, če ne bo – s  
-19 skvadristi izvedel državni udar
+da mu izročijo mandat za sestavo vlade, če ne bo – s skvadristi izvedel državni udar
 
 • l. 1922 je prikazal, da bo izvedel državni udar, v resnici so bili v Milanu, z Viktorjem Emanuelom (kralj) se po telefonu zmeni o sestavi vlade
 → državni  udar brez uporabe sile
@@ -118,7 +118,7 @@ zakorakajo…
 
 s tem spremenjenim parlamentom je uradno sprejel zakon, da tista stranka, ki je na volitvah dobila največji delež (ne glede na % udeležencev), ima v parlamentu 2/3 sedežev → ključni del za prehod v Mussolinijevo diktaturo
 
-• uvedel je smrtno kazen za politične delikte (sodišča za njih) (delikt =kršitev pravila za družbeno sožitje, ki je zanjo z zakonsko določbo določena sankcija)
+• uvedel je smrtno kazen za politične delikte (sodišča za njih) ( #delikt =kršitev pravila za družbeno sožitje, ki je zanjo z zakonsko določbo določena sankcija)
 • prepovedal je druge stranke
 • cenzura medijev
 • razširjena smrtna kazen
@@ -399,3 +399,105 @@ Nova republikanska vlada uvede ukrepe:
 - ukinejo red jezuitov  
 - temeljne človekove pravice, enakost med spoloma  
 - ukinejo privilegije plemstva, enakost pred zakonom
+
+Od leta 1931 do 1936 so imeli veliko politično nestabilnost, čeprav so bili republika.  
+→ ker republikanci niso vedno v vseh regijah dobili dovolj glasov  
+kmetje so bili od plemstva preživetveno odvisni (niso imeli svoje zemlje) → zato možno, da niso podpirali republikancev - da bi lahko preživeli
+  
+→ republikanci so se cepili na veliko političnih strank, ki so se ideološko delili, ampak so imeli enako vizijo (socialisti, komunisti)  
+  
+Zato, da so končno dobili oblast, so se republikanci združili v ljudsko fronto, na drugi strani pa so se združili vsi, ki niso bili podporniki novih ukrepov (vojska, cerkev, veleposestniki…)
+
+# DRUGA SVETOVNA VOJNA
+
+Mir so sklenili s kaznimi, reparacijami, delitvijo ozemelj, ustanovili tampon cono → na novo postavile meje med ljudmi, ki jih prej ni bilo. Vzhodno Prusijo ločijo od Nemčije – največji problem.
+Razlike med 1. in 2. sv. vojno:  
+- WW2 je *totalna vojna* (civilni prebivalci so enako nevredni življenja kakor vojaki, uporabljali so jih za nemoralno dosego ciljev)  
+↳ nikogar niso izseljevali (med WW1 so izselili ljudi, preden se je nekje začela fronta)  
+  
+→ vojske so bile približno enakovredne, enako opremljene  
+↳ Rusija je do tik pred vojno dosegla gospodarsko rast in je proizvajala orožje  
+↳ v l. 43 je vojno spreobrnilo orožje: majhni in okretni tanki (tankovska bitka pri Kursku)
+- to je bila vojna vzdržljivosti - katero gospodarstvo bo dlje zdržalo -> zato je bila zelo pomembna ameriška pomoč
+
+↳ Nemci so sicer imeli večje št. letal na začetku, a bolj kot je vojna napredovala, manjša je bila prednost (Nemčija izčrpana)  
+  
+Vojna se začne 1. septembra 1939 in traja do 9. maja 1945 v Evropi. Konec svetovne vojne (Japonska se namreč še ni predala) pa 2. septembra 1945.  
+Jugoslavija je v vojno vključena 6. aprila 1941.  
+  
+Niso vse države hkrati vstopale v vojno.  
+Tudi tiste države, ki so l. 1939 vstopile v vojno (VB in Francija), so še pol leta živele v miru. Odvijala se je namreč lažna vojna; na meji so si Francozi naredili Mažinojevo linijo, Nemci pa Siegfriedovo linijo. Bili so le občasni spopadi → to se je dogajalo do maja 1940, ko je bila Francija napadena.  
+↳ Hitler je l. 1939 napadel Poljsko in je čakal.
+
+Nemci so 2x podpisali kapitulacijo:
+- v FRA z Angleži in ZDA in Francozi (v Reimsu)
+- v noči z 8. na 9. maj pa z Rusi
+- To se je zgodilo, ker so bili zavezniki že zelo sprti med seboj
+
+##### Vzroki
+- nacistična in fašistična ideologija
+- v Evropi je bil individualizem, Japonci pa so bili zelo podrejeni svojemu cesarju (japonska je morala iti v ?ekspanzijo?, ker ni imela surovin - oni so imeli cesarja, ki so ga častili kot božanstvo)
+- Italija je videla edino uresničitev Mare Nostrum, da se povežejo s Hitlerjem
+
+##### Povod - incident Gleiwitz
+- Hitlerju se je mudilo sprožiti vojno; država je z vsemi velikimi oboroževalnimi projekti bila tik pred bankrotom, zato je (prehitro) sprožil vojno
+- pride do vrste drobnih spopadov na meji med Nemčijo in Poljsko
+- Radijsko postajo na Nemškem so napadli poljski vojaki, ki so pobili zaposlene ljudi in se umaknili; resnica, da so to postajo napadli v Poljake oblečeni Nemci, nato pa so različne zgodbice - setup
+- Nemci so prikazani kot, da so Poljaki začeli napad in Hirler je obelodanil, da se morajo branit in je napovedal vojno Poljski.
+
+1.9. so z letali začeli napad, na mesto Gdansk pa so streljali iz vode (Gdansk je bilo pristanišče v S morju, bil je na poti do Prusije, ki je bilo že NEM ozemlje in so ga samo hoteli priključiti, ker je dobra lega)
+Hitler je želel imeti koridor so vzhodne Prusije, kar bi pomenilo, da je Gdansk odrezan od Poljske, tega pa niso pustili
+
+3.9. Chamberlain razglasi vojno napoved  
+  
+Hitler je obljubil, da bo s Sudeti nehal zasedati območja in zato so morali odreagirati.  
+Hitler je uspel tudi doseči, da se je Slovaška odcepila od Čehoslovaške in postala zanj marionetna država (pretental jih je, češ da jih Čehi izkoriščajo in da jih bo on zaščitil pred njimi).  
+  
+Odkar je Hitler prišel na oblast, so Nemci iz 8% na 43% povečali dajanje sredstev iz proračuna za vojsko.
+
+##### Taktika 
+Sporazum o prijateljstvu in nenapadanju med Nemčijo in SZ  
+→ niti ena niti druga država nista bili dovolj pripravljeni; Hitler se je bal dveh front, Stalin je l. 1938 naredil čistko vojaškega vrha in imel krizo  
+↳ TAJNI DEL SPORAZUMA: razdelila si Poljsko  
+  
+- Hitler 18× tekom vojne zamenja strategijo → zaradi te nestanovitnosti so Nemci veliko bitk izgubili
+- Hitlerjev načrt je bil najprej zavzeti zahod nato pa vzhod  
+- Prepričan je bil, da se mu ne bo treba spopasti z Britanci, temveč da se bodo podredili Nemcem brez problema, zato je večkrat čakal in ni dokončno pokončal  
+↳ npr. Dunkirk (operacija Dinamo: Britanci pošljejo veliko plovil, da so zajete vojake odpeljali v Britanijo).
+**Barbarosa**
+
+**Blitzkrieg** (=bliskovita vojna)
+→ nasprotnika napademo na ozkem področju z vsemi vojaškimi možnostmi (letala, tanki…)  
+pehota pa gre za njimi, ko je težko orožje že naredilo veliko škode, in bodo zajeli, počistili "žepe", ki jih je prva linija orožja spustila  
+→ tako npr.: Franciji Mažinojeva linija ni pomagala  
+zaradi presenečenja je zato Francija čez 1 mesec kapitulirala
+
+Švedi so uradno bili nevtralni, ampak so Nemcem prodajali surovine  
+  
+1.9.1939 Nemci napadejo Poljsko  → Hitler rabi 4 tedne, da zasede Poljsko  
+  
+17.9.1939 Stalin zasede drug del Poljske  
+  
+Stalin napade Finsko (Leningrad bi bil za Fince dovolj blizu, da ga uničijo z zraka; prej se je poskušal mirno dogovoriti za izmenjavo ozemelj, pa Finci niso pristali).  
+  
+Finci izkoristijo zimske razmere in lasten teren, zato je šele marca Rusom uspelo premagati Finsko.
+- do aprila 1940 vojna med Nemčijo in drugimi državami stoji  
+- v 3 dneh Nemci zasedejo Dansko (Danci se sami podredijo Nemcem)  
+- še v aprilu zasede Norveško (zaradi železove rude → vojaška industrija in Fjorde); traja 4 mesece, saj so se Norvežani upirali, nato pa je **Kvizling** (norveški fašist) jih izdal  
+→ Norveška postane marioneta Hitlerja  
+  
+- Beneluks so bile nevtralne države, a Hitler je šel preko teh držav, da je lahko maja 1940 napadel Francijo  
+  
+→ Nizozemci so odpirali zapornice in potapljali površine zato, da nacisti ne bi mogli napasti po kopnem??
+Hitler je zato poslal zračne padalce, da bodo zaščitile točke, kjer bi vojska lahko varno prekoračila na Nizozemsko (to traja 2 tedna)
+
+- konec maja Hitlerju uspe vkorakanje v Francijo in naleti na obrambo: francoski vojaki, belgijski vojaki in britanski **ekspedicijski korpus**  
+→ Hitler jih je zato vse obkolil in Dunkirku  
+  
+→ del Francozov se je boril in upiral, del pa je podpiral kapitulacijo Francije (en del, vključno s Parizom, je bil okupiran s strani Nemcev, drug del pa je bil Višijska Francija, katere vlada je sodelovala z nacisti).  
+-> po zajetju Francije je čakal en mesec preden je napadel Anglijo (**operacija Seelöwe**) -> jedro zavezniške vojske so bili vojaki, ki so bili rešeni pri Dunkirku 
+
+Romunija, Bolgarija, Madžarska  
+→ želel jih je zaradi obrambnega pasu pred Rusijo  
+→ pritiskal je, naj se te države priključijo trojnemu paktu, sicer jih bo okupiral  
+→ tudi Jugoslavijo je želel tako priključiti in ker niso pristopili k paktu, jo je napadel
