@@ -29,3 +29,6 @@ MATURA: verbs gap fill
 
 
 Formal letters and emails are factual! - no opinion no nothing just formal also ne krajšat stvari kot so don't (moraš pisat do not)
+
+
+CANNOT IS 1 WORD (so can't also counts as 1 word if there is a limit)
